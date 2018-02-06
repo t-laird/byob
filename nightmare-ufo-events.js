@@ -81,7 +81,9 @@ nightmare
     results.forEach( result => flattenResults.push(...result) );
     const events = JSON.stringify(flattenResults, null, 2);
 
-    const locations =     
+
+    //clean data for getting shapes and locations from flattened data
+    // const locations =    
 
 
 
