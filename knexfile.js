@@ -4,7 +4,7 @@ module.exports = {
 
   development: {
     client: 'pg',
-    connection: 'postgres://localhost/sjdfljs', 
+    connection: 'postgres://localhost/ufo_sightings', 
     useNullAsDefault: true,
     migrations: {
       directory: './db/migrations'
@@ -25,7 +25,7 @@ module.exports = {
 
   test: {
     client: 'pg',
-    connection: process.env.DATABASE_URL || 'postgres://localhost/sjdfljs', 
+    connection: process.env.DATABASE_URL || 'postgres://localhost/ufo_sightings', 
     useNullAsDefault: true,
     migrations: {
       directory: './db/migrations'
