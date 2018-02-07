@@ -22,17 +22,17 @@ const cleanLocations = () => {
     }
   });
 };
-
+  
 const cleanShapes = () => {
   const shapes = eventData.reduce((allShapes, result) => {
-    if (!allShapes[result.shape]) {
-      allShapes[result.shape] = {count: 0};
+    const shapeIndex = allShapes.findIndex(shape => shape.type === result.shape);
+    if (shapeIndex < 0) {
+      allShapes.push({ type: result.shape ,count: 1 });
+    } else {
+      allShapes[shapeIndex].count++;
     }
-
-    allShapes[result.shape].count++;
-
     return allShapes;
-  }, {});
+  }, []);
 
   const formatShapes = JSON.stringify(shapes, null, 2);
 
@@ -43,5 +43,5 @@ const cleanShapes = () => {
   });
 }
 
-cleanLocations();
+// cleanLocations();
 cleanShapes();
