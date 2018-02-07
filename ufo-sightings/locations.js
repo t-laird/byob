@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "city": "Fort Erie (Canada)",
     "state": "ON",
