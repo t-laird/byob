@@ -79,17 +79,7 @@ nightmare
     let flattenResults = [];
     
     results.forEach( result => flattenResults.push(...result) );
-    const events = JSON.stringify(flattenResults, null, 2);
-
-
-    //clean data for getting shapes and locations from flattened data
-    // const locations =    
-
-
-
-
-
-
+    const events = JSON.stringify(flattenResults, null, 2);  
     
     fs.writeFile('./ufo-sightings/events.json', events, 'utf8', (err) => {
       if (err) {
