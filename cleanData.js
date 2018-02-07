@@ -3,16 +3,22 @@ const fs = require('fs');
 
 const cleanLocations = () => {
   const locations = eventData.reduce((allLocations, result) => {
-    if (!allLocations[result.state]) {
-      allLocations[result.state] = { cities: {} };
+    const locationIndex = allLocations.findIndex(location => (
+      location.city === result.city && location.state === result.state
+    ))
+
+    if (locationIndex < 0) {
+      allLocations.push({ 
+        city: result.city,
+        state: result.state,
+        count: 1
+      });
+    } else {
+      allLocations[locationIndex].count++;
     }
 
-    if (!allLocations[result.state].cities[result.city]) {
-      allLocations[result.state].cities[result.city] = {count: 0};
-    }
-    allLocations[result.state].cities[result.city].count++;
     return allLocations;      
-  }, {});
+  }, []);
   
   const formatLocations = JSON.stringify(locations, null, 2);
   
@@ -43,5 +49,5 @@ const cleanShapes = () => {
   });
 }
 
-// cleanLocations();
+cleanLocations();
 cleanShapes();
