@@ -16,7 +16,7 @@ const cleanLocations = () => {
   
   const formatLocations = JSON.stringify(locations, null, 2);
   
-  fs.writeFile('./ufo-sightings/locations.json', formatLocations, 'utf8', (err) => {
+  fs.writeFile('./ufo-sightings/locations.js', formatLocations, 'utf8', (err) => {
     if (err) {
       return console.error(err);
     }
@@ -36,7 +36,7 @@ const cleanShapes = () => {
 
   const formatShapes = JSON.stringify(shapes, null, 2);
 
-  fs.writeFile('./ufo-sightings/shapes.json', formatShapes, 'utf8', (err) => {
+  fs.writeFile('./ufo-sightings/shapes.js', formatShapes, 'utf8', (err) => {
     if (err) {
       return console.error(err);
     }
