@@ -340,15 +340,16 @@ describe('API routes', () => {
         });
     });
 
-    it.skip('should return an error when trying to delete all sightings from a location that doesn\'t exist', () => {
+    it('should return an error when trying to delete all sightings from a location that doesn\'t exist', () => {
       return chai.request(server)
         .del('/api/v1/sightings?city=sdlkfj&state=ZZ')
+        .set('token', adminToken)
         .then(() => {
 
         })
         .catch(error => {
           error.should.have.status(404);
-          error.body.error.should.match(/Could not find location /);
+          error.response.body.error.should.match(/Could not find location /);
         });
     });
   });
