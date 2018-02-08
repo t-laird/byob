@@ -19,7 +19,7 @@ const requireHTTPS = (request, response, next) => {
 
 if (process.env.NODE_ENV === 'production') {
   app.use(requireHTTPS);
-  // app.set('secretKey', require('./'))
+  app.set('secretKey', process.env.secretKey);
 } else {
   app.set('secretKey', 'mysecrets');
 }
