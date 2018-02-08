@@ -12,12 +12,14 @@ database:
   override:
     - createdb ufo_sightings_test
     - knex migrate:latest --env test
-    - createdb ufo_sightings
-    - knex migrate:latest --env prod
-    - knex seed:run
+    - npm run eslint    
 
 deployment:
   staging:
     branch: master
     heroku:
       appname: ufo-tracker-thawk
+  override:
+    - createdb ufo_sightings
+    - knex migrate:latest
+    - knex seed:run
