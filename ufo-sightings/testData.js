@@ -1,8 +1,8 @@
 module.exports = {
   shapes: [
     {
-    "type": "Formation",
-    "count": 717
+      "type": "Formation",
+      "count": 717
     },
     {
       "type": "Triangle",
@@ -19,9 +19,9 @@ module.exports = {
   ],
   locations: [
     {
-    "city": "Fort Erie (Canada)",
-    "state": "ON",
-    "count": 1
+      "city": "Fort Erie (Canada)",
+      "state": "ON",
+      "count": 1
     },
     {
       "city": "Roanoke",
