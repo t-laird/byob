@@ -1,4 +1,4 @@
-![logo](ufo-track-logo.png?raw=true)
+![logo](public/ufo-track-logo.png?raw=true)
 ## Created by Julie Hawkins and Thomas Laird
 ### Data Scraped from nuforc.org
 #### Project Built for Educational Purposes Only
