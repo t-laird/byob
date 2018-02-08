@@ -78,13 +78,15 @@ app.get('/api/v1/sightings/location', async (request, response) => {
   const {city, state} = request.query;
 
   const locationID = await getLocationID(city, state, response);
-
+  if (locationID === null) {
+    return response.status(404).json({ error: `No sightings found for the location ${city}, ${state}`})
+  }
   return database('sightings').where('location_id', locationID).select()
-    .then(locations => {
-      if (!locations.length) {
+    .then(sightings => {
+      if (!sightings.length) {
         return response.status(404).json({error: `No sightings found for location: ${city}, ${state}.`});
       }
-      return response.status(200).json({locations});
+      return response.status(200).json({sightings});
     })
     .catch(error => {
       return response.status(500).json({error: `Error getting sightings for location: ${city}, r${state}. ${error}`});
@@ -98,7 +100,7 @@ const getLocationID = (city, state, response) => {
       return location.id;
     })
     .catch(error => {
-      return response.status(500).json({error: `Error getting location information for ${city}, ${state}.`});
+      return null;
     });
 };
 
