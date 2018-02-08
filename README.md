@@ -53,6 +53,7 @@
 ```
 
 `GET /api/v1/sightings?city={city}&state={state}`
+
 | Name | Type |  Description |
 | ---- | ---- | ------------ |
 | City | String | Existing (in DB) city in US or Canada|
