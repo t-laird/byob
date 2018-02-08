@@ -42,7 +42,6 @@ const checkAuth = (request, response, next) => {
     return response.status(403).json({ error: 'You must be authorized to hit this endpoint.'});
   } else {
     jwt.verify(token, app.get('secretKey'), (error, decoded) => {
-      console.log(decoded);
       if (error) {
         return response.status(403).json({ error: 'Please send a valid token.' });
       } 
@@ -96,7 +95,6 @@ app.get('/api/v1/sightings/location', async (request, response) => {
 const getLocationID = (city, state, response) => {
   return database('locations').where('city', city).andWhere('state', state).first()
     .then(location => {
-      console.log(location.id);
       return location.id;
     })
     .catch(error => {
@@ -129,7 +127,6 @@ app.get('/api/v1/sightings/shape', async (request, response) => {
 const getShapeID = (shape, response) => {
   return database('shapes').where('type', shape).first()
     .then(shape => {
-      console.log(shape.id)
       return shape.id
     })
     .catch(error => {
@@ -219,13 +216,17 @@ app.delete('/api/v1/sightings/:id', checkAuth, (request, response) => {
       return response.status(200).json({ status: `Success deleting sighting ${id}: ${sightingID}`})
     })
     .catch((error) => {
-      return response.status(500).json({error: `Error deleting sighting ${id}: ${error}.`});
+      return response.status(404).json({error: `Error deleting sighting ${id}: ${error}.`});
     })
 });
 
-app.delete('/api/v1/sightings', async (request, response) => {
+app.delete('/api/v1/sightings', checkAuth, async (request, response) => {
   const {city, state} = request.query;
   const locationID = await getLocationID(city, state, response);
+
+  if (locationID === null) {
+    return response.status(404).json({error: `Could not find location ${city}, ${state}.`});
+  }
 
   return database('sightings').where('location_id', locationID).del()
     .then(() => {
@@ -238,14 +239,21 @@ app.delete('/api/v1/sightings', async (request, response) => {
 
 app.post('/api/v1/authenticate', (request, response) => {
   const { email, appName } = request.body;
+
+  for (let requiredParameters of ['email', 'appName']) {
+    if (!request.body) {
+      return response.status(422).json({status: `Please submit the required parameter '${requiredParameters} to get a JWT.`});
+    }
+  }
+
+
   
   const admin = email.endsWith('@turing.io');
 
   const generatedJWT = jwt.sign({
-      expiresIn: '48h',
-      data: { email, appName, admin }
-    }, app.get('secretKey')
-  );
+    expiresIn: '48h',
+    data: { email, appName, admin }
+  }, app.get('secretKey'));
 
   return response.status(200).json(generatedJWT);
 });
