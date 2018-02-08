@@ -3,10 +3,48 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
+  <link href="./style.css" rel="stylesheet" type="text/css">
+  <title>UFO Tracker</title>
 </head>
 <body>
-  <h1>hello</h1>
+  <img src="./ufo-track-logo.png" alt="logo-ufo-track">
+  <form>
+    <input id="email" type="text" placeholder="Email">
+    <input id="appName" type="text" placeholder="App Name">
+    <input id="submitButton" type="submit" value="Get JWT">
+  </form>
+
+  <h3 id="receivedJWT"></h3>
+
+
+  <script>
+    const emailInput = document.getElementById('email');
+    const appNameInput = document.getElementById('appName');
+    const submitButton = document.getElementById('submitButton');
+
+    const getJWT = async (event) => {
+      event.preventDefault();
+      const JWTresponse = await fetch('/api/v1/authenticate', {
+        method: 'POST',
+        headers: {
+          "Content-Type": 'application/json'
+        },
+        body: JSON.stringify({
+          email: emailInput.value,
+          appName: appNameInput.value
+        })
+      });
+
+      const JWT = await JWTresponse.json();
+
+
+      document.getElementById('receivedJWT').innerText = JWT;
+
+    }
+
+    submitButton.addEventListener('click', getJWT);    
+  </script>
   
 </body>
 </html>
