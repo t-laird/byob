@@ -1,23520 +1,38772 @@
 module.exports = [
-  "ON": {
-    "cities": {
-      "Fort Erie (Canada)": {
-        "count": 1
-      },
-      "Oshawa (Canada)": {
-        "count": 11
-      },
-      "Richmond Hill": {
-        "count": 1
-      },
-      "Richmond Hill (Canada)": {
-        "count": 1
-      },
-      "Sault Ste Marie (outside of)(Canada)": {
-        "count": 1
-      },
-      "North Gower (Canada)": {
-        "count": 2
-      },
-      "Scarborough (Canada)": {
-        "count": 7
-      },
-      "Scarborough": {
-        "count": 2
-      },
-      "Ottawa (Canada)": {
-        "count": 18
-      },
-      "Whitby (Canada)": {
-        "count": 3
-      },
-      "Port Lambton (Canada)": {
-        "count": 1
-      },
-      "Delhi (Canada)": {
-        "count": 1
-      },
-      "River Valley (Canada)": {
-        "count": 1
-      },
-      "Odessa (Canada)": {
-        "count": 1
-      },
-      "Mississauga (Canada)": {
-        "count": 6
-      },
-      "Thunder Bay (Canada)": {
-        "count": 2
-      },
-      "Collingwood (Canada)": {
-        "count": 1
-      },
-      "Windsor (Canada)": {
-        "count": 2
-      },
-      "Kingston (Canada)": {
-        "count": 2
-      },
-      "Hamilton (Canada)": {
-        "count": 3
-      },
-      "Orangeville (Canada)": {
-        "count": 1
-      },
-      "Burlington (Canada)": {
-        "count": 2
-      },
-      "Cobourg (Canada)": {
-        "count": 2
-      },
-      "Kitchener (Canada)": {
-        "count": 2
-      },
-      "Kawartha Lakes": {
-        "count": 1
-      },
-      "Tillsonburg (Canada)": {
-        "count": 2
-      },
-      "Woodstock (Canada)": {
-        "count": 2
-      },
-      "Midland (Canada)": {
-        "count": 1
-      },
-      "Brampton (Canada)": {
-        "count": 12
-      },
-      "Toronto (Canada)": {
-        "count": 22
-      },
-      "Waterloo (Canada)": {
-        "count": 1
-      },
-      "Keswick (Canada)": {
-        "count": 1
-      },
-      "London (Canada)": {
-        "count": 8
-      },
-      "Niagara Falls (Canada)": {
-        "count": 2
-      },
-      "Carrying Place (Canada)": {
-        "count": 1
-      },
-      "Pickering (near) (Canada)": {
-        "count": 1
-      },
-      "St. Thomas (Canada)": {
-        "count": 2
-      },
-      "Sault Ste. Marie (Canada)": {
-        "count": 2
-      },
-      "Oakville (Canada)": {
-        "count": 3
-      },
-      "Ingersoll (Canada)": {
-        "count": 2
-      },
-      "Bowmanville (Canada)": {
-        "count": 1
-      },
-      "Delaware (Canada)": {
-        "count": 1
-      },
-      "Hillsdale (Canada)": {
-        "count": 1
-      },
-      "Newmarket (Canada)": {
-        "count": 2
-      },
-      "Sarnia (Canada)": {
-        "count": 3
-      },
-      "Port Colbourne (Ontario)(Canada)": {
-        "count": 1
-      },
-      "Blackstock (Canada)": {
-        "count": 1
-      },
-      "Arnprior (Canada)": {
-        "count": 1
-      },
-      "Orono (Canada)": {
-        "count": 1
-      },
-      "Sharron (Canada)": {
-        "count": 1
-      },
-      "Williamsford (Canada)": {
-        "count": 1
-      },
-      "Cambridge (Canada)": {
-        "count": 2
-      },
-      "Brockville (Canada)": {
-        "count": 1
-      },
-      "Vaughn (Canada)": {
-        "count": 1
-      },
-      "Sagamok First Nation (Canada)": {
-        "count": 1
-      },
-      "Elliot Lake (Canada)": {
-        "count": 1
-      },
-      "Pickering (Canada": {
-        "count": 1
-      },
-      "Bobcaygeon (Canada)": {
-        "count": 2
-      },
-      "St. Catharines (Canada)": {
-        "count": 3
-      },
-      "Owen Sound (Canada)": {
-        "count": 1
-      },
-      "Orleans (Canada)": {
-        "count": 1
-      },
-      "Parry Sound (near) (Canada)": {
-        "count": 1
-      },
-      "Barrie (Canada)": {
-        "count": 2
-      },
-      "Port Hope (Canada)": {
-        "count": 1
-      },
-      "Carling area (Canada)": {
-        "count": 1
-      },
-      "Kawartha Lakes (Canada)": {
-        "count": 1
-      },
-      "Bolton (Canada)": {
-        "count": 1
-      },
-      "Walpole Island (Canada)": {
-        "count": 2
-      },
-      "Peterborough (Canada)": {
-        "count": 3
-      },
-      "Kemptville (Canada)": {
-        "count": 1
-      },
-      "Gilchrist (Canada)": {
-        "count": 1
-      },
-      "Wallaceburg (Canada)": {
-        "count": 2
-      },
-      "Hawkesbury (Canada)": {
-        "count": 1
-      },
-      "Port Franks (Canada)": {
-        "count": 2
-      },
-      "Napanee (Canada)": {
-        "count": 1
-      },
-      "New Lowell (Canada)": {
-        "count": 1
-      },
-      "Stratford (Canada)": {
-        "count": 1
-      },
-      "Katrine (Canada)": {
-        "count": 1
-      },
-      "Wasaga Beach (Canada)": {
-        "count": 2
-      },
-      "Cornwall (Canada)": {
-        "count": 1
-      },
-      "Little Current (Canada)": {
-        "count": 2
-      },
-      "Alexandria (Canada)": {
-        "count": 1
-      },
-      "Ajax (Canada)": {
-        "count": 1
-      },
-      "Skead (Canada)": {
-        "count": 1
-      },
-      "Ancaster (Canada)": {
-        "count": 1
-      },
-      "North Bay (Canada)": {
-        "count": 1
-      },
-      "Bradford (Canada)": {
-        "count": 1
-      },
-      "Lasalle (Canada)": {
-        "count": 1
-      },
-      "Chiloquin (Canada)": {
-        "count": 1
-      },
-      "Northern Bruce Peninsula (Canada)": {
-        "count": 1
-      },
-      "Kakabeka Falls (Canada)": {
-        "count": 1
-      },
-      "Kanata (Canada)": {
-        "count": 1
-      },
-      "Orillia (Canada)": {
-        "count": 1
-      },
-      "Connaught (Canada)": {
-        "count": 1
-      },
-      "Gravenhurst (Canada)": {
-        "count": 1
-      },
-      "Carleton Place (Canada)": {
-        "count": 1
-      },
-      "Orangeville (NW of city) (Canada)": {
-        "count": 1
-      },
-      "Rockland (Canada)": {
-        "count": 1
-      },
-      "Mono (Canada)": {
-        "count": 1
-      },
-      "Dunnville (Canada)": {
-        "count": 1
-      },
-      "Havelock (Canada)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Fort Erie (Canada)",
+    "state": "ON",
+    "count": 1
   },
-  "VA": {
-    "cities": {
-      "Roanoke": {
-        "count": 15
-      },
-      "Pamplin": {
-        "count": 2
-      },
-      "Chesapeake": {
-        "count": 10
-      },
-      "Brodnax": {
-        "count": 2
-      },
-      "Pilot": {
-        "count": 1
-      },
-      "Jacksonville": {
-        "count": 1
-      },
-      "Alexandria": {
-        "count": 13
-      },
-      "Arlington": {
-        "count": 6
-      },
-      "Sterling": {
-        "count": 3
-      },
-      "Leesburg": {
-        "count": 6
-      },
-      "Spotsylvania Courthouse": {
-        "count": 1
-      },
-      "Suffolk": {
-        "count": 4
-      },
-      "Virginia Beach": {
-        "count": 28
-      },
-      "Glen Allen": {
-        "count": 3
-      },
-      "Deltaville": {
-        "count": 1
-      },
-      "Spout spring": {
-        "count": 1
-      },
-      "Middletown": {
-        "count": 1
-      },
-      "Bristow": {
-        "count": 1
-      },
-      "Blacksburg": {
-        "count": 2
-      },
-      "Woodbridge": {
-        "count": 9
-      },
-      "Vienna": {
-        "count": 3
-      },
-      "Fredericksburg": {
-        "count": 15
-      },
-      "Salem": {
-        "count": 5
-      },
-      "Stuarts Draft": {
-        "count": 1
-      },
-      "Manassas": {
-        "count": 8
-      },
-      "Bristol": {
-        "count": 4
-      },
-      "Crystal City": {
-        "count": 1
-      },
-      "Henrico": {
-        "count": 2
-      },
-      "Norfolk": {
-        "count": 9
-      },
-      "Woodford": {
-        "count": 1
-      },
-      "Eastern Shore": {
-        "count": 1
-      },
-      "Waynesboro": {
-        "count": 4
-      },
-      "Williamsburg": {
-        "count": 5
-      },
-      "Occoquan": {
-        "count": 2
-      },
-      "Reston": {
-        "count": 4
-      },
-      "Staunton": {
-        "count": 3
-      },
-      "Charlottesville": {
-        "count": 8
-      },
-      "Stafford": {
-        "count": 8
-      },
-      "Gloucester": {
-        "count": 2
-      },
-      "Hampton/Newport News": {
-        "count": 1
-      },
-      "Newport News": {
-        "count": 6
-      },
-      "Richmond": {
-        "count": 10
-      },
-      "Ferrum": {
-        "count": 1
-      },
-      "Axton": {
-        "count": 2
-      },
-      "Danville": {
-        "count": 5
-      },
-      "Falls Church": {
-        "count": 4
-      },
-      "Ruther Glen": {
-        "count": 1
-      },
-      "Great Falls": {
-        "count": 1
-      },
-      "Troy": {
-        "count": 1
-      },
-      "Hardy": {
-        "count": 1
-      },
-      "Portsmouth": {
-        "count": 14
-      },
-      "Pearisburg": {
-        "count": 2
-      },
-      "Mechanicsville": {
-        "count": 1
-      },
-      "Forest": {
-        "count": 1
-      },
-      "Surry": {
-        "count": 1
-      },
-      "Lynchburg": {
-        "count": 5
-      },
-      "Abingdon": {
-        "count": 3
-      },
-      "New Kent": {
-        "count": 1
-      },
-      "Norton": {
-        "count": 1
-      },
-      "Midlothian": {
-        "count": 3
-      },
-      "Bealeton": {
-        "count": 1
-      },
-      "White Stone": {
-        "count": 1
-      },
-      "Buckingham": {
-        "count": 2
-      },
-      "Stephenson": {
-        "count": 1
-      },
-      "North Chesterfield": {
-        "count": 3
-      },
-      "Virginia Beach (City of)": {
-        "count": 1
-      },
-      "Raphine": {
-        "count": 1
-      },
-      "Chester": {
-        "count": 2
-      },
-      "Ashland": {
-        "count": 2
-      },
-      "Tazewell": {
-        "count": 1
-      },
-      "Hampton": {
-        "count": 8
-      },
-      "Ashburn": {
-        "count": 4
-      },
-      "Colonial Beach": {
-        "count": 1
-      },
-      "Springfield": {
-        "count": 3
-      },
-      "Petersburg": {
-        "count": 2
-      },
-      "Prince William": {
-        "count": 1
-      },
-      "False Cape State Park": {
-        "count": 1
-      },
-      "Spotsylvania": {
-        "count": 3
-      },
-      "Gainesville": {
-        "count": 3
-      },
-      "Comer's Rock (near)": {
-        "count": 1
-      },
-      "Fairfax": {
-        "count": 4
-      },
-      "Big Stone Gap": {
-        "count": 1
-      },
-      "Chincoteague": {
-        "count": 1
-      },
-      "Hiltons": {
-        "count": 1
-      },
-      "Farmville": {
-        "count": 1
-      },
-      "Marion": {
-        "count": 1
-      },
-      "Fredricksburg": {
-        "count": 1
-      },
-      "Hurt": {
-        "count": 1
-      },
-      "Madison Heights": {
-        "count": 1
-      },
-      "Aldie": {
-        "count": 2
-      },
-      "Front Royal": {
-        "count": 4
-      },
-      "Stanley": {
-        "count": 1
-      },
-      "Covington": {
-        "count": 2
-      },
-      "Vinton": {
-        "count": 1
-      },
-      "Winchester": {
-        "count": 2
-      },
-      "Burke": {
-        "count": 4
-      },
-      "Centreville": {
-        "count": 2
-      },
-      "Martinsville": {
-        "count": 1
-      },
-      "Elberon": {
-        "count": 1
-      },
-      "Radford": {
-        "count": 1
-      },
-      "Culpeper": {
-        "count": 1
-      },
-      "Hillsville": {
-        "count": 1
-      },
-      "Route 66 West (Exit 50)": {
-        "count": 1
-      },
-      "Manassas Park": {
-        "count": 2
-      },
-      "Ivor": {
-        "count": 1
-      },
-      "Rockville": {
-        "count": 1
-      },
-      "Stanardsville": {
-        "count": 1
-      },
-      "King George": {
-        "count": 3
-      },
-      "Linden": {
-        "count": 2
-      },
-      "Chesterfield": {
-        "count": 2
-      },
-      "Richmond (near)": {
-        "count": 1
-      },
-      "Beaverdam": {
-        "count": 1
-      },
-      "Appalachia": {
-        "count": 1
-      },
-      "Berryville": {
-        "count": 1
-      },
-      "Waterford": {
-        "count": 2
-      },
-      "McLean": {
-        "count": 1
-      },
-      "Chihlowie": {
-        "count": 1
-      },
-      "Harrisonburg": {
-        "count": 3
-      },
-      "Suffolk/Chesapeake": {
-        "count": 1
-      },
-      "Appomattox": {
-        "count": 1
-      },
-      "Smithfield": {
-        "count": 1
-      },
-      "Chincoteague Island": {
-        "count": 1
-      },
-      "Churchville": {
-        "count": 1
-      },
-      "Ellicott City": {
-        "count": 1
-      },
-      "New Baltimore": {
-        "count": 1
-      },
-      "Elmont": {
-        "count": 1
-      },
-      "Coles Point": {
-        "count": 1
-      },
-      "Meadowview": {
-        "count": 2
-      },
-      "West Point": {
-        "count": 1
-      },
-      "Breaks": {
-        "count": 1
-      },
-      "Keswick": {
-        "count": 1
-      },
-      "Lorton": {
-        "count": 1
-      },
-      "King William": {
-        "count": 1
-      },
-      "Newport News/Hampton": {
-        "count": 1
-      },
-      "Pulaski (Case Knife Rd)": {
-        "count": 1
-      },
-      "Dale City": {
-        "count": 1
-      },
-      "Halifax": {
-        "count": 2
-      },
-      "Kilmarnock": {
-        "count": 1
-      },
-      "Charlottesville/Waynesboro": {
-        "count": 1
-      },
-      "Chase City": {
-        "count": 1
-      },
-      "Chatham": {
-        "count": 1
-      },
-      "Bridgewater": {
-        "count": 1
-      },
-      "Amissville/Rixeyville": {
-        "count": 2
-      },
-      "Wytheville": {
-        "count": 1
-      },
-      "Haymarket": {
-        "count": 1
-      },
-      "Gloucestet": {
-        "count": 1
-      },
-      "Dry Fork": {
-        "count": 1
-      },
-      "Short Pump": {
-        "count": 1
-      },
-      "Quinby": {
-        "count": 1
-      },
-      "Herndon": {
-        "count": 1
-      },
-      "Chesterfield Matoaca": {
-        "count": 1
-      },
-      "Courtland": {
-        "count": 1
-      },
-      "Milford": {
-        "count": 1
-      },
-      "Loudoun County": {
-        "count": 1
-      },
-      "Onancock": {
-        "count": 1
-      },
-      "Accomac": {
-        "count": 1
-      },
-      "Powhatan": {
-        "count": 1
-      },
-      "Chantilly": {
-        "count": 1
-      },
-      "Pulaski": {
-        "count": 1
-      },
-      "Downtown Norfolk": {
-        "count": 1
-      },
-      "Windsor": {
-        "count": 1
-      },
-      "Goochland": {
-        "count": 1
-      },
-      "Caroline County": {
-        "count": 1
-      },
-      "Luray": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Roanoke",
+    "state": "VA",
+    "count": 15
   },
-  "OH": {
-    "cities": {
-      "Sidney": {
-        "count": 1
-      },
-      "Canton": {
-        "count": 6
-      },
-      "Wilmington": {
-        "count": 3
-      },
-      "Chesterland": {
-        "count": 1
-      },
-      "Painesville": {
-        "count": 2
-      },
-      "Batavia": {
-        "count": 4
-      },
-      "Toledo": {
-        "count": 14
-      },
-      "Somerville": {
-        "count": 1
-      },
-      "Dover": {
-        "count": 1
-      },
-      "Lakewood": {
-        "count": 2
-      },
-      "West Jefferson": {
-        "count": 1
-      },
-      "Kettering": {
-        "count": 8
-      },
-      "Jackson Twp.": {
-        "count": 1
-      },
-      "Cortland": {
-        "count": 2
-      },
-      "Wadsworth": {
-        "count": 2
-      },
-      "Cleveland": {
-        "count": 10
-      },
-      "Lancaster": {
-        "count": 5
-      },
-      "Milford": {
-        "count": 1
-      },
-      "Dayton": {
-        "count": 12
-      },
-      "Conneaut": {
-        "count": 1
-      },
-      "Strongsville": {
-        "count": 1
-      },
-      "Magnolia": {
-        "count": 1
-      },
-      "Cincinnati": {
-        "count": 20
-      },
-      "Canal Fulton": {
-        "count": 1
-      },
-      "Campbell": {
-        "count": 2
-      },
-      "Georgetown": {
-        "count": 1
-      },
-      "Columbus": {
-        "count": 39
-      },
-      "Mason": {
-        "count": 1
-      },
-      "Willamsburg": {
-        "count": 1
-      },
-      "Pickerington": {
-        "count": 3
-      },
-      "Portsmouth": {
-        "count": 2
-      },
-      "Williamsburg": {
-        "count": 2
-      },
-      "East Liverpool": {
-        "count": 2
-      },
-      "Bethel": {
-        "count": 2
-      },
-      "Mt. Orab": {
-        "count": 4
-      },
-      "Bay Village": {
-        "count": 3
-      },
-      "Bellbrook": {
-        "count": 2
-      },
-      "Seven Hills": {
-        "count": 1
-      },
-      "New Richmond": {
-        "count": 2
-      },
-      "Galloway": {
-        "count": 1
-      },
-      "Beavercreek": {
-        "count": 2
-      },
-      "Goshen": {
-        "count": 2
-      },
-      "Jackson": {
-        "count": 2
-      },
-      "Sandusky": {
-        "count": 3
-      },
-      "Broadview Heights": {
-        "count": 2
-      },
-      "London": {
-        "count": 1
-      },
-      "Pataskala": {
-        "count": 6
-      },
-      "Waynesville": {
-        "count": 1
-      },
-      "Monroe": {
-        "count": 4
-      },
-      "Macedonia": {
-        "count": 1
-      },
-      "Alliance": {
-        "count": 1
-      },
-      "Carlisle": {
-        "count": 1
-      },
-      "Spring Valley": {
-        "count": 1
-      },
-      "Oxford": {
-        "count": 1
-      },
-      "Mansfield": {
-        "count": 2
-      },
-      "North Ridgeville": {
-        "count": 6
-      },
-      "Mount Pleasant": {
-        "count": 4
-      },
-      "Mayfield Hts": {
-        "count": 1
-      },
-      "Cleveland (east side of)": {
-        "count": 1
-      },
-      "La Rue": {
-        "count": 1
-      },
-      "Kent": {
-        "count": 2
-      },
-      "Carrollton": {
-        "count": 3
-      },
-      "Newbury": {
-        "count": 1
-      },
-      "Mayfield": {
-        "count": 1
-      },
-      "Winterset": {
-        "count": 1
-      },
-      "Loveland": {
-        "count": 2
-      },
-      "West Chester": {
-        "count": 4
-      },
-      "Canal Winchester": {
-        "count": 1
-      },
-      "Gallipolis": {
-        "count": 3
-      },
-      "North Canton": {
-        "count": 8
-      },
-      "Bowling Green": {
-        "count": 1
-      },
-      "Mentor": {
-        "count": 6
-      },
-      "Waters": {
-        "count": 1
-      },
-      "Marysville": {
-        "count": 2
-      },
-      "Miamiville": {
-        "count": 1
-      },
-      "Paulding": {
-        "count": 1
-      },
-      "Waverly": {
-        "count": 3
-      },
-      "Streetsboro": {
-        "count": 3
-      },
-      "Bucyrus": {
-        "count": 1
-      },
-      "Aurora": {
-        "count": 1
-      },
-      "Circleville": {
-        "count": 3
-      },
-      "Massillon": {
-        "count": 3
-      },
-      "Roseville": {
-        "count": 1
-      },
-      "New Philadelphia": {
-        "count": 1
-      },
-      "Fairfield": {
-        "count": 2
-      },
-      "Boardman": {
-        "count": 2
-      },
-      "Delaware": {
-        "count": 5
-      },
-      "Fort Loramie": {
-        "count": 1
-      },
-      "Minster": {
-        "count": 1
-      },
-      "Belpre": {
-        "count": 1
-      },
-      "Centerville": {
-        "count": 4
-      },
-      "Ontario": {
-        "count": 1
-      },
-      "Amanda": {
-        "count": 1
-      },
-      "West Union": {
-        "count": 1
-      },
-      "Georgesville": {
-        "count": 1
-      },
-      "Vienna": {
-        "count": 2
-      },
-      "Hanging Rock": {
-        "count": 1
-      },
-      "Uniontown/Kent": {
-        "count": 1
-      },
-      "Chesapeake": {
-        "count": 1
-      },
-      "Hamilton": {
-        "count": 6
-      },
-      "Fairborn": {
-        "count": 8
-      },
-      "Lewis center": {
-        "count": 2
-      },
-      "Ravenna": {
-        "count": 3
-      },
-      "Brook Park": {
-        "count": 1
-      },
-      "Marietta": {
-        "count": 5
-      },
-      "Cuyahoga Falls": {
-        "count": 1
-      },
-      "Chillicothe": {
-        "count": 7
-      },
-      "Ashtabula": {
-        "count": 2
-      },
-      "Medina": {
-        "count": 5
-      },
-      "Novelty": {
-        "count": 2
-      },
-      "Youngstown": {
-        "count": 3
-      },
-      "Reynoldsburg": {
-        "count": 5
-      },
-      "Chardon": {
-        "count": 3
-      },
-      "Holland": {
-        "count": 1
-      },
-      "Holiday": {
-        "count": 1
-      },
-      "Girard": {
-        "count": 1
-      },
-      "Huber Heights": {
-        "count": 1
-      },
-      "Zanesvill": {
-        "count": 1
-      },
-      "Montpelier": {
-        "count": 1
-      },
-      "Stone Creek": {
-        "count": 2
-      },
-      "Athens": {
-        "count": 3
-      },
-      "Barberton/Akron": {
-        "count": 1
-      },
-      "Old Washington": {
-        "count": 1
-      },
-      "Findlay": {
-        "count": 1
-      },
-      "Junction City": {
-        "count": 1
-      },
-      "Mayfield Heights": {
-        "count": 1
-      },
-      "Jeromesville": {
-        "count": 1
-      },
-      "Waverly/Chillicothe": {
-        "count": 1
-      },
-      "Madison": {
-        "count": 2
-      },
-      "Centerburg": {
-        "count": 2
-      },
-      "Polk": {
-        "count": 1
-      },
-      "Greenfield": {
-        "count": 1
-      },
-      "Coshocton": {
-        "count": 1
-      },
-      "Navarre": {
-        "count": 1
-      },
-      "Montville": {
-        "count": 1
-      },
-      "Akron": {
-        "count": 6
-      },
-      "New Holland": {
-        "count": 1
-      },
-      "Soringfield": {
-        "count": 1
-      },
-      "Blanchester": {
-        "count": 3
-      },
-      "Mount Orab": {
-        "count": 1
-      },
-      "West Portsmouth": {
-        "count": 1
-      },
-      "Riverside": {
-        "count": 1
-      },
-      "Lima": {
-        "count": 7
-      },
-      "Eaton": {
-        "count": 1
-      },
-      "Brilliant": {
-        "count": 1
-      },
-      "Nashport": {
-        "count": 1
-      },
-      "Hilliard": {
-        "count": 6
-      },
-      "Sylvania": {
-        "count": 1
-      },
-      "Perrysburgh": {
-        "count": 1
-      },
-      "Cadiz": {
-        "count": 1
-      },
-      "Berea": {
-        "count": 1
-      },
-      "Ashland": {
-        "count": 1
-      },
-      "Galion": {
-        "count": 2
-      },
-      "Dresden (near)": {
-        "count": 1
-      },
-      "Elyria": {
-        "count": 4
-      },
-      "Englewood": {
-        "count": 1
-      },
-      "Mount Gilead": {
-        "count": 1
-      },
-      "Baltimore": {
-        "count": 1
-      },
-      "Xenia": {
-        "count": 3
-      },
-      "Warren": {
-        "count": 1
-      },
-      "Rootstown": {
-        "count": 1
-      },
-      "Cairo": {
-        "count": 1
-      },
-      "Newton Falls": {
-        "count": 1
-      },
-      "Spencerville": {
-        "count": 1
-      },
-      "Mount Vernon": {
-        "count": 1
-      },
-      "Port Clinton": {
-        "count": 1
-      },
-      "Northfield": {
-        "count": 1
-      },
-      "Geneva": {
-        "count": 1
-      },
-      "Mantua": {
-        "count": 1
-      },
-      "Lewis Center": {
-        "count": 1
-      },
-      "Liberty Township": {
-        "count": 1
-      },
-      "Reading": {
-        "count": 1
-      },
-      "Brecksville": {
-        "count": 1
-      },
-      "Dayton/Fairborn": {
-        "count": 1
-      },
-      "New Lexington": {
-        "count": 1
-      },
-      "Franklin Furnace": {
-        "count": 1
-      },
-      "Jacksonville": {
-        "count": 1
-      },
-      "Lordstown": {
-        "count": 1
-      },
-      "Colerain Township": {
-        "count": 1
-      },
-      "Newtown": {
-        "count": 1
-      },
-      "Uniontown": {
-        "count": 2
-      },
-      "Concord": {
-        "count": 1
-      },
-      "Burbank": {
-        "count": 1
-      },
-      "Lordstown (near; on I-80)": {
-        "count": 1
-      },
-      "McComb": {
-        "count": 1
-      },
-      "New Bloomington": {
-        "count": 1
-      },
-      "Bexley": {
-        "count": 1
-      },
-      "Sugar Grove": {
-        "count": 1
-      },
-      "Lucasville": {
-        "count": 2
-      },
-      "Miamisburg": {
-        "count": 7
-      },
-      "west union": {
-        "count": 1
-      },
-      "Springfield": {
-        "count": 6
-      },
-      "Gary": {
-        "count": 1
-      },
-      "Trotwood/Englewood": {
-        "count": 1
-      },
-      "Gahanna": {
-        "count": 1
-      },
-      "Bremen": {
-        "count": 1
-      },
-      "Copley": {
-        "count": 1
-      },
-      "Cleveland Heights": {
-        "count": 1
-      },
-      "Parma Heights": {
-        "count": 1
-      },
-      "Mismisburg": {
-        "count": 1
-      },
-      "Franklin": {
-        "count": 1
-      },
-      "Grove City": {
-        "count": 3
-      },
-      "Genoa": {
-        "count": 1
-      },
-      "Kenton": {
-        "count": 1
-      },
-      "Fremont (west of; on I-90 )": {
-        "count": 1
-      },
-      "Howard": {
-        "count": 1
-      },
-      "Crown City": {
-        "count": 2
-      },
-      "Jefferson": {
-        "count": 1
-      },
-      "Dublin": {
-        "count": 4
-      },
-      "Twinsburg": {
-        "count": 2
-      },
-      "Westerville": {
-        "count": 1
-      },
-      "Amelia": {
-        "count": 1
-      },
-      "Louisville": {
-        "count": 1
-      },
-      "Blacklick": {
-        "count": 2
-      },
-      "Lynchburg": {
-        "count": 1
-      },
-      "Urbana": {
-        "count": 1
-      },
-      "Wooster": {
-        "count": 2
-      },
-      "Sunset Beach": {
-        "count": 1
-      },
-      "East Fultonham": {
-        "count": 1
-      },
-      "Tuscarawas County": {
-        "count": 1
-      },
-      "Groveport": {
-        "count": 1
-      },
-      "Hudson": {
-        "count": 1
-      },
-      "Johnstown": {
-        "count": 1
-      },
-      "Powell": {
-        "count": 1
-      },
-      "Sagamore Hills": {
-        "count": 1
-      },
-      "Eton": {
-        "count": 1
-      },
-      "Negley": {
-        "count": 1
-      },
-      "Oregonia": {
-        "count": 1
-      },
-      "Miamisburg (west of)": {
-        "count": 1
-      },
-      "Perrysburg": {
-        "count": 1
-      },
-      "Brunswick": {
-        "count": 1
-      },
-      "Strasburg": {
-        "count": 2
-      },
-      "Mineral Ridge": {
-        "count": 1
-      },
-      "Blue Ash": {
-        "count": 1
-      },
-      "Coshocron": {
-        "count": 1
-      },
-      "Oregon": {
-        "count": 1
-      },
-      "St. Clairsville": {
-        "count": 1
-      },
-      "Tiffin": {
-        "count": 1
-      },
-      "Trenton": {
-        "count": 1
-      },
-      "Ross": {
-        "count": 1
-      },
-      "Van Wert": {
-        "count": 1
-      },
-      "Williamsfield": {
-        "count": 2
-      },
-      "New Waterford": {
-        "count": 1
-      },
-      "Fremont": {
-        "count": 1
-      },
-      "Richfield": {
-        "count": 1
-      },
-      "Steubenville": {
-        "count": 1
-      },
-      "Newark": {
-        "count": 1
-      },
-      "Glouster": {
-        "count": 1
-      },
-      "Parma": {
-        "count": 2
-      },
-      "Marion": {
-        "count": 1
-      },
-      "Stout": {
-        "count": 1
-      },
-      "Columbus (New Albany)": {
-        "count": 1
-      },
-      "Sunbury": {
-        "count": 1
-      },
-      "Euclid": {
-        "count": 1
-      },
-      "Iberia": {
-        "count": 1
-      },
-      "Iberia (outside of; rural)": {
-        "count": 1
-      },
-      "Harrison": {
-        "count": 1
-      },
-      "Mt. Vernon": {
-        "count": 1
-      },
-      "Vandalia": {
-        "count": 2
-      },
-      "Cincinatti": {
-        "count": 1
-      },
-      "Granville": {
-        "count": 1
-      },
-      "Mentor Headlands": {
-        "count": 1
-      },
-      "Avon Lake": {
-        "count": 1
-      },
-      "Bellefontaine": {
-        "count": 1
-      },
-      "Mansfield (Rte. 30; near I-71)": {
-        "count": 1
-      },
-      "Ironton": {
-        "count": 1
-      },
-      "Shaker Heights": {
-        "count": 1
-      },
-      "Monroeville": {
-        "count": 1
-      },
-      "West Milton": {
-        "count": 1
-      },
-      "Jamestown": {
-        "count": 1
-      },
-      "Troy": {
-        "count": 2
-      },
-      "Cambridge": {
-        "count": 1
-      },
-      "Fresno": {
-        "count": 1
-      },
-      "Lebanon": {
-        "count": 1
-      },
-      "Lorain": {
-        "count": 2
-      },
-      "Fairlawn": {
-        "count": 1
-      },
-      "Clifton": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "Fort Jennings": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Sidney",
+    "state": "OH",
+    "count": 1
   },
-  "FL": {
-    "cities": {
-      "Vero Beach": {
-        "count": 12
-      },
-      "Fort Lauderdale": {
-        "count": 14
-      },
-      "Port Saint Lucie": {
-        "count": 11
-      },
-      "Hollywood": {
-        "count": 11
-      },
-      "Port St. Lucie": {
-        "count": 15
-      },
-      "Poinciana": {
-        "count": 5
-      },
-      "Orlando": {
-        "count": 58
-      },
-      "Fort Myers": {
-        "count": 12
-      },
-      "Port Charlotte": {
-        "count": 12
-      },
-      "Miami": {
-        "count": 39
-      },
-      "West Melbourne": {
-        "count": 1
-      },
-      "North Miami Beach": {
-        "count": 3
-      },
-      "Jupiter": {
-        "count": 7
-      },
-      "Sarasota": {
-        "count": 18
-      },
-      "Davenport": {
-        "count": 11
-      },
-      "Palm Bay": {
-        "count": 9
-      },
-      "Fleming Island": {
-        "count": 3
-      },
-      "Ellenton": {
-        "count": 1
-      },
-      "Naples": {
-        "count": 17
-      },
-      "Okeechobee": {
-        "count": 3
-      },
-      "Palm Beach Gardens": {
-        "count": 5
-      },
-      "Sanford": {
-        "count": 6
-      },
-      "Jensen Beach": {
-        "count": 4
-      },
-      "Cocoa Beach": {
-        "count": 6
-      },
-      "Deer Park": {
-        "count": 1
-      },
-      "New Port Richey": {
-        "count": 6
-      },
-      "Malabar": {
-        "count": 3
-      },
-      "Cape Coral": {
-        "count": 35
-      },
-      "Miami Beach": {
-        "count": 6
-      },
-      "Labelle": {
-        "count": 3
-      },
-      "Fort Pierce": {
-        "count": 2
-      },
-      "New Smyrna Beach": {
-        "count": 2
-      },
-      "Stuart": {
-        "count": 4
-      },
-      "North Fort Myers": {
-        "count": 1
-      },
-      "St. Augustine": {
-        "count": 13
-      },
-      "Brandon": {
-        "count": 12
-      },
-      "Homestead": {
-        "count": 5
-      },
-      "Jacksonville": {
-        "count": 49
-      },
-      "Ruskin": {
-        "count": 1
-      },
-      "Winter Haven": {
-        "count": 4
-      },
-      "Delray Beach": {
-        "count": 9
-      },
-      "Dunnellon": {
-        "count": 1
-      },
-      "Jennings": {
-        "count": 2
-      },
-      "Kissimmee": {
-        "count": 8
-      },
-      "Kissimme/Champions Gate": {
-        "count": 1
-      },
-      "Madeira Beach": {
-        "count": 1
-      },
-      "Panama City": {
-        "count": 9
-      },
-      "St. Petersburg": {
-        "count": 31
-      },
-      "Coral Gables": {
-        "count": 1
-      },
-      "Lantana Beach": {
-        "count": 1
-      },
-      "Dunedin": {
-        "count": 6
-      },
-      "Zephyrhills": {
-        "count": 9
-      },
-      "San Antonio": {
-        "count": 3
-      },
-      "Lake City": {
-        "count": 3
-      },
-      "Orange Park": {
-        "count": 6
-      },
-      "Tampa": {
-        "count": 37
-      },
-      "Englewood": {
-        "count": 6
-      },
-      "Hudson": {
-        "count": 3
-      },
-      "Valrico": {
-        "count": 3
-      },
-      "Clearwater": {
-        "count": 14
-      },
-      "Barefoot Bay": {
-        "count": 2
-      },
-      "Deland": {
-        "count": 4
-      },
-      "Wewahitchka": {
-        "count": 1
-      },
-      "South Tampa": {
-        "count": 2
-      },
-      "West Chase": {
-        "count": 1
-      },
-      "The Villages": {
-        "count": 2
-      },
-      "South Daytona": {
-        "count": 3
-      },
-      "Lehigh Acres": {
-        "count": 1
-      },
-      "Oldsmar": {
-        "count": 4
-      },
-      "St augustine": {
-        "count": 1
-      },
-      "Longboat Key": {
-        "count": 1
-      },
-      "Lake": {
-        "count": 1
-      },
-      "Lee": {
-        "count": 1
-      },
-      "Longwood": {
-        "count": 5
-      },
-      "Winter Springs": {
-        "count": 7
-      },
-      "Gainesville": {
-        "count": 9
-      },
-      "Melbourne": {
-        "count": 11
-      },
-      "Ft. Myers": {
-        "count": 5
-      },
-      "pompano beach": {
-        "count": 1
-      },
-      "Treasure Island": {
-        "count": 1
-      },
-      "Ormond Beach": {
-        "count": 7
-      },
-      "Springhill": {
-        "count": 1
-      },
-      "West Palm": {
-        "count": 1
-      },
-      "Kissimee": {
-        "count": 1
-      },
-      "Daytona Beach": {
-        "count": 7
-      },
-      "Niceville": {
-        "count": 4
-      },
-      "Lake Worth": {
-        "count": 9
-      },
-      "Holiday": {
-        "count": 11
-      },
-      "Deltona": {
-        "count": 11
-      },
-      "Wesley Chapel": {
-        "count": 4
-      },
-      "Weston": {
-        "count": 8
-      },
-      "Davie": {
-        "count": 5
-      },
-      "St. Augustine Beach": {
-        "count": 2
-      },
-      "Ocoee": {
-        "count": 2
-      },
-      "Pembroke Pines": {
-        "count": 6
-      },
-      "New Tampa": {
-        "count": 2
-      },
-      "Cooper City": {
-        "count": 3
-      },
-      "North Port": {
-        "count": 7
-      },
-      "Titusville": {
-        "count": 8
-      },
-      "Merritt Island (above)": {
-        "count": 1
-      },
-      "Rockledge": {
-        "count": 1
-      },
-      "Lantana": {
-        "count": 5
-      },
-      "Venice": {
-        "count": 8
-      },
-      "Pace": {
-        "count": 2
-      },
-      "Palm Beach": {
-        "count": 2
-      },
-      "Clearwater/Palm Harbor": {
-        "count": 1
-      },
-      "Coconut Creek": {
-        "count": 4
-      },
-      "Bradenton": {
-        "count": 13
-      },
-      "Pinellas Park": {
-        "count": 2
-      },
-      "Largo": {
-        "count": 9
-      },
-      "Seminole": {
-        "count": 4
-      },
-      "Plant City": {
-        "count": 3
-      },
-      "West Palm Beach": {
-        "count": 10
-      },
-      "Plantation": {
-        "count": 6
-      },
-      "Apollo Beach": {
-        "count": 3
-      },
-      "Sawgrass area": {
-        "count": 1
-      },
-      "Clermont": {
-        "count": 7
-      },
-      "Live Oak": {
-        "count": 2
-      },
-      "Indian Shores": {
-        "count": 1
-      },
-      "Bartow": {
-        "count": 1
-      },
-      "Orange Spring": {
-        "count": 1
-      },
-      "Pompano Beach": {
-        "count": 4
-      },
-      "Parrish": {
-        "count": 2
-      },
-      "Sebastian": {
-        "count": 5
-      },
-      "Century": {
-        "count": 1
-      },
-      "Wellington": {
-        "count": 4
-      },
-      "Ft. Lauderdale": {
-        "count": 14
-      },
-      "Amelia Island": {
-        "count": 2
-      },
-      "Lutz": {
-        "count": 2
-      },
-      "Dade City": {
-        "count": 2
-      },
-      "Merritt Island": {
-        "count": 5
-      },
-      "Panama city beach,east": {
-        "count": 1
-      },
-      "Lithia": {
-        "count": 4
-      },
-      "Saint Petersburg": {
-        "count": 4
-      },
-      "Tallahassee": {
-        "count": 11
-      },
-      "Land O'Lakes": {
-        "count": 3
-      },
-      "Panama City Beach, gulf": {
-        "count": 1
-      },
-      "Miramar": {
-        "count": 4
-      },
-      "Flagler Beach": {
-        "count": 3
-      },
-      "Flagler": {
-        "count": 1
-      },
-      "Oviedo": {
-        "count": 4
-      },
-      "Grover": {
-        "count": 1
-      },
-      "Boca Raton": {
-        "count": 8
-      },
-      "Tampa (general area)": {
-        "count": 1
-      },
-      "Hernando": {
-        "count": 2
-      },
-      "Saint Augustine": {
-        "count": 4
-      },
-      "Holly Hill": {
-        "count": 1
-      },
-      "Cocoa": {
-        "count": 3
-      },
-      "Summerfield": {
-        "count": 2
-      },
-      "Crystal River": {
-        "count": 1
-      },
-      "Tarpon Springs": {
-        "count": 3
-      },
-      "Ponce Inlet": {
-        "count": 2
-      },
-      "Palm Coast": {
-        "count": 6
-      },
-      "Apopka": {
-        "count": 5
-      },
-      "Placida": {
-        "count": 1
-      },
-      "Pbg": {
-        "count": 1
-      },
-      "Casselberry": {
-        "count": 4
-      },
-      "Satellite Beach": {
-        "count": 4
-      },
-      "Ponte Vedra Beach": {
-        "count": 3
-      },
-      "Indialantic": {
-        "count": 2
-      },
-      "Spring Hill": {
-        "count": 12
-      },
-      "Davie (heading to Hollywood/Ft. Lauderdale)": {
-        "count": 1
-      },
-      "Palmetto": {
-        "count": 2
-      },
-      "Port Orange": {
-        "count": 6
-      },
-      "St. Johns": {
-        "count": 2
-      },
-      "Sunrise": {
-        "count": 2
-      },
-      "\n": {
-        "count": 2
-      },
-      "Floral City": {
-        "count": 1
-      },
-      "Key Colony Beach": {
-        "count": 1
-      },
-      "Miramar Beach": {
-        "count": 1
-      },
-      "Boynton Beach": {
-        "count": 10
-      },
-      "Frostproof": {
-        "count": 1
-      },
-      "Pompano beach": {
-        "count": 1
-      },
-      "Cape Canaveral": {
-        "count": 1
-      },
-      "Holmes Beach": {
-        "count": 1
-      },
-      "Spring hill": {
-        "count": 1
-      },
-      "Deerfield Beach": {
-        "count": 5
-      },
-      "Middleburg": {
-        "count": 6
-      },
-      "Lakeland": {
-        "count": 5
-      },
-      "Gainseville": {
-        "count": 1
-      },
-      "Key Biscayne": {
-        "count": 1
-      },
-      "Port Richey": {
-        "count": 3
-      },
-      "Destin": {
-        "count": 2
-      },
-      "Santa Rosa Beach": {
-        "count": 2
-      },
-      "Palm Beach Garden (near)": {
-        "count": 1
-      },
-      "Melbourne Beach": {
-        "count": 2
-      },
-      "Seagrove": {
-        "count": 1
-      },
-      "Pensacola": {
-        "count": 4
-      },
-      "Panama City Beach": {
-        "count": 11
-      },
-      "Altamonte Springs": {
-        "count": 4
-      },
-      "Palm Harbor": {
-        "count": 3
-      },
-      "Southport": {
-        "count": 1
-      },
-      "Citrus Springs": {
-        "count": 2
-      },
-      "Lake Wales": {
-        "count": 3
-      },
-      "Miami (Bal Harbor)": {
-        "count": 1
-      },
-      "Starke": {
-        "count": 1
-      },
-      "Lady Lake": {
-        "count": 2
-      },
-      "Oakmont": {
-        "count": 1
-      },
-      "Lower Haines City": {
-        "count": 1
-      },
-      "Lauderhill": {
-        "count": 4
-      },
-      "Marathon": {
-        "count": 3
-      },
-      "Sebring": {
-        "count": 5
-      },
-      "Viera": {
-        "count": 2
-      },
-      "Seffner": {
-        "count": 1
-      },
-      "Orange City": {
-        "count": 2
-      },
-      "Indian Rock Beach": {
-        "count": 1
-      },
-      "Winter Park": {
-        "count": 3
-      },
-      "Brooksville": {
-        "count": 6
-      },
-      "Miami (South Dade)": {
-        "count": 1
-      },
-      "Jacksonville Beach": {
-        "count": 5
-      },
-      "Duck Key": {
-        "count": 1
-      },
-      "Gulf of Mexico": {
-        "count": 2
-      },
-      "Palm Beach Lakes": {
-        "count": 1
-      },
-      "Tamarac": {
-        "count": 1
-      },
-      "Ocala": {
-        "count": 10
-      },
-      "Fort Walton Beach": {
-        "count": 1
-      },
-      "Waverly": {
-        "count": 1
-      },
-      "Bonita Springs": {
-        "count": 3
-      },
-      "High Springs": {
-        "count": 1
-      },
-      "Royal Palm Beach": {
-        "count": 3
-      },
-      "Mount Dora": {
-        "count": 1
-      },
-      "Fort Lauderdale Beach": {
-        "count": 1
-      },
-      "Eau Gallie": {
-        "count": 1
-      },
-      "South Pasadena": {
-        "count": 1
-      },
-      "Ft. Pierce": {
-        "count": 2
-      },
-      "Ponte Vedra": {
-        "count": 3
-      },
-      "Ocklawaha": {
-        "count": 2
-      },
-      "Pasco County": {
-        "count": 1
-      },
-      "Everglades": {
-        "count": 1
-      },
-      "Shalimar": {
-        "count": 1
-      },
-      "Plam Bay": {
-        "count": 1
-      },
-      "Odessa": {
-        "count": 1
-      },
-      "Miami (Suburbs)": {
-        "count": 1
-      },
-      "Pinellas": {
-        "count": 1
-      },
-      "Cutler Bay": {
-        "count": 3
-      },
-      "Perrine": {
-        "count": 1
-      },
-      "Umatilla": {
-        "count": 1
-      },
-      "Loxahatchee": {
-        "count": 2
-      },
-      "Trenton": {
-        "count": 1
-      },
-      "Matanzas Inlet": {
-        "count": 1
-      },
-      "Lake Buena Vista": {
-        "count": 1
-      },
-      "Ft. Myers Beach": {
-        "count": 1
-      },
-      "Riverview": {
-        "count": 3
-      },
-      "Osprey": {
-        "count": 1
-      },
-      "Williston": {
-        "count": 1
-      },
-      "Homeland": {
-        "count": 1
-      },
-      "Miami Shores": {
-        "count": 1
-      },
-      "Safety Harbor": {
-        "count": 1
-      },
-      "Zolfo Springs": {
-        "count": 1
-      },
-      "Ochlocknee Bay": {
-        "count": 1
-      },
-      "Navarre": {
-        "count": 1
-      },
-      "Gulf Breeze": {
-        "count": 1
-      },
-      "Palatka": {
-        "count": 1
-      },
-      "Coral Springs": {
-        "count": 6
-      },
-      "Port St. John": {
-        "count": 2
-      },
-      "Saint Cloud": {
-        "count": 1
-      },
-      "Port St John": {
-        "count": 1
-      },
-      "Marco Island": {
-        "count": 3
-      },
-      "Riviera Beach": {
-        "count": 1
-      },
-      "Homosassa": {
-        "count": 3
-      },
-      "Longboat": {
-        "count": 1
-      },
-      "St. Cloud": {
-        "count": 2
-      },
-      "West Palm Beach Co.": {
-        "count": 1
-      },
-      "St. Petersburg Beach": {
-        "count": 4
-      },
-      "Alachua": {
-        "count": 2
-      },
-      "Yulee": {
-        "count": 1
-      },
-      "Palm Springs": {
-        "count": 1
-      },
-      "Indian Rocks Beach": {
-        "count": 1
-      },
-      "Archer": {
-        "count": 1
-      },
-      "Callaway": {
-        "count": 1
-      },
-      "Key Largo": {
-        "count": 2
-      },
-      "Alligator Alley": {
-        "count": 1
-      },
-      "Ormond by the Sea": {
-        "count": 1
-      },
-      "Green Cove Springs": {
-        "count": 2
-      },
-      "Edgewater": {
-        "count": 1
-      },
-      "Lake Mary": {
-        "count": 1
-      },
-      "Punta Gorda": {
-        "count": 4
-      },
-      "Winter Haven/Lake Wales": {
-        "count": 1
-      },
-      "Hunters Creek": {
-        "count": 1
-      },
-      "Lake Placid": {
-        "count": 1
-      },
-      "Seminole/Largo": {
-        "count": 1
-      },
-      "Alligator Point": {
-        "count": 1
-      },
-      "Indian Lake": {
-        "count": 8
-      },
-      "titusville": {
-        "count": 1
-      },
-      "Layton": {
-        "count": 1
-      },
-      "Crestview": {
-        "count": 1
-      },
-      "Fernandina Beach": {
-        "count": 1
-      },
-      "Jenson Beach": {
-        "count": 1
-      },
-      "Tampa Bay": {
-        "count": 1
-      },
-      "Siesta Key": {
-        "count": 1
-      },
-      "Pompano": {
-        "count": 1
-      },
-      "Miami Lakes": {
-        "count": 5
-      },
-      "Eustis": {
-        "count": 2
-      },
-      "Fort Myers Beach": {
-        "count": 1
-      },
-      "Islamorada": {
-        "count": 1
-      },
-      "Saint Johns": {
-        "count": 1
-      },
-      "North Lauderdale": {
-        "count": 1
-      },
-      "Estero": {
-        "count": 1
-      },
-      "Cape San Blas": {
-        "count": 1
-      },
-      "sunrise": {
-        "count": 1
-      },
-      "Winter Garden": {
-        "count": 3
-      },
-      "Bunnell": {
-        "count": 1
-      },
-      "Hollywood-Davie": {
-        "count": 1
-      },
-      "DeBary": {
-        "count": 2
-      },
-      "St. Petersrburg": {
-        "count": 1
-      },
-      "Homstead": {
-        "count": 1
-      },
-      "Adamsville": {
-        "count": 1
-      },
-      "Apopka (near)": {
-        "count": 1
-      },
-      "Pontevedra Beach": {
-        "count": 1
-      },
-      "Green Cove Spring": {
-        "count": 1
-      },
-      "Haines City": {
-        "count": 1
-      },
-      "Florida City": {
-        "count": 1
-      },
-      "Thonotosassa": {
-        "count": 2
-      },
-      "Lauderhill/Ft. Lauderdale": {
-        "count": 1
-      },
-      "Lake Wales/Winter Haven": {
-        "count": 1
-      },
-      "Fort Myers (near downtown)": {
-        "count": 1
-      },
-      "Key West": {
-        "count": 1
-      },
-      "Salt Springs": {
-        "count": 1
-      },
-      "Reddinton Beach": {
-        "count": 1
-      },
-      "Hialeah": {
-        "count": 1
-      },
-      "Cape Coral/Punta Gorda": {
-        "count": 1
-      },
-      "LaBelle": {
-        "count": 1
-      },
-      "Indiatlantic": {
-        "count": 1
-      },
-      "St. Johns River": {
-        "count": 1
-      },
-      "Ft. Pierce (Hutchinson Island)": {
-        "count": 1
-      },
-      "Palmetto Bay": {
-        "count": 1
-      },
-      "DeLand": {
-        "count": 1
-      },
-      "Islamorada (Keys)": {
-        "count": 1
-      },
-      "Atlantic Beach": {
-        "count": 1
-      },
-      "Orlando (Lake Jessimine)": {
-        "count": 1
-      },
-      "West Park": {
-        "count": 1
-      },
-      "St-Augustine": {
-        "count": 1
-      },
-      "Palm City": {
-        "count": 1
-      },
-      "Oxford": {
-        "count": 1
-      },
-      "Dover": {
-        "count": 1
-      },
-      "Sanibel": {
-        "count": 1
-      },
-      "Beverly Hills": {
-        "count": 1
-      },
-      "Satsuma": {
-        "count": 1
-      },
-      "Miami (Key Biscayne)": {
-        "count": 2
-      },
-      "St. George Island": {
-        "count": 2
-      },
-      "Clermont Hwy 27 12 mi.south": {
-        "count": 1
-      },
-      "Tampa (east of)": {
-        "count": 1
-      },
-      "Buckhead Ridge": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Vero Beach",
+    "state": "FL",
+    "count": 12
   },
-  "CO": {
-    "cities": {
-      "Oak Creek": {
-        "count": 1
-      },
-      "Fort Collins": {
-        "count": 30
-      },
-      "Loveland": {
-        "count": 10
-      },
-      "Longmont": {
-        "count": 19
-      },
-      "Milliken": {
-        "count": 3
-      },
-      "Alamosa": {
-        "count": 2
-      },
-      "Colorado City": {
-        "count": 1
-      },
-      "Parker": {
-        "count": 8
-      },
-      "Eagle": {
-        "count": 1
-      },
-      "Colorado Springs": {
-        "count": 53
-      },
-      "Aurora": {
-        "count": 27
-      },
-      "Littleton": {
-        "count": 14
-      },
-      "Avon": {
-        "count": 2
-      },
-      "Arvada": {
-        "count": 19
-      },
-      "Boulder": {
-        "count": 13
-      },
-      "Castle Rock": {
-        "count": 4
-      },
-      "Denver": {
-        "count": 60
-      },
-      "Golden": {
-        "count": 10
-      },
-      "Lone Tree": {
-        "count": 2
-      },
-      "Pueblo": {
-        "count": 16
-      },
-      "Pierce": {
-        "count": 1
-      },
-      "Royal Gorge": {
-        "count": 1
-      },
-      "Delta": {
-        "count": 4
-      },
-      "Johnstown/Loveland": {
-        "count": 1
-      },
-      "Broomfield": {
-        "count": 12
-      },
-      "Estes Park": {
-        "count": 3
-      },
-      "Eaton": {
-        "count": 3
-      },
-      "Lakewood": {
-        "count": 19
-      },
-      "Pueblo (Belmont)": {
-        "count": 1
-      },
-      "Fountain": {
-        "count": 4
-      },
-      "Wheat Ridge": {
-        "count": 6
-      },
-      "Gilcrest": {
-        "count": 4
-      },
-      "Salida": {
-        "count": 1
-      },
-      "Greeley": {
-        "count": 20
-      },
-      "Denver (Denver International Airport)": {
-        "count": 1
-      },
-      "Northglenn": {
-        "count": 6
-      },
-      "Commerce City": {
-        "count": 5
-      },
-      "Snowmass Village": {
-        "count": 1
-      },
-      "Highlands Ranch": {
-        "count": 3
-      },
-      "Superior": {
-        "count": 1
-      },
-      "Grand Junction": {
-        "count": 13
-      },
-      "Morrison": {
-        "count": 3
-      },
-      "Westminster": {
-        "count": 9
-      },
-      "Denver/Glendale": {
-        "count": 1
-      },
-      "Cortez": {
-        "count": 1
-      },
-      "Johnstown": {
-        "count": 1
-      },
-      "Palisade": {
-        "count": 1
-      },
-      "Pine Grove": {
-        "count": 1
-      },
-      "Rabbit Ears Pass/Steamboat springs": {
-        "count": 1
-      },
-      "Lyons": {
-        "count": 4
-      },
-      "Telluride": {
-        "count": 2
-      },
-      "Mt. Morrison": {
-        "count": 1
-      },
-      "Weld County (rural)": {
-        "count": 1
-      },
-      "Walsenburg": {
-        "count": 1
-      },
-      "Gunnison National Forest (Almost)": {
-        "count": 1
-      },
-      "Rabbit Valley": {
-        "count": 1
-      },
-      "Cimarron": {
-        "count": 1
-      },
-      "Parker/Aurora": {
-        "count": 1
-      },
-      "Leadville": {
-        "count": 2
-      },
-      "Ft. Collins": {
-        "count": 2
-      },
-      "Evans": {
-        "count": 4
-      },
-      "Breckenridge": {
-        "count": 3
-      },
-      "Limon": {
-        "count": 1
-      },
-      "Peyton": {
-        "count": 2
-      },
-      "Colorado (southeast part)": {
-        "count": 1
-      },
-      "Falcon": {
-        "count": 2
-      },
-      "Englewood": {
-        "count": 6
-      },
-      "Nederland": {
-        "count": 1
-      },
-      "Parachute": {
-        "count": 1
-      },
-      "Mead/Thornton (between; on I-25)": {
-        "count": 1
-      },
-      "La Veta": {
-        "count": 1
-      },
-      "Berthoud": {
-        "count": 1
-      },
-      "Bailey": {
-        "count": 2
-      },
-      "Fort Lupton": {
-        "count": 2
-      },
-      "Alma": {
-        "count": 2
-      },
-      "Almont": {
-        "count": 1
-      },
-      "Centennial": {
-        "count": 10
-      },
-      "Rico": {
-        "count": 1
-      },
-      "Manitou Springs": {
-        "count": 1
-      },
-      "Durango": {
-        "count": 4
-      },
-      "Ridgway": {
-        "count": 1
-      },
-      "Thornton": {
-        "count": 11
-      },
-      "Erie": {
-        "count": 5
-      },
-      "New Castle": {
-        "count": 1
-      },
-      "Mosca": {
-        "count": 1
-      },
-      "Montrose": {
-        "count": 2
-      },
-      "Lafayette": {
-        "count": 4
-      },
-      "Canon City": {
-        "count": 1
-      },
-      "Gunnison": {
-        "count": 1
-      },
-      "Hasty": {
-        "count": 1
-      },
-      "Rocky Ford": {
-        "count": 2
-      },
-      "Henderson": {
-        "count": 1
-      },
-      "Windsor": {
-        "count": 2
-      },
-      "Brighton": {
-        "count": 3
-      },
-      "Ridgeway": {
-        "count": 1
-      },
-      "Walden": {
-        "count": 1
-      },
-      "Louisville": {
-        "count": 1
-      },
-      "Deer Trailer": {
-        "count": 1
-      },
-      "Evergreen": {
-        "count": 2
-      },
-      "Crested Butte": {
-        "count": 1
-      },
-      "Sterling": {
-        "count": 1
-      },
-      "Lascar (I-25; MM 62)": {
-        "count": 1
-      },
-      "Florence": {
-        "count": 2
-      },
-      "Grant": {
-        "count": 1
-      },
-      "Denver Metro": {
-        "count": 1
-      },
-      "Glenwood Springs": {
-        "count": 2
-      },
-      "Cedaredge": {
-        "count": 1
-      },
-      "Elbert": {
-        "count": 1
-      },
-      "Steamboat Springs": {
-        "count": 2
-      },
-      "LaVeta": {
-        "count": 1
-      },
-      "Creede": {
-        "count": 1
-      },
-      "La Junta": {
-        "count": 2
-      },
-      "Antinito": {
-        "count": 1
-      },
-      "Colorado Springs (east of)": {
-        "count": 1
-      },
-      "Avon/Eagle": {
-        "count": 1
-      },
-      "Gill": {
-        "count": 1
-      },
-      "Elizabeth": {
-        "count": 1
-      },
-      "Buena Vista": {
-        "count": 1
-      },
-      "Crestone": {
-        "count": 1
-      },
-      "San Diego": {
-        "count": 1
-      },
-      "Rifle": {
-        "count": 1
-      },
-      "Aspen": {
-        "count": 1
-      },
-      "Florissant": {
-        "count": 1
-      },
-      "Eisenhower Tunnel (near)": {
-        "count": 1
-      },
-      "Grand junction": {
-        "count": 1
-      },
-      "Silverthorne": {
-        "count": 2
-      },
-      "Weldona": {
-        "count": 1
-      },
-      "Mead": {
-        "count": 2
-      },
-      "Buffalo Creek Area Campground": {
-        "count": 1
-      },
-      "Firestone": {
-        "count": 1
-      },
-      "Pueblo West": {
-        "count": 1
-      },
-      "Wellington": {
-        "count": 1
-      },
-      "Mountain View": {
-        "count": 1
-      },
-      "Colordao Springs": {
-        "count": 1
-      },
-      "Lakewood (over Golden)": {
-        "count": 1
-      },
-      "Yoder": {
-        "count": 1
-      },
-      "Greenwood Village": {
-        "count": 1
-      },
-      "Lamar": {
-        "count": 1
-      },
-      "Hotchkiss": {
-        "count": 1
-      },
-      "Julesburg": {
-        "count": 1
-      },
-      "Flagler": {
-        "count": 1
-      },
-      "Battlement Mesa": {
-        "count": 1
-      },
-      "Falcon (north of)": {
-        "count": 1
-      },
-      "Colorado Sorings": {
-        "count": 1
-      },
-      "Roxborough": {
-        "count": 1
-      },
-      "Littleton (outside of)": {
-        "count": 1
-      },
-      "Colorado Springs/Schriever": {
-        "count": 1
-      },
-      "Wellington Lake": {
-        "count": 1
-      },
-      "Frederick": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Oak Creek",
+    "state": "CO",
+    "count": 1
   },
-  "WA": {
-    "cities": {
-      "Tacoma": {
-        "count": 25
-      },
-      "Conway": {
-        "count": 1
-      },
-      "Fife": {
-        "count": 3
-      },
-      "Ballanger County line": {
-        "count": 1
-      },
-      "Woodinville": {
-        "count": 2
-      },
-      "Kirkland": {
-        "count": 5
-      },
-      "Seattle": {
-        "count": 65
-      },
-      "Burlington": {
-        "count": 3
-      },
-      "Stanwood": {
-        "count": 1
-      },
-      "Centralia": {
-        "count": 5
-      },
-      "Richland": {
-        "count": 10
-      },
-      "Spokane Valley": {
-        "count": 9
-      },
-      "Ephrata": {
-        "count": 1
-      },
-      "Liberty Lake": {
-        "count": 2
-      },
-      "Edmonds": {
-        "count": 3
-      },
-      "Olympia": {
-        "count": 20
-      },
-      "Vancouver": {
-        "count": 27
-      },
-      "Skykomish": {
-        "count": 2
-      },
-      "Kent": {
-        "count": 6
-      },
-      "Spanaway": {
-        "count": 7
-      },
-      "Deer Park": {
-        "count": 3
-      },
-      "Puyallup": {
-        "count": 17
-      },
-      "Enumclaw": {
-        "count": 2
-      },
-      "North Bend": {
-        "count": 3
-      },
-      "Frederickson": {
-        "count": 1
-      },
-      "Port Orchard": {
-        "count": 11
-      },
-      "Chehalis": {
-        "count": 3
-      },
-      "Oak Harbor": {
-        "count": 2
-      },
-      "Bellingham": {
-        "count": 21
-      },
-      "Mountlake Terrace": {
-        "count": 4
-      },
-      "University Place": {
-        "count": 6
-      },
-      "Kalama": {
-        "count": 4
-      },
-      "Bainbridge Island": {
-        "count": 7
-      },
-      "Marysville": {
-        "count": 8
-      },
-      "Hansville": {
-        "count": 1
-      },
-      "Wenatchee": {
-        "count": 10
-      },
-      "East Wenatchee": {
-        "count": 4
-      },
-      "Puyallup (South Hill)": {
-        "count": 1
-      },
-      "Cougar": {
-        "count": 1
-      },
-      "Camano Island": {
-        "count": 5
-      },
-      "Woodland": {
-        "count": 1
-      },
-      "Everett": {
-        "count": 22
-      },
-      "Onion Creek": {
-        "count": 1
-      },
-      "Lake Stevens": {
-        "count": 2
-      },
-      "Burien": {
-        "count": 5
-      },
-      "Bothell": {
-        "count": 2
-      },
-      "Coulee Dam": {
-        "count": 1
-      },
-      "Sunnyside": {
-        "count": 3
-      },
-      "Auburn": {
-        "count": 15
-      },
-      "Lincoln": {
-        "count": 1
-      },
-      "Oakesdale": {
-        "count": 2
-      },
-      "Bellevue": {
-        "count": 13
-      },
-      "Bothell (above)": {
-        "count": 1
-      },
-      "Yelm (near)": {
-        "count": 1
-      },
-      "Olalla": {
-        "count": 1
-      },
-      "Spokane": {
-        "count": 23
-      },
-      "Black Diamond": {
-        "count": 1
-      },
-      "Graham": {
-        "count": 2
-      },
-      "Springdale": {
-        "count": 1
-      },
-      "Takhlakh Lake": {
-        "count": 1
-      },
-      "Lynnwood": {
-        "count": 6
-      },
-      "Roy": {
-        "count": 1
-      },
-      "Whidbey Island": {
-        "count": 2
-      },
-      "Hermiston": {
-        "count": 1
-      },
-      "Walla Walla": {
-        "count": 6
-      },
-      "Port Hadlock": {
-        "count": 3
-      },
-      "Kent/Auburn": {
-        "count": 1
-      },
-      "Soap Lake": {
-        "count": 1
-      },
-      "Fairfield": {
-        "count": 1
-      },
-      "Bonney Lake": {
-        "count": 1
-      },
-      "Longview": {
-        "count": 8
-      },
-      "Pasco": {
-        "count": 7
-      },
-      "Kettle Falls": {
-        "count": 1
-      },
-      "Yakima": {
-        "count": 8
-      },
-      "Bremerton": {
-        "count": 14
-      },
-      "Camas": {
-        "count": 2
-      },
-      "West Pasco": {
-        "count": 1
-      },
-      "Brewster": {
-        "count": 2
-      },
-      "Sumner": {
-        "count": 7
-      },
-      "Quincy": {
-        "count": 4
-      },
-      "Seatac": {
-        "count": 2
-      },
-      "Pullman": {
-        "count": 2
-      },
-      "Stanford": {
-        "count": 1
-      },
-      "Harrington": {
-        "count": 3
-      },
-      "Mossyrock": {
-        "count": 1
-      },
-      "Selah": {
-        "count": 2
-      },
-      "Vashon": {
-        "count": 1
-      },
-      "Rock Island": {
-        "count": 1
-      },
-      "Sammamish": {
-        "count": 1
-      },
-      "Davenport": {
-        "count": 5
-      },
-      "Riverside": {
-        "count": 1
-      },
-      "Snohomish": {
-        "count": 5
-      },
-      "Woodinvile": {
-        "count": 1
-      },
-      "Des Moines": {
-        "count": 3
-      },
-      "Index": {
-        "count": 1
-      },
-      "Kelso": {
-        "count": 5
-      },
-      "West Seattle": {
-        "count": 1
-      },
-      "Lacey": {
-        "count": 4
-      },
-      "Shelton": {
-        "count": 7
-      },
-      "Issaquah": {
-        "count": 5
-      },
-      "Langley": {
-        "count": 1
-      },
-      "Parkland": {
-        "count": 2
-      },
-      "Port Angeles": {
-        "count": 3
-      },
-      "Belfair": {
-        "count": 1
-      },
-      "Lake Umatilla; John Day Dam (~30 mi. E of; approximate)": {
-        "count": 1
-      },
-      "Stevens Pass": {
-        "count": 1
-      },
-      "North Snohomish": {
-        "count": 1
-      },
-      "Kenmore": {
-        "count": 3
-      },
-      "McChord AFB/Ft. Lewis": {
-        "count": 1
-      },
-      "Newcastle": {
-        "count": 2
-      },
-      "Benton City": {
-        "count": 2
-      },
-      "Arlington": {
-        "count": 9
-      },
-      "Redmond": {
-        "count": 9
-      },
-      "Cutthroat Lake Trail - Hwy 20": {
-        "count": 1
-      },
-      "Renton": {
-        "count": 7
-      },
-      "Ilwaco": {
-        "count": 1
-      },
-      "Ocean Shores": {
-        "count": 2
-      },
-      "Grandview": {
-        "count": 1
-      },
-      "Ferndale": {
-        "count": 2
-      },
-      "Kennewick": {
-        "count": 7
-      },
-      "Hoquiam": {
-        "count": 2
-      },
-      "Cowiche": {
-        "count": 3
-      },
-      "Ritzville": {
-        "count": 4
-      },
-      "Lakewood": {
-        "count": 6
-      },
-      "Elma": {
-        "count": 1
-      },
-      "Battle Ground": {
-        "count": 1
-      },
-      "Malo": {
-        "count": 1
-      },
-      "SeaTac Airport": {
-        "count": 1
-      },
-      "Aberdeen Gardens": {
-        "count": 1
-      },
-      "Sedro Woolley": {
-        "count": 1
-      },
-      "Allyn": {
-        "count": 1
-      },
-      "Lake Roesiger": {
-        "count": 1
-      },
-      "Oysterville": {
-        "count": 1
-      },
-      "SeaTac": {
-        "count": 1
-      },
-      "Curlew": {
-        "count": 1
-      },
-      "Naches": {
-        "count": 1
-      },
-      "Chelan": {
-        "count": 1
-      },
-      "Colfax": {
-        "count": 2
-      },
-      "Snoqualmie": {
-        "count": 1
-      },
-      "Shoreline": {
-        "count": 5
-      },
-      "Reardan": {
-        "count": 2
-      },
-      "Vantage": {
-        "count": 1
-      },
-      "Port Townsend": {
-        "count": 4
-      },
-      "Maple valley": {
-        "count": 1
-      },
-      "Mount Vernon": {
-        "count": 2
-      },
-      "Herron Island": {
-        "count": 1
-      },
-      "Washougal": {
-        "count": 5
-      },
-      "Amboy": {
-        "count": 1
-      },
-      "Buckley": {
-        "count": 1
-      },
-      "anywhere": {
-        "count": 1
-      },
-      "White Center": {
-        "count": 1
-      },
-      "Bow": {
-        "count": 1
-      },
-      "Mercer Island": {
-        "count": 1
-      },
-      "Gold Bar": {
-        "count": 2
-      },
-      "Cliffdell": {
-        "count": 2
-      },
-      "Lynden": {
-        "count": 2
-      },
-      "Edgewood": {
-        "count": 1
-      },
-      "Pe Ell": {
-        "count": 1
-      },
-      "Grand Coulee": {
-        "count": 1
-      },
-      "Grayland": {
-        "count": 1
-      },
-      "Mukilteo": {
-        "count": 2
-      },
-      "Monroe": {
-        "count": 2
-      },
-      "Duvall": {
-        "count": 1
-      },
-      "Pt. Townsend": {
-        "count": 1
-      },
-      "Sequim": {
-        "count": 6
-      },
-      "Kirkland/Kenmore": {
-        "count": 1
-      },
-      "Omak": {
-        "count": 2
-      },
-      "Wilkeson": {
-        "count": 1
-      },
-      "Ford": {
-        "count": 2
-      },
-      "Enterprise": {
-        "count": 1
-      },
-      "Federal Way": {
-        "count": 3
-      },
-      "Bothell/Kirkland": {
-        "count": 1
-      },
-      "Mill Creek": {
-        "count": 1
-      },
-      "Orting": {
-        "count": 1
-      },
-      "Arlington/Marysville": {
-        "count": 1
-      },
-      "Colville": {
-        "count": 1
-      },
-      "Covington": {
-        "count": 2
-      },
-      "Cle Elum": {
-        "count": 1
-      },
-      "Brush Prairie": {
-        "count": 2
-      },
-      "Sea-Tac (to the south of??)": {
-        "count": 1
-      },
-      "Suquamish": {
-        "count": 1
-      },
-      "Eastsound": {
-        "count": 1
-      },
-      "Granite Falls": {
-        "count": 1
-      },
-      "Glacier": {
-        "count": 1
-      },
-      "Moses Lake": {
-        "count": 1
-      },
-      "Colbert": {
-        "count": 1
-      },
-      "Castle Rock": {
-        "count": 1
-      },
-      "Ridgefield": {
-        "count": 1
-      },
-      "Puget Sound (bet Seattle/Bainbridge Island)": {
-        "count": 1
-      },
-      "King County (above)": {
-        "count": 1
-      },
-      "La Center": {
-        "count": 1
-      },
-      "Sumas": {
-        "count": 1
-      },
-      "Dryden": {
-        "count": 1
-      },
-      "Elk": {
-        "count": 2
-      },
-      "Desmoines": {
-        "count": 1
-      },
-      "George (The Gorge amphitheatre)": {
-        "count": 1
-      },
-      "Morton": {
-        "count": 1
-      },
-      "Roosevelt": {
-        "count": 1
-      },
-      "Lake Tapps": {
-        "count": 1
-      },
-      "Kingston": {
-        "count": 2
-      },
-      "Olympia/Nisqually Valley": {
-        "count": 1
-      },
-      "Gig Harbor": {
-        "count": 2
-      },
-      "Aberdeen": {
-        "count": 2
-      },
-      "Tumwater": {
-        "count": 2
-      },
-      "Bay Center": {
-        "count": 1
-      },
-      "Yelm": {
-        "count": 1
-      },
-      "Harstene Island": {
-        "count": 1
-      },
-      "Ione": {
-        "count": 1
-      },
-      "Post Falls/Stateline": {
-        "count": 1
-      },
-      "Portland": {
-        "count": 1
-      },
-      "Lakebay": {
-        "count": 1
-      },
-      "Eatonville": {
-        "count": 1
-      },
-      "Clearlake": {
-        "count": 1
-      },
-      "Ellensburg": {
-        "count": 2
-      },
-      "Otis Orchards": {
-        "count": 1
-      },
-      "Goldendale": {
-        "count": 3
-      },
-      "Kent/Renton": {
-        "count": 1
-      },
-      "Anacortes": {
-        "count": 4
-      },
-      "Yacolt": {
-        "count": 1
-      },
-      "North Seattle": {
-        "count": 1
-      },
-      "Woodinville/Redmond": {
-        "count": 1
-      },
-      "Chehalis (near; on I-5 south)": {
-        "count": 1
-      },
-      "Kittitas/Ellensburg": {
-        "count": 1
-      },
-      "Coupeville": {
-        "count": 1
-      },
-      "Veradale (Spokane Valley)": {
-        "count": 1
-      },
-      "Maple Falls": {
-        "count": 2
-      },
-      "East Spokane": {
-        "count": 1
-      },
-      "Raymond": {
-        "count": 2
-      },
-      "Skamokawa": {
-        "count": 1
-      },
-      "Preston": {
-        "count": 1
-      },
-      "Tri-cities and Yakima County": {
-        "count": 1
-      },
-      "Friday Harbor": {
-        "count": 1
-      },
-      "Westport": {
-        "count": 1
-      },
-      "Port Ludlow": {
-        "count": 1
-      },
-      "Vashon Island": {
-        "count": 1
-      },
-      "Mabton": {
-        "count": 1
-      },
-      "Custer": {
-        "count": 1
-      },
-      "Fox Island": {
-        "count": 1
-      },
-      "Cosmopolis": {
-        "count": 1
-      },
-      "Keller": {
-        "count": 1
-      },
-      "Puyallup/South Hill": {
-        "count": 2
-      },
-      "North Bend Area": {
-        "count": 1
-      },
-      "Kent/Des Moines/Tukwila": {
-        "count": 1
-      },
-      "Lynwood": {
-        "count": 1
-      },
-      "Silverdale": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Tacoma",
+    "state": "WA",
+    "count": 25
   },
-  "CA": {
-    "cities": {
-      "San Diego": {
-        "count": 73
-      },
-      "Indio": {
-        "count": 12
-      },
-      "Beverly Hills": {
-        "count": 1
-      },
-      "Rancho Cucamonga": {
-        "count": 13
-      },
-      "Carlsbad": {
-        "count": 11
-      },
-      "Pasadena": {
-        "count": 7
-      },
-      "Manteca": {
-        "count": 5
-      },
-      "Upper Lake": {
-        "count": 1
-      },
-      "Bakersfield": {
-        "count": 17
-      },
-      "San Jose": {
-        "count": 39
-      },
-      "Santa Clarita": {
-        "count": 10
-      },
-      "Richmond": {
-        "count": 2
-      },
-      "Rosamond": {
-        "count": 8
-      },
-      "Sylmar": {
-        "count": 6
-      },
-      "Moss Beach": {
-        "count": 1
-      },
-      "Eureka": {
-        "count": 3
-      },
-      "Arvin": {
-        "count": 1
-      },
-      "Riverbank": {
-        "count": 4
-      },
-      "Fort Bragg": {
-        "count": 4
-      },
-      "Santa Ana": {
-        "count": 11
-      },
-      "Corte Madera-Mt. Tamalpais": {
-        "count": 1
-      },
-      "Palm Desert": {
-        "count": 12
-      },
-      "Rancho Cordova": {
-        "count": 5
-      },
-      "San Bernardino": {
-        "count": 17
-      },
-      "Temecula": {
-        "count": 15
-      },
-      "Discovery Bay": {
-        "count": 2
-      },
-      "Encinitas": {
-        "count": 5
-      },
-      "Imperial Beach": {
-        "count": 4
-      },
-      "Los Angeles": {
-        "count": 56
-      },
-      "Rancho mirage": {
-        "count": 1
-      },
-      "North Hollywood": {
-        "count": 8
-      },
-      "Woodland hillls": {
-        "count": 1
-      },
-      "Santa Monica": {
-        "count": 5
-      },
-      "Buena Park": {
-        "count": 8
-      },
-      "Claremont": {
-        "count": 6
-      },
-      "Highland": {
-        "count": 6
-      },
-      "Hemet": {
-        "count": 8
-      },
-      "Pomona": {
-        "count": 7
-      },
-      "Huntington Beach": {
-        "count": 18
-      },
-      "Fallbrook": {
-        "count": 3
-      },
-      "Wilmington": {
-        "count": 4
-      },
-      "Vista": {
-        "count": 6
-      },
-      "Aptos": {
-        "count": 3
-      },
-      "Agoura Hills": {
-        "count": 2
-      },
-      "Escondido": {
-        "count": 14
-      },
-      "San Pedro (port of Los Angeles)": {
-        "count": 1
-      },
-      "Hesperia": {
-        "count": 5
-      },
-      "Westminster": {
-        "count": 3
-      },
-      "Rancho Bernado": {
-        "count": 2
-      },
-      "Murrieta": {
-        "count": 5
-      },
-      "El Cajon": {
-        "count": 4
-      },
-      "Palm Springs": {
-        "count": 10
-      },
-      "Ramona": {
-        "count": 5
-      },
-      "Torrance": {
-        "count": 11
-      },
-      "Hemet and San Jacinto": {
-        "count": 1
-      },
-      "Irvine": {
-        "count": 9
-      },
-      "Seaside": {
-        "count": 2
-      },
-      "Santa Margarita": {
-        "count": 1
-      },
-      "Dana Point": {
-        "count": 3
-      },
-      "los angeles": {
-        "count": 1
-      },
-      "Baldwin Park": {
-        "count": 4
-      },
-      "Pleasanton": {
-        "count": 4
-      },
-      "Sacramento": {
-        "count": 47
-      },
-      "Spring Valley": {
-        "count": 2
-      },
-      "Carmichael": {
-        "count": 3
-      },
-      "Daly City": {
-        "count": 3
-      },
-      "Anaheim Hills": {
-        "count": 1
-      },
-      "La Mesa": {
-        "count": 2
-      },
-      "Reseda": {
-        "count": 4
-      },
-      "Redding": {
-        "count": 9
-      },
-      "Watsonville": {
-        "count": 5
-      },
-      "San Diego (Lemon Grove)": {
-        "count": 1
-      },
-      "Santa Rosa": {
-        "count": 24
-      },
-      "Rancho Santa Margarita": {
-        "count": 2
-      },
-      "Santa Clara": {
-        "count": 1
-      },
-      "Turlock": {
-        "count": 8
-      },
-      "Hornbrook": {
-        "count": 1
-      },
-      "Arcadia/Monrovia": {
-        "count": 1
-      },
-      "Hawthorne": {
-        "count": 2
-      },
-      "Cupertino": {
-        "count": 1
-      },
-      "Kramer Junction": {
-        "count": 1
-      },
-      "Arcadia": {
-        "count": 2
-      },
-      "Berkeley": {
-        "count": 3
-      },
-      "Citrus Heights": {
-        "count": 5
-      },
-      "National City": {
-        "count": 3
-      },
-      "Pittsburg/Antioch": {
-        "count": 2
-      },
-      "Orland": {
-        "count": 2
-      },
-      "Newhall": {
-        "count": 5
-      },
-      "Moreno Valley": {
-        "count": 7
-      },
-      "Stockton": {
-        "count": 12
-      },
-      "Alameda": {
-        "count": 3
-      },
-      "Santa Paula": {
-        "count": 1
-      },
-      "Capitola": {
-        "count": 3
-      },
-      "Los Angeles/Arts District": {
-        "count": 1
-      },
-      "San Clemente": {
-        "count": 6
-      },
-      "Dixon": {
-        "count": 2
-      },
-      "East Los Angeles": {
-        "count": 4
-      },
-      "Marysville": {
-        "count": 3
-      },
-      "Anaheim": {
-        "count": 23
-      },
-      "Ventura": {
-        "count": 12
-      },
-      "Simi Valley": {
-        "count": 4
-      },
-      "San Gabriel": {
-        "count": 7
-      },
-      "Long Beach": {
-        "count": 37
-      },
-      "Newman": {
-        "count": 1
-      },
-      "Martinez": {
-        "count": 4
-      },
-      "Los Altos": {
-        "count": 2
-      },
-      "Perris": {
-        "count": 6
-      },
-      "Modesto": {
-        "count": 17
-      },
-      "Sunnyvale": {
-        "count": 4
-      },
-      "Vacaville": {
-        "count": 8
-      },
-      "Glendale/Pasadena": {
-        "count": 1
-      },
-      "Folsom": {
-        "count": 7
-      },
-      "San Francisco": {
-        "count": 15
-      },
-      "Cathedral City": {
-        "count": 5
-      },
-      "Rialto": {
-        "count": 4
-      },
-      "Walnut": {
-        "count": 1
-      },
-      "Costa Mesa": {
-        "count": 11
-      },
-      "Chico": {
-        "count": 8
-      },
-      "Rancho San Diego": {
-        "count": 1
-      },
-      "Weed": {
-        "count": 2
-      },
-      "Banning": {
-        "count": 1
-      },
-      "South Pasadena": {
-        "count": 2
-      },
-      "Mount Washington": {
-        "count": 1
-      },
-      "Laguna Beach": {
-        "count": 6
-      },
-      "Sonoma": {
-        "count": 9
-      },
-      "Apple Valley": {
-        "count": 4
-      },
-      "Sheridan": {
-        "count": 1
-      },
-      "Poway": {
-        "count": 4
-      },
-      "West Los Angeles": {
-        "count": 2
-      },
-      "Rancho Palos Verdes": {
-        "count": 5
-      },
-      "Ontario": {
-        "count": 2
-      },
-      "West Hills": {
-        "count": 1
-      },
-      "Redondo Beach": {
-        "count": 4
-      },
-      "Tustin": {
-        "count": 5
-      },
-      "Burney": {
-        "count": 1
-      },
-      "Palm Springs (Windy Point)": {
-        "count": 1
-      },
-      "San Dimas": {
-        "count": 5
-      },
-      "Los Banos": {
-        "count": 5
-      },
-      "Foresthill": {
-        "count": 2
-      },
-      "Alhambra": {
-        "count": 2
-      },
-      "Salinas": {
-        "count": 10
-      },
-      "Eastvale": {
-        "count": 3
-      },
-      "Chatsworth": {
-        "count": 1
-      },
-      "Porter Ranch": {
-        "count": 2
-      },
-      "Oak Park": {
-        "count": 1
-      },
-      "Hastings Ranch": {
-        "count": 1
-      },
-      "Tarzana": {
-        "count": 4
-      },
-      "Lancaster": {
-        "count": 10
-      },
-      "Monterey": {
-        "count": 4
-      },
-      "Yountville": {
-        "count": 4
-      },
-      "Sausalito": {
-        "count": 1
-      },
-      "Corona": {
-        "count": 17
-      },
-      "Chula Vista": {
-        "count": 11
-      },
-      "Redlands": {
-        "count": 9
-      },
-      "Whittier": {
-        "count": 9
-      },
-      "San Pedro": {
-        "count": 6
-      },
-      "Newoort Beach": {
-        "count": 1
-      },
-      "Coachella": {
-        "count": 2
-      },
-      "Tulare": {
-        "count": 2
-      },
-      "Napa": {
-        "count": 7
-      },
-      "Riverside": {
-        "count": 19
-      },
-      "Medford/Weed": {
-        "count": 1
-      },
-      "Inglewood": {
-        "count": 1
-      },
-      "East Otay Mesa": {
-        "count": 1
-      },
-      "Concord": {
-        "count": 4
-      },
-      "Half Moon Bay": {
-        "count": 5
-      },
-      "Menifee": {
-        "count": 11
-      },
-      "Garden Grove": {
-        "count": 5
-      },
-      "E. Rio Vista": {
-        "count": 1
-      },
-      "Grass Valley": {
-        "count": 5
-      },
-      "San Anselmo": {
-        "count": 5
-      },
-      "Vacaville or Fairfield (?) (near)": {
-        "count": 1
-      },
-      "Kearny Mesa": {
-        "count": 1
-      },
-      "Hemet (general area)": {
-        "count": 1
-      },
-      "Elk Grove": {
-        "count": 12
-      },
-      "Lake Elsinore": {
-        "count": 3
-      },
-      "El Centro": {
-        "count": 1
-      },
-      "Visalia": {
-        "count": 9
-      },
-      "Georgetown": {
-        "count": 1
-      },
-      "Sunland": {
-        "count": 1
-      },
-      "Antioch": {
-        "count": 13
-      },
-      "Placerville": {
-        "count": 4
-      },
-      "Jalama Beach": {
-        "count": 1
-      },
-      "\n": {
-        "count": 2
-      },
-      "Benton Hot Springs": {
-        "count": 1
-      },
-      "Sherman Oaks": {
-        "count": 10
-      },
-      "Davis": {
-        "count": 1
-      },
-      "Chino": {
-        "count": 6
-      },
-      "Victorville": {
-        "count": 4
-      },
-      "Glendale": {
-        "count": 5
-      },
-      "Sun Valley": {
-        "count": 1
-      },
-      "Benicia": {
-        "count": 7
-      },
-      "Covina": {
-        "count": 6
-      },
-      "Green Valley Lake": {
-        "count": 1
-      },
-      "Van Nuys": {
-        "count": 6
-      },
-      "La Habra": {
-        "count": 4
-      },
-      "Santa rosa": {
-        "count": 1
-      },
-      "Granada Hills": {
-        "count": 2
-      },
-      "Palmdale": {
-        "count": 10
-      },
-      "Pinon Hills": {
-        "count": 1
-      },
-      "Anahiem": {
-        "count": 1
-      },
-      "Warner Springs (near)": {
-        "count": 1
-      },
-      "Montrose": {
-        "count": 1
-      },
-      "Stanton": {
-        "count": 1
-      },
-      "Yreka": {
-        "count": 1
-      },
-      "Montebello": {
-        "count": 1
-      },
-      "Suisun City": {
-        "count": 1
-      },
-      "Eagle Rock": {
-        "count": 1
-      },
-      "Cloverdale": {
-        "count": 1
-      },
-      "Calistoga": {
-        "count": 1
-      },
-      "Sonoma (Fetters Hot Springs)": {
-        "count": 1
-      },
-      "Lincoln": {
-        "count": 4
-      },
-      "Korbel": {
-        "count": 1
-      },
-      "Tujunga": {
-        "count": 1
-      },
-      "Yosemite National Park": {
-        "count": 2
-      },
-      "Fairfield": {
-        "count": 13
-      },
-      "Berry Creek": {
-        "count": 2
-      },
-      "Ukiah": {
-        "count": 2
-      },
-      "San Leandro": {
-        "count": 3
-      },
-      "Anderson": {
-        "count": 6
-      },
-      "Borrego Springs": {
-        "count": 1
-      },
-      "Kings Beach": {
-        "count": 1
-      },
-      "Palo Alto": {
-        "count": 3
-      },
-      "Fullerton": {
-        "count": 4
-      },
-      "Malibu": {
-        "count": 5
-      },
-      "Delano": {
-        "count": 2
-      },
-      "Oakland": {
-        "count": 12
-      },
-      "Fontana": {
-        "count": 4
-      },
-      "Castro Valley": {
-        "count": 5
-      },
-      "Los Gatos Mountains": {
-        "count": 1
-      },
-      "Madera": {
-        "count": 9
-      },
-      "Landers": {
-        "count": 4
-      },
-      "Landers (Yucca Valley)": {
-        "count": 1
-      },
-      "Pleasant Hill": {
-        "count": 1
-      },
-      "Goleta": {
-        "count": 7
-      },
-      "san jose": {
-        "count": 1
-      },
-      "Roseville": {
-        "count": 16
-      },
-      "Joshua Tree": {
-        "count": 3
-      },
-      "((Location no revealed by witness))": {
-        "count": 1
-      },
-      "West Covina": {
-        "count": 2
-      },
-      "Taft": {
-        "count": 1
-      },
-      "Lake Los Angeles": {
-        "count": 1
-      },
-      "Canoga Park": {
-        "count": 2
-      },
-      "Pebble Beach": {
-        "count": 1
-      },
-      "Indian Reservation on way to Barona Casino": {
-        "count": 1
-      },
-      "Santa Barbara": {
-        "count": 10
-      },
-      "Nicassio": {
-        "count": 1
-      },
-      "Salt Point State Park": {
-        "count": 1
-      },
-      "Lake Forest": {
-        "count": 1
-      },
-      "Sanra Rosa": {
-        "count": 1
-      },
-      "McKinleyville": {
-        "count": 1
-      },
-      "Stevenson Ranch": {
-        "count": 1
-      },
-      "Petaluma": {
-        "count": 7
-      },
-      "Vallejo": {
-        "count": 5
-      },
-      "Oceanside": {
-        "count": 10
-      },
-      "Santa Maria": {
-        "count": 8
-      },
-      "Irvine/Costa Mesa (between)": {
-        "count": 1
-      },
-      "Clovis": {
-        "count": 4
-      },
-      "Calexico": {
-        "count": 1
-      },
-      "Mission Viejo": {
-        "count": 3
-      },
-      "Brawley": {
-        "count": 3
-      },
-      "Pacific Beach": {
-        "count": 1
-      },
-      "San Marcos": {
-        "count": 2
-      },
-      "Chiraco Summit": {
-        "count": 1
-      },
-      "Paso Robles": {
-        "count": 5
-      },
-      "Valley Center": {
-        "count": 3
-      },
-      "La Mirada": {
-        "count": 2
-      },
-      "Fresno": {
-        "count": 24
-      },
-      "Culver City": {
-        "count": 5
-      },
-      "Pioneertown (near)": {
-        "count": 1
-      },
-      "Seal Beach": {
-        "count": 6
-      },
-      "Orange": {
-        "count": 7
-      },
-      "Wrightwood": {
-        "count": 1
-      },
-      "Boulevard": {
-        "count": 1
-      },
-      "Coachella Valley": {
-        "count": 2
-      },
-      "Miramar": {
-        "count": 1
-      },
-      "Groveland": {
-        "count": 1
-      },
-      "Volcano": {
-        "count": 1
-      },
-      "Aliso Viejo": {
-        "count": 5
-      },
-      "Grand Terrace": {
-        "count": 2
-      },
-      "Jamestown": {
-        "count": 2
-      },
-      "San Fernando": {
-        "count": 1
-      },
-      "Ridgecrest": {
-        "count": 7
-      },
-      "Fountain Valley": {
-        "count": 3
-      },
-      "Sebastopol": {
-        "count": 3
-      },
-      "San Pablo": {
-        "count": 2
-      },
-      "Camarillo": {
-        "count": 2
-      },
-      "Pioneer": {
-        "count": 1
-      },
-      "West Lake Village": {
-        "count": 1
-      },
-      "Hollister": {
-        "count": 6
-      },
-      "Valencia": {
-        "count": 1
-      },
-      "Hollywood": {
-        "count": 3
-      },
-      "Pinion Hills": {
-        "count": 1
-      },
-      "Redway": {
-        "count": 1
-      },
-      "Santee": {
-        "count": 5
-      },
-      "Azusa": {
-        "count": 2
-      },
-      "Los Angeles/Sherman Oaks": {
-        "count": 1
-      },
-      "Studio City": {
-        "count": 1
-      },
-      "Porterville": {
-        "count": 3
-      },
-      "Desert Hot Springs": {
-        "count": 4
-      },
-      "Compton": {
-        "count": 1
-      },
-      "Walnut Creek": {
-        "count": 4
-      },
-      "Yucca Valley": {
-        "count": 3
-      },
-      "Chino Hills": {
-        "count": 3
-      },
-      "Antelope Valley": {
-        "count": 1
-      },
-      "Merced": {
-        "count": 3
-      },
-      "Davenport": {
-        "count": 1
-      },
-      "Thousand Oaks": {
-        "count": 3
-      },
-      "Coronado": {
-        "count": 1
-      },
-      "Shafter": {
-        "count": 2
-      },
-      "Galt": {
-        "count": 6
-      },
-      "Campbell": {
-        "count": 4
-      },
-      "Santa Cruz": {
-        "count": 8
-      },
-      "Novato": {
-        "count": 3
-      },
-      "Newport Beach": {
-        "count": 7
-      },
-      "El Monte": {
-        "count": 3
-      },
-      "Templeton": {
-        "count": 3
-      },
-      "Oxnard": {
-        "count": 17
-      },
-      "Redwood City": {
-        "count": 2
-      },
-      "Ojai": {
-        "count": 1
-      },
-      "La Jolla": {
-        "count": 6
-      },
-      "South Lake Tahoe": {
-        "count": 3
-      },
-      "Trabuco Canyon": {
-        "count": 1
-      },
-      "Pt. Sur (50 miles off)": {
-        "count": 1
-      },
-      "Corte Madera": {
-        "count": 4
-      },
-      "American Canyon": {
-        "count": 2
-      },
-      "Burbank": {
-        "count": 8
-      },
-      "Gardena": {
-        "count": 1
-      },
-      "Terra Linda": {
-        "count": 2
-      },
-      "Lamont": {
-        "count": 1
-      },
-      "Lemon Grove": {
-        "count": 1
-      },
-      "San Rafael": {
-        "count": 7
-      },
-      "Hanford": {
-        "count": 2
-      },
-      "Oregon House": {
-        "count": 1
-      },
-      "Los Angeles (LAX Airport)": {
-        "count": 1
-      },
-      "Pollock Pines": {
-        "count": 3
-      },
-      "Gilroy": {
-        "count": 3
-      },
-      "Topanga": {
-        "count": 1
-      },
-      "Port Hueneme": {
-        "count": 2
-      },
-      "Shingle Springs": {
-        "count": 1
-      },
-      "Grass Valley/Auburn (between)": {
-        "count": 1
-      },
-      "La Puente": {
-        "count": 4
-      },
-      "Cayucos": {
-        "count": 2
-      },
-      "Playa Del Rey (Dockweller Beach)": {
-        "count": 1
-      },
-      "Pacific Palisades": {
-        "count": 2
-      },
-      "Upland": {
-        "count": 3
-      },
-      "Valle Vista": {
-        "count": 1
-      },
-      "Yucaipa": {
-        "count": 3
-      },
-      "Bucks Lake": {
-        "count": 1
-      },
-      "Idyllwild": {
-        "count": 3
-      },
-      "Oakdale": {
-        "count": 3
-      },
-      "Rocklin": {
-        "count": 5
-      },
-      "Silverlake": {
-        "count": 1
-      },
-      "Downy": {
-        "count": 1
-      },
-      "Morongo valley": {
-        "count": 1
-      },
-      "Oroville": {
-        "count": 3
-      },
-      "Marina Del Rey": {
-        "count": 3
-      },
-      "Grapevine": {
-        "count": 2
-      },
-      "Clayton": {
-        "count": 2
-      },
-      "La Canada": {
-        "count": 2
-      },
-      "Palm Spring": {
-        "count": 1
-      },
-      "Brentwood": {
-        "count": 1
-      },
-      "Magalia": {
-        "count": 2
-      },
-      "Angels Camp": {
-        "count": 1
-      },
-      "Walnut Creek (area off I-680)": {
-        "count": 1
-      },
-      "Avalon": {
-        "count": 1
-      },
-      "San Diego (North County)": {
-        "count": 1
-      },
-      "Essex": {
-        "count": 1
-      },
-      "Sun City": {
-        "count": 1
-      },
-      "Wheatland": {
-        "count": 1
-      },
-      "South Gate": {
-        "count": 7
-      },
-      "Pittsburg": {
-        "count": 1
-      },
-      "Blythe": {
-        "count": 1
-      },
-      "Norwalk": {
-        "count": 5
-      },
-      "Beaumont": {
-        "count": 2
-      },
-      "Mojave": {
-        "count": 3
-      },
-      "Tracy": {
-        "count": 7
-      },
-      "Lake Hughes": {
-        "count": 1
-      },
-      "Phelan": {
-        "count": 2
-      },
-      "Truckee": {
-        "count": 2
-      },
-      "Anza": {
-        "count": 1
-      },
-      "Livermore": {
-        "count": 3
-      },
-      "Mariposa County": {
-        "count": 1
-      },
-      "Waterford": {
-        "count": 1
-      },
-      "Corona/Lake Mathews": {
-        "count": 1
-      },
-      "Dublin": {
-        "count": 1
-      },
-      "Frazier Park": {
-        "count": 2
-      },
-      "French Camp": {
-        "count": 1
-      },
-      "San Mateo": {
-        "count": 3
-      },
-      "California City": {
-        "count": 1
-      },
-      "Boonville": {
-        "count": 1
-      },
-      "Alpaugh": {
-        "count": 1
-      },
-      "Rohnert Park": {
-        "count": 8
-      },
-      "Willits": {
-        "count": 3
-      },
-      "Auburn": {
-        "count": 2
-      },
-      "Antelope": {
-        "count": 3
-      },
-      "La Quinta, Indian Wells, Palm Desert": {
-        "count": 1
-      },
-      "Palm Desert/La Quinta": {
-        "count": 1
-      },
-      "Oceano": {
-        "count": 2
-      },
-      "Anaheim (NE of)": {
-        "count": 1
-      },
-      "San diego": {
-        "count": 1
-      },
-      "Colfax": {
-        "count": 1
-      },
-      "Lakeside": {
-        "count": 2
-      },
-      "Laguna Hills": {
-        "count": 1
-      },
-      "Lincoln and Roseville": {
-        "count": 1
-      },
-      "Channel Islands Point Magu": {
-        "count": 1
-      },
-      "Kings Canyon National Parks": {
-        "count": 1
-      },
-      "Lafayette": {
-        "count": 2
-      },
-      "Lodi": {
-        "count": 1
-      },
-      "Mount Laguna": {
-        "count": 1
-      },
-      "Pacifica": {
-        "count": 3
-      },
-      "Woodland Hills": {
-        "count": 2
-      },
-      "Palomar Mountain": {
-        "count": 1
-      },
-      "East Oroville": {
-        "count": 1
-      },
-      "San Ramon": {
-        "count": 3
-      },
-      "Santa Fe Springs": {
-        "count": 1
-      },
-      "Laguna Niguel": {
-        "count": 2
-      },
-      "Valley Village": {
-        "count": 2
-      },
-      "Fair Oaks": {
-        "count": 1
-      },
-      "Joshua Tree-Twenty Nine Palms": {
-        "count": 1
-      },
-      "Gerber": {
-        "count": 1
-      },
-      "Los Angeles (Del Mar Beach)": {
-        "count": 1
-      },
-      "Barstow": {
-        "count": 5
-      },
-      "Joshua Tree National Park": {
-        "count": 1
-      },
-      "Dos Palos": {
-        "count": 1
-      },
-      "Baldwin park": {
-        "count": 1
-      },
-      "soledad": {
-        "count": 1
-      },
-      "Willows": {
-        "count": 3
-      },
-      "Manhattan Beach": {
-        "count": 3
-      },
-      "Castiac": {
-        "count": 1
-      },
-      "Barstow (I-15 Fwy)": {
-        "count": 1
-      },
-      "Maywood": {
-        "count": 4
-      },
-      "El Segundo": {
-        "count": 2
-      },
-      "Palos Verdes Estates": {
-        "count": 1
-      },
-      "Bass Lake": {
-        "count": 1
-      },
-      "Bartow": {
-        "count": 1
-      },
-      "Shasta Lake": {
-        "count": 2
-      },
-      "Morro Bay": {
-        "count": 1
-      },
-      "Crestline": {
-        "count": 1
-      },
-      "Paradise": {
-        "count": 2
-      },
-      "Blocksburg": {
-        "count": 2
-      },
-      "San Ysidro (Baja??)": {
-        "count": 1
-      },
-      "Pine Grove": {
-        "count": 1
-      },
-      "Mount Shasta": {
-        "count": 2
-      },
-      "Castaic": {
-        "count": 1
-      },
-      "Montclair": {
-        "count": 2
-      },
-      "Edwards": {
-        "count": 1
-      },
-      "Rubidoux": {
-        "count": 1
-      },
-      "Lompoc": {
-        "count": 3
-      },
-      "Rancho Bernardo": {
-        "count": 2
-      },
-      "San Luis Obispo": {
-        "count": 6
-      },
-      "Ran home Santa Fe": {
-        "count": 1
-      },
-      "Santa Fe (on ranch)": {
-        "count": 1
-      },
-      "Hayward": {
-        "count": 5
-      },
-      "Lakewood": {
-        "count": 5
-      },
-      "Carpenteria": {
-        "count": 1
-      },
-      "Cerritos": {
-        "count": 3
-      },
-      "Arcata": {
-        "count": 1
-      },
-      "Geyserville": {
-        "count": 2
-      },
-      "Kingsburg": {
-        "count": 2
-      },
-      "Hermosa Beach": {
-        "count": 1
-      },
-      "Los Angeles (Venice Beach)": {
-        "count": 1
-      },
-      "Granite Bay": {
-        "count": 3
-      },
-      "Desert Center": {
-        "count": 1
-      },
-      "Sutherlin": {
-        "count": 1
-      },
-      "Mecca": {
-        "count": 1
-      },
-      "Corona del Mar": {
-        "count": 1
-      },
-      "Susanville": {
-        "count": 3
-      },
-      "Orangevale": {
-        "count": 1
-      },
-      "San Ysidro": {
-        "count": 2
-      },
-      "Tehachapi": {
-        "count": 4
-      },
-      "Glendale (La Crecenta": {
-        "count": 1
-      },
-      "DeLuz/Temecula": {
-        "count": 1
-      },
-      "Toluca Lake": {
-        "count": 1
-      },
-      "Sky Valley": {
-        "count": 1
-      },
-      "Moorpark": {
-        "count": 3
-      },
-      "Otay Mesa": {
-        "count": 1
-      },
-      "East Los Angeles (Boyle Heights)": {
-        "count": 1
-      },
-      "Lucerne Valley": {
-        "count": 2
-      },
-      "Rosemead": {
-        "count": 2
-      },
-      "Montague": {
-        "count": 2
-      },
-      "Arroyo Grande": {
-        "count": 1
-      },
-      "Loleta": {
-        "count": 1
-      },
-      "Sears Point Raceway": {
-        "count": 1
-      },
-      "Vannuys": {
-        "count": 1
-      },
-      "sacramento": {
-        "count": 1
-      },
-      "Oakley": {
-        "count": 2
-      },
-      "Ocean Beach": {
-        "count": 1
-      },
-      "Ripon": {
-        "count": 1
-      },
-      "Monrovia": {
-        "count": 1
-      },
-      "All over": {
-        "count": 1
-      },
-      "Cotati": {
-        "count": 2
-      },
-      "Bay Area": {
-        "count": 1
-      },
-      "Buellton": {
-        "count": 1
-      },
-      "Mira Mesa": {
-        "count": 1
-      },
-      "La Quinta": {
-        "count": 3
-      },
-      "Litchfield": {
-        "count": 1
-      },
-      "Marina del Rey": {
-        "count": 4
-      },
-      "29 Palms": {
-        "count": 1
-      },
-      "Long Beach/Los Angles": {
-        "count": 1
-      },
-      "Knights Landing": {
-        "count": 1
-      },
-      "Lemoore": {
-        "count": 1
-      },
-      "Danville": {
-        "count": 1
-      },
-      "San Jacinto": {
-        "count": 2
-      },
-      "Fremont": {
-        "count": 5
-      },
-      "San Diego (Mission Valley)": {
-        "count": 1
-      },
-      "Ozena": {
-        "count": 1
-      },
-      "Lomira": {
-        "count": 1
-      },
-      "Newberry Springs": {
-        "count": 1
-      },
-      "San Juan Capistrano": {
-        "count": 1
-      },
-      "Boyle Heights": {
-        "count": 1
-      },
-      "Cardiff by The Sea": {
-        "count": 1
-      },
-      "East Hemet": {
-        "count": 1
-      },
-      "San Diego/Mira Mesa": {
-        "count": 1
-      },
-      "Patterson": {
-        "count": 1
-      },
-      "Buellton (near)": {
-        "count": 1
-      },
-      "Filmore": {
-        "count": 1
-      },
-      "Isla Vista": {
-        "count": 1
-      },
-      "Carpinteria": {
-        "count": 2
-      },
-      "Morgan Hill": {
-        "count": 2
-      },
-      "Rio Vista": {
-        "count": 1
-      },
-      "Tustin (viewed from)": {
-        "count": 1
-      },
-      "Nuevo": {
-        "count": 1
-      },
-      "Del Mar": {
-        "count": 1
-      },
-      "Encintas": {
-        "count": 1
-      },
-      "Paramount": {
-        "count": 1
-      },
-      "Carson": {
-        "count": 1
-      },
-      "Canyon Lake": {
-        "count": 2
-      },
-      "Downey": {
-        "count": 3
-      },
-      "Wilows": {
-        "count": 1
-      },
-      "Carmel Valley": {
-        "count": 1
-      },
-      "Needles": {
-        "count": 2
-      },
-      "Soledad": {
-        "count": 1
-      },
-      "La Crescenta": {
-        "count": 1
-      },
-      "Menifeeca": {
-        "count": 1
-      },
-      "Atwater": {
-        "count": 1
-      },
-      "Signal Hill": {
-        "count": 1
-      },
-      "Lynwood": {
-        "count": 2
-      },
-      "Diamond Bar": {
-        "count": 3
-      },
-      "Avocado Heights": {
-        "count": 1
-      },
-      "Williams": {
-        "count": 1
-      },
-      "Venice beach": {
-        "count": 1
-      },
-      "Roseville (west of)": {
-        "count": 1
-      },
-      "Cypress": {
-        "count": 1
-      },
-      "Clairemont": {
-        "count": 1
-      },
-      "Fall River Mills": {
-        "count": 1
-      },
-      "Mountain View": {
-        "count": 1
-      },
-      "Placentia": {
-        "count": 1
-      },
-      "Organ House": {
-        "count": 1
-      },
-      "Laytonville": {
-        "count": 1
-      },
-      "Pacoima": {
-        "count": 1
-      },
-      "Los Alamos": {
-        "count": 1
-      },
-      "Near Woody": {
-        "count": 1
-      },
-      "Redlands (heading nw)": {
-        "count": 1
-      },
-      "Saratoga": {
-        "count": 1
-      },
-      "Crescent City": {
-        "count": 1
-      },
-      "Armona": {
-        "count": 1
-      },
-      "Winchester (French Valley)": {
-        "count": 1
-      },
-      "Copperopolis": {
-        "count": 1
-      },
-      "Oceanside (viewing east county)": {
-        "count": 1
-      },
-      "Warner Springs": {
-        "count": 1
-      },
-      "Loomis": {
-        "count": 1
-      },
-      "Southgate": {
-        "count": 2
-      },
-      "San Carlos": {
-        "count": 1
-      },
-      "Marin County": {
-        "count": 1
-      },
-      "Moro Bay": {
-        "count": 2
-      },
-      "Loma Linda": {
-        "count": 2
-      },
-      "El Soreno": {
-        "count": 1
-      },
-      "Calabasas": {
-        "count": 1
-      },
-      "Woodland": {
-        "count": 2
-      },
-      "Cambria": {
-        "count": 2
-      },
-      "Red Bluff": {
-        "count": 1
-      },
-      "Trinidad": {
-        "count": 1
-      },
-      "Los Olivos": {
-        "count": 1
-      },
-      "Salton Sea": {
-        "count": 2
-      },
-      "Pacifica/Daly City": {
-        "count": 1
-      },
-      "Palm Spings": {
-        "count": 1
-      },
-      "Pismo": {
-        "count": 1
-      },
-      "Spring valley": {
-        "count": 1
-      },
-      "Lawndale": {
-        "count": 1
-      },
-      "Nipomo": {
-        "count": 2
-      },
-      "Marina del Rey/Playa Vista": {
-        "count": 1
-      },
-      "Mt. Laguna": {
-        "count": 1
-      },
-      "Goleta (Goleta Beach Park)": {
-        "count": 1
-      },
-      "East Palo Alto": {
-        "count": 1
-      },
-      "Monterey Park": {
-        "count": 2
-      },
-      "N. Hollywood": {
-        "count": 1
-      },
-      "Fresno (north of; on I-5)": {
-        "count": 1
-      },
-      "Coalinga": {
-        "count": 1
-      },
-      "Salton City": {
-        "count": 1
-      },
-      "Firebaugh/Mercey Hot Springs": {
-        "count": 1
-      },
-      "Lake Arrowhead": {
-        "count": 1
-      },
-      "Playa Vista": {
-        "count": 1
-      },
-      "Mira Loma": {
-        "count": 1
-      },
-      "Universal City": {
-        "count": 1
-      },
-      "Shell Beach": {
-        "count": 1
-      },
-      "Newbury Park": {
-        "count": 1
-      },
-      "Catalina Island": {
-        "count": 1
-      },
-      "Windsor": {
-        "count": 2
-      },
-      "Reno": {
-        "count": 1
-      },
-      "Berkeley (above)": {
-        "count": 2
-      },
-      "La Canada Flintridge": {
-        "count": 1
-      },
-      "Avenal": {
-        "count": 1
-      },
-      "Cobb": {
-        "count": 1
-      },
-      "Big Bear Lake": {
-        "count": 1
-      },
-      "Rohnert park": {
-        "count": 1
-      },
-      "West Sonoma County": {
-        "count": 1
-      },
-      "Reedley": {
-        "count": 1
-      },
-      "San Fernando Valley": {
-        "count": 3
-      },
-      "Clearlake": {
-        "count": 1
-      },
-      "San Bernardino/Highland": {
-        "count": 1
-      },
-      "Paramus": {
-        "count": 1
-      },
-      "Del Rosa/San Bernardino": {
-        "count": 1
-      },
-      "Black Rock Campgroud Joshua tree": {
-        "count": 1
-      },
-      "Kelseyville": {
-        "count": 2
-      },
-      "Ocala": {
-        "count": 1
-      },
-      "Caribou": {
-        "count": 1
-      },
-      "Emeryville": {
-        "count": 1
-      },
-      "Laguna beach": {
-        "count": 1
-      },
-      "South Los Angeles": {
-        "count": 1
-      },
-      "Rancho Mirage": {
-        "count": 1
-      },
-      "Cottonwood": {
-        "count": 1
-      },
-      "Highland Park": {
-        "count": 1
-      },
-      "Valley Springs": {
-        "count": 1
-      },
-      "Ladera Ranch": {
-        "count": 1
-      },
-      "Westport": {
-        "count": 1
-      },
-      "Madera Ranchos": {
-        "count": 1
-      },
-      "Somis": {
-        "count": 1
-      },
-      "Truckee/Cisco Grove": {
-        "count": 1
-      },
-      "Mt. Shasta (above)": {
-        "count": 1
-      },
-      "Jackson": {
-        "count": 1
-      },
-      "Murrietta": {
-        "count": 1
-      },
-      "Fortuna": {
-        "count": 1
-      },
-      "Encino": {
-        "count": 1
-      },
-      "Solromar": {
-        "count": 1
-      },
-      "Encinitas Carlsbad": {
-        "count": 1
-      },
-      "Pacific Grove": {
-        "count": 2
-      },
-      "Lakeport": {
-        "count": 2
-      },
-      "Sonora": {
-        "count": 1
-      },
-      "Montara": {
-        "count": 2
-      },
-      "Quincy": {
-        "count": 1
-      },
-      "Rio Dell": {
-        "count": 1
-      },
-      "Bonsall": {
-        "count": 1
-      },
-      "Los Angeles (Westlake Village)": {
-        "count": 1
-      },
-      "Glendora": {
-        "count": 1
-      },
-      "West Sacramento": {
-        "count": 1
-      },
-      "Orange County (in southern part)": {
-        "count": 1
-      },
-      "Palm springs": {
-        "count": 1
-      },
-      "Summerland": {
-        "count": 1
-      },
-      "National City (Palm Ave.)": {
-        "count": 1
-      },
-      "Mission Viejo (headed towards)": {
-        "count": 1
-      },
-      "Los Gatos": {
-        "count": 1
-      },
-      "Westchester": {
-        "count": 1
-      },
-      "Santa Barbara County": {
-        "count": 1
-      },
-      "Lennox": {
-        "count": 1
-      },
-      "Potter Valley": {
-        "count": 1
-      },
-      "Hinkley": {
-        "count": 1
-      },
-      "Play Vista/Marina del Rey": {
-        "count": 1
-      },
-      "Hidden Valley": {
-        "count": 1
-      },
-      "Woodlake": {
-        "count": 1
-      },
-      "Duarte": {
-        "count": 1
-      },
-      "Grover Beach": {
-        "count": 1
-      },
-      "El Cerrito": {
-        "count": 1
-      },
-      "Los Alamitos": {
-        "count": 1
-      },
-      "North Sacramento": {
-        "count": 1
-      },
-      "Pico Rivera": {
-        "count": 1
-      },
-      "Venice": {
-        "count": 1
-      },
-      "Escalon": {
-        "count": 1
-      },
-      "Cardiff by the Sea": {
-        "count": 1
-      },
-      "fort bragg": {
-        "count": 1
-      },
-      "San Francisco/Daly City": {
-        "count": 1
-      },
-      "Fresno County": {
-        "count": 1
-      },
-      "Temple City/Arcadia": {
-        "count": 1
-      },
-      "Pine Mountain Club": {
-        "count": 1
-      },
-      "Woodland Hills/Topaga": {
-        "count": 1
-      },
-      "Stanford": {
-        "count": 1
-      },
-      "Mariposa": {
-        "count": 1
-      }
-    }
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "count": 73
   },
-  "AK": {
-    "cities": {
-      "Fairbanks": {
-        "count": 20
-      },
-      "Wasilla": {
-        "count": 13
-      },
-      "Tanana": {
-        "count": 1
-      },
-      "Anchorage": {
-        "count": 34
-      },
-      "Palmer": {
-        "count": 7
-      },
-      "Valdez": {
-        "count": 1
-      },
-      "Nikiski": {
-        "count": 2
-      },
-      "Chugiak": {
-        "count": 2
-      },
-      "Soldotna": {
-        "count": 1
-      },
-      "Sand Point": {
-        "count": 1
-      },
-      "Delta Junction": {
-        "count": 1
-      },
-      "Anchor Point": {
-        "count": 2
-      },
-      "North Pole": {
-        "count": 2
-      },
-      "Juneau": {
-        "count": 4
-      },
-      "Anchorage/Eagle River (between)": {
-        "count": 1
-      },
-      "Big Lake": {
-        "count": 2
-      },
-      "Coffman Cove": {
-        "count": 1
-      },
-      "Pelican": {
-        "count": 1
-      },
-      "Kotzebue": {
-        "count": 1
-      },
-      "Dillingham": {
-        "count": 1
-      },
-      "Kasilof": {
-        "count": 1
-      },
-      "Eagle River": {
-        "count": 4
-      },
-      "Nome": {
-        "count": 1
-      },
-      "Butte": {
-        "count": 1
-      },
-      "Sitka": {
-        "count": 2
-      },
-      "Ketchikan": {
-        "count": 1
-      },
-      "Ninilchik": {
-        "count": 1
-      },
-      "Bethel": {
-        "count": 1
-      },
-      "Homer": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Fairbanks",
+    "state": "AK",
+    "count": 20
   },
-  "IL": {
-    "cities": {
-      "Chicago": {
-        "count": 52
-      },
-      "Romeoville": {
-        "count": 3
-      },
-      "Hampshire": {
-        "count": 2
-      },
-      "Mahomet": {
-        "count": 1
-      },
-      "Arlington Heights": {
-        "count": 2
-      },
-      "Pawnee": {
-        "count": 1
-      },
-      "Plato Center": {
-        "count": 2
-      },
-      "Naperville": {
-        "count": 8
-      },
-      "Vienna": {
-        "count": 1
-      },
-      "Springfield": {
-        "count": 10
-      },
-      "Carbondale": {
-        "count": 3
-      },
-      "Champaign": {
-        "count": 3
-      },
-      "Wilmette": {
-        "count": 1
-      },
-      "Batavia": {
-        "count": 2
-      },
-      "Sparland": {
-        "count": 1
-      },
-      "Effingham": {
-        "count": 2
-      },
-      "Bloomington": {
-        "count": 5
-      },
-      "Leland": {
-        "count": 1
-      },
-      "O'Fallon": {
-        "count": 1
-      },
-      "Rockford/Belvidere": {
-        "count": 1
-      },
-      "Mattoon": {
-        "count": 2
-      },
-      "Johnston City": {
-        "count": 1
-      },
-      "Normal": {
-        "count": 1
-      },
-      "Elmwood Park": {
-        "count": 1
-      },
-      "Blyton": {
-        "count": 1
-      },
-      "Warsaw": {
-        "count": 1
-      },
-      "La Salle": {
-        "count": 1
-      },
-      "Lewistown": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "New Lenox": {
-        "count": 3
-      },
-      "Lake Shelbyville": {
-        "count": 1
-      },
-      "Montrose": {
-        "count": 1
-      },
-      "Oakwood Hills": {
-        "count": 1
-      },
-      "Rockford": {
-        "count": 2
-      },
-      "Crystal Lake": {
-        "count": 5
-      },
-      "Orland Hills": {
-        "count": 1
-      },
-      "Geneva": {
-        "count": 1
-      },
-      "Hanover Park": {
-        "count": 1
-      },
-      "Walnut": {
-        "count": 1
-      },
-      "Rantoul": {
-        "count": 3
-      },
-      "Olney": {
-        "count": 2
-      },
-      "Harvey": {
-        "count": 1
-      },
-      "Oak Lawn": {
-        "count": 19
-      },
-      "Round Lake": {
-        "count": 2
-      },
-      "Peoria": {
-        "count": 5
-      },
-      "Manteno": {
-        "count": 1
-      },
-      "Nashville": {
-        "count": 1
-      },
-      "Kewanee": {
-        "count": 1
-      },
-      "Wonder Lake": {
-        "count": 2
-      },
-      "Dolton": {
-        "count": 1
-      },
-      "Orland Park": {
-        "count": 7
-      },
-      "Wilmington": {
-        "count": 1
-      },
-      "Des Plaines": {
-        "count": 3
-      },
-      "Edwardsville": {
-        "count": 2
-      },
-      "Belleville": {
-        "count": 3
-      },
-      "Franklin Park": {
-        "count": 1
-      },
-      "Bridgeview": {
-        "count": 1
-      },
-      "Bolingbrook": {
-        "count": 1
-      },
-      "Rochelle": {
-        "count": 3
-      },
-      "Phoenix": {
-        "count": 1
-      },
-      "Tinley Park": {
-        "count": 4
-      },
-      "LaFayette": {
-        "count": 1
-      },
-      "Wheeling": {
-        "count": 1
-      },
-      "Carpentersville": {
-        "count": 1
-      },
-      "Skokie": {
-        "count": 3
-      },
-      "Glendale Heights": {
-        "count": 2
-      },
-      "Morton": {
-        "count": 1
-      },
-      "Kirkland": {
-        "count": 1
-      },
-      "Frankfort": {
-        "count": 4
-      },
-      "Schaumburg": {
-        "count": 4
-      },
-      "Multiple": {
-        "count": 1
-      },
-      "Woodridge": {
-        "count": 1
-      },
-      "East Peoria": {
-        "count": 1
-      },
-      "Jerseyville": {
-        "count": 1
-      },
-      "Union": {
-        "count": 1
-      },
-      "Carlinville": {
-        "count": 2
-      },
-      "Plainfield": {
-        "count": 8
-      },
-      "Centerville": {
-        "count": 1
-      },
-      "Beecher": {
-        "count": 1
-      },
-      "Green Garden Township": {
-        "count": 1
-      },
-      "Ottawa": {
-        "count": 6
-      },
-      "Elwood": {
-        "count": 1
-      },
-      "Highland Park": {
-        "count": 2
-      },
-      "Herod": {
-        "count": 1
-      },
-      "Villa Park": {
-        "count": 2
-      },
-      "Oregon": {
-        "count": 1
-      },
-      "Madison": {
-        "count": 1
-      },
-      "Taylorville": {
-        "count": 1
-      },
-      "Aurora": {
-        "count": 3
-      },
-      "Illiopolis": {
-        "count": 1
-      },
-      "Sullivan": {
-        "count": 1
-      },
-      "Brookfield": {
-        "count": 2
-      },
-      "Oswego": {
-        "count": 8
-      },
-      "Danforth": {
-        "count": 1
-      },
-      "St. Charles": {
-        "count": 3
-      },
-      "Stonefort": {
-        "count": 1
-      },
-      "Oak Forest": {
-        "count": 1
-      },
-      "Elgin": {
-        "count": 2
-      },
-      "Northbrook": {
-        "count": 2
-      },
-      "Chicago (Wood Dale)": {
-        "count": 1
-      },
-      "Stickney": {
-        "count": 1
-      },
-      "West Chicago": {
-        "count": 1
-      },
-      "Macomb": {
-        "count": 3
-      },
-      "Cicero": {
-        "count": 2
-      },
-      "Hazel Crest": {
-        "count": 1
-      },
-      "Bourbonnais": {
-        "count": 1
-      },
-      "Winthrop Harbor": {
-        "count": 1
-      },
-      "Wheaton": {
-        "count": 5
-      },
-      "Rock Falls": {
-        "count": 1
-      },
-      "Maryville": {
-        "count": 1
-      },
-      "Murphysboro": {
-        "count": 1
-      },
-      "Shorewood": {
-        "count": 1
-      },
-      "Lake Zurich": {
-        "count": 1
-      },
-      "Hometown": {
-        "count": 2
-      },
-      "Joliet": {
-        "count": 4
-      },
-      "South Elgin": {
-        "count": 1
-      },
-      "Matteson": {
-        "count": 2
-      },
-      "Downers Grove": {
-        "count": 1
-      },
-      "Lively Grove": {
-        "count": 1
-      },
-      "Carol Stream": {
-        "count": 1
-      },
-      "South Barrington": {
-        "count": 2
-      },
-      "Godfrey": {
-        "count": 2
-      },
-      "Middletown": {
-        "count": 2
-      },
-      "Algonquin": {
-        "count": 3
-      },
-      "Blue Island": {
-        "count": 2
-      },
-      "Canton": {
-        "count": 1
-      },
-      "Braidwood": {
-        "count": 1
-      },
-      "Glenview": {
-        "count": 3
-      },
-      "Marion": {
-        "count": 1
-      },
-      "Buffalo Grove": {
-        "count": 3
-      },
-      "Shelbyville": {
-        "count": 1
-      },
-      "Yorkville": {
-        "count": 2
-      },
-      "Lake Villa": {
-        "count": 1
-      },
-      "Ashton": {
-        "count": 1
-      },
-      "Rock Island": {
-        "count": 1
-      },
-      "Elmhurst": {
-        "count": 1
-      },
-      "Cairo": {
-        "count": 1
-      },
-      "Mount Carmel": {
-        "count": 1
-      },
-      "Berwyn": {
-        "count": 2
-      },
-      "West Frankfort": {
-        "count": 2
-      },
-      "Palatine": {
-        "count": 3
-      },
-      "Rochester": {
-        "count": 1
-      },
-      "Sterling": {
-        "count": 3
-      },
-      "McHenrry": {
-        "count": 1
-      },
-      "Rosiclare": {
-        "count": 1
-      },
-      "Hoffman": {
-        "count": 1
-      },
-      "Kingston": {
-        "count": 1
-      },
-      "Hickory Hills": {
-        "count": 2
-      },
-      "Zion": {
-        "count": 1
-      },
-      "Pekin": {
-        "count": 1
-      },
-      "Lombard": {
-        "count": 3
-      },
-      "Warren": {
-        "count": 1
-      },
-      "Antioch": {
-        "count": 2
-      },
-      "Elk Grove Village": {
-        "count": 1
-      },
-      "Trout Valley": {
-        "count": 1
-      },
-      "North Riverside": {
-        "count": 1
-      },
-      "Spring Grove": {
-        "count": 1
-      },
-      "Breese": {
-        "count": 1
-      },
-      "Pingree Grove": {
-        "count": 2
-      },
-      "Eureka": {
-        "count": 1
-      },
-      "Moline": {
-        "count": 1
-      },
-      "Athens": {
-        "count": 1
-      },
-      "rockford": {
-        "count": 1
-      },
-      "Lake In The Hills": {
-        "count": 1
-      },
-      "Palos Park": {
-        "count": 1
-      },
-      "DeKalb": {
-        "count": 1
-      },
-      "Peru": {
-        "count": 1
-      },
-      "Dixon": {
-        "count": 1
-      },
-      "Morton Grove": {
-        "count": 1
-      },
-      "Illinois (location not specified)": {
-        "count": 1
-      },
-      "Villa Grove": {
-        "count": 1
-      },
-      "Brownstown": {
-        "count": 1
-      },
-      "Olney (Musgrove Park)": {
-        "count": 1
-      },
-      "Mundelein": {
-        "count": 1
-      },
-      "Pontoon Beach": {
-        "count": 1
-      },
-      "Jonesboro": {
-        "count": 5
-      },
-      "Christopher": {
-        "count": 1
-      },
-      "Glen Ellyn": {
-        "count": 1
-      },
-      "Loves Park": {
-        "count": 1
-      },
-      "Salem": {
-        "count": 1
-      },
-      "Worth": {
-        "count": 1
-      },
-      "Schiller Park": {
-        "count": 1
-      },
-      "Park Forest": {
-        "count": 1
-      },
-      "River Grove": {
-        "count": 2
-      },
-      "Glenarm": {
-        "count": 2
-      },
-      "Marquette Heights": {
-        "count": 1
-      },
-      "Grayslake": {
-        "count": 2
-      },
-      "Swansea": {
-        "count": 2
-      },
-      "Cary": {
-        "count": 1
-      },
-      "Crestwood": {
-        "count": 1
-      },
-      "Rather not say.": {
-        "count": 1
-      },
-      "Liberty": {
-        "count": 1
-      },
-      "Rolling Meadows": {
-        "count": 1
-      },
-      "Mokena": {
-        "count": 1
-      },
-      "Niles": {
-        "count": 2
-      },
-      "Morton grove": {
-        "count": 1
-      },
-      "Mount Morris": {
-        "count": 1
-      },
-      "Marseilles": {
-        "count": 1
-      },
-      "Woodstock": {
-        "count": 1
-      },
-      "Johnsburg": {
-        "count": 1
-      },
-      "Bloomington (outside; north of)": {
-        "count": 1
-      },
-      "Neoga/Mattoon (between; on I-57)": {
-        "count": 1
-      },
-      "Burbank": {
-        "count": 1
-      },
-      "Tremont": {
-        "count": 1
-      },
-      "Machesney Park": {
-        "count": 2
-      },
-      "Highwood": {
-        "count": 1
-      },
-      "Park Ridge": {
-        "count": 1
-      },
-      "Justice": {
-        "count": 1
-      },
-      "North Aurora": {
-        "count": 1
-      },
-      "Fulton": {
-        "count": 1
-      },
-      "Pecatonica": {
-        "count": 1
-      },
-      "Lisle": {
-        "count": 1
-      },
-      "Savoy": {
-        "count": 1
-      },
-      "Iola": {
-        "count": 1
-      },
-      "Mount Vernon": {
-        "count": 2
-      },
-      "Sublette": {
-        "count": 1
-      },
-      "Sycamore": {
-        "count": 2
-      },
-      "Barrington": {
-        "count": 1
-      },
-      "Galena": {
-        "count": 1
-      },
-      "Crystal lake": {
-        "count": 1
-      },
-      "Bartlet": {
-        "count": 1
-      },
-      "Vernon Hills": {
-        "count": 1
-      },
-      "Streamwood": {
-        "count": 1
-      },
-      "Alton": {
-        "count": 2
-      },
-      "Libertyville": {
-        "count": 1
-      },
-      "Bartlett": {
-        "count": 1
-      },
-      "Fox River Grove": {
-        "count": 1
-      },
-      "Dupo": {
-        "count": 1
-      },
-      "Dekalb": {
-        "count": 1
-      },
-      "Goreville": {
-        "count": 1
-      },
-      "Warrensburg": {
-        "count": 1
-      },
-      "Roselle": {
-        "count": 1
-      },
-      "Woodson": {
-        "count": 1
-      },
-      "Odin": {
-        "count": 1
-      },
-      "Galatia": {
-        "count": 1
-      },
-      "Mount Prospect": {
-        "count": 1
-      },
-      "Gurnee": {
-        "count": 1
-      },
-      "Creve Coeur": {
-        "count": 1
-      },
-      "Newton (near)": {
-        "count": 1
-      },
-      "Gilson": {
-        "count": 1
-      },
-      "Collinsville": {
-        "count": 1
-      },
-      "Griggsville": {
-        "count": 1
-      },
-      "Avon": {
-        "count": 1
-      },
-      "Chicago Heights": {
-        "count": 1
-      },
-      "Bloomingdale": {
-        "count": 1
-      },
-      "McLean": {
-        "count": 1
-      },
-      "Virden": {
-        "count": 1
-      },
-      "Northlake": {
-        "count": 2
-      },
-      "Danville": {
-        "count": 1
-      },
-      "Sherman": {
-        "count": 1
-      },
-      "LaGrange": {
-        "count": 1
-      },
-      "Crete": {
-        "count": 1
-      },
-      "Dunlap": {
-        "count": 1
-      },
-      "Sigel": {
-        "count": 1
-      },
-      "McHenry": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "count": 52
   },
-  "MI": {
-    "cities": {
-      "Flat Rock": {
-        "count": 2
-      },
-      "Ann Arbor": {
-        "count": 7
-      },
-      "Lansing": {
-        "count": 13
-      },
-      "Gregory": {
-        "count": 1
-      },
-      "Grass Lake": {
-        "count": 3
-      },
-      "Grand Rapids": {
-        "count": 22
-      },
-      "Williamston": {
-        "count": 2
-      },
-      "Fraser": {
-        "count": 4
-      },
-      "Cedar Springs": {
-        "count": 3
-      },
-      "Chesterfiled": {
-        "count": 1
-      },
-      "Flint": {
-        "count": 3
-      },
-      "Lake Orion": {
-        "count": 3
-      },
-      "Commerce Twp.": {
-        "count": 1
-      },
-      "Jackson": {
-        "count": 2
-      },
-      "Comstock Park": {
-        "count": 2
-      },
-      "White Lake": {
-        "count": 2
-      },
-      "Port Austin": {
-        "count": 2
-      },
-      "Newberry": {
-        "count": 1
-      },
-      "Taylor": {
-        "count": 2
-      },
-      "Monroe": {
-        "count": 5
-      },
-      "Dimondale": {
-        "count": 1
-      },
-      "Warren": {
-        "count": 13
-      },
-      "Niles": {
-        "count": 4
-      },
-      "Bay City": {
-        "count": 4
-      },
-      "Troy": {
-        "count": 2
-      },
-      "Fruitport": {
-        "count": 2
-      },
-      "Grand Haven": {
-        "count": 1
-      },
-      "Armada": {
-        "count": 1
-      },
-      "manistee": {
-        "count": 1
-      },
-      "Hudsonville": {
-        "count": 2
-      },
-      "New Baltimore": {
-        "count": 1
-      },
-      "Gross Ile": {
-        "count": 1
-      },
-      "Vicksburg": {
-        "count": 3
-      },
-      "Hazel Park": {
-        "count": 2
-      },
-      "Dearborn Heights": {
-        "count": 3
-      },
-      "Kalamazoo": {
-        "count": 7
-      },
-      "Detroit (northwest area)": {
-        "count": 1
-      },
-      "Alto": {
-        "count": 1
-      },
-      "Rothbury": {
-        "count": 1
-      },
-      "Mount Clemens": {
-        "count": 1
-      },
-      "Dearborn": {
-        "count": 5
-      },
-      "Detroit": {
-        "count": 17
-      },
-      "Rochester Hills": {
-        "count": 4
-      },
-      "Traverse City": {
-        "count": 3
-      },
-      "Muskegon": {
-        "count": 9
-      },
-      "Grosse Pointe Farms": {
-        "count": 1
-      },
-      "Martin": {
-        "count": 1
-      },
-      "Macomb": {
-        "count": 5
-      },
-      "Grayling": {
-        "count": 3
-      },
-      "North Muskegon": {
-        "count": 1
-      },
-      "Auburn Hills": {
-        "count": 5
-      },
-      "Cadillac": {
-        "count": 1
-      },
-      "Clinton Township": {
-        "count": 2
-      },
-      "Midland": {
-        "count": 6
-      },
-      "Honor": {
-        "count": 1
-      },
-      "Bellaire": {
-        "count": 2
-      },
-      "Sterling Heights": {
-        "count": 4
-      },
-      "Royal Oak": {
-        "count": 4
-      },
-      "Plymouth": {
-        "count": 3
-      },
-      "Port Sanilac": {
-        "count": 2
-      },
-      "Greenville": {
-        "count": 1
-      },
-      "Waters": {
-        "count": 1
-      },
-      "Imlay City": {
-        "count": 1
-      },
-      "St. Louis": {
-        "count": 1
-      },
-      "Romulus": {
-        "count": 4
-      },
-      "Saginaw": {
-        "count": 4
-      },
-      "Lapeer": {
-        "count": 3
-      },
-      "Novi": {
-        "count": 3
-      },
-      "Leota": {
-        "count": 1
-      },
-      "Allen Park": {
-        "count": 3
-      },
-      "Canton": {
-        "count": 10
-      },
-      "Brighton": {
-        "count": 2
-      },
-      "Adrian": {
-        "count": 1
-      },
-      "Keego Harbor": {
-        "count": 1
-      },
-      "Marysville": {
-        "count": 2
-      },
-      "Auburn": {
-        "count": 1
-      },
-      "Northville": {
-        "count": 1
-      },
-      "Newport": {
-        "count": 1
-      },
-      "Grant": {
-        "count": 1
-      },
-      "Marne": {
-        "count": 2
-      },
-      "Frankenmuth": {
-        "count": 1
-      },
-      "Allendale": {
-        "count": 1
-      },
-      "Wyoming": {
-        "count": 4
-      },
-      "Gull Lake": {
-        "count": 1
-      },
-      "Wyandotte": {
-        "count": 1
-      },
-      "Paw Paw": {
-        "count": 2
-      },
-      "Battle Creek": {
-        "count": 1
-      },
-      "Ypsilanti": {
-        "count": 4
-      },
-      "St. Clair": {
-        "count": 2
-      },
-      "Manistee": {
-        "count": 1
-      },
-      "Grandville": {
-        "count": 1
-      },
-      "Sawyer": {
-        "count": 1
-      },
-      "Holland": {
-        "count": 9
-      },
-      "Howell": {
-        "count": 2
-      },
-      "Whitehall": {
-        "count": 1
-      },
-      "Athens": {
-        "count": 1
-      },
-      "Southfield": {
-        "count": 1
-      },
-      "Waterford": {
-        "count": 3
-      },
-      "Shepherd": {
-        "count": 1
-      },
-      "Decatur": {
-        "count": 1
-      },
-      "Center Line": {
-        "count": 2
-      },
-      "Hale": {
-        "count": 1
-      },
-      "Belmont": {
-        "count": 1
-      },
-      "Chesterfield": {
-        "count": 1
-      },
-      "Bloomfield Hills": {
-        "count": 1
-      },
-      "Stevensville": {
-        "count": 2
-      },
-      "Pinckney": {
-        "count": 2
-      },
-      "Ortonville": {
-        "count": 1
-      },
-      "Madison Heights": {
-        "count": 1
-      },
-      "Hanover": {
-        "count": 1
-      },
-      "Grand Blanc": {
-        "count": 5
-      },
-      "Stering Heights": {
-        "count": 1
-      },
-      "Fenton": {
-        "count": 3
-      },
-      "Assumption": {
-        "count": 1
-      },
-      "Gladwin": {
-        "count": 2
-      },
-      "Highland": {
-        "count": 1
-      },
-      "South Haven": {
-        "count": 4
-      },
-      "Rose City": {
-        "count": 1
-      },
-      "Roseville": {
-        "count": 1
-      },
-      "Manistique": {
-        "count": 1
-      },
-      "Harbor Springs": {
-        "count": 1
-      },
-      "Dollar Bay": {
-        "count": 1
-      },
-      "South Marquette County": {
-        "count": 1
-      },
-      "Zeeland": {
-        "count": 5
-      },
-      "Gaylord": {
-        "count": 3
-      },
-      "Charlevoix": {
-        "count": 1
-      },
-      "Inkster": {
-        "count": 1
-      },
-      "Three Oaks": {
-        "count": 1
-      },
-      "Cement City": {
-        "count": 1
-      },
-      "Clinton": {
-        "count": 3
-      },
-      "Shelby": {
-        "count": 1
-      },
-      "Mackinaw City": {
-        "count": 1
-      },
-      "Garden City": {
-        "count": 5
-      },
-      "Livonia": {
-        "count": 4
-      },
-      "Commerce Township": {
-        "count": 1
-      },
-      "Farmington Hills": {
-        "count": 4
-      },
-      "Coloma": {
-        "count": 2
-      },
-      "I-196 at Mile Marker 7": {
-        "count": 1
-      },
-      "Oscoda": {
-        "count": 1
-      },
-      "Detour Village": {
-        "count": 1
-      },
-      "Sterling": {
-        "count": 1
-      },
-      "Michigan (Central Upper)": {
-        "count": 1
-      },
-      "Swartz Creek": {
-        "count": 1
-      },
-      "Plainwell": {
-        "count": 2
-      },
-      "Milan": {
-        "count": 1
-      },
-      "Westland": {
-        "count": 5
-      },
-      "De Tour Village": {
-        "count": 1
-      },
-      "Lincoln Park": {
-        "count": 1
-      },
-      "Eastpointe": {
-        "count": 2
-      },
-      "Commerce": {
-        "count": 1
-      },
-      "Hart": {
-        "count": 1
-      },
-      "St. Charles": {
-        "count": 1
-      },
-      "Mayville": {
-        "count": 1
-      },
-      "Hudson": {
-        "count": 1
-      },
-      "Harbor Beach": {
-        "count": 1
-      },
-      "Birch Run": {
-        "count": 1
-      },
-      "Pontiac": {
-        "count": 1
-      },
-      "Clio": {
-        "count": 1
-      },
-      "Vassar": {
-        "count": 1
-      },
-      "Twin Lake": {
-        "count": 1
-      },
-      "Camden": {
-        "count": 1
-      },
-      "Hamburg": {
-        "count": 1
-      },
-      "Oakland Township": {
-        "count": 1
-      },
-      "Frenchtown (Monroe)": {
-        "count": 1
-      },
-      "Norton Shores": {
-        "count": 2
-      },
-      "Clare": {
-        "count": 1
-      },
-      "Alanson": {
-        "count": 1
-      },
-      "South Lyon": {
-        "count": 2
-      },
-      "Somerset Center": {
-        "count": 1
-      },
-      "Richland": {
-        "count": 1
-      },
-      "Blanchard": {
-        "count": 1
-      },
-      "East Lansing": {
-        "count": 1
-      },
-      "Coldwater": {
-        "count": 2
-      },
-      "Ada": {
-        "count": 1
-      },
-      "Summerfield Township": {
-        "count": 1
-      },
-      "West Branch": {
-        "count": 1
-      },
-      "Franklyn": {
-        "count": 1
-      },
-      "Kentwood": {
-        "count": 1
-      },
-      "Boon": {
-        "count": 1
-      },
-      "Bridgeton": {
-        "count": 1
-      },
-      "Marshall": {
-        "count": 2
-      },
-      "Flushing": {
-        "count": 1
-      },
-      "Wayne": {
-        "count": 2
-      },
-      "Okemos": {
-        "count": 1
-      },
-      "Riverview": {
-        "count": 1
-      },
-      "Allegan": {
-        "count": 2
-      },
-      "Portage": {
-        "count": 2
-      },
-      "Sand Lake": {
-        "count": 1
-      },
-      "Drummond Island michigan": {
-        "count": 1
-      },
-      "Saint Clair Shores": {
-        "count": 1
-      },
-      "Saint Clair Shored": {
-        "count": 1
-      },
-      "Saline": {
-        "count": 1
-      },
-      "Galesburg": {
-        "count": 1
-      },
-      "Freeport": {
-        "count": 1
-      },
-      "Lawton": {
-        "count": 1
-      },
-      "West Bloomfield": {
-        "count": 1
-      },
-      "Macomb Township": {
-        "count": 1
-      },
-      "Corunna": {
-        "count": 1
-      },
-      "Fremont": {
-        "count": 1
-      },
-      "Croswell": {
-        "count": 1
-      },
-      "North Central Upper Peninsula": {
-        "count": 1
-      },
-      "Shelby Twp": {
-        "count": 1
-      },
-      "Mount Morris": {
-        "count": 1
-      },
-      "Gladstone": {
-        "count": 1
-      },
-      "Oscoda/Greenbush/Harrisville": {
-        "count": 1
-      },
-      "Marquette": {
-        "count": 2
-      },
-      "Bangor and Bloomingdale (between)": {
-        "count": 1
-      },
-      "Tyrone Township": {
-        "count": 1
-      },
-      "Salie": {
-        "count": 1
-      },
-      "Marlette": {
-        "count": 1
-      },
-      "Holly": {
-        "count": 1
-      },
-      "Mason": {
-        "count": 2
-      },
-      "Mount Pleasant": {
-        "count": 1
-      },
-      "Onaway": {
-        "count": 3
-      },
-      "Tekonsha": {
-        "count": 1
-      },
-      "Eaton Rapids": {
-        "count": 1
-      },
-      "Dundee to Brighton (between)": {
-        "count": 1
-      },
-      "Flint/Lansing": {
-        "count": 1
-      },
-      "Stockbridge": {
-        "count": 1
-      },
-      "Walker": {
-        "count": 1
-      },
-      "St. Clair Shores": {
-        "count": 1
-      },
-      "Hubbard Lake": {
-        "count": 1
-      },
-      "Big Bay": {
-        "count": 1
-      },
-      "Tecumseh": {
-        "count": 1
-      },
-      "Jersey City": {
-        "count": 1
-      },
-      "Bridgman": {
-        "count": 2
-      },
-      "Munith": {
-        "count": 1
-      },
-      "Columbus": {
-        "count": 1
-      },
-      "Sault Ste. Marie": {
-        "count": 1
-      },
-      "Escanaba": {
-        "count": 1
-      },
-      "Chelsea": {
-        "count": 1
-      },
-      "Dexter/Ann Arbor (general area)": {
-        "count": 1
-      },
-      "Georgetown Twp": {
-        "count": 1
-      },
-      "Eaton rapids": {
-        "count": 1
-      },
-      "Williamsburg": {
-        "count": 1
-      },
-      "Fairview": {
-        "count": 1
-      },
-      "Whitmore Lake": {
-        "count": 1
-      },
-      "East Grand Rapids": {
-        "count": 1
-      },
-      "Rochester": {
-        "count": 1
-      },
-      "Durand": {
-        "count": 1
-      },
-      "Waterford Twp": {
-        "count": 1
-      },
-      "Antrim Township": {
-        "count": 1
-      },
-      "Beverly Hills": {
-        "count": 1
-      },
-      "Oxford": {
-        "count": 1
-      },
-      "Temperance": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Canton",
+    "state": "OH",
+    "count": 6
   },
-  "WI": {
-    "cities": {
-      "Brookfield": {
-        "count": 5
-      },
-      "De Pere": {
-        "count": 2
-      },
-      "Brown Deer": {
-        "count": 1
-      },
-      "Janesville": {
-        "count": 8
-      },
-      "Green Bay": {
-        "count": 11
-      },
-      "Darien": {
-        "count": 1
-      },
-      "Mount Pleasant": {
-        "count": 1
-      },
-      "Plymouth": {
-        "count": 2
-      },
-      "Menomonee Falls": {
-        "count": 2
-      },
-      "Adams": {
-        "count": 2
-      },
-      "Fremont": {
-        "count": 3
-      },
-      "Marshfield": {
-        "count": 2
-      },
-      "Stevens Point": {
-        "count": 8
-      },
-      "Packwaukee": {
-        "count": 1
-      },
-      "Waupaca": {
-        "count": 4
-      },
-      "Redgranite": {
-        "count": 1
-      },
-      "Madison": {
-        "count": 26
-      },
-      "South Milwaukee": {
-        "count": 2
-      },
-      "West Salem": {
-        "count": 1
-      },
-      "Appleton": {
-        "count": 7
-      },
-      "Wyeville": {
-        "count": 1
-      },
-      "Spring Valley": {
-        "count": 1
-      },
-      "Town of Texas": {
-        "count": 1
-      },
-      "River Falls/Prescott": {
-        "count": 1
-      },
-      "Lyndon Station": {
-        "count": 2
-      },
-      "Harshaw": {
-        "count": 1
-      },
-      "Baraboo": {
-        "count": 4
-      },
-      "Milwaukee": {
-        "count": 23
-      },
-      "Maison": {
-        "count": 1
-      },
-      "Monroe": {
-        "count": 1
-      },
-      "Rice Lake": {
-        "count": 3
-      },
-      "Waupun": {
-        "count": 3
-      },
-      "Oshkosh": {
-        "count": 3
-      },
-      "Elkhart Lake": {
-        "count": 2
-      },
-      "Sun Prairie": {
-        "count": 3
-      },
-      "Eau Claire": {
-        "count": 2
-      },
-      "Beloit": {
-        "count": 2
-      },
-      "Land O'Lakes": {
-        "count": 1
-      },
-      "Barneveld": {
-        "count": 1
-      },
-      "Sturgeon Bay": {
-        "count": 3
-      },
-      "West Bend": {
-        "count": 1
-      },
-      "Neenah": {
-        "count": 1
-      },
-      "Cottage Grove & Madison": {
-        "count": 1
-      },
-      "South Belot": {
-        "count": 1
-      },
-      "Sister Bay": {
-        "count": 1
-      },
-      "Monona": {
-        "count": 1
-      },
-      "Waukesha": {
-        "count": 6
-      },
-      "Crescent": {
-        "count": 1
-      },
-      "Sheboygan": {
-        "count": 4
-      },
-      "Wausau": {
-        "count": 4
-      },
-      "Kaukauna": {
-        "count": 4
-      },
-      "Superior": {
-        "count": 2
-      },
-      "West bend": {
-        "count": 1
-      },
-      "Caledonia (Village of))": {
-        "count": 1
-      },
-      "Village of Caledonia": {
-        "count": 1
-      },
-      "Webster": {
-        "count": 1
-      },
-      "Waunakee": {
-        "count": 1
-      },
-      "River Falls": {
-        "count": 2
-      },
-      "Macfarland": {
-        "count": 1
-      },
-      "New Berlin": {
-        "count": 4
-      },
-      "Sparta": {
-        "count": 1
-      },
-      "Elkhorn": {
-        "count": 3
-      },
-      "Franklin": {
-        "count": 4
-      },
-      "Mosinee": {
-        "count": 3
-      },
-      "Berlin": {
-        "count": 2
-      },
-      "Blanchardville": {
-        "count": 2
-      },
-      "Galesville": {
-        "count": 1
-      },
-      "Colby (south of)": {
-        "count": 1
-      },
-      "Irma": {
-        "count": 1
-      },
-      "Mequon": {
-        "count": 1
-      },
-      "Palmyra": {
-        "count": 1
-      },
-      "Burlington": {
-        "count": 3
-      },
-      "Ellsworth": {
-        "count": 1
-      },
-      "Racine": {
-        "count": 6
-      },
-      "Beaver Dam": {
-        "count": 1
-      },
-      "Greenfield": {
-        "count": 3
-      },
-      "Spearhead Point Campground": {
-        "count": 1
-      },
-      "Laona": {
-        "count": 1
-      },
-      "Rothschild": {
-        "count": 1
-      },
-      "Pulaski": {
-        "count": 1
-      },
-      "Crandon": {
-        "count": 1
-      },
-      "Mellen": {
-        "count": 1
-      },
-      "Bloomer": {
-        "count": 3
-      },
-      "Portage": {
-        "count": 1
-      },
-      "Auburn": {
-        "count": 1
-      },
-      "Arlington": {
-        "count": 1
-      },
-      "Caledonia": {
-        "count": 3
-      },
-      "Newburg": {
-        "count": 1
-      },
-      "Mukwonago": {
-        "count": 2
-      },
-      "Oak Creek": {
-        "count": 4
-      },
-      "Edgerton": {
-        "count": 2
-      },
-      "Lake Mills": {
-        "count": 2
-      },
-      "Greendale": {
-        "count": 1
-      },
-      "Sun Prarie": {
-        "count": 1
-      },
-      "St. Germain": {
-        "count": 2
-      },
-      "Muskego": {
-        "count": 5
-      },
-      "Alma Center": {
-        "count": 1
-      },
-      "Port Washington": {
-        "count": 1
-      },
-      "Fitchburg": {
-        "count": 1
-      },
-      "Walworth": {
-        "count": 1
-      },
-      "Pell Lake": {
-        "count": 1
-      },
-      "Jackson": {
-        "count": 2
-      },
-      "Kenosha": {
-        "count": 8
-      },
-      "Butler": {
-        "count": 1
-      },
-      "Cedarburg": {
-        "count": 1
-      },
-      "Greenville": {
-        "count": 3
-      },
-      "Mineral Point": {
-        "count": 1
-      },
-      "Rosholt": {
-        "count": 1
-      },
-      "Black River Falls": {
-        "count": 2
-      },
-      "Monroe County (Road \"V\")": {
-        "count": 1
-      },
-      "Westport": {
-        "count": 1
-      },
-      "Richfield": {
-        "count": 2
-      },
-      "Sullivan": {
-        "count": 1
-      },
-      "Oconomowoc": {
-        "count": 1
-      },
-      "Verona": {
-        "count": 1
-      },
-      "Johnson Creek (on outskirts of; on Hwy 94 east)": {
-        "count": 1
-      },
-      "Farmington/Helenville": {
-        "count": 1
-      },
-      "Spring Prairie": {
-        "count": 1
-      },
-      "New London": {
-        "count": 1
-      },
-      "Watertown": {
-        "count": 1
-      },
-      "Camp Lake": {
-        "count": 1
-      },
-      "Helenville": {
-        "count": 1
-      },
-      "Little Chute": {
-        "count": 1
-      },
-      "Coleman": {
-        "count": 1
-      },
-      "Amery/Star Prairie": {
-        "count": 1
-      },
-      "Hubertus": {
-        "count": 1
-      },
-      "Wind Lake": {
-        "count": 1
-      },
-      "Friendship": {
-        "count": 1
-      },
-      "Milwaukee (north of)": {
-        "count": 1
-      },
-      "Green Bay West": {
-        "count": 1
-      },
-      "Pine River": {
-        "count": 1
-      },
-      "Cleveland": {
-        "count": 1
-      },
-      "Granton": {
-        "count": 1
-      },
-      "Fond du Lac": {
-        "count": 3
-      },
-      "Chippewa Falls": {
-        "count": 1
-      },
-      "Deer Park": {
-        "count": 1
-      },
-      "La Crosse": {
-        "count": 1
-      },
-      "Elcho": {
-        "count": 1
-      },
-      "Oak Creek area": {
-        "count": 1
-      },
-      "Hartland": {
-        "count": 1
-      },
-      "Ladysmith": {
-        "count": 1
-      },
-      "Dousman": {
-        "count": 1
-      },
-      "Cudahy": {
-        "count": 2
-      },
-      "Bagley": {
-        "count": 1
-      },
-      "Sugar Camp": {
-        "count": 1
-      },
-      "Genoa City": {
-        "count": 1
-      },
-      "Wyocena": {
-        "count": 1
-      },
-      "Poynette": {
-        "count": 1
-      },
-      "Amberg": {
-        "count": 1
-      },
-      "Winneconne": {
-        "count": 1
-      },
-      "Bayfield": {
-        "count": 1
-      },
-      "Alden Township": {
-        "count": 1
-      },
-      "Baileys Harbor": {
-        "count": 1
-      },
-      "Hudson": {
-        "count": 4
-      },
-      "Wisconsin Dells": {
-        "count": 1
-      },
-      "Minocqua (town of)": {
-        "count": 1
-      },
-      "Tomahawk": {
-        "count": 1
-      },
-      "Manitowoc": {
-        "count": 2
-      },
-      "Phillips": {
-        "count": 1
-      },
-      "Hatfield": {
-        "count": 1
-      },
-      "Onalaska": {
-        "count": 2
-      },
-      "Hortonville": {
-        "count": 1
-      },
-      "Two Rivers": {
-        "count": 1
-      },
-      "Perkinstown (south of)": {
-        "count": 1
-      },
-      "Westfield": {
-        "count": 1
-      },
-      "Delavan": {
-        "count": 1
-      },
-      "Deforest": {
-        "count": 1
-      },
-      "Hertel": {
-        "count": 1
-      },
-      "Upson": {
-        "count": 1
-      },
-      "Pleasant Prairie": {
-        "count": 1
-      },
-      "Clinton": {
-        "count": 2
-      },
-      "Cornell": {
-        "count": 1
-      },
-      "Algoma": {
-        "count": 1
-      },
-      "Lake Geneva": {
-        "count": 2
-      },
-      "Williams Bay": {
-        "count": 1
-      },
-      "Albany": {
-        "count": 1
-      },
-      "Camp Douglas": {
-        "count": 1
-      },
-      "Rubicon": {
-        "count": 1
-      },
-      "Rockwood": {
-        "count": 1
-      },
-      "Readstown": {
-        "count": 1
-      },
-      "West Allis": {
-        "count": 4
-      },
-      "Deerfield": {
-        "count": 2
-      },
-      "Menasha": {
-        "count": 1
-      },
-      "Markesan": {
-        "count": 1
-      },
-      "Leeds": {
-        "count": 1
-      },
-      "Mauston": {
-        "count": 1
-      },
-      "Hartford": {
-        "count": 1
-      },
-      "Lynxville": {
-        "count": 1
-      },
-      "Middleton": {
-        "count": 1
-      },
-      "McFarland": {
-        "count": 1
-      },
-      "Wauwatosa": {
-        "count": 1
-      },
-      "North Fond du Llac": {
-        "count": 1
-      },
-      "Whitewater": {
-        "count": 1
-      },
-      "Montello": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Flat Rock",
+    "state": "MI",
+    "count": 2
   },
-  "MD": {
-    "cities": {
-      "Sharptown": {
-        "count": 2
-      },
-      "Frederick": {
-        "count": 10
-      },
-      "Fredrick": {
-        "count": 1
-      },
-      "Frostburg": {
-        "count": 3
-      },
-      "Barnesville": {
-        "count": 1
-      },
-      "Middle River": {
-        "count": 2
-      },
-      "Upper Marlboro": {
-        "count": 2
-      },
-      "Nottingham": {
-        "count": 1
-      },
-      "Parkville": {
-        "count": 2
-      },
-      "Bel Air": {
-        "count": 5
-      },
-      "Rockville": {
-        "count": 7
-      },
-      "Elkton": {
-        "count": 6
-      },
-      "Lanham": {
-        "count": 1
-      },
-      "Bethesda": {
-        "count": 5
-      },
-      "Brooklyn Park": {
-        "count": 1
-      },
-      "Mardela Springs": {
-        "count": 1
-      },
-      "Middletown/Braddock Heights (between)": {
-        "count": 1
-      },
-      "Sykesville": {
-        "count": 5
-      },
-      "Greenbelt": {
-        "count": 4
-      },
-      "Baltimore": {
-        "count": 31
-      },
-      "Laurel": {
-        "count": 4
-      },
-      "Sykesville (near)": {
-        "count": 1
-      },
-      "New Windsor": {
-        "count": 1
-      },
-      "Gaithersburg": {
-        "count": 3
-      },
-      "Fallston": {
-        "count": 3
-      },
-      "Earleville": {
-        "count": 1
-      },
-      "Ellicott City": {
-        "count": 2
-      },
-      "Catonsville": {
-        "count": 2
-      },
-      "White Plains": {
-        "count": 3
-      },
-      "Joppa": {
-        "count": 2
-      },
-      "Rising Sun": {
-        "count": 2
-      },
-      "Assateague Island": {
-        "count": 1
-      },
-      "Takoma Park": {
-        "count": 1
-      },
-      "Ocean City": {
-        "count": 8
-      },
-      "Galena": {
-        "count": 1
-      },
-      "Chestertown": {
-        "count": 1
-      },
-      "Silver Spring": {
-        "count": 11
-      },
-      "Pasadena": {
-        "count": 7
-      },
-      "Dunkirk": {
-        "count": 1
-      },
-      "Westminster": {
-        "count": 4
-      },
-      "Annapolis": {
-        "count": 9
-      },
-      "Perryville": {
-        "count": 1
-      },
-      "Bowie": {
-        "count": 2
-      },
-      "White Marsh": {
-        "count": 1
-      },
-      "District Heights": {
-        "count": 3
-      },
-      "Germantown": {
-        "count": 7
-      },
-      "Temple hills": {
-        "count": 1
-      },
-      "Gambrills": {
-        "count": 2
-      },
-      "Clinton": {
-        "count": 2
-      },
-      "Leonardtown": {
-        "count": 1
-      },
-      "Abingdon": {
-        "count": 1
-      },
-      "Salisbury": {
-        "count": 3
-      },
-      "Potomac": {
-        "count": 2
-      },
-      "Towson": {
-        "count": 7
-      },
-      "New Market": {
-        "count": 2
-      },
-      "Halethorpe": {
-        "count": 2
-      },
-      "Owings Mills": {
-        "count": 4
-      },
-      "Fort Meade": {
-        "count": 1
-      },
-      "Hagerstown": {
-        "count": 12
-      },
-      "Brinklow": {
-        "count": 2
-      },
-      "Severn": {
-        "count": 2
-      },
-      "Monrovia": {
-        "count": 1
-      },
-      "Jarrettsville": {
-        "count": 1
-      },
-      "Chesapeake Bay (above; south of Annapolis)": {
-        "count": 1
-      },
-      "Wheaton": {
-        "count": 1
-      },
-      "Hampstead": {
-        "count": 1
-      },
-      "Baltimore City": {
-        "count": 1
-      },
-      "Dickerson": {
-        "count": 1
-      },
-      "Forrestville": {
-        "count": 1
-      },
-      "Brunswick": {
-        "count": 2
-      },
-      "Fort Washington": {
-        "count": 2
-      },
-      "Columbia": {
-        "count": 5
-      },
-      "Mt. Airy": {
-        "count": 2
-      },
-      "Boonsboro": {
-        "count": 1
-      },
-      "Havre de Grace": {
-        "count": 2
-      },
-      "Brandywine": {
-        "count": 1
-      },
-      "Preston": {
-        "count": 2
-      },
-      "Cumberland": {
-        "count": 2
-      },
-      "Dundalk": {
-        "count": 3
-      },
-      "Oxon Hill": {
-        "count": 1
-      },
-      "Easton": {
-        "count": 1
-      },
-      "Laplata": {
-        "count": 1
-      },
-      "Curtis Bau": {
-        "count": 1
-      },
-      "College Park": {
-        "count": 1
-      },
-      "Rosedale": {
-        "count": 1
-      },
-      "Severna Park": {
-        "count": 1
-      },
-      "Aberdeen": {
-        "count": 4
-      },
-      "Montgomery village": {
-        "count": 1
-      },
-      "Urbana": {
-        "count": 1
-      },
-      "Elkridge": {
-        "count": 1
-      },
-      "Denton": {
-        "count": 2
-      },
-      "Pikesville": {
-        "count": 2
-      },
-      "Odenton": {
-        "count": 2
-      },
-      "Washington, D.C. & Baltimore (between; on I-295)": {
-        "count": 1
-      },
-      "La Plata": {
-        "count": 2
-      },
-      "Baltimore (West Hampden)": {
-        "count": 1
-      },
-      "Damascus": {
-        "count": 2
-      },
-      "Joppatown": {
-        "count": 1
-      },
-      "Morganza": {
-        "count": 1
-      },
-      "I-495 North (driving on)": {
-        "count": 1
-      },
-      "Joppatowne": {
-        "count": 1
-      },
-      "Jefferson": {
-        "count": 1
-      },
-      "Capitol Heights": {
-        "count": 1
-      },
-      "Rockvile": {
-        "count": 1
-      },
-      "Point of Rocks": {
-        "count": 1
-      },
-      "Frostburg, Lavale": {
-        "count": 1
-      },
-      "Centreville": {
-        "count": 1
-      },
-      "Lexington Park": {
-        "count": 3
-      },
-      "Dayton": {
-        "count": 1
-      },
-      "Parkton": {
-        "count": 1
-      },
-      "Timonium": {
-        "count": 1
-      },
-      "Stevensville": {
-        "count": 1
-      },
-      "Marriottsville": {
-        "count": 1
-      },
-      "Crofton": {
-        "count": 2
-      },
-      "Annapolis/Crofton": {
-        "count": 1
-      },
-      "Cheverly": {
-        "count": 1
-      },
-      "Taneytown": {
-        "count": 1
-      },
-      "Delmar": {
-        "count": 2
-      },
-      "Belcamp": {
-        "count": 1
-      },
-      "Essex": {
-        "count": 2
-      },
-      "Gamrbrills": {
-        "count": 1
-      },
-      "West Friendship": {
-        "count": 1
-      },
-      "Berlin": {
-        "count": 4
-      },
-      "Derwood": {
-        "count": 1
-      },
-      "Myersville": {
-        "count": 2
-      },
-      "Herald Harbor": {
-        "count": 1
-      },
-      "California": {
-        "count": 1
-      },
-      "Nottingham (just east of Baltimore)": {
-        "count": 1
-      },
-      "Columbia/Savage": {
-        "count": 1
-      },
-      "Whitemarsh": {
-        "count": 1
-      },
-      "Stevensville/Washington, D.C.": {
-        "count": 1
-      },
-      "Clements": {
-        "count": 1
-      },
-      "Hanover": {
-        "count": 2
-      },
-      "Hunt Valley": {
-        "count": 1
-      },
-      "Beltsville": {
-        "count": 1
-      },
-      "Catonsvill": {
-        "count": 1
-      },
-      "Linthicum": {
-        "count": 2
-      },
-      "Parole": {
-        "count": 1
-      },
-      "Templeville": {
-        "count": 1
-      },
-      "Freeland": {
-        "count": 1
-      },
-      "Glen Burnie": {
-        "count": 2
-      },
-      "Ellicott City (outside of)": {
-        "count": 1
-      },
-      "Fort Detrick": {
-        "count": 1
-      },
-      "Columbia (going toward on 295)": {
-        "count": 1
-      },
-      "Mechanicsville": {
-        "count": 1
-      },
-      "Ijamsville": {
-        "count": 1
-      },
-      "Saint Mary's City": {
-        "count": 1
-      },
-      "Burtonsville": {
-        "count": 1
-      },
-      "Waldorf": {
-        "count": 2
-      },
-      "Forest Hill": {
-        "count": 1
-      },
-      "Snow Hill": {
-        "count": 1
-      },
-      "Solomons": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "count": 7
   },
-  "NM": {
-    "cities": {
-      "Aztec": {
-        "count": 2
-      },
-      "Albuquerque": {
-        "count": 66
-      },
-      "Taos": {
-        "count": 8
-      },
-      "Moriarty area": {
-        "count": 1
-      },
-      "Santa Fe": {
-        "count": 27
-      },
-      "Ohkay Owingeh (San Juan)": {
-        "count": 1
-      },
-      "Placitas": {
-        "count": 1
-      },
-      "Stanley": {
-        "count": 1
-      },
-      "Soccorro": {
-        "count": 1
-      },
-      "Roswell": {
-        "count": 7
-      },
-      "Waterflow": {
-        "count": 2
-      },
-      "Artesia": {
-        "count": 5
-      },
-      "Ruidoso": {
-        "count": 2
-      },
-      "Las Cruces": {
-        "count": 19
-      },
-      "Farmington": {
-        "count": 5
-      },
-      "Pojoque": {
-        "count": 1
-      },
-      "Jemez Springs": {
-        "count": 2
-      },
-      "Rio Rancho": {
-        "count": 7
-      },
-      "Nageezi": {
-        "count": 2
-      },
-      "Silver City": {
-        "count": 1
-      },
-      "Raton": {
-        "count": 2
-      },
-      "Rock Springs": {
-        "count": 1
-      },
-      "Gallup": {
-        "count": 3
-      },
-      "Alto": {
-        "count": 4
-      },
-      "Jal": {
-        "count": 1
-      },
-      "Lovington": {
-        "count": 1
-      },
-      "Belen": {
-        "count": 1
-      },
-      "Alamogordo": {
-        "count": 8
-      },
-      "Camp McGregor": {
-        "count": 1
-      },
-      "Edgewood": {
-        "count": 3
-      },
-      "Hernandez": {
-        "count": 1
-      },
-      "Shiprock": {
-        "count": 1
-      },
-      "Corrales": {
-        "count": 1
-      },
-      "Ilfeld": {
-        "count": 1
-      },
-      "Santa Fe/Eldorado": {
-        "count": 1
-      },
-      "Espanola": {
-        "count": 2
-      },
-      "Rivera Maya": {
-        "count": 1
-      },
-      "Los Lunas": {
-        "count": 2
-      },
-      "Gila": {
-        "count": 2
-      },
-      "Lincoln": {
-        "count": 1
-      },
-      "Carrizo": {
-        "count": 1
-      },
-      "San Rafael": {
-        "count": 1
-      },
-      "Magdalena": {
-        "count": 1
-      },
-      "Mountainair": {
-        "count": 2
-      },
-      "Navajo": {
-        "count": 1
-      },
-      "Socorro": {
-        "count": 3
-      },
-      "Lemitar": {
-        "count": 1
-      },
-      "Cloverdale": {
-        "count": 1
-      },
-      "Tesuque": {
-        "count": 1
-      },
-      "Los Alamos": {
-        "count": 1
-      },
-      "Jal (15 miles E of)": {
-        "count": 1
-      },
-      "Grants": {
-        "count": 1
-      },
-      "White Sands": {
-        "count": 1
-      },
-      "Tijeras": {
-        "count": 2
-      },
-      "Philmont Scout Ranch": {
-        "count": 1
-      },
-      "Clovis": {
-        "count": 1
-      },
-      "placitas": {
-        "count": 1
-      },
-      "Rodeo": {
-        "count": 1
-      },
-      "Bloomfield": {
-        "count": 1
-      },
-      "Moriarty": {
-        "count": 2
-      },
-      "Cibola County (SR 117, MM32)": {
-        "count": 1
-      },
-      "Abiquiu": {
-        "count": 1
-      },
-      "Nogal": {
-        "count": 1
-      },
-      "West Farmington": {
-        "count": 1
-      },
-      "Gage (I-10, Exit 67)": {
-        "count": 1
-      },
-      "Ojo Caliente": {
-        "count": 1
-      },
-      "Los Ranchos de Albuquerque": {
-        "count": 1
-      },
-      "La Luz": {
-        "count": 1
-      },
-      "Tome": {
-        "count": 1
-      },
-      "Roswell/Ruidoso": {
-        "count": 1
-      },
-      "Salem": {
-        "count": 1
-      },
-      "Continental Divide": {
-        "count": 1
-      },
-      "White sands missile range": {
-        "count": 1
-      },
-      "Bernalillo": {
-        "count": 2
-      },
-      "Hurley": {
-        "count": 1
-      },
-      "Pie Town": {
-        "count": 1
-      },
-      "Willard": {
-        "count": 1
-      },
-      "Radium Springs": {
-        "count": 1
-      },
-      "Hatch": {
-        "count": 1
-      },
-      "Deming": {
-        "count": 2
-      },
-      "Cloud Croft": {
-        "count": 1
-      },
-      "Carlsbad": {
-        "count": 1
-      },
-      "Sandia Park": {
-        "count": 1
-      },
-      "Ruidoso Downs": {
-        "count": 1
-      },
-      "Hobbs": {
-        "count": 2
-      },
-      "Mora": {
-        "count": 1
-      },
-      "Tatum": {
-        "count": 1
-      },
-      "Lordsburg (E of, on I-10; 10 mi. W of AZ)": {
-        "count": 1
-      },
-      "Portales": {
-        "count": 1
-      },
-      "Military training site": {
-        "count": 1
-      },
-      "Albuquerque (Kirtland AFB)": {
-        "count": 1
-      },
-      "Cloudcroft": {
-        "count": 1
-      },
-      "Mescalero": {
-        "count": 1
-      },
-      "Truth or Consequences": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Lansing",
+    "state": "MI",
+    "count": 13
   },
-  "MS": {
-    "cities": {
-      "Gulfport": {
-        "count": 6
-      },
-      "Olive Branch": {
-        "count": 1
-      },
-      "Como": {
-        "count": 1
-      },
-      "Biloxi": {
-        "count": 6
-      },
-      "Pope (near)": {
-        "count": 1
-      },
-      "Duck Hill": {
-        "count": 1
-      },
-      "Southaven": {
-        "count": 3
-      },
-      "Corinth": {
-        "count": 2
-      },
-      "Long Beach": {
-        "count": 3
-      },
-      "Oxford": {
-        "count": 3
-      },
-      "Tougaloo": {
-        "count": 1
-      },
-      "Columbus": {
-        "count": 1
-      },
-      "Jackson": {
-        "count": 2
-      },
-      "Meridian": {
-        "count": 3
-      },
-      "Hamilton": {
-        "count": 1
-      },
-      "Bay St. Louis": {
-        "count": 1
-      },
-      "Madison": {
-        "count": 4
-      },
-      "Miss Point": {
-        "count": 1
-      },
-      "Camp Shelby": {
-        "count": 1
-      },
-      "D'iberville": {
-        "count": 1
-      },
-      "Saltillo": {
-        "count": 1
-      },
-      "Moss Point": {
-        "count": 2
-      },
-      "Sumner": {
-        "count": 1
-      },
-      "Petal": {
-        "count": 1
-      },
-      "Bay Saint Louis": {
-        "count": 3
-      },
-      "Louisville": {
-        "count": 1
-      },
-      "Clarkdale community (Meridian)": {
-        "count": 1
-      },
-      "Ocean Springs": {
-        "count": 3
-      },
-      "Saucier": {
-        "count": 1
-      },
-      "Pontotoc": {
-        "count": 2
-      },
-      "Brandon": {
-        "count": 2
-      },
-      "Lena": {
-        "count": 1
-      },
-      "Flowood": {
-        "count": 1
-      },
-      "Lucedale": {
-        "count": 2
-      },
-      "Philadelphia": {
-        "count": 2
-      },
-      "McComb": {
-        "count": 1
-      },
-      "Mize": {
-        "count": 1
-      },
-      "Starkville": {
-        "count": 1
-      },
-      "Columbia": {
-        "count": 1
-      },
-      "Pope": {
-        "count": 1
-      },
-      "Hattiesburg": {
-        "count": 4
-      },
-      "Forest": {
-        "count": 1
-      },
-      "Sherman": {
-        "count": 1
-      },
-      "Utica": {
-        "count": 1
-      },
-      "Ellisville": {
-        "count": 1
-      },
-      "Lumberton": {
-        "count": 1
-      },
-      "Perkinston": {
-        "count": 1
-      },
-      "Nesbit": {
-        "count": 1
-      },
-      "Decatur": {
-        "count": 1
-      },
-      "Diamondhead": {
-        "count": 2
-      },
-      "Grenada": {
-        "count": 1
-      },
-      "Carriere": {
-        "count": 1
-      },
-      "I-10 (MM# 15; 10 mi. N of MS)": {
-        "count": 1
-      },
-      "Pascagoula": {
-        "count": 1
-      },
-      "Byram": {
-        "count": 1
-      },
-      "Leakesville": {
-        "count": 1
-      },
-      "Richland": {
-        "count": 1
-      },
-      "Poplarville": {
-        "count": 1
-      },
-      "Blue Springs": {
-        "count": 1
-      },
-      "Ridgeland": {
-        "count": 1
-      },
-      "Courtland": {
-        "count": 1
-      },
-      "Tupelo": {
-        "count": 1
-      },
-      "West Point": {
-        "count": 2
-      },
-      "Horn Lake": {
-        "count": 1
-      },
-      "Oloh": {
-        "count": 1
-      },
-      "Laurel": {
-        "count": 1
-      },
-      "Canton": {
-        "count": 1
-      },
-      "Merigold": {
-        "count": 1
-      },
-      "Stringer": {
-        "count": 1
-      },
-      "Nettleton": {
-        "count": 1
-      },
-      "Lorman": {
-        "count": 1
-      },
-      "Greenwood Springs": {
-        "count": 1
-      },
-      "Moselle": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Gregory",
+    "state": "MI",
+    "count": 1
   },
-  "OK": {
-    "cities": {
-      "Claremore": {
-        "count": 3
-      },
-      "Oklahoma City": {
-        "count": 26
-      },
-      "Sand Springs": {
-        "count": 5
-      },
-      "Broken Arrow": {
-        "count": 6
-      },
-      "Tulsa": {
-        "count": 28
-      },
-      "Midwest City": {
-        "count": 3
-      },
-      "Foyil": {
-        "count": 1
-      },
-      "Eucha": {
-        "count": 1
-      },
-      "Council Hill": {
-        "count": 1
-      },
-      "Medicine Park": {
-        "count": 1
-      },
-      "Edmond": {
-        "count": 10
-      },
-      "Fort Coffee": {
-        "count": 1
-      },
-      "Paul’s Valley (near)": {
-        "count": 1
-      },
-      "Okmulgee": {
-        "count": 2
-      },
-      "South Oklahoma City": {
-        "count": 1
-      },
-      "Moraine": {
-        "count": 1
-      },
-      "Alex": {
-        "count": 1
-      },
-      "Newcastle": {
-        "count": 1
-      },
-      "Owasso": {
-        "count": 3
-      },
-      "Glenpool": {
-        "count": 2
-      },
-      "Collinsville": {
-        "count": 1
-      },
-      "Oklahoma City (South)": {
-        "count": 1
-      },
-      "Stillwater": {
-        "count": 3
-      },
-      "Norman": {
-        "count": 5
-      },
-      "Enid": {
-        "count": 1
-      },
-      "Ponca City": {
-        "count": 2
-      },
-      "Vance AFB": {
-        "count": 1
-      },
-      "Midwest city": {
-        "count": 1
-      },
-      "Lawton (between Lawton and Duncan, hwy 7 west going east)": {
-        "count": 1
-      },
-      "Rogers County": {
-        "count": 1
-      },
-      "Bartlesville": {
-        "count": 3
-      },
-      "Jenks": {
-        "count": 1
-      },
-      "Spencer": {
-        "count": 1
-      },
-      "Centerview": {
-        "count": 1
-      },
-      "Skiatook": {
-        "count": 2
-      },
-      "Balko": {
-        "count": 2
-      },
-      "Poteau": {
-        "count": 1
-      },
-      "Tahlequah": {
-        "count": 3
-      },
-      "Shawnee": {
-        "count": 1
-      },
-      "Coweta": {
-        "count": 2
-      },
-      "Antlers": {
-        "count": 1
-      },
-      "Yukon": {
-        "count": 4
-      },
-      "Duncan/Comanche area": {
-        "count": 1
-      },
-      "Oklahoma city": {
-        "count": 1
-      },
-      "Wilburton": {
-        "count": 1
-      },
-      "Howe": {
-        "count": 1
-      },
-      "Mountain View": {
-        "count": 1
-      },
-      "Moore": {
-        "count": 4
-      },
-      "Copan": {
-        "count": 1
-      },
-      "Elk City": {
-        "count": 2
-      },
-      "Cowlington": {
-        "count": 1
-      },
-      "Ardmore": {
-        "count": 2
-      },
-      "Altus": {
-        "count": 1
-      },
-      "LANGLEY": {
-        "count": 1
-      },
-      "Sallisaw": {
-        "count": 1
-      },
-      "Sapulpa": {
-        "count": 1
-      },
-      "Barnsdall": {
-        "count": 1
-      },
-      "Coalgate": {
-        "count": 1
-      },
-      "Muskogee": {
-        "count": 3
-      },
-      "Thackerville": {
-        "count": 1
-      },
-      "Guthrie": {
-        "count": 1
-      },
-      "Bethany": {
-        "count": 1
-      },
-      "Grove": {
-        "count": 1
-      },
-      "Long": {
-        "count": 1
-      },
-      "Tuttle": {
-        "count": 1
-      },
-      "Keota": {
-        "count": 1
-      },
-      "Bixby": {
-        "count": 2
-      },
-      "Lahoma": {
-        "count": 2
-      },
-      "Talihina": {
-        "count": 1
-      },
-      "Cleveland": {
-        "count": 1
-      },
-      "Bristow": {
-        "count": 2
-      },
-      "Sulphur": {
-        "count": 2
-      },
-      "Lawton": {
-        "count": 1
-      },
-      "Yukon/Oklahoma City": {
-        "count": 1
-      },
-      "Canadian County": {
-        "count": 1
-      },
-      "Hooker": {
-        "count": 1
-      },
-      "Adel": {
-        "count": 1
-      },
-      "Wyandotte": {
-        "count": 1
-      },
-      "Quapaw": {
-        "count": 1
-      },
-      "McAlester": {
-        "count": 1
-      },
-      "Perkins": {
-        "count": 1
-      },
-      "Ada": {
-        "count": 1
-      },
-      "Kingston": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Grass Lake",
+    "state": "MI",
+    "count": 3
   },
-  "LA": {
-    "cities": {
-      "Metairie": {
-        "count": 10
-      },
-      "Slidell": {
-        "count": 4
-      },
-      "Mandeville": {
-        "count": 4
-      },
-      "Houma": {
-        "count": 2
-      },
-      "Baton Rouge": {
-        "count": 13
-      },
-      "gonzales": {
-        "count": 1
-      },
-      "Hackberry": {
-        "count": 1
-      },
-      "Maurice": {
-        "count": 1
-      },
-      "Kenner": {
-        "count": 9
-      },
-      "Labadieville": {
-        "count": 1
-      },
-      "Port Barre": {
-        "count": 1
-      },
-      "Seminary": {
-        "count": 1
-      },
-      "Iota": {
-        "count": 1
-      },
-      "Thibodaux": {
-        "count": 3
-      },
-      "New Orleans": {
-        "count": 14
-      },
-      "Hammond": {
-        "count": 3
-      },
-      "New Iberia": {
-        "count": 1
-      },
-      "New Orleans (80 mi. SE of; Gulf of Mexico)": {
-        "count": 1
-      },
-      "Washington": {
-        "count": 1
-      },
-      "Grand Isle": {
-        "count": 1
-      },
-      "Walker": {
-        "count": 5
-      },
-      "Amite": {
-        "count": 3
-      },
-      "Ragley": {
-        "count": 1
-      },
-      "Franklinton": {
-        "count": 2
-      },
-      "Lake Charles": {
-        "count": 11
-      },
-      "Patterson": {
-        "count": 3
-      },
-      "Harrisonburg": {
-        "count": 1
-      },
-      "Independence": {
-        "count": 2
-      },
-      "Nairn": {
-        "count": 1
-      },
-      "Chalmette": {
-        "count": 1
-      },
-      "Anacoco": {
-        "count": 1
-      },
-      "Gulf of Mexico SMI 69 B": {
-        "count": 1
-      },
-      "Central": {
-        "count": 1
-      },
-      "Napoleonville": {
-        "count": 1
-      },
-      "Madisonville": {
-        "count": 2
-      },
-      "Opelousas": {
-        "count": 1
-      },
-      "Lafayette": {
-        "count": 7
-      },
-      "Zachary": {
-        "count": 2
-      },
-      "Shreveport": {
-        "count": 7
-      },
-      "Krotz Springs": {
-        "count": 1
-      },
-      "Placheville": {
-        "count": 1
-      },
-      "Forest Hill": {
-        "count": 1
-      },
-      "Alexandria": {
-        "count": 2
-      },
-      "Lafayette (14 mi. E of)": {
-        "count": 1
-      },
-      "Natchitoches": {
-        "count": 1
-      },
-      "Pineville": {
-        "count": 3
-      },
-      "Haughton": {
-        "count": 1
-      },
-      "Plaquemine": {
-        "count": 1
-      },
-      "Abita Springs": {
-        "count": 1
-      },
-      "Pierre Part": {
-        "count": 1
-      },
-      "Logansport": {
-        "count": 1
-      },
-      "Ponchatoula": {
-        "count": 1
-      },
-      "Gonzales": {
-        "count": 1
-      },
-      "Many": {
-        "count": 1
-      },
-      "Garyville": {
-        "count": 1
-      },
-      "Winnfield": {
-        "count": 1
-      },
-      "Calhoun": {
-        "count": 1
-      },
-      "Denham Springs": {
-        "count": 2
-      },
-      "Glenmora": {
-        "count": 2
-      },
-      "Covington": {
-        "count": 1
-      },
-      "Ruston": {
-        "count": 2
-      },
-      "South Abbeville": {
-        "count": 1
-      },
-      "Sulphur": {
-        "count": 2
-      },
-      "Springfield": {
-        "count": 1
-      },
-      "Franklin": {
-        "count": 2
-      },
-      "Gonzalas": {
-        "count": 1
-      },
-      "Leesville": {
-        "count": 1
-      },
-      "Buras": {
-        "count": 1
-      },
-      "franklinton": {
-        "count": 1
-      },
-      "Westlake": {
-        "count": 1
-      },
-      "Cut Off": {
-        "count": 1
-      },
-      "Mount Hermon": {
-        "count": 1
-      },
-      "Youngsville": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Brookfield",
+    "state": "WI",
+    "count": 5
   },
-  "OR": {
-    "cities": {
-      "Portland": {
-        "count": 97
-      },
-      "Milwaukie": {
-        "count": 7
-      },
-      "Eugene": {
-        "count": 32
-      },
-      "Keizer": {
-        "count": 8
-      },
-      "Beaverton": {
-        "count": 17
-      },
-      "Brookings": {
-        "count": 2
-      },
-      "Gresham": {
-        "count": 12
-      },
-      "Independence": {
-        "count": 2
-      },
-      "Dallas": {
-        "count": 3
-      },
-      "Portland (northeast)": {
-        "count": 1
-      },
-      "Seaside": {
-        "count": 7
-      },
-      "Turner": {
-        "count": 1
-      },
-      "Gervais": {
-        "count": 1
-      },
-      "Salem": {
-        "count": 30
-      },
-      "Florence": {
-        "count": 6
-      },
-      "Albany": {
-        "count": 15
-      },
-      "Coos Bay": {
-        "count": 2
-      },
-      "Oregon City": {
-        "count": 5
-      },
-      "Bend": {
-        "count": 22
-      },
-      "Lake Oswego": {
-        "count": 2
-      },
-      "Forest Grove": {
-        "count": 3
-      },
-      "Hillsboro": {
-        "count": 14
-      },
-      "Lebanon": {
-        "count": 7
-      },
-      "Newport": {
-        "count": 3
-      },
-      "Troutdale": {
-        "count": 6
-      },
-      "Warrenton": {
-        "count": 1
-      },
-      "Wilsonville": {
-        "count": 3
-      },
-      "Woodburn": {
-        "count": 3
-      },
-      "O Brien": {
-        "count": 1
-      },
-      "Stayton": {
-        "count": 1
-      },
-      "Aurora": {
-        "count": 1
-      },
-      "Tillicum Campground": {
-        "count": 1
-      },
-      "Tillamook": {
-        "count": 1
-      },
-      "Mulino": {
-        "count": 2
-      },
-      "Silverton": {
-        "count": 5
-      },
-      "Springfield": {
-        "count": 10
-      },
-      "Estacada": {
-        "count": 1
-      },
-      "Lincoln City": {
-        "count": 5
-      },
-      "Tualatin": {
-        "count": 2
-      },
-      "Lapine": {
-        "count": 1
-      },
-      "La Pine": {
-        "count": 2
-      },
-      "Hermiston": {
-        "count": 2
-      },
-      "Blue Mountains (in NE Oregon)": {
-        "count": 1
-      },
-      "Diamond Lake/Mt. Thielson": {
-        "count": 1
-      },
-      "Adair Village": {
-        "count": 1
-      },
-      "Waldport": {
-        "count": 1
-      },
-      "Sams Valley": {
-        "count": 1
-      },
-      "Sutherlin": {
-        "count": 7
-      },
-      "Chiloquin": {
-        "count": 1
-      },
-      "Medford": {
-        "count": 8
-      },
-      "Canby": {
-        "count": 5
-      },
-      "Colton": {
-        "count": 1
-      },
-      "Albany (near)": {
-        "count": 1
-      },
-      "Fall Creek": {
-        "count": 2
-      },
-      "Tigard": {
-        "count": 4
-      },
-      "Yachats": {
-        "count": 3
-      },
-      "Portland, OR/Vancouver, WA": {
-        "count": 1
-      },
-      "Redmond": {
-        "count": 6
-      },
-      "Happy Valley": {
-        "count": 1
-      },
-      "Fairview": {
-        "count": 1
-      },
-      "Wood Village": {
-        "count": 1
-      },
-      "Carlton": {
-        "count": 1
-      },
-      "Shady Cove": {
-        "count": 1
-      },
-      "West Salem": {
-        "count": 2
-      },
-      "Oklahoma City": {
-        "count": 1
-      },
-      "Astoria": {
-        "count": 7
-      },
-      "Aumsville": {
-        "count": 2
-      },
-      "Sandy": {
-        "count": 2
-      },
-      "Adrian": {
-        "count": 1
-      },
-      "McMinnville": {
-        "count": 3
-      },
-      "Aloha": {
-        "count": 3
-      },
-      "Tygh Valley": {
-        "count": 1
-      },
-      "Eagle Point": {
-        "count": 5
-      },
-      "Gold Hill": {
-        "count": 1
-      },
-      "Sherwood": {
-        "count": 4
-      },
-      "Roseburg": {
-        "count": 6
-      },
-      "Grants Pass": {
-        "count": 9
-      },
-      "Clackamas": {
-        "count": 2
-      },
-      "Oakridge": {
-        "count": 3
-      },
-      "Diamond Lake": {
-        "count": 1
-      },
-      "Richland": {
-        "count": 1
-      },
-      "The Dalles": {
-        "count": 1
-      },
-      "Brooks": {
-        "count": 1
-      },
-      "Brightwood": {
-        "count": 1
-      },
-      "Vancouver & Portland": {
-        "count": 1
-      },
-      "Northwest Medford": {
-        "count": 1
-      },
-      "Gold Beach": {
-        "count": 1
-      },
-      "Summer Lake": {
-        "count": 1
-      },
-      "St. Helens": {
-        "count": 3
-      },
-      "Glide": {
-        "count": 1
-      },
-      "West Linn": {
-        "count": 2
-      },
-      "Irrigon": {
-        "count": 1
-      },
-      "Bandon": {
-        "count": 3
-      },
-      "Sodaville": {
-        "count": 2
-      },
-      "Vancouver": {
-        "count": 1
-      },
-      "Ione": {
-        "count": 1
-      },
-      "Culver": {
-        "count": 2
-      },
-      "Idanha": {
-        "count": 1
-      },
-      "Ashland": {
-        "count": 4
-      },
-      "Emigrant Pass (near; foothills of)": {
-        "count": 1
-      },
-      "Neskowin": {
-        "count": 1
-      },
-      "Cornelius": {
-        "count": 2
-      },
-      "Monmouth": {
-        "count": 1
-      },
-      "Orient": {
-        "count": 1
-      },
-      "Brownsville (on I-5 highway)": {
-        "count": 1
-      },
-      "Dunes City": {
-        "count": 1
-      },
-      "Corvallis": {
-        "count": 3
-      },
-      "Bend/Burns (between; on Hwy. 20)": {
-        "count": 1
-      },
-      "Dayton": {
-        "count": 1
-      },
-      "Joseph": {
-        "count": 1
-      },
-      "Portland/Hillsboro": {
-        "count": 1
-      },
-      "Hillsboro/Portland": {
-        "count": 1
-      },
-      "Cannon Beach": {
-        "count": 1
-      },
-      "Prineville": {
-        "count": 2
-      },
-      "Riley": {
-        "count": 1
-      },
-      "La Grande (atop Mt. Emily)": {
-        "count": 1
-      },
-      "Central Point": {
-        "count": 2
-      },
-      "Cheshire": {
-        "count": 1
-      },
-      "Newberg": {
-        "count": 2
-      },
-      "Milton-Freewater": {
-        "count": 1
-      },
-      "Sprague River": {
-        "count": 1
-      },
-      "Gearhart": {
-        "count": 1
-      },
-      "Dexter": {
-        "count": 1
-      },
-      "Lakeside": {
-        "count": 1
-      },
-      "Portland (far east; Corbett)": {
-        "count": 1
-      },
-      "Banks": {
-        "count": 3
-      },
-      "Myrtle Point": {
-        "count": 1
-      },
-      "La Grande": {
-        "count": 2
-      },
-      "Depoe Bay": {
-        "count": 1
-      },
-      "Winston": {
-        "count": 1
-      },
-      "North Plains": {
-        "count": 2
-      },
-      "Corvallis/Newport (between)": {
-        "count": 1
-      },
-      "Pendleton": {
-        "count": 2
-      },
-      "Baker City": {
-        "count": 2
-      },
-      "Talent": {
-        "count": 2
-      },
-      "Baker City/La Grande (between)": {
-        "count": 1
-      },
-      "Umpqua Nat. Forest (Idleyld Park)": {
-        "count": 1
-      },
-      "Brownsville": {
-        "count": 2
-      },
-      "Sheridan": {
-        "count": 1
-      },
-      "Athena": {
-        "count": 1
-      },
-      "Arlington": {
-        "count": 1
-      },
-      "Mt. Hood (Parkdale)": {
-        "count": 1
-      },
-      "Gaston": {
-        "count": 2
-      },
-      "Portland (northeast part)": {
-        "count": 1
-      },
-      "Clatskanie": {
-        "count": 1
-      },
-      "Gladstone": {
-        "count": 1
-      },
-      "Stayton/Salem": {
-        "count": 1
-      },
-      "Rockaway Beach": {
-        "count": 2
-      },
-      "Murphy": {
-        "count": 1
-      },
-      "Molalla": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Fort Collins",
+    "state": "CO",
+    "count": 30
   },
-  "MA": {
-    "cities": {
-      "Wilmington": {
-        "count": 4
-      },
-      "Millis": {
-        "count": 1
-      },
-      "Lowell": {
-        "count": 9
-      },
-      "Three Rivers": {
-        "count": 1
-      },
-      "Somerville": {
-        "count": 5
-      },
-      "Florence": {
-        "count": 1
-      },
-      "Ludlow": {
-        "count": 4
-      },
-      "Plymouth": {
-        "count": 8
-      },
-      "Sturbridge/Warren": {
-        "count": 1
-      },
-      "Cherry Valley": {
-        "count": 1
-      },
-      "Abington": {
-        "count": 2
-      },
-      "Brockton": {
-        "count": 4
-      },
-      "Warren": {
-        "count": 1
-      },
-      "Oxford": {
-        "count": 3
-      },
-      "Tyngsborough": {
-        "count": 2
-      },
-      "Haverhill": {
-        "count": 3
-      },
-      "Natick": {
-        "count": 1
-      },
-      "Rutland": {
-        "count": 2
-      },
-      "Burlington": {
-        "count": 3
-      },
-      "Weymouth": {
-        "count": 3
-      },
-      "Boston": {
-        "count": 10
-      },
-      "Bridgewater": {
-        "count": 3
-      },
-      "East Boston/Boston": {
-        "count": 1
-      },
-      "Norton": {
-        "count": 2
-      },
-      "Salem": {
-        "count": 3
-      },
-      "Sturbridge": {
-        "count": 1
-      },
-      "Williamstown": {
-        "count": 1
-      },
-      "North Adams": {
-        "count": 2
-      },
-      "Marlborough": {
-        "count": 4
-      },
-      "Lincoln": {
-        "count": 1
-      },
-      "Westfield": {
-        "count": 2
-      },
-      "Revere": {
-        "count": 6
-      },
-      "East Brookfield": {
-        "count": 1
-      },
-      "Malden": {
-        "count": 1
-      },
-      "Southwick": {
-        "count": 2
-      },
-      "Watertown": {
-        "count": 3
-      },
-      "Sheffield": {
-        "count": 3
-      },
-      "Worcester": {
-        "count": 13
-      },
-      "Brimfield": {
-        "count": 1
-      },
-      "Fitchburg": {
-        "count": 2
-      },
-      "Lanesboro": {
-        "count": 1
-      },
-      "Becket": {
-        "count": 1
-      },
-      "Essex": {
-        "count": 1
-      },
-      "Onset": {
-        "count": 1
-      },
-      "Leicester": {
-        "count": 3
-      },
-      "Fall River": {
-        "count": 3
-      },
-      "Marstons Mills": {
-        "count": 1
-      },
-      "Buzzards Bay": {
-        "count": 1
-      },
-      "Woburn": {
-        "count": 2
-      },
-      "Methuen": {
-        "count": 6
-      },
-      "Medford": {
-        "count": 5
-      },
-      "Hyannis": {
-        "count": 4
-      },
-      "Scituate": {
-        "count": 2
-      },
-      "Nickerson State Park. Brewster": {
-        "count": 1
-      },
-      "Wakefield": {
-        "count": 2
-      },
-      "Canton": {
-        "count": 1
-      },
-      "East Longmeadow": {
-        "count": 2
-      },
-      "Attleboro": {
-        "count": 7
-      },
-      "Peabody": {
-        "count": 3
-      },
-      "Rowley": {
-        "count": 2
-      },
-      "Auburn": {
-        "count": 1
-      },
-      "South Easton": {
-        "count": 1
-      },
-      "Arlington": {
-        "count": 1
-      },
-      "Springfield": {
-        "count": 5
-      },
-      "Tewksbury": {
-        "count": 4
-      },
-      "Mansfield": {
-        "count": 1
-      },
-      "Woods Hole": {
-        "count": 1
-      },
-      "Great Barrington": {
-        "count": 1
-      },
-      "Amherst": {
-        "count": 3
-      },
-      "Orleans": {
-        "count": 3
-      },
-      "Framingham": {
-        "count": 7
-      },
-      "Wareham": {
-        "count": 1
-      },
-      "South Dennis": {
-        "count": 1
-      },
-      "Shrewsbury": {
-        "count": 3
-      },
-      "Franklin": {
-        "count": 1
-      },
-      "Duxbury": {
-        "count": 2
-      },
-      "Leominster": {
-        "count": 4
-      },
-      "Dedham": {
-        "count": 3
-      },
-      "West Newbury": {
-        "count": 2
-      },
-      "Uxbridge": {
-        "count": 1
-      },
-      "North Dartmouth": {
-        "count": 2
-      },
-      "Exit 8 mass pike": {
-        "count": 1
-      },
-      "Erving": {
-        "count": 1
-      },
-      "Osterville": {
-        "count": 1
-      },
-      "Athol": {
-        "count": 2
-      },
-      "Newton": {
-        "count": 4
-      },
-      "Fairhaven": {
-        "count": 1
-      },
-      "Stow": {
-        "count": 1
-      },
-      "South Hadley": {
-        "count": 2
-      },
-      "Norwood": {
-        "count": 3
-      },
-      "Gardner": {
-        "count": 3
-      },
-      "South Gardner": {
-        "count": 1
-      },
-      "Belchertown": {
-        "count": 1
-      },
-      "Quincy": {
-        "count": 4
-      },
-      "North Brookfield": {
-        "count": 1
-      },
-      "Pittsfield": {
-        "count": 3
-      },
-      "Hopedale": {
-        "count": 1
-      },
-      "Stoughton": {
-        "count": 3
-      },
-      "Hingham": {
-        "count": 1
-      },
-      "North Andover": {
-        "count": 1
-      },
-      "Seekonk": {
-        "count": 1
-      },
-      "Holden": {
-        "count": 1
-      },
-      "Pittsfielsd": {
-        "count": 1
-      },
-      "Carver": {
-        "count": 2
-      },
-      "Westwood": {
-        "count": 1
-      },
-      "Nantucket": {
-        "count": 3
-      },
-      "Avon": {
-        "count": 1
-      },
-      "Barre": {
-        "count": 1
-      },
-      "Lawrence": {
-        "count": 1
-      },
-      "Amesbury": {
-        "count": 1
-      },
-      "Centerville": {
-        "count": 1
-      },
-      "Tyngsboro": {
-        "count": 1
-      },
-      "Millbury": {
-        "count": 2
-      },
-      "Milbury": {
-        "count": 1
-      },
-      "New Bedford": {
-        "count": 3
-      },
-      "Dudley": {
-        "count": 1
-      },
-      "Hanson": {
-        "count": 1
-      },
-      "Webster": {
-        "count": 3
-      },
-      "Southbridge": {
-        "count": 2
-      },
-      "Bourne": {
-        "count": 1
-      },
-      "Danvers": {
-        "count": 2
-      },
-      "Cambridge": {
-        "count": 1
-      },
-      "Longmeadow": {
-        "count": 1
-      },
-      "Concord": {
-        "count": 1
-      },
-      "West Springfield": {
-        "count": 2
-      },
-      "Raynham": {
-        "count": 1
-      },
-      "Belmont": {
-        "count": 3
-      },
-      "Dartmouth": {
-        "count": 1
-      },
-      "Stoneham": {
-        "count": 1
-      },
-      "Taunton": {
-        "count": 3
-      },
-      "Orange": {
-        "count": 1
-      },
-      "Baldwinville": {
-        "count": 1
-      },
-      "Eastham": {
-        "count": 3
-      },
-      "Chicopee": {
-        "count": 3
-      },
-      "Kingston": {
-        "count": 1
-      },
-      "Ayer/Harvard": {
-        "count": 1
-      },
-      "Falmouth": {
-        "count": 2
-      },
-      "Yarmouth": {
-        "count": 2
-      },
-      "Upton/Millbury": {
-        "count": 1
-      },
-      "Attelboro": {
-        "count": 1
-      },
-      "Middleboro": {
-        "count": 2
-      },
-      "Lee": {
-        "count": 1
-      },
-      "Brighton": {
-        "count": 1
-      },
-      "Grafton": {
-        "count": 1
-      },
-      "Provincetown": {
-        "count": 1
-      },
-      "Billerica": {
-        "count": 1
-      },
-      "Shirley": {
-        "count": 1
-      },
-      "Lakeville": {
-        "count": 1
-      },
-      "Bistib": {
-        "count": 1
-      },
-      "Sharon": {
-        "count": 1
-      },
-      "Ashby": {
-        "count": 1
-      },
-      "Chelmsford": {
-        "count": 1
-      },
-      "Littleton": {
-        "count": 1
-      },
-      "South Attleboro": {
-        "count": 2
-      },
-      "Milford": {
-        "count": 2
-      },
-      "Allston": {
-        "count": 1
-      },
-      "Revere Beach": {
-        "count": 1
-      },
-      "Waldoboro": {
-        "count": 1
-      },
-      "Lynn": {
-        "count": 2
-      },
-      "Boston (northeast of)": {
-        "count": 1
-      },
-      "Spencer": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "Beverly": {
-        "count": 1
-      },
-      "Sandwich": {
-        "count": 4
-      },
-      "Whitinsville": {
-        "count": 1
-      },
-      "Northfield": {
-        "count": 1
-      },
-      "Pepperell": {
-        "count": 1
-      },
-      "Swansea": {
-        "count": 1
-      },
-      "Monson": {
-        "count": 1
-      },
-      "Newburyport": {
-        "count": 1
-      },
-      "West Harwich": {
-        "count": 1
-      },
-      "West Stockbridge": {
-        "count": 1
-      },
-      "Chelsea": {
-        "count": 1
-      },
-      "Waquoit": {
-        "count": 1
-      },
-      "Chilmark": {
-        "count": 1
-      },
-      "Greenfield": {
-        "count": 1
-      },
-      "Everett": {
-        "count": 2
-      },
-      "Townsend": {
-        "count": 1
-      },
-      "Randolph": {
-        "count": 1
-      },
-      "Waltham": {
-        "count": 1
-      },
-      "Princeton": {
-        "count": 1
-      },
-      "West Yarmouth": {
-        "count": 2
-      },
-      "Dighton": {
-        "count": 1
-      },
-      "Windsor": {
-        "count": 1
-      },
-      "Savoy": {
-        "count": 1
-      },
-      "Smithfield": {
-        "count": 1
-      },
-      "Brewster": {
-        "count": 1
-      },
-      "New Bedford (near) (pilot report)": {
-        "count": 1
-      },
-      "Cheshire": {
-        "count": 1
-      },
-      "Boston Area": {
-        "count": 1
-      },
-      "Holbrook": {
-        "count": 2
-      },
-      "North Reading": {
-        "count": 1
-      },
-      "Springfield South": {
-        "count": 1
-      },
-      "New Salem": {
-        "count": 1
-      },
-      "Boylston": {
-        "count": 1
-      },
-      "Hull": {
-        "count": 1
-      },
-      "Hampton Beach": {
-        "count": 1
-      },
-      "Holyoke": {
-        "count": 1
-      },
-      "Lowell/Tyngsboro/Nashua": {
-        "count": 1
-      },
-      "Chestnut Hill": {
-        "count": 1
-      },
-      "West Roxbury": {
-        "count": 1
-      },
-      "Washington": {
-        "count": 1
-      },
-      "Ipswich": {
-        "count": 1
-      },
-      "Dracut": {
-        "count": 1
-      },
-      "Hanover": {
-        "count": 1
-      },
-      "Bellingham": {
-        "count": 1
-      },
-      "Somerset": {
-        "count": 1
-      },
-      "Pelham": {
-        "count": 1
-      },
-      "Ashburnham": {
-        "count": 1
-      },
-      "Barnstable": {
-        "count": 1
-      },
-      "Northborough": {
-        "count": 1
-      },
-      "Biddeford Pool": {
-        "count": 1
-      },
-      "Norwell": {
-        "count": 1
-      },
-      "Millville": {
-        "count": 1
-      },
-      "North Attleboro": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Indio",
+    "state": "CA",
+    "count": 12
   },
-  "KS": {
-    "cities": {
-      "Wichita": {
-        "count": 24
-      },
-      "Kansas City": {
-        "count": 9
-      },
-      "Phillipsburg": {
-        "count": 2
-      },
-      "Topeka": {
-        "count": 6
-      },
-      "Paxico": {
-        "count": 1
-      },
-      "Russell to Hays": {
-        "count": 1
-      },
-      "Dodge City": {
-        "count": 5
-      },
-      "Kingman": {
-        "count": 1
-      },
-      "Paola": {
-        "count": 1
-      },
-      "Pratt": {
-        "count": 1
-      },
-      "Lawrence": {
-        "count": 12
-      },
-      "Lincoln": {
-        "count": 1
-      },
-      "Minneola": {
-        "count": 1
-      },
-      "Merriam": {
-        "count": 3
-      },
-      "Cunningham": {
-        "count": 1
-      },
-      "Gardner": {
-        "count": 2
-      },
-      "Girard": {
-        "count": 1
-      },
-      "Prairie Village": {
-        "count": 1
-      },
-      "Garden City": {
-        "count": 1
-      },
-      "Independence": {
-        "count": 1
-      },
-      "Atchison": {
-        "count": 2
-      },
-      "Colby": {
-        "count": 3
-      },
-      "Toronto": {
-        "count": 1
-      },
-      "Silver Lake": {
-        "count": 1
-      },
-      "Arkansas City": {
-        "count": 1
-      },
-      "Belpit": {
-        "count": 1
-      },
-      "Newton": {
-        "count": 1
-      },
-      "Plains": {
-        "count": 1
-      },
-      "Highland": {
-        "count": 1
-      },
-      "Basehor": {
-        "count": 1
-      },
-      "Shawnee": {
-        "count": 4
-      },
-      "Hays": {
-        "count": 2
-      },
-      "Hays (5 miles east of; on I-70)": {
-        "count": 1
-      },
-      "Turner": {
-        "count": 1
-      },
-      "Mission": {
-        "count": 1
-      },
-      "Winchester": {
-        "count": 1
-      },
-      "Olathe": {
-        "count": 4
-      },
-      "Derby": {
-        "count": 3
-      },
-      "Walker": {
-        "count": 1
-      },
-      "Columbus": {
-        "count": 1
-      },
-      "Banner Springs": {
-        "count": 1
-      },
-      "Logan": {
-        "count": 1
-      },
-      "Overland Park": {
-        "count": 4
-      },
-      "Wilson Lake": {
-        "count": 2
-      },
-      "Wellington": {
-        "count": 1
-      },
-      "Leawood": {
-        "count": 1
-      },
-      "Bel Aire": {
-        "count": 1
-      },
-      "Oak Hill": {
-        "count": 1
-      },
-      "Effingham": {
-        "count": 1
-      },
-      "Pretty Prairie": {
-        "count": 1
-      },
-      "Potwin": {
-        "count": 1
-      },
-      "Andover": {
-        "count": 2
-      },
-      "Manhattan": {
-        "count": 1
-      },
-      "East of Kingman (E of; rural)": {
-        "count": 1
-      },
-      "Ellsworth": {
-        "count": 3
-      },
-      "El Dorado": {
-        "count": 1
-      },
-      "Saint Francis": {
-        "count": 1
-      },
-      "Lebo": {
-        "count": 1
-      },
-      "Seneca": {
-        "count": 1
-      },
-      "Council Grove": {
-        "count": 1
-      },
-      "Hutchinson": {
-        "count": 1
-      },
-      "Larned": {
-        "count": 1
-      },
-      "Valley Falls": {
-        "count": 1
-      },
-      "Eudora": {
-        "count": 1
-      },
-      "Pittsburg": {
-        "count": 2
-      },
-      "Augusta": {
-        "count": 1
-      },
-      "Marysville": {
-        "count": 2
-      },
-      "Dexter": {
-        "count": 1
-      },
-      "Winfield": {
-        "count": 1
-      },
-      "Herington": {
-        "count": 1
-      },
-      "Jewell": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "Fall River": {
-        "count": 1
-      },
-      "Elk City Lake": {
-        "count": 1
-      },
-      "Valley Center": {
-        "count": 1
-      },
-      "Hill City": {
-        "count": 1
-      },
-      "Mulberry Township": {
-        "count": 1
-      },
-      "Lindsborg": {
-        "count": 1
-      },
-      "McPherson": {
-        "count": 1
-      },
-      "Kansas": {
-        "count": 1
-      },
-      "Concordia": {
-        "count": 1
-      },
-      "Lakin": {
-        "count": 1
-      },
-      "Glasco": {
-        "count": 1
-      },
-      "Abilene": {
-        "count": 1
-      },
-      "Lenexa": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Sharptown",
+    "state": "MD",
+    "count": 2
   },
-  "TX": {
-    "cities": {
-      "San Angelo": {
-        "count": 4
-      },
-      "Dayton": {
-        "count": 3
-      },
-      "Rocksprings": {
-        "count": 1
-      },
-      "Brookshire": {
-        "count": 1
-      },
-      "Sulphur Springs": {
-        "count": 2
-      },
-      "Garland": {
-        "count": 6
-      },
-      "San Antonio": {
-        "count": 31
-      },
-      "Dallas/Ft. Worth": {
-        "count": 1
-      },
-      "Sour Lake": {
-        "count": 1
-      },
-      "Amarillo": {
-        "count": 4
-      },
-      "New Braunfels": {
-        "count": 4
-      },
-      "Houston": {
-        "count": 32
-      },
-      "Burton": {
-        "count": 1
-      },
-      "Pflugerville": {
-        "count": 3
-      },
-      "Irving": {
-        "count": 6
-      },
-      "Austin": {
-        "count": 33
-      },
-      "El Paso (NE; Fairbanks & Rushing)": {
-        "count": 1
-      },
-      "Sherman": {
-        "count": 1
-      },
-      "Rowlett": {
-        "count": 4
-      },
-      "Huntsville": {
-        "count": 1
-      },
-      "Longview": {
-        "count": 2
-      },
-      "Lexington": {
-        "count": 2
-      },
-      "Cedar Park": {
-        "count": 6
-      },
-      "Richmond": {
-        "count": 2
-      },
-      "Azle": {
-        "count": 1
-      },
-      "Georgetown": {
-        "count": 2
-      },
-      "Keller": {
-        "count": 3
-      },
-      "Pilot Point": {
-        "count": 2
-      },
-      "Pleasanton": {
-        "count": 1
-      },
-      "Nacogdoches": {
-        "count": 4
-      },
-      "Grand Saline": {
-        "count": 1
-      },
-      "McKinney": {
-        "count": 4
-      },
-      "Denton": {
-        "count": 4
-      },
-      "Aledo": {
-        "count": 1
-      },
-      "Leander": {
-        "count": 3
-      },
-      "Ballinger": {
-        "count": 1
-      },
-      "Cushing": {
-        "count": 1
-      },
-      "Lakeway": {
-        "count": 1
-      },
-      "Spring": {
-        "count": 12
-      },
-      "Floresville": {
-        "count": 1
-      },
-      "Friendswood": {
-        "count": 3
-      },
-      "Fort Worth": {
-        "count": 4
-      },
-      "Bryan": {
-        "count": 4
-      },
-      "Lubbock": {
-        "count": 3
-      },
-      "Cypress": {
-        "count": 6
-      },
-      "Katy": {
-        "count": 7
-      },
-      "Abilene": {
-        "count": 2
-      },
-      "Wylie": {
-        "count": 2
-      },
-      "Waxahachie": {
-        "count": 1
-      },
-      "Del Valle": {
-        "count": 2
-      },
-      "Dallas": {
-        "count": 20
-      },
-      "Chappell Hill": {
-        "count": 1
-      },
-      "Galena Park": {
-        "count": 1
-      },
-      "Sugarland": {
-        "count": 1
-      },
-      "Dickinson (headed toward Galveston)": {
-        "count": 1
-      },
-      "Gordon": {
-        "count": 1
-      },
-      "Frisco": {
-        "count": 5
-      },
-      "Granbury": {
-        "count": 3
-      },
-      "Lockhart": {
-        "count": 1
-      },
-      "North Richland Hills": {
-        "count": 1
-      },
-      "Eagle Pass": {
-        "count": 1
-      },
-      "Grandview": {
-        "count": 1
-      },
-      "Dallas (Lakewood area)": {
-        "count": 1
-      },
-      "Cherry Springs Community": {
-        "count": 1
-      },
-      "Lake Conroe": {
-        "count": 1
-      },
-      "Waco": {
-        "count": 3
-      },
-      "Ingram": {
-        "count": 1
-      },
-      "Atascocta": {
-        "count": 1
-      },
-      "Harper": {
-        "count": 2
-      },
-      "Liberty Hill": {
-        "count": 1
-      },
-      "Carmine": {
-        "count": 1
-      },
-      "Hutto": {
-        "count": 3
-      },
-      "Selma": {
-        "count": 1
-      },
-      "Lakehills": {
-        "count": 3
-      },
-      "Newport": {
-        "count": 1
-      },
-      "Uhland": {
-        "count": 1
-      },
-      "Conroe": {
-        "count": 4
-      },
-      "Poteet": {
-        "count": 1
-      },
-      "Dickinson": {
-        "count": 2
-      },
-      "Cleburne": {
-        "count": 1
-      },
-      "Texhoma": {
-        "count": 1
-      },
-      "Bivins": {
-        "count": 1
-      },
-      "Richardson": {
-        "count": 1
-      },
-      "Pearland": {
-        "count": 4
-      },
-      "Lake Jackson (Brazoria Co.)": {
-        "count": 1
-      },
-      "Fayetteville": {
-        "count": 1
-      },
-      "Corpus Christi": {
-        "count": 6
-      },
-      "Seguin": {
-        "count": 2
-      },
-      "Euless": {
-        "count": 2
-      },
-      "Dripping Springs": {
-        "count": 1
-      },
-      "Alvin": {
-        "count": 3
-      },
-      "Robstown": {
-        "count": 1
-      },
-      "Burnet": {
-        "count": 1
-      },
-      "North Richland hills": {
-        "count": 1
-      },
-      "Alvord": {
-        "count": 1
-      },
-      "Krum": {
-        "count": 1
-      },
-      "Carrollton": {
-        "count": 2
-      },
-      "Copperas Cove": {
-        "count": 5
-      },
-      "Mansfield": {
-        "count": 4
-      },
-      "Kerrville": {
-        "count": 1
-      },
-      "Murphy": {
-        "count": 1
-      },
-      "Plano": {
-        "count": 4
-      },
-      "Millsap": {
-        "count": 1
-      },
-      "Alice": {
-        "count": 1
-      },
-      "Springtown": {
-        "count": 2
-      },
-      "San Marcos": {
-        "count": 3
-      },
-      "Pharr": {
-        "count": 1
-      },
-      "Moore": {
-        "count": 1
-      },
-      "Atascosa": {
-        "count": 1
-      },
-      "Jamaica Beach": {
-        "count": 1
-      },
-      "Angleton": {
-        "count": 3
-      },
-      "Baytown": {
-        "count": 3
-      },
-      "Livingston": {
-        "count": 1
-      },
-      "Mauriceville/Buna": {
-        "count": 1
-      },
-      "Kemp": {
-        "count": 1
-      },
-      "El Paso": {
-        "count": 11
-      },
-      "Round Rock": {
-        "count": 4
-      },
-      "College Station": {
-        "count": 5
-      },
-      "Hurst": {
-        "count": 2
-      },
-      "Texas City": {
-        "count": 3
-      },
-      "Woodville": {
-        "count": 2
-      },
-      "Big Spring": {
-        "count": 3
-      },
-      "Kingsville": {
-        "count": 1
-      },
-      "Haltom City": {
-        "count": 2
-      },
-      "Jarrell": {
-        "count": 2
-      },
-      "Horizon City": {
-        "count": 1
-      },
-      "Leander-Jarrell": {
-        "count": 1
-      },
-      "Lake Kiowa": {
-        "count": 1
-      },
-      "Boerne": {
-        "count": 1
-      },
-      "Navasota": {
-        "count": 1
-      },
-      "Arlington": {
-        "count": 3
-      },
-      "Lorenzo": {
-        "count": 1
-      },
-      "Wylie and Rowlett": {
-        "count": 1
-      },
-      "Wichita Falls": {
-        "count": 2
-      },
-      "Los Fresnos": {
-        "count": 1
-      },
-      "Paris": {
-        "count": 2
-      },
-      "La Porte": {
-        "count": 1
-      },
-      "Laredo": {
-        "count": 1
-      },
-      "Stanton": {
-        "count": 1
-      },
-      "Highland Village": {
-        "count": 1
-      },
-      "Huntington": {
-        "count": 1
-      },
-      "Mineola": {
-        "count": 2
-      },
-      "Road": {
-        "count": 1
-      },
-      "Pasadena": {
-        "count": 1
-      },
-      "Odessa": {
-        "count": 1
-      },
-      "Goliad": {
-        "count": 1
-      },
-      "Bay City": {
-        "count": 1
-      },
-      "Victoria": {
-        "count": 2
-      },
-      "Port Isabel": {
-        "count": 1
-      },
-      "New Boston": {
-        "count": 1
-      },
-      "Flowermound": {
-        "count": 3
-      },
-      "Gatesville": {
-        "count": 1
-      },
-      "Allen": {
-        "count": 3
-      },
-      "none": {
-        "count": 1
-      },
-      "San Benito": {
-        "count": 1
-      },
-      "Mt. Pleasant": {
-        "count": 1
-      },
-      "Corpus Christi (south of)": {
-        "count": 1
-      },
-      "Electra": {
-        "count": 1
-      },
-      "Grapevine": {
-        "count": 1
-      },
-      "Wimberley": {
-        "count": 1
-      },
-      "Lewisville": {
-        "count": 2
-      },
-      "Kaufman": {
-        "count": 1
-      },
-      "Groveton": {
-        "count": 1
-      },
-      "Burleson": {
-        "count": 1
-      },
-      "Freeport (Treasure Island )": {
-        "count": 1
-      },
-      "Perryville": {
-        "count": 1
-      },
-      "Dimmit": {
-        "count": 1
-      },
-      "Old Town Katy": {
-        "count": 1
-      },
-      "Diboll": {
-        "count": 1
-      },
-      "Winnsboro": {
-        "count": 1
-      },
-      "Van Horn": {
-        "count": 1
-      },
-      "Leagueville": {
-        "count": 1
-      },
-      "Brazoria": {
-        "count": 1
-      },
-      "Mathis": {
-        "count": 1
-      },
-      "Roasharon": {
-        "count": 1
-      },
-      "Dallas (DFW Airport)": {
-        "count": 1
-      },
-      "Mercedes": {
-        "count": 1
-      },
-      "Carrolton": {
-        "count": 1
-      },
-      "Colleyville": {
-        "count": 2
-      },
-      "Galveston": {
-        "count": 4
-      },
-      "Seabrook": {
-        "count": 1
-      },
-      "Kyle": {
-        "count": 1
-      },
-      "Sugar Land": {
-        "count": 1
-      },
-      "Coppell": {
-        "count": 1
-      },
-      "Royse City": {
-        "count": 1
-      },
-      "Little Elm": {
-        "count": 1
-      },
-      "Beeville-Kennedy": {
-        "count": 1
-      },
-      "Flower Mound": {
-        "count": 1
-      },
-      "Pollock": {
-        "count": 1
-      },
-      "Bertram": {
-        "count": 1
-      },
-      "Texas (western part of)": {
-        "count": 1
-      },
-      "Montgomery": {
-        "count": 1
-      },
-      "Ft. Worth": {
-        "count": 2
-      },
-      "Midland": {
-        "count": 2
-      },
-      "Mesquite": {
-        "count": 1
-      },
-      "Haslet": {
-        "count": 1
-      },
-      "Marfa": {
-        "count": 1
-      },
-      "Kingwood": {
-        "count": 1
-      },
-      "Whitehouse": {
-        "count": 1
-      },
-      "Ft. Stockton": {
-        "count": 1
-      },
-      "Shady Grove": {
-        "count": 1
-      },
-      "Coleman": {
-        "count": 1
-      },
-      "Miami": {
-        "count": 1
-      },
-      "Spring Branch": {
-        "count": 1
-      },
-      "Santa Fe": {
-        "count": 2
-      },
-      "Gladewater": {
-        "count": 1
-      },
-      "Callallen/Orange Grove": {
-        "count": 1
-      },
-      "Big Wells": {
-        "count": 1
-      },
-      "Walburg": {
-        "count": 1
-      },
-      "Helotes": {
-        "count": 1
-      },
-      "Frost": {
-        "count": 1
-      },
-      "Stafford": {
-        "count": 1
-      },
-      "Webster": {
-        "count": 1
-      },
-      "Salado/Jarrell": {
-        "count": 1
-      },
-      "Buda": {
-        "count": 1
-      },
-      "Henderson": {
-        "count": 1
-      },
-      "Converse": {
-        "count": 1
-      },
-      "(Unspecified location)": {
-        "count": 1
-      },
-      "Desoto": {
-        "count": 1
-      },
-      "Sanger": {
-        "count": 1
-      },
-      "Bandera": {
-        "count": 1
-      },
-      "Hughes Springs": {
-        "count": 2
-      },
-      "Harlingen": {
-        "count": 1
-      },
-      "Porter": {
-        "count": 1
-      },
-      "Kemah": {
-        "count": 1
-      },
-      "Brenham": {
-        "count": 1
-      },
-      "Riverside": {
-        "count": 1
-      },
-      "Newark": {
-        "count": 1
-      },
-      "Woodlands": {
-        "count": 1
-      },
-      "Edinburg": {
-        "count": 1
-      },
-      "Humble": {
-        "count": 2
-      },
-      "Holland": {
-        "count": 1
-      },
-      "Cross Plains": {
-        "count": 1
-      },
-      "Valley View": {
-        "count": 1
-      },
-      "Carrolltom": {
-        "count": 1
-      },
-      "Rio Hondo": {
-        "count": 1
-      },
-      "Celina": {
-        "count": 1
-      },
-      "Schulenburg": {
-        "count": 1
-      },
-      "League City": {
-        "count": 1
-      },
-      "Gainesville": {
-        "count": 1
-      },
-      "Ferris": {
-        "count": 1
-      },
-      "Port Neches": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Aztec",
+    "state": "NM",
+    "count": 2
   },
-  "MN": {
-    "cities": {
-      "Kandiyohi": {
-        "count": 1
-      },
-      "Blaine": {
-        "count": 7
-      },
-      "Silver Lake": {
-        "count": 1
-      },
-      "Eden Prairie": {
-        "count": 8
-      },
-      "Byron/Salem Corners": {
-        "count": 1
-      },
-      "Rochester": {
-        "count": 4
-      },
-      "Elk River": {
-        "count": 4
-      },
-      "Rochester/Byron/Salem Corners": {
-        "count": 1
-      },
-      "Shakopee": {
-        "count": 5
-      },
-      "Cross Lake": {
-        "count": 1
-      },
-      "Plymouth": {
-        "count": 4
-      },
-      "Shokapee": {
-        "count": 1
-      },
-      "Kenyon": {
-        "count": 1
-      },
-      "South Saint Paul": {
-        "count": 1
-      },
-      "Oakdale": {
-        "count": 3
-      },
-      "Little Falls": {
-        "count": 2
-      },
-      "Mantorville": {
-        "count": 1
-      },
-      "Vadnais Heights/White Bear Township": {
-        "count": 1
-      },
-      "Bigfork": {
-        "count": 1
-      },
-      "Brainerd": {
-        "count": 3
-      },
-      "Litchfield": {
-        "count": 2
-      },
-      "Arden Hills": {
-        "count": 2
-      },
-      "Rosemount": {
-        "count": 3
-      },
-      "Viking": {
-        "count": 2
-      },
-      "Corcoran": {
-        "count": 1
-      },
-      "Chanhassen": {
-        "count": 2
-      },
-      "Ramsey": {
-        "count": 1
-      },
-      "Grand Marais": {
-        "count": 3
-      },
-      "Rushford": {
-        "count": 1
-      },
-      "Hutchinson": {
-        "count": 2
-      },
-      "Lakeville": {
-        "count": 8
-      },
-      "Vadnis Heights/white bear lake": {
-        "count": 1
-      },
-      "Wabasha": {
-        "count": 2
-      },
-      "Savage": {
-        "count": 3
-      },
-      "Forest Lake": {
-        "count": 2
-      },
-      "Trimont": {
-        "count": 1
-      },
-      "Duluth": {
-        "count": 4
-      },
-      "Cambridge": {
-        "count": 1
-      },
-      "Minneapolis": {
-        "count": 24
-      },
-      "St. Paul": {
-        "count": 14
-      },
-      "Minnetonka": {
-        "count": 6
-      },
-      "Saint Peter": {
-        "count": 1
-      },
-      "Oak Grove": {
-        "count": 1
-      },
-      "West Lakeland": {
-        "count": 1
-      },
-      "Zimmerman": {
-        "count": 1
-      },
-      "Brooklyn Park": {
-        "count": 2
-      },
-      "Hibbing": {
-        "count": 2
-      },
-      "Edina": {
-        "count": 5
-      },
-      "Excelsior": {
-        "count": 1
-      },
-      "Roseville": {
-        "count": 1
-      },
-      "Gheen": {
-        "count": 1
-      },
-      "Floodwood": {
-        "count": 1
-      },
-      "Cloquet": {
-        "count": 2
-      },
-      "Stacy": {
-        "count": 1
-      },
-      "Apple valley": {
-        "count": 1
-      },
-      "Chanhassen (east of)": {
-        "count": 1
-      },
-      "Saint Paul": {
-        "count": 8
-      },
-      "Brook Park": {
-        "count": 1
-      },
-      "Anoka": {
-        "count": 1
-      },
-      "Eagan": {
-        "count": 6
-      },
-      "Marshall": {
-        "count": 1
-      },
-      "Cohasset": {
-        "count": 1
-      },
-      "Minneapolis/Bryn Mawr/ Theodore Wirth Golf Course area": {
-        "count": 1
-      },
-      "Randall": {
-        "count": 1
-      },
-      "Coon Rapids": {
-        "count": 4
-      },
-      "Newbrighton": {
-        "count": 2
-      },
-      "Deer River": {
-        "count": 1
-      },
-      "Eden Prarie": {
-        "count": 1
-      },
-      "Sauk Rapids": {
-        "count": 2
-      },
-      "Redwood Falls": {
-        "count": 1
-      },
-      "Maple Grove": {
-        "count": 2
-      },
-      "Owatonna": {
-        "count": 3
-      },
-      "Lester Prairie": {
-        "count": 1
-      },
-      "Stillwater": {
-        "count": 5
-      },
-      "Lake Elmo-Oakdale": {
-        "count": 1
-      },
-      "Saginaw": {
-        "count": 1
-      },
-      "North Mankato": {
-        "count": 1
-      },
-      "Elko New Market": {
-        "count": 1
-      },
-      "Lake Crystal": {
-        "count": 1
-      },
-      "Shoreview": {
-        "count": 4
-      },
-      "Pine island": {
-        "count": 1
-      },
-      "Alexandria": {
-        "count": 2
-      },
-      "Mankato": {
-        "count": 1
-      },
-      "Hastings/Revanna Townships": {
-        "count": 1
-      },
-      "Bemidji": {
-        "count": 3
-      },
-      "Watkins": {
-        "count": 1
-      },
-      "Norwood Young America": {
-        "count": 1
-      },
-      "East Grand Forks": {
-        "count": 1
-      },
-      "Ham Lake": {
-        "count": 1
-      },
-      "Oak Park": {
-        "count": 1
-      },
-      "Lake Vermilion (near tower)": {
-        "count": 1
-      },
-      "New Hope": {
-        "count": 1
-      },
-      "Park Rapids": {
-        "count": 2
-      },
-      "Fredenberg Township": {
-        "count": 1
-      },
-      "Ely": {
-        "count": 1
-      },
-      "Taylors Falls": {
-        "count": 1
-      },
-      "Wyoming": {
-        "count": 2
-      },
-      "Minneapolis-Uptown": {
-        "count": 1
-      },
-      "Woodbury": {
-        "count": 3
-      },
-      "Big Lake": {
-        "count": 1
-      },
-      "Scanlon": {
-        "count": 1
-      },
-      "New York Mills": {
-        "count": 1
-      },
-      "Hermantown": {
-        "count": 1
-      },
-      "Rothsay": {
-        "count": 1
-      },
-      "Lamberton": {
-        "count": 5
-      },
-      "Two Harbors": {
-        "count": 1
-      },
-      "Renville": {
-        "count": 1
-      },
-      "Long Prairie": {
-        "count": 1
-      },
-      "Battle Lake": {
-        "count": 1
-      },
-      "Faribault": {
-        "count": 3
-      },
-      "Preston": {
-        "count": 1
-      },
-      "Esko": {
-        "count": 1
-      },
-      "Monticello": {
-        "count": 2
-      },
-      "New London": {
-        "count": 1
-      },
-      "Hopkins": {
-        "count": 2
-      },
-      "Orono": {
-        "count": 1
-      },
-      "Lakveville": {
-        "count": 1
-      },
-      "Foley": {
-        "count": 1
-      },
-      "North Minneapolis": {
-        "count": 1
-      },
-      "Fridley": {
-        "count": 3
-      },
-      "Brooklyn Center": {
-        "count": 2
-      },
-      "Morris": {
-        "count": 1
-      },
-      "Ferguson Falls": {
-        "count": 1
-      },
-      "New Prague": {
-        "count": 1
-      },
-      "St. Cloud": {
-        "count": 3
-      },
-      "Otsego": {
-        "count": 2
-      },
-      "Forest lake": {
-        "count": 1
-      },
-      "Silver Bay": {
-        "count": 1
-      },
-      "Lutsen": {
-        "count": 1
-      },
-      "Roseville/St paul": {
-        "count": 1
-      },
-      "Proctor": {
-        "count": 1
-      },
-      "Little Canada": {
-        "count": 1
-      },
-      "Rogers": {
-        "count": 1
-      },
-      "Scandia": {
-        "count": 1
-      },
-      "Barnum": {
-        "count": 1
-      },
-      "Prior Lake": {
-        "count": 3
-      },
-      "Burnsville": {
-        "count": 2
-      },
-      "Carver": {
-        "count": 1
-      },
-      "Gibbon": {
-        "count": 2
-      },
-      "Isabella": {
-        "count": 1
-      },
-      "St. Paul (around)": {
-        "count": 1
-      },
-      "Saint Cloud": {
-        "count": 1
-      },
-      "Vadnais Heights": {
-        "count": 1
-      },
-      "Cotton": {
-        "count": 1
-      },
-      "Elbow Lake": {
-        "count": 1
-      },
-      "Jordan": {
-        "count": 1
-      },
-      "LakeView": {
-        "count": 1
-      },
-      "Hayfield": {
-        "count": 1
-      },
-      "Fergus Falls": {
-        "count": 1
-      },
-      "Pelican Rapids": {
-        "count": 1
-      },
-      "Rice": {
-        "count": 1
-      },
-      "Champlin": {
-        "count": 2
-      },
-      "Richmond": {
-        "count": 1
-      },
-      "Dodge Center": {
-        "count": 2
-      },
-      "Pierz": {
-        "count": 1
-      },
-      "Northfield": {
-        "count": 2
-      },
-      "Byron": {
-        "count": 1
-      },
-      "Otter Tail": {
-        "count": 1
-      },
-      "Backus": {
-        "count": 1
-      },
-      "Makinen": {
-        "count": 1
-      },
-      "Pine Springs": {
-        "count": 1
-      },
-      "Ogilvie": {
-        "count": 2
-      },
-      "Chisago": {
-        "count": 1
-      },
-      "Coates": {
-        "count": 1
-      },
-      "Boundary Waters": {
-        "count": 1
-      },
-      "Chaska": {
-        "count": 1
-      },
-      "Eagle Lake": {
-        "count": 1
-      },
-      "Hollandale": {
-        "count": 1
-      },
-      "South St. Paul": {
-        "count": 1
-      },
-      "Baudette": {
-        "count": 1
-      },
-      "Cannon Falls": {
-        "count": 1
-      },
-      "Rush City": {
-        "count": 1
-      },
-      "Farmington": {
-        "count": 1
-      },
-      "North Branch": {
-        "count": 1
-      },
-      "Le Sueur": {
-        "count": 1
-      },
-      "Downer": {
-        "count": 1
-      },
-      "Sauk Centre": {
-        "count": 1
-      },
-      "Waite Park": {
-        "count": 1
-      },
-      "Clearwater": {
-        "count": 1
-      },
-      "Cromwell": {
-        "count": 1
-      },
-      "Hamlake": {
-        "count": 1
-      },
-      "Hugo": {
-        "count": 2
-      },
-      "Clarks Grove": {
-        "count": 1
-      },
-      "Winona": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "count": 14
   },
-  "NY": {
-    "cities": {
-      "Poughkeepsie": {
-        "count": 4
-      },
-      "Commack": {
-        "count": 2
-      },
-      "Appointee Falls": {
-        "count": 1
-      },
-      "Saratoga Springs": {
-        "count": 3
-      },
-      "Buffalo": {
-        "count": 18
-      },
-      "Utica": {
-        "count": 11
-      },
-      "Liverpool": {
-        "count": 4
-      },
-      "Syracuse": {
-        "count": 21
-      },
-      "Dannemora": {
-        "count": 1
-      },
-      "New York City (Brooklyn)": {
-        "count": 38
-      },
-      "Schenectady": {
-        "count": 4
-      },
-      "Port Chester": {
-        "count": 2
-      },
-      "Farmingville": {
-        "count": 4
-      },
-      "Honeoye Falls": {
-        "count": 1
-      },
-      "New Rochelle": {
-        "count": 2
-      },
-      "Batavia": {
-        "count": 7
-      },
-      "Clifton Park": {
-        "count": 3
-      },
-      "Armonk": {
-        "count": 1
-      },
-      "Crown Point": {
-        "count": 1
-      },
-      "Richmond Hill": {
-        "count": 1
-      },
-      "Greenwich": {
-        "count": 1
-      },
-      "New York City (Queens)": {
-        "count": 7
-      },
-      "Huntington": {
-        "count": 5
-      },
-      "Huntington station": {
-        "count": 1
-      },
-      "Mooers": {
-        "count": 1
-      },
-      "Astoria": {
-        "count": 2
-      },
-      "Queensbury": {
-        "count": 3
-      },
-      "New Paltz": {
-        "count": 4
-      },
-      "Fire Island (Barett Beach)": {
-        "count": 1
-      },
-      "West Chazy": {
-        "count": 1
-      },
-      "Fort Montgomery": {
-        "count": 1
-      },
-      "Big Flats": {
-        "count": 1
-      },
-      "Staten Island": {
-        "count": 20
-      },
-      "Moravia": {
-        "count": 1
-      },
-      "Harpursville": {
-        "count": 1
-      },
-      "Levittown": {
-        "count": 3
-      },
-      "Ronkonkoma": {
-        "count": 6
-      },
-      "New York City": {
-        "count": 18
-      },
-      "Yonkers": {
-        "count": 5
-      },
-      "Carmel/Kent": {
-        "count": 1
-      },
-      "Smithtown": {
-        "count": 2
-      },
-      "Saratoga": {
-        "count": 1
-      },
-      "New York City (Bronx)": {
-        "count": 13
-      },
-      "Jordan": {
-        "count": 1
-      },
-      "Ozone Park": {
-        "count": 1
-      },
-      "Rochester": {
-        "count": 18
-      },
-      "Williamson": {
-        "count": 1
-      },
-      "East Hampton": {
-        "count": 2
-      },
-      "Voorheesville": {
-        "count": 1
-      },
-      "Centerport": {
-        "count": 2
-      },
-      "North Creek": {
-        "count": 1
-      },
-      "Elizabethtown": {
-        "count": 1
-      },
-      "Rome": {
-        "count": 2
-      },
-      "Waterford": {
-        "count": 1
-      },
-      "Bloomfield": {
-        "count": 1
-      },
-      "East Patchogue": {
-        "count": 2
-      },
-      "New York City (Jamaica)": {
-        "count": 1
-      },
-      "Bayshore": {
-        "count": 1
-      },
-      "Patchogue": {
-        "count": 5
-      },
-      "Kenmore": {
-        "count": 4
-      },
-      "Manlius": {
-        "count": 1
-      },
-      "New York": {
-        "count": 8
-      },
-      "Hopewell Junction": {
-        "count": 1
-      },
-      "West Islip": {
-        "count": 1
-      },
-      "Rotterdam": {
-        "count": 1
-      },
-      "Troy": {
-        "count": 1
-      },
-      "Hammond": {
-        "count": 1
-      },
-      "Westfield": {
-        "count": 1
-      },
-      "New York City (Manhattan)": {
-        "count": 16
-      },
-      "Copake": {
-        "count": 1
-      },
-      "Fulton": {
-        "count": 3
-      },
-      "Selden": {
-        "count": 2
-      },
-      "Wappingers Falls": {
-        "count": 2
-      },
-      "Vernon": {
-        "count": 1
-      },
-      "Somerset": {
-        "count": 1
-      },
-      "Locke": {
-        "count": 1
-      },
-      "Larmont": {
-        "count": 1
-      },
-      "New York City (Queens)(Hollis)": {
-        "count": 1
-      },
-      "Franklin Square": {
-        "count": 1
-      },
-      "Lakeville": {
-        "count": 1
-      },
-      "Massapequa": {
-        "count": 5
-      },
-      "Lindenhurst": {
-        "count": 2
-      },
-      "Mastic Beach": {
-        "count": 5
-      },
-      "East Norwich": {
-        "count": 1
-      },
-      "Lisbon": {
-        "count": 1
-      },
-      "Gloversville": {
-        "count": 1
-      },
-      "Holbrook": {
-        "count": 2
-      },
-      "Colonie": {
-        "count": 2
-      },
-      "New York City (Queens)(Flushing Meadows)": {
-        "count": 1
-      },
-      "Brushton": {
-        "count": 1
-      },
-      "Bellmore": {
-        "count": 1
-      },
-      "Little Neck": {
-        "count": 1
-      },
-      "Slingerlands": {
-        "count": 1
-      },
-      "Macedon": {
-        "count": 1
-      },
-      "Marine park Bklyn": {
-        "count": 1
-      },
-      "Clarence": {
-        "count": 2
-      },
-      "Webster": {
-        "count": 7
-      },
-      "Greece": {
-        "count": 1
-      },
-      "New Windsor": {
-        "count": 1
-      },
-      "Depew": {
-        "count": 1
-      },
-      "Hudson": {
-        "count": 1
-      },
-      "Higginsville": {
-        "count": 1
-      },
-      "Greenville": {
-        "count": 1
-      },
-      "Onchiota": {
-        "count": 1
-      },
-      "New York City (upper West Side)": {
-        "count": 1
-      },
-      "Woodbury": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "Livonia": {
-        "count": 1
-      },
-      "Islip Terrace": {
-        "count": 1
-      },
-      "Freeport": {
-        "count": 2
-      },
-      "Beacon": {
-        "count": 2
-      },
-      "Rosendale": {
-        "count": 1
-      },
-      "Penfield": {
-        "count": 2
-      },
-      "Massena": {
-        "count": 2
-      },
-      "Johnson City": {
-        "count": 4
-      },
-      "Auburn": {
-        "count": 4
-      },
-      "Long Beach": {
-        "count": 2
-      },
-      "Williamsville": {
-        "count": 1
-      },
-      "Angola": {
-        "count": 4
-      },
-      "Walden": {
-        "count": 1
-      },
-      "Wilson": {
-        "count": 3
-      },
-      "Bloomingburg": {
-        "count": 1
-      },
-      "Chester": {
-        "count": 1
-      },
-      "Deer Park": {
-        "count": 4
-      },
-      "Fishkill": {
-        "count": 4
-      },
-      "Binghamton": {
-        "count": 3
-      },
-      "Amherst": {
-        "count": 4
-      },
-      "Bay Shore": {
-        "count": 1
-      },
-      "Bergen": {
-        "count": 1
-      },
-      "Middletown": {
-        "count": 6
-      },
-      "Central Square": {
-        "count": 3
-      },
-      "Obernburg": {
-        "count": 1
-      },
-      "Watervliet": {
-        "count": 1
-      },
-      "Ithaca": {
-        "count": 1
-      },
-      "Holland": {
-        "count": 1
-      },
-      "Wantagh": {
-        "count": 3
-      },
-      "Miller Place": {
-        "count": 1
-      },
-      "Albany": {
-        "count": 10
-      },
-      "Schaghticoke": {
-        "count": 1
-      },
-      "Lido Beach": {
-        "count": 1
-      },
-      "Vestal": {
-        "count": 1
-      },
-      "Hicksville": {
-        "count": 4
-      },
-      "Slate Hill": {
-        "count": 1
-      },
-      "Ticonderoga": {
-        "count": 2
-      },
-      "Hilton": {
-        "count": 1
-      },
-      "Long Island": {
-        "count": 1
-      },
-      "Geneva": {
-        "count": 1
-      },
-      "Sanborn": {
-        "count": 1
-      },
-      "White Plains": {
-        "count": 1
-      },
-      "Niagara Falls": {
-        "count": 4
-      },
-      "Syracuse to Phoenix": {
-        "count": 1
-      },
-      "Cicero": {
-        "count": 6
-      },
-      "Amherst/Tonawanda": {
-        "count": 1
-      },
-      "Phoenix to Syracuse": {
-        "count": 1
-      },
-      "Colton": {
-        "count": 1
-      },
-      "Baldwinsville": {
-        "count": 5
-      },
-      "Fort Edward": {
-        "count": 1
-      },
-      "Granville": {
-        "count": 1
-      },
-      "Hartsdale": {
-        "count": 2
-      },
-      "Farmington": {
-        "count": 1
-      },
-      "Harrison": {
-        "count": 3
-      },
-      "Kingston": {
-        "count": 4
-      },
-      "Pomona": {
-        "count": 3
-      },
-      "Camden": {
-        "count": 1
-      },
-      "Spencerport": {
-        "count": 1
-      },
-      "Malverne": {
-        "count": 1
-      },
-      "Whitehall": {
-        "count": 1
-      },
-      "Cleveland (Oneida Lake)": {
-        "count": 1
-      },
-      "Waterloo": {
-        "count": 2
-      },
-      "Wassaic": {
-        "count": 1
-      },
-      "New York City (Middle Village)": {
-        "count": 1
-      },
-      "Saugerties": {
-        "count": 1
-      },
-      "Windham (Catskills)": {
-        "count": 1
-      },
-      "Cold Spring": {
-        "count": 1
-      },
-      "Russia": {
-        "count": 1
-      },
-      "Centereach": {
-        "count": 2
-      },
-      "Fort Salonga": {
-        "count": 1
-      },
-      "Lancaster": {
-        "count": 2
-      },
-      "Clarence Center": {
-        "count": 1
-      },
-      "Mohawk": {
-        "count": 1
-      },
-      "Mexico": {
-        "count": 3
-      },
-      "Owego": {
-        "count": 1
-      },
-      "New York City (over the Hudson)": {
-        "count": 1
-      },
-      "St. James": {
-        "count": 2
-      },
-      "Herkimer": {
-        "count": 2
-      },
-      "Wingdale": {
-        "count": 1
-      },
-      "Kerhonkson": {
-        "count": 1
-      },
-      "Belleville": {
-        "count": 1
-      },
-      "Amsterdam": {
-        "count": 2
-      },
-      "Dix Hills": {
-        "count": 3
-      },
-      "Mount Sinai": {
-        "count": 1
-      },
-      "Endicott": {
-        "count": 1
-      },
-      "Canton": {
-        "count": 3
-      },
-      "East Northport": {
-        "count": 4
-      },
-      "Farmingdale": {
-        "count": 3
-      },
-      "West Babylon": {
-        "count": 4
-      },
-      "Flanders": {
-        "count": 2
-      },
-      "North Syracuse": {
-        "count": 1
-      },
-      "Sylvan Beach": {
-        "count": 1
-      },
-      "Riverhead": {
-        "count": 1
-      },
-      "Willard": {
-        "count": 1
-      },
-      "Stony Point": {
-        "count": 2
-      },
-      "Alden": {
-        "count": 2
-      },
-      "Potsdam": {
-        "count": 1
-      },
-      "Corona (Queens)": {
-        "count": 1
-      },
-      "Tappan": {
-        "count": 1
-      },
-      "Oneonta": {
-        "count": 1
-      },
-      "New York City (Yonkers)": {
-        "count": 1
-      },
-      "Irondequoit": {
-        "count": 2
-      },
-      "Lagrange": {
-        "count": 3
-      },
-      "Ravena": {
-        "count": 1
-      },
-      "College Point (Queens)": {
-        "count": 1
-      },
-      "Watertown": {
-        "count": 1
-      },
-      "Pine Bush": {
-        "count": 1
-      },
-      "Suffern": {
-        "count": 1
-      },
-      "Glens Falls": {
-        "count": 1
-      },
-      "Gallatin (town of; Red Hook zip)": {
-        "count": 1
-      },
-      "East Aurora": {
-        "count": 3
-      },
-      "Pottersville": {
-        "count": 2
-      },
-      "Selkirk": {
-        "count": 1
-      },
-      "Cheektowaga": {
-        "count": 1
-      },
-      "Hampton Bays": {
-        "count": 1
-      },
-      "Dansville": {
-        "count": 1
-      },
-      "Whitestone": {
-        "count": 1
-      },
-      "Bolton": {
-        "count": 1
-      },
-      "Middle Village": {
-        "count": 1
-      },
-      "Accord": {
-        "count": 1
-      },
-      "Woodside": {
-        "count": 2
-      },
-      "Rifton": {
-        "count": 1
-      },
-      "Cooperstown": {
-        "count": 1
-      },
-      "Pound Ridge": {
-        "count": 1
-      },
-      "Medford": {
-        "count": 2
-      },
-      "Elmhurst": {
-        "count": 1
-      },
-      "Greene": {
-        "count": 1
-      },
-      "Jamestown": {
-        "count": 2
-      },
-      "Tuscarora Indian Reservation": {
-        "count": 1
-      },
-      "Circleville": {
-        "count": 1
-      },
-      "Canandaigua": {
-        "count": 1
-      },
-      "Horseheads": {
-        "count": 1
-      },
-      "Wynanskill": {
-        "count": 1
-      },
-      "Hauppauge": {
-        "count": 1
-      },
-      "Rotterdam/Amsterdam": {
-        "count": 1
-      },
-      "Morrisville": {
-        "count": 1
-      },
-      "Swain": {
-        "count": 1
-      },
-      "East Irondequoit": {
-        "count": 1
-      },
-      "Rensselaer": {
-        "count": 2
-      },
-      "Wellsville": {
-        "count": 1
-      },
-      "Tonawanda": {
-        "count": 2
-      },
-      "Ogdensburg": {
-        "count": 1
-      },
-      "Plattsburgh": {
-        "count": 1
-      },
-      "Tarrytown": {
-        "count": 2
-      },
-      "Mountain Rd": {
-        "count": 1
-      },
-      "Ashville": {
-        "count": 1
-      },
-      "North Tonawanda": {
-        "count": 3
-      },
-      "Eden": {
-        "count": 1
-      },
-      "Kendall": {
-        "count": 2
-      },
-      "Croghan": {
-        "count": 1
-      },
-      "East Setauket": {
-        "count": 1
-      },
-      "Syracuse (20-30 mins away from)": {
-        "count": 1
-      },
-      "Bay Shore (Long Island)": {
-        "count": 1
-      },
-      "Rexford": {
-        "count": 1
-      },
-      "Modena": {
-        "count": 1
-      },
-      "Brunswick": {
-        "count": 1
-      },
-      "Peru": {
-        "count": 1
-      },
-      "Red Hook": {
-        "count": 1
-      },
-      "Valley Stream": {
-        "count": 2
-      },
-      "Bayville": {
-        "count": 2
-      },
-      "Chazy Lake": {
-        "count": 1
-      },
-      "Black Creek": {
-        "count": 1
-      },
-      "Forestburgh": {
-        "count": 2
-      },
-      "New City": {
-        "count": 1
-      },
-      "Oceanside": {
-        "count": 1
-      },
-      "Orangeburg": {
-        "count": 1
-      },
-      "North Babylon": {
-        "count": 1
-      },
-      "New York City (East Harlem)": {
-        "count": 1
-      },
-      "Bel": {
-        "count": 1
-      },
-      "Delmar": {
-        "count": 1
-      },
-      "Brantingham": {
-        "count": 1
-      },
-      "Fonda": {
-        "count": 1
-      },
-      "Old Bethpage (Long Island)": {
-        "count": 1
-      },
-      "West Falls": {
-        "count": 1
-      },
-      "Cortland": {
-        "count": 1
-      },
-      "Sayville/Blue Point (general area)": {
-        "count": 1
-      },
-      "Olmsteadville": {
-        "count": 1
-      },
-      "Old Field": {
-        "count": 1
-      },
-      "Castleton": {
-        "count": 1
-      },
-      "Weedsport": {
-        "count": 1
-      },
-      "Diamond Point": {
-        "count": 1
-      },
-      "Merrick": {
-        "count": 1
-      },
-      "Bohemia": {
-        "count": 1
-      },
-      "Monroe": {
-        "count": 2
-      },
-      "Asbury Park": {
-        "count": 1
-      },
-      "Sag Harbor": {
-        "count": 1
-      },
-      "Lake George (Lake George Village )": {
-        "count": 1
-      },
-      "Coram": {
-        "count": 2
-      },
-      "East Amherst": {
-        "count": 1
-      },
-      "Palermo": {
-        "count": 1
-      },
-      "Schuylerville": {
-        "count": 1
-      },
-      "New York City (Maspeth)": {
-        "count": 1
-      },
-      "Maspeth": {
-        "count": 1
-      },
-      "Plainview": {
-        "count": 1
-      },
-      "Henderson Bay": {
-        "count": 1
-      },
-      "Phoenix": {
-        "count": 1
-      },
-      "Sugar Loaf": {
-        "count": 1
-      },
-      "Floral Park": {
-        "count": 2
-      },
-      "High Falls": {
-        "count": 1
-      },
-      "Forest Hills": {
-        "count": 2
-      },
-      "Endwell": {
-        "count": 1
-      },
-      "East Meadow": {
-        "count": 1
-      },
-      "Wilton": {
-        "count": 1
-      },
-      "Raleigh": {
-        "count": 1
-      },
-      "New Berlin": {
-        "count": 1
-      },
-      "Oakdale": {
-        "count": 1
-      },
-      "Springville": {
-        "count": 1
-      },
-      "Lake George": {
-        "count": 2
-      },
-      "Bethpage": {
-        "count": 1
-      },
-      "Pendleton": {
-        "count": 1
-      },
-      "Bouckville": {
-        "count": 1
-      },
-      "Hamburg": {
-        "count": 1
-      },
-      "Minoa": {
-        "count": 1
-      },
-      "Middletown (west of)": {
-        "count": 1
-      },
-      "Middle Grove": {
-        "count": 1
-      },
-      "North Tonnawanda": {
-        "count": 1
-      },
-      "Middle Island": {
-        "count": 1
-      },
-      "Melville": {
-        "count": 1
-      },
-      "Rockville Centre": {
-        "count": 1
-      },
-      "Akron": {
-        "count": 1
-      },
-      "Port Crane": {
-        "count": 1
-      },
-      "West Seneca": {
-        "count": 1
-      },
-      "New Hartford": {
-        "count": 1
-      },
-      "Cazenovia": {
-        "count": 1
-      },
-      "Thompson Ridge": {
-        "count": 1
-      },
-      "Fredonia": {
-        "count": 1
-      },
-      "Garden City": {
-        "count": 1
-      },
-      "Long Beach (Long Island)": {
-        "count": 1
-      },
-      "Fullerville": {
-        "count": 1
-      },
-      "San Francisco": {
-        "count": 1
-      },
-      "Rocky Point": {
-        "count": 1
-      },
-      "Staten Island (near Verezano Bridge)": {
-        "count": 1
-      },
-      "Holtsville": {
-        "count": 2
-      },
-      "Lockport": {
-        "count": 2
-      },
-      "Wappingers Falls (over The Hudson River)": {
-        "count": 1
-      },
-      "Lansing": {
-        "count": 1
-      },
-      "Corning": {
-        "count": 1
-      },
-      "Phelps": {
-        "count": 1
-      },
-      "Jackson Heights": {
-        "count": 1
-      },
-      "Guilderland": {
-        "count": 1
-      },
-      "Jackson Heights (NYC, Queens)": {
-        "count": 1
-      },
-      "Stormville": {
-        "count": 1
-      },
-      "Yorktown/Jefferson Valley": {
-        "count": 1
-      },
-      "Highlany": {
-        "count": 1
-      },
-      "East Rockaway": {
-        "count": 1
-      },
-      "Mount Morris": {
-        "count": 1
-      },
-      "Johnstown": {
-        "count": 1
-      },
-      "Carmel": {
-        "count": 2
-      },
-      "Ballston Lake": {
-        "count": 1
-      },
-      "Yorktown": {
-        "count": 1
-      },
-      "Millbrook": {
-        "count": 1
-      },
-      "Oswego": {
-        "count": 1
-      },
-      "Hempstead": {
-        "count": 1
-      },
-      "Centereach/Bohemia": {
-        "count": 1
-      },
-      "Rocky Poiint": {
-        "count": 1
-      },
-      "West Hempstead": {
-        "count": 1
-      },
-      "Sherburne": {
-        "count": 1
-      },
-      "Pawling": {
-        "count": 1
-      },
-      "Yorktown Heights": {
-        "count": 1
-      },
-      "Patterson": {
-        "count": 1
-      },
-      "Elmira": {
-        "count": 1
-      },
-      "Astoria (Queens)": {
-        "count": 1
-      },
-      "Cambria": {
-        "count": 1
-      },
-      "Holmes": {
-        "count": 1
-      },
-      "Lake Luzerne": {
-        "count": 1
-      },
-      "Gouverneur": {
-        "count": 1
-      },
-      "Wappinger's Falls": {
-        "count": 1
-      },
-      "Spencer": {
-        "count": 1
-      },
-      "Parishville": {
-        "count": 2
-      },
-      "Barryville": {
-        "count": 1
-      },
-      "Pearl River": {
-        "count": 1
-      },
-      "Shirley": {
-        "count": 1
-      },
-      "Branchport": {
-        "count": 1
-      },
-      "Newburgh": {
-        "count": 1
-      },
-      "Mastic": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Gulfport",
+    "state": "MS",
+    "count": 6
   },
-  "NJ": {
-    "cities": {
-      "Morristown": {
-        "count": 2
-      },
-      "Somerville": {
-        "count": 2
-      },
-      "Tinton Falls": {
-        "count": 3
-      },
-      "Iselin": {
-        "count": 1
-      },
-      "Medford": {
-        "count": 2
-      },
-      "Jersey City": {
-        "count": 3
-      },
-      "Pennsville": {
-        "count": 1
-      },
-      "Plumsted": {
-        "count": 1
-      },
-      "Cherry Hill": {
-        "count": 3
-      },
-      "Winslow Township": {
-        "count": 1
-      },
-      "Everywhere": {
-        "count": 1
-      },
-      "New Brunswick": {
-        "count": 4
-      },
-      "Freehold": {
-        "count": 5
-      },
-      "Mount Laurel": {
-        "count": 6
-      },
-      "Ocean View": {
-        "count": 1
-      },
-      "Manville": {
-        "count": 2
-      },
-      "Glen Gardner": {
-        "count": 1
-      },
-      "Long Branch": {
-        "count": 2
-      },
-      "Green Brook": {
-        "count": 1
-      },
-      "Bordentown": {
-        "count": 1
-      },
-      "Toms River": {
-        "count": 7
-      },
-      "Parsippany": {
-        "count": 1
-      },
-      "Clifton": {
-        "count": 5
-      },
-      "Califon": {
-        "count": 2
-      },
-      "Stockton": {
-        "count": 1
-      },
-      "Linden": {
-        "count": 6
-      },
-      "Brick": {
-        "count": 3
-      },
-      "Union": {
-        "count": 3
-      },
-      "Brick Twp.": {
-        "count": 1
-      },
-      "Newark": {
-        "count": 6
-      },
-      "Ocean City": {
-        "count": 2
-      },
-      "Wildwood": {
-        "count": 2
-      },
-      "Vernon": {
-        "count": 1
-      },
-      "Manalapan": {
-        "count": 5
-      },
-      "Monroe": {
-        "count": 1
-      },
-      "Paterson": {
-        "count": 3
-      },
-      "Glenwood": {
-        "count": 1
-      },
-      "Cape May Wildwood Crest": {
-        "count": 1
-      },
-      "Cape May (headed toward on Parkway South)": {
-        "count": 1
-      },
-      "Montville": {
-        "count": 1
-      },
-      "Ridgewood": {
-        "count": 1
-      },
-      "Linwood": {
-        "count": 1
-      },
-      "Woodbridge": {
-        "count": 8
-      },
-      "Spring Lake": {
-        "count": 2
-      },
-      "Piscataway": {
-        "count": 3
-      },
-      "Glassboro": {
-        "count": 1
-      },
-      "Parlin": {
-        "count": 2
-      },
-      "Augusta": {
-        "count": 1
-      },
-      "Manchester": {
-        "count": 2
-      },
-      "Middleton": {
-        "count": 1
-      },
-      "Delaware Township": {
-        "count": 1
-      },
-      "West Windsor": {
-        "count": 1
-      },
-      "West Deptford": {
-        "count": 4
-      },
-      "Williamstown": {
-        "count": 3
-      },
-      "Mystic Island": {
-        "count": 1
-      },
-      "Old Bridge": {
-        "count": 3
-      },
-      "Turnersville": {
-        "count": 2
-      },
-      "Edison": {
-        "count": 5
-      },
-      "Northvale": {
-        "count": 1
-      },
-      "Randolph": {
-        "count": 1
-      },
-      "Delmont": {
-        "count": 1
-      },
-      "Camden": {
-        "count": 3
-      },
-      "Hoboken": {
-        "count": 1
-      },
-      "Howell": {
-        "count": 4
-      },
-      "Atlantic City": {
-        "count": 4
-      },
-      "Vineland": {
-        "count": 4
-      },
-      "Lawrenceville": {
-        "count": 1
-      },
-      "Millville": {
-        "count": 5
-      },
-      "Fords": {
-        "count": 1
-      },
-      "Burl County": {
-        "count": 1
-      },
-      "Palmyra": {
-        "count": 2
-      },
-      "Fort Lee": {
-        "count": 2
-      },
-      "Lincoln Park": {
-        "count": 1
-      },
-      "Bridgewater": {
-        "count": 5
-      },
-      "Montague": {
-        "count": 1
-      },
-      "Bayville": {
-        "count": 3
-      },
-      "Lavallette": {
-        "count": 3
-      },
-      "Belvidere": {
-        "count": 1
-      },
-      "Riverdale": {
-        "count": 1
-      },
-      "Upper Freehold Township": {
-        "count": 1
-      },
-      "Fremont": {
-        "count": 1
-      },
-      "Lindenwold": {
-        "count": 1
-      },
-      "Mananlapan": {
-        "count": 1
-      },
-      "Wall": {
-        "count": 1
-      },
-      "Red Bank": {
-        "count": 1
-      },
-      "Cape May Court House": {
-        "count": 1
-      },
-      "Mays Landing": {
-        "count": 2
-      },
-      "Berkeley Heights": {
-        "count": 1
-      },
-      "Pennington": {
-        "count": 1
-      },
-      "Cinnaminson": {
-        "count": 2
-      },
-      "Skillman": {
-        "count": 1
-      },
-      "Hardyston Township": {
-        "count": 1
-      },
-      "East Orange": {
-        "count": 1
-      },
-      "Burlington": {
-        "count": 3
-      },
-      "Monroe Twp": {
-        "count": 1
-      },
-      "West Collingswood": {
-        "count": 1
-      },
-      "Haskell": {
-        "count": 1
-      },
-      "Matawan": {
-        "count": 1
-      },
-      "Asbury Park": {
-        "count": 1
-      },
-      "West New York": {
-        "count": 1
-      },
-      "Egg Harbor Township": {
-        "count": 1
-      },
-      "West Orange": {
-        "count": 2
-      },
-      "Redbank": {
-        "count": 1
-      },
-      "Voorhees": {
-        "count": 2
-      },
-      "Hackensack": {
-        "count": 1
-      },
-      "Tuckerton": {
-        "count": 1
-      },
-      "Bayonne": {
-        "count": 6
-      },
-      "Dover": {
-        "count": 1
-      },
-      "South Orange": {
-        "count": 1
-      },
-      "Secaucus": {
-        "count": 1
-      },
-      "Marlton": {
-        "count": 2
-      },
-      "Somerville (toward; on Route 287)": {
-        "count": 1
-      },
-      "Cranford": {
-        "count": 2
-      },
-      "East Brunswick": {
-        "count": 1
-      },
-      "Hamilton": {
-        "count": 1
-      },
-      "Livingston": {
-        "count": 2
-      },
-      "Smithville": {
-        "count": 1
-      },
-      "Sea Isle City": {
-        "count": 1
-      },
-      "Ventnor": {
-        "count": 2
-      },
-      "Haworth": {
-        "count": 1
-      },
-      "Deptford": {
-        "count": 2
-      },
-      "Pittsgrove": {
-        "count": 1
-      },
-      "National Park": {
-        "count": 1
-      },
-      "Mount royal": {
-        "count": 1
-      },
-      "Hamburg": {
-        "count": 1
-      },
-      "Greenwood Lake": {
-        "count": 1
-      },
-      "Runnemede": {
-        "count": 2
-      },
-      "Surf City": {
-        "count": 1
-      },
-      "Mantua": {
-        "count": 1
-      },
-      "Swedesboro": {
-        "count": 1
-      },
-      "South Amboy": {
-        "count": 1
-      },
-      "Lebanon": {
-        "count": 2
-      },
-      "Washington": {
-        "count": 2
-      },
-      "Bradley Beach": {
-        "count": 1
-      },
-      "Cliffside Park": {
-        "count": 1
-      },
-      "Bamber Lakes": {
-        "count": 2
-      },
-      "Franklinville": {
-        "count": 1
-      },
-      "Hamilton Square": {
-        "count": 1
-      },
-      "Rahway": {
-        "count": 2
-      },
-      "Stockholm": {
-        "count": 1
-      },
-      "Oakland": {
-        "count": 1
-      },
-      "Jackson": {
-        "count": 5
-      },
-      "Blackwood": {
-        "count": 4
-      },
-      "Blue Star Memorial Highway": {
-        "count": 1
-      },
-      "Bay Head": {
-        "count": 1
-      },
-      "Jersey city": {
-        "count": 1
-      },
-      "Newton": {
-        "count": 2
-      },
-      "New Egypt": {
-        "count": 1
-      },
-      "Bloomfield": {
-        "count": 1
-      },
-      "Brigantine": {
-        "count": 2
-      },
-      "Dorothy": {
-        "count": 1
-      },
-      "Lafayette": {
-        "count": 1
-      },
-      "Hillsborough": {
-        "count": 1
-      },
-      "Passaic": {
-        "count": 1
-      },
-      "North Bergen": {
-        "count": 1
-      },
-      "Lakehurst": {
-        "count": 1
-      },
-      "Mount Holly": {
-        "count": 1
-      },
-      "Warren": {
-        "count": 1
-      },
-      "High Point": {
-        "count": 1
-      },
-      "Allentown": {
-        "count": 1
-      },
-      "Lakewood": {
-        "count": 3
-      },
-      "Stirling": {
-        "count": 1
-      },
-      "Pittstown": {
-        "count": 1
-      },
-      "Belleville": {
-        "count": 2
-      },
-      "Watchung": {
-        "count": 1
-      },
-      "Waretown": {
-        "count": 2
-      },
-      "Clark": {
-        "count": 2
-      },
-      "Barrington": {
-        "count": 1
-      },
-      "Forked River": {
-        "count": 3
-      },
-      "Absecon (most reports)": {
-        "count": 1
-      },
-      "Ocean & Monmouth Counties": {
-        "count": 1
-      },
-      "Denvile": {
-        "count": 1
-      },
-      "Florham Park": {
-        "count": 1
-      },
-      "Woodland Township": {
-        "count": 1
-      },
-      "Maurice River TWP": {
-        "count": 1
-      },
-      "Elizabeth": {
-        "count": 1
-      },
-      "Ewing": {
-        "count": 1
-      },
-      "Robbinsville": {
-        "count": 2
-      },
-      "Harding": {
-        "count": 1
-      },
-      "Colts Neck": {
-        "count": 1
-      },
-      "Kenvil": {
-        "count": 1
-      },
-      "Somerset": {
-        "count": 1
-      },
-      "Sussex": {
-        "count": 1
-      },
-      "Villas": {
-        "count": 2
-      },
-      "Barnegat": {
-        "count": 2
-      },
-      "East Rutherford": {
-        "count": 1
-      },
-      "Berlin": {
-        "count": 4
-      },
-      "Wyckoff": {
-        "count": 1
-      },
-      "Sicklerviller/Turnersville": {
-        "count": 1
-      },
-      "Park Ridge": {
-        "count": 2
-      },
-      "Oxford": {
-        "count": 1
-      },
-      "Flanders": {
-        "count": 1
-      },
-      "Beach Haven": {
-        "count": 1
-      },
-      "Paramus": {
-        "count": 2
-      },
-      "Lavalette": {
-        "count": 1
-      },
-      "Andover": {
-        "count": 1
-      },
-      "Wildwood Crest": {
-        "count": 4
-      },
-      "Princeton": {
-        "count": 1
-      },
-      "Haven Beach": {
-        "count": 2
-      },
-      "Lumberton": {
-        "count": 1
-      },
-      "New Jersey": {
-        "count": 1
-      },
-      "Phillipsburg": {
-        "count": 2
-      },
-      "Long Beach Island (North Beach)": {
-        "count": 1
-      },
-      "Whiting": {
-        "count": 1
-      },
-      "Aberdeen": {
-        "count": 1
-      },
-      "South River": {
-        "count": 1
-      },
-      "Northfield": {
-        "count": 1
-      },
-      "Scotch Plains": {
-        "count": 2
-      },
-      "Keansburgh": {
-        "count": 1
-      },
-      "Seacaucus": {
-        "count": 1
-      },
-      "Pompton Lakes": {
-        "count": 1
-      },
-      "Hurffville/Sewell (I-55, MM 55)": {
-        "count": 1
-      },
-      "Bedminster": {
-        "count": 1
-      },
-      "Haledon": {
-        "count": 1
-      },
-      "Bloomingdale": {
-        "count": 1
-      },
-      "Vernon Township": {
-        "count": 1
-      },
-      "Butler": {
-        "count": 1
-      },
-      "Florence": {
-        "count": 1
-      },
-      "Englishtown-Manalapan": {
-        "count": 1
-      },
-      "Trenton": {
-        "count": 1
-      },
-      "Beachwood": {
-        "count": 1
-      },
-      "Sicklerville": {
-        "count": 1
-      },
-      "Collingswood": {
-        "count": 1
-      },
-      "Wallington/Passaic": {
-        "count": 1
-      },
-      "Garfield": {
-        "count": 1
-      },
-      "NJ Parkway (south)(Exit 109)": {
-        "count": 1
-      },
-      "Maple Shade": {
-        "count": 1
-      },
-      "Old Tappan": {
-        "count": 1
-      },
-      "Montclair": {
-        "count": 2
-      },
-      "Hopelawn": {
-        "count": 1
-      },
-      "Hackettstown": {
-        "count": 1
-      },
-      "Basking Ridge": {
-        "count": 1
-      },
-      "Middlesex": {
-        "count": 1
-      },
-      "Frenchtown": {
-        "count": 1
-      },
-      "Clementon": {
-        "count": 1
-      },
-      "Egg Harbor Twp": {
-        "count": 1
-      },
-      "Wayne": {
-        "count": 1
-      },
-      "Oak Ridge": {
-        "count": 1
-      },
-      "West Milford": {
-        "count": 1
-      },
-      "Somerset (?)": {
-        "count": 1
-      },
-      "Somers Point": {
-        "count": 1
-      },
-      "Wanaque": {
-        "count": 1
-      },
-      "Carneys Point": {
-        "count": 1
-      },
-      "Cranbury/East Windsor": {
-        "count": 1
-      },
-      "Nortvale": {
-        "count": 1
-      },
-      "Cape May": {
-        "count": 1
-      },
-      "Mahwah/Ramsey border": {
-        "count": 1
-      },
-      "Lawrence": {
-        "count": 1
-      },
-      "East Hanover": {
-        "count": 1
-      },
-      "Pompton Plains": {
-        "count": 2
-      }
-    }
+  {
+    "city": "Beverly Hills",
+    "state": "CA",
+    "count": 1
   },
-  "NH": {
-    "cities": {
-      "Canaan": {
-        "count": 3
-      },
-      "Concord": {
-        "count": 10
-      },
-      "Dover": {
-        "count": 11
-      },
-      "Bennington": {
-        "count": 1
-      },
-      "Northwood": {
-        "count": 1
-      },
-      "Rochester": {
-        "count": 15
-      },
-      "Exeter": {
-        "count": 3
-      },
-      "Salem": {
-        "count": 10
-      },
-      "North Hampton": {
-        "count": 1
-      },
-      "Nashua": {
-        "count": 17
-      },
-      "Hampton Beach": {
-        "count": 1
-      },
-      "Loudon": {
-        "count": 2
-      },
-      "Brookline": {
-        "count": 2
-      },
-      "Sandown": {
-        "count": 7
-      },
-      "Nelson": {
-        "count": 1
-      },
-      "Durham": {
-        "count": 2
-      },
-      "Pelham": {
-        "count": 1
-      },
-      "Strafford": {
-        "count": 1
-      },
-      "Hampton": {
-        "count": 4
-      },
-      "Penacook": {
-        "count": 2
-      },
-      "Acworth": {
-        "count": 1
-      },
-      "Farmington": {
-        "count": 2
-      },
-      "Barrington": {
-        "count": 1
-      },
-      "Goffstown": {
-        "count": 2
-      },
-      "Plaistow": {
-        "count": 1
-      },
-      "Northfield": {
-        "count": 2
-      },
-      "Weare ,": {
-        "count": 1
-      },
-      "Merrimack": {
-        "count": 5
-      },
-      "Woodsville": {
-        "count": 1
-      },
-      "Raymond": {
-        "count": 1
-      },
-      "Portsmouth": {
-        "count": 2
-      },
-      "Plymouth": {
-        "count": 1
-      },
-      "Londonderry": {
-        "count": 3
-      },
-      "Franklin": {
-        "count": 3
-      },
-      "Concord - Penecook": {
-        "count": 1
-      },
-      "Somersworth": {
-        "count": 3
-      },
-      "Londonderry/Hudson": {
-        "count": 1
-      },
-      "Farmington/New Durham": {
-        "count": 1
-      },
-      "Warner": {
-        "count": 1
-      },
-      "Westmoreland": {
-        "count": 1
-      },
-      "Atkinson/Kingston": {
-        "count": 1
-      },
-      "Derry": {
-        "count": 3
-      },
-      "Manchester": {
-        "count": 11
-      },
-      "Gilford": {
-        "count": 2
-      },
-      "New Ipswich": {
-        "count": 1
-      },
-      "Brentwood": {
-        "count": 1
-      },
-      "Wakefield": {
-        "count": 2
-      },
-      "Stoddard": {
-        "count": 1
-      },
-      "Atkinson": {
-        "count": 1
-      },
-      "Freedom": {
-        "count": 1
-      },
-      "Dorchester": {
-        "count": 1
-      },
-      "Milan": {
-        "count": 1
-      },
-      "Bow": {
-        "count": 2
-      },
-      "Rumney": {
-        "count": 1
-      },
-      "Windham": {
-        "count": 1
-      },
-      "Epping": {
-        "count": 1
-      },
-      "Stratham": {
-        "count": 1
-      },
-      "New Hampton": {
-        "count": 3
-      },
-      "Hanover": {
-        "count": 1
-      },
-      "Milford": {
-        "count": 2
-      },
-      "Seabrook": {
-        "count": 1
-      },
-      "Keene": {
-        "count": 2
-      },
-      "Alton": {
-        "count": 2
-      },
-      "Campton": {
-        "count": 1
-      },
-      "Wolfeboro": {
-        "count": 1
-      },
-      "Manchester to Baltimore, MD": {
-        "count": 1
-      },
-      "Newport": {
-        "count": 1
-      },
-      "Bedford": {
-        "count": 2
-      },
-      "Tilton": {
-        "count": 2
-      },
-      "Lowell": {
-        "count": 1
-      },
-      "Hudson": {
-        "count": 1
-      },
-      "Kingston": {
-        "count": 2
-      },
-      "Pittsburg": {
-        "count": 1
-      },
-      "Ashland": {
-        "count": 2
-      },
-      "North Salem": {
-        "count": 1
-      },
-      "Gorham": {
-        "count": 1
-      },
-      "Walpole": {
-        "count": 1
-      },
-      "Enfield": {
-        "count": 1
-      },
-      "Bristol": {
-        "count": 1
-      },
-      "Moultonboro": {
-        "count": 1
-      },
-      "Belmont": {
-        "count": 1
-      },
-      "Meredith": {
-        "count": 1
-      },
-      "Dalton": {
-        "count": 2
-      },
-      "Canterbury": {
-        "count": 1
-      },
-      "West Lebanon": {
-        "count": 1
-      },
-      "Danville": {
-        "count": 1
-      },
-      "Boscawen": {
-        "count": 1
-      },
-      "Lancaster": {
-        "count": 2
-      },
-      "Etna": {
-        "count": 1
-      },
-      "Lincoln": {
-        "count": 1
-      },
-      "Hillsborough": {
-        "count": 1
-      },
-      "Laconia": {
-        "count": 1
-      },
-      "Ossipee": {
-        "count": 1
-      },
-      "Tuftonboro": {
-        "count": 1
-      },
-      "Chocorua": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "Alexandria": {
-        "count": 1
-      },
-      "Whitefield": {
-        "count": 1
-      },
-      "Litchfield": {
-        "count": 1
-      },
-      "Sanbornville": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Pamplin",
+    "state": "VA",
+    "count": 2
   },
-  "NB": {
-    "cities": {
-      "Oakland (Canada)": {
-        "count": 1
-      },
-      "Caithness (Canada)": {
-        "count": 1
-      },
-      "Riverview (Canada)": {
-        "count": 1
-      },
-      "Caraquet (Canada)": {
-        "count": 1
-      },
-      "Hopewell Cape (Canada)": {
-        "count": 1
-      },
-      "Shediac (Canada)": {
-        "count": 1
-      },
-      "Saint John (Canada)": {
-        "count": 3
-      },
-      "St. Croix (Canada)": {
-        "count": 1
-      },
-      "St. Andrews By The Sea (Canada)": {
-        "count": 1
-      },
-      "Fredericton (Canada)": {
-        "count": 6
-      },
-      "Doaktown": {
-        "count": 1
-      },
-      "Hillsborough (Canada)": {
-        "count": 1
-      },
-      "Upper Kintore (Canada)": {
-        "count": 1
-      },
-      "Bathurst (Canada)": {
-        "count": 1
-      },
-      "South Branch (Canada)": {
-        "count": 1
-      },
-      "Dieppe (Canada)": {
-        "count": 1
-      },
-      "Moncton": {
-        "count": 1
-      },
-      "Moncton (Canada)": {
-        "count": 2
-      }
-    }
+  {
+    "city": "Claremore",
+    "state": "OK",
+    "count": 3
   },
-  "NV": {
-    "cities": {
-      "Las Vegas": {
-        "count": 97
-      },
-      "Reno": {
-        "count": 38
-      },
-      "Rachel": {
-        "count": 1
-      },
-      "Beatty": {
-        "count": 1
-      },
-      "Henderson": {
-        "count": 19
-      },
-      "Silverpeak": {
-        "count": 1
-      },
-      "Laughlin": {
-        "count": 2
-      },
-      "Las Vegas/Henderson area": {
-        "count": 1
-      },
-      "Indian Springs/Las Vegas": {
-        "count": 1
-      },
-      "North Las Vegas": {
-        "count": 11
-      },
-      "Wendover": {
-        "count": 1
-      },
-      "Crescent Valley": {
-        "count": 2
-      },
-      "Ely": {
-        "count": 2
-      },
-      "Montello": {
-        "count": 1
-      },
-      "Stagecoach": {
-        "count": 1
-      },
-      "Yerington": {
-        "count": 3
-      },
-      "Majors Place (south of)": {
-        "count": 1
-      },
-      "las vegas": {
-        "count": 1
-      },
-      "Austin": {
-        "count": 3
-      },
-      "Carson City": {
-        "count": 7
-      },
-      "Nevada (eastern)": {
-        "count": 1
-      },
-      "Fernley": {
-        "count": 4
-      },
-      "Summerlin/Las Vegas": {
-        "count": 1
-      },
-      "Denio (south of)": {
-        "count": 1
-      },
-      "Winnemucca": {
-        "count": 2
-      },
-      "Beowawe": {
-        "count": 1
-      },
-      "Mesquite": {
-        "count": 4
-      },
-      "Tonopah": {
-        "count": 1
-      },
-      "Minden": {
-        "count": 2
-      },
-      "Incline Village": {
-        "count": 1
-      },
-      "Pahrump": {
-        "count": 2
-      },
-      "Gardnerville": {
-        "count": 4
-      },
-      "Cold Creek": {
-        "count": 1
-      },
-      "Fallon": {
-        "count": 3
-      },
-      "Stateline": {
-        "count": 1
-      },
-      "Spring Creek": {
-        "count": 3
-      },
-      "Boulder City": {
-        "count": 2
-      },
-      "Elko": {
-        "count": 2
-      },
-      "Las Vegas/Summerlin": {
-        "count": 1
-      },
-      "Overton": {
-        "count": 1
-      },
-      "Sparks": {
-        "count": 3
-      },
-      "Some where between Fernley and shurz": {
-        "count": 1
-      },
-      "Reno/Stead": {
-        "count": 1
-      },
-      "Hendersom": {
-        "count": 1
-      },
-      "Crystal Bay": {
-        "count": 1
-      },
-      "Pumpernickel Valley": {
-        "count": 1
-      },
-      "Las Vega": {
-        "count": 1
-      },
-      "Sparks/Spanish Springs": {
-        "count": 1
-      },
-      "Carson city": {
-        "count": 1
-      },
-      "Red Rock (Las Vegas)": {
-        "count": 1
-      },
-      "Coaldale": {
-        "count": 1
-      },
-      "Lake Tahoe": {
-        "count": 1
-      },
-      "South Lake Tahoe": {
-        "count": 1
-      },
-      "Groom Lake (near)": {
-        "count": 1
-      },
-      "Reno (100 miles south of)": {
-        "count": 1
-      },
-      "Red Rock Canyon": {
-        "count": 1
-      },
-      "Blue Diamond": {
-        "count": 1
-      },
-      "Reno/Sun Valley": {
-        "count": 1
-      },
-      "I-80 (47 miles west of UT)": {
-        "count": 1
-      },
-      "Moapa": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Metairie",
+    "state": "LA",
+    "count": 10
   },
-  "PA": {
-    "cities": {
-      "Pittsburgh": {
-        "count": 32
-      },
-      "Robertsdale": {
-        "count": 1
-      },
-      "Lancaster": {
-        "count": 5
-      },
-      "Harleysville": {
-        "count": 1
-      },
-      "Stroudsburg": {
-        "count": 1
-      },
-      "Harrisburg": {
-        "count": 7
-      },
-      "Brownsville": {
-        "count": 1
-      },
-      "Sciota": {
-        "count": 1
-      },
-      "Mt Morris": {
-        "count": 1
-      },
-      "East Stroudsburg": {
-        "count": 4
-      },
-      "Auburn": {
-        "count": 1
-      },
-      "DuBois": {
-        "count": 2
-      },
-      "Philadelphia": {
-        "count": 44
-      },
-      "Shickshinny": {
-        "count": 1
-      },
-      "Tylersport": {
-        "count": 1
-      },
-      "Vandling": {
-        "count": 1
-      },
-      "Wilkes Barre": {
-        "count": 3
-      },
-      "Shrewsbury": {
-        "count": 3
-      },
-      "Hanover": {
-        "count": 7
-      },
-      "Long Pond": {
-        "count": 1
-      },
-      "Norristown": {
-        "count": 2
-      },
-      "Lincoln Boro": {
-        "count": 1
-      },
-      "Parkland": {
-        "count": 1
-      },
-      "Saylorsburg": {
-        "count": 3
-      },
-      "Lansdale/Quakertown": {
-        "count": 1
-      },
-      "Leola": {
-        "count": 1
-      },
-      "Marietta": {
-        "count": 2
-      },
-      "Kennett Square/Philadelphia": {
-        "count": 1
-      },
-      "Newtown": {
-        "count": 3
-      },
-      "Unionville": {
-        "count": 1
-      },
-      "Cheswick": {
-        "count": 1
-      },
-      "Warrington": {
-        "count": 3
-      },
-      "Coopersburg": {
-        "count": 2
-      },
-      "Allentown": {
-        "count": 10
-      },
-      "Knox": {
-        "count": 1
-      },
-      "Route 476": {
-        "count": 1
-      },
-      "Mechanicsburg": {
-        "count": 8
-      },
-      "Chester": {
-        "count": 3
-      },
-      "Kennett Square": {
-        "count": 3
-      },
-      "Lampeter-Strasburg, Reading": {
-        "count": 1
-      },
-      "Centerville": {
-        "count": 2
-      },
-      "Windsor": {
-        "count": 1
-      },
-      "Pottstown - Trenton": {
-        "count": 1
-      },
-      "Adamstown": {
-        "count": 1
-      },
-      "Lower Southampton": {
-        "count": 1
-      },
-      "New Hope": {
-        "count": 4
-      },
-      "Uniontown": {
-        "count": 3
-      },
-      "Templeton": {
-        "count": 1
-      },
-      "Ransom": {
-        "count": 1
-      },
-      "Plains": {
-        "count": 1
-      },
-      "Philipsburg": {
-        "count": 1
-      },
-      "Pottstown": {
-        "count": 4
-      },
-      "Bethel Park": {
-        "count": 2
-      },
-      "Newfoundland": {
-        "count": 2
-      },
-      "Fayetteville": {
-        "count": 1
-      },
-      "Oil City": {
-        "count": 2
-      },
-      "Whitehall": {
-        "count": 3
-      },
-      "Hanover Twp": {
-        "count": 1
-      },
-      "Bath": {
-        "count": 2
-      },
-      "South Heights": {
-        "count": 1
-      },
-      "Lehigh Township": {
-        "count": 1
-      },
-      "Lansford": {
-        "count": 1
-      },
-      "Duncansville": {
-        "count": 1
-      },
-      "Reading": {
-        "count": 8
-      },
-      "Wrightsville": {
-        "count": 2
-      },
-      "Perkasie": {
-        "count": 1
-      },
-      "Tobyhanna": {
-        "count": 2
-      },
-      "Blairsville": {
-        "count": 1
-      },
-      "Exton": {
-        "count": 1
-      },
-      "Berks County": {
-        "count": 1
-      },
-      "Altoona": {
-        "count": 4
-      },
-      "Monroeville": {
-        "count": 4
-      },
-      "Dingmans Ferry": {
-        "count": 1
-      },
-      "Coudersport": {
-        "count": 1
-      },
-      "New Oxford": {
-        "count": 1
-      },
-      "Everett": {
-        "count": 1
-      },
-      "Nazareth": {
-        "count": 4
-      },
-      "Greensburg": {
-        "count": 3
-      },
-      "Erie": {
-        "count": 3
-      },
-      "Carlisle": {
-        "count": 3
-      },
-      "Newville": {
-        "count": 1
-      },
-      "Richland": {
-        "count": 1
-      },
-      "Edinburg": {
-        "count": 1
-      },
-      "West Mifflin": {
-        "count": 1
-      },
-      "New Kensington": {
-        "count": 5
-      },
-      "Prospect": {
-        "count": 1
-      },
-      "Greencastle": {
-        "count": 1
-      },
-      "Gallitzin": {
-        "count": 1
-      },
-      "Sinking Spring": {
-        "count": 3
-      },
-      "Effort": {
-        "count": 2
-      },
-      "Lancaster County": {
-        "count": 1
-      },
-      "Brookville": {
-        "count": 1
-      },
-      "McMurray": {
-        "count": 2
-      },
-      "Ephrata": {
-        "count": 3
-      },
-      "Lansdale": {
-        "count": 3
-      },
-      "Duncannon": {
-        "count": 2
-      },
-      "Donora": {
-        "count": 2
-      },
-      "Pocono Lake": {
-        "count": 1
-      },
-      "Palmyra": {
-        "count": 3
-      },
-      "Derry": {
-        "count": 1
-      },
-      "Lock Haven": {
-        "count": 3
-      },
-      "Balliettsville": {
-        "count": 1
-      },
-      "Montoursville": {
-        "count": 1
-      },
-      "Mountain Top": {
-        "count": 3
-      },
-      "Wilkes-Barre": {
-        "count": 2
-      },
-      "Lebanon": {
-        "count": 1
-      },
-      "Rockledge": {
-        "count": 2
-      },
-      "Williamsport": {
-        "count": 5
-      },
-      "Taylor": {
-        "count": 1
-      },
-      "Chambersburg": {
-        "count": 3
-      },
-      "Warminster": {
-        "count": 6
-      },
-      "Ardsley": {
-        "count": 1
-      },
-      "Willowdale": {
-        "count": 1
-      },
-      "Harrisville": {
-        "count": 1
-      },
-      "Camp Hill": {
-        "count": 1
-      },
-      "Oley": {
-        "count": 1
-      },
-      "Honeybrook": {
-        "count": 1
-      },
-      "Thorndale": {
-        "count": 2
-      },
-      "Easton": {
-        "count": 8
-      },
-      "Wapwallopen": {
-        "count": 1
-      },
-      "Greenfield Twp": {
-        "count": 1
-      },
-      "Bensalem": {
-        "count": 5
-      },
-      "Tamaqua": {
-        "count": 2
-      },
-      "Porter township": {
-        "count": 1
-      },
-      "Bushkill Township": {
-        "count": 1
-      },
-      "MckeesRocksr": {
-        "count": 1
-      },
-      "Gettysburg": {
-        "count": 1
-      },
-      "Millvale": {
-        "count": 1
-      },
-      "Moon Township/clinton": {
-        "count": 1
-      },
-      "Bushkill": {
-        "count": 2
-      },
-      "Bethlehem": {
-        "count": 8
-      },
-      "Arnold": {
-        "count": 1
-      },
-      "Millmont": {
-        "count": 1
-      },
-      "Gouldsboro": {
-        "count": 2
-      },
-      "Hallam": {
-        "count": 1
-      },
-      "Philadelphia (100 naut. miles E of; over water)": {
-        "count": 1
-      },
-      "New London": {
-        "count": 1
-      },
-      "Cheltenham": {
-        "count": 1
-      },
-      "Holland": {
-        "count": 1
-      },
-      "Elizabethtown (near)": {
-        "count": 1
-      },
-      "Cecil": {
-        "count": 1
-      },
-      "Smithton": {
-        "count": 1
-      },
-      "Mc Murray": {
-        "count": 1
-      },
-      "Lower Burrell": {
-        "count": 2
-      },
-      "Washington": {
-        "count": 3
-      },
-      "Moon": {
-        "count": 2
-      },
-      "Reinholds": {
-        "count": 1
-      },
-      "Marianna": {
-        "count": 1
-      },
-      "Tarentum": {
-        "count": 3
-      },
-      "Harrisburg (near; on I-83)": {
-        "count": 1
-      },
-      "Pennsburg": {
-        "count": 2
-      },
-      "Willow Grove": {
-        "count": 2
-      },
-      "Elizabethtown": {
-        "count": 4
-      },
-      "Aliquippa": {
-        "count": 1
-      },
-      "Harrison City": {
-        "count": 1
-      },
-      "Meadville": {
-        "count": 1
-      },
-      "West Park": {
-        "count": 1
-      },
-      "West pittston": {
-        "count": 1
-      },
-      "Bernville": {
-        "count": 2
-      },
-      "Macungie": {
-        "count": 2
-      },
-      "Glenside": {
-        "count": 1
-      },
-      "Freeland": {
-        "count": 3
-      },
-      "Charleroi": {
-        "count": 1
-      },
-      "Sugar Grove": {
-        "count": 1
-      },
-      "Warren": {
-        "count": 1
-      },
-      "Ridley Park": {
-        "count": 1
-      },
-      "Bangor": {
-        "count": 4
-      },
-      "South Park Township": {
-        "count": 1
-      },
-      "Jefferson Hills": {
-        "count": 1
-      },
-      "West Chester": {
-        "count": 4
-      },
-      "Sellersville": {
-        "count": 1
-      },
-      "Riegelsville": {
-        "count": 1
-      },
-      "Lehighton": {
-        "count": 3
-      },
-      "Gilbertsville": {
-        "count": 1
-      },
-      "McConnellsburg": {
-        "count": 1
-      },
-      "Emporium": {
-        "count": 1
-      },
-      "Jamestown": {
-        "count": 1
-      },
-      "Red Lion": {
-        "count": 1
-      },
-      "Slatington": {
-        "count": 2
-      },
-      "Biglerville": {
-        "count": 1
-      },
-      "York": {
-        "count": 8
-      },
-      "Home": {
-        "count": 1
-      },
-      "Elliottsburg": {
-        "count": 1
-      },
-      "Upper St. Clair": {
-        "count": 1
-      },
-      "Cambridge Springs": {
-        "count": 1
-      },
-      "State College": {
-        "count": 4
-      },
-      "Irwin": {
-        "count": 1
-      },
-      "LaBelle": {
-        "count": 1
-      },
-      "Collegeville": {
-        "count": 1
-      },
-      "Huntingdon": {
-        "count": 1
-      },
-      "Lititz": {
-        "count": 1
-      },
-      "Verona": {
-        "count": 1
-      },
-      "New Freedom": {
-        "count": 1
-      },
-      "Jacobus": {
-        "count": 1
-      },
-      "Pequea": {
-        "count": 1
-      },
-      "Shavertown": {
-        "count": 1
-      },
-      "Zelienople": {
-        "count": 1
-      },
-      "Hollidaysburg": {
-        "count": 2
-      },
-      "Throop": {
-        "count": 1
-      },
-      "Manheim": {
-        "count": 2
-      },
-      "Bradford": {
-        "count": 2
-      },
-      "Monaca": {
-        "count": 2
-      },
-      "Bridgewater": {
-        "count": 1
-      },
-      "Hebe/Klingerstown": {
-        "count": 1
-      },
-      "Lower Makefield": {
-        "count": 1
-      },
-      "West Bangor": {
-        "count": 1
-      },
-      "Bloomsburg": {
-        "count": 1
-      },
-      "Honey Brook": {
-        "count": 2
-      },
-      "Pittsburgh (near)": {
-        "count": 1
-      },
-      "Susquehanna": {
-        "count": 1
-      },
-      "Downingtown": {
-        "count": 2
-      },
-      "Morgantown": {
-        "count": 1
-      },
-      "Reynoldsville": {
-        "count": 1
-      },
-      "Lewisburg": {
-        "count": 2
-      },
-      "Curwensville": {
-        "count": 1
-      },
-      "Chadds Ford": {
-        "count": 1
-      },
-      "Limerick": {
-        "count": 1
-      },
-      "West Grove": {
-        "count": 2
-      },
-      "Plymouth Meeting": {
-        "count": 3
-      },
-      "New Cumberland": {
-        "count": 1
-      },
-      "Northampton": {
-        "count": 1
-      },
-      "Salunga/Landisville area right by highway 283": {
-        "count": 1
-      },
-      "Tannersville": {
-        "count": 2
-      },
-      "Dillsburg": {
-        "count": 1
-      },
-      "Lower Mount Bethel": {
-        "count": 1
-      },
-      "Churchville": {
-        "count": 2
-      },
-      "Tunkhannock": {
-        "count": 2
-      },
-      "Starview": {
-        "count": 1
-      },
-      "Morrisville": {
-        "count": 2
-      },
-      "Fredonia": {
-        "count": 1
-      },
-      "Claysburg": {
-        "count": 1
-      },
-      "Doylestown": {
-        "count": 1
-      },
-      "Shippensburg": {
-        "count": 1
-      },
-      "Levittown": {
-        "count": 3
-      },
-      "Scranton": {
-        "count": 3
-      },
-      "Unity": {
-        "count": 1
-      },
-      "Brodheadsville": {
-        "count": 1
-      },
-      "Hereford Township": {
-        "count": 2
-      },
-      "Langhorne": {
-        "count": 2
-      },
-      "Wilkes-Barre/Hazleton (between)": {
-        "count": 1
-      },
-      "Plum": {
-        "count": 1
-      },
-      "Sligo": {
-        "count": 1
-      },
-      "Mill Run": {
-        "count": 1
-      },
-      "Harlansburgh": {
-        "count": 1
-      },
-      "Schnecksville": {
-        "count": 1
-      },
-      "Mountatin Top": {
-        "count": 1
-      },
-      "Penndel": {
-        "count": 1
-      },
-      "Fogelsville": {
-        "count": 1
-      },
-      "Port Allegheny": {
-        "count": 1
-      },
-      "Jamison": {
-        "count": 1
-      },
-      "Huntingdon Valley": {
-        "count": 1
-      },
-      "Beaver Falls": {
-        "count": 1
-      },
-      "Montrose": {
-        "count": 1
-      },
-      "Quakertown": {
-        "count": 2
-      },
-      "Butler": {
-        "count": 2
-      },
-      "Elizabeth": {
-        "count": 1
-      },
-      "Eagle": {
-        "count": 1
-      },
-      "Windgap": {
-        "count": 1
-      },
-      "Harmonyville": {
-        "count": 1
-      },
-      "Glenmoore": {
-        "count": 2
-      },
-      "Latrobe": {
-        "count": 1
-      },
-      "Mercer (RT 19)": {
-        "count": 1
-      },
-      "Willow Street": {
-        "count": 1
-      },
-      "Aston": {
-        "count": 1
-      },
-      "Mount Joy": {
-        "count": 1
-      },
-      "St. Marys": {
-        "count": 1
-      },
-      "Avella": {
-        "count": 1
-      },
-      "Ruffsdale/Mt Pleasant": {
-        "count": 1
-      },
-      "Hermitage": {
-        "count": 1
-      },
-      "Ronks": {
-        "count": 1
-      },
-      "Exeter": {
-        "count": 1
-      },
-      "Mountville": {
-        "count": 1
-      },
-      "Ridgway": {
-        "count": 3
-      },
-      "Birdsboro": {
-        "count": 2
-      },
-      "Orefield": {
-        "count": 1
-      },
-      "Columbia": {
-        "count": 1
-      },
-      "Denver": {
-        "count": 1
-      },
-      "Lemoyne": {
-        "count": 1
-      },
-      "Glen Mills": {
-        "count": 1
-      },
-      "Trevose": {
-        "count": 1
-      },
-      "Export": {
-        "count": 1
-      },
-      "Pottsville": {
-        "count": 1
-      },
-      "Smithfield": {
-        "count": 2
-      },
-      "Mohnton": {
-        "count": 1
-      },
-      "Sharon": {
-        "count": 3
-      },
-      "Lake Ariel": {
-        "count": 2
-      },
-      "Thomasville": {
-        "count": 2
-      },
-      "Monongahela": {
-        "count": 1
-      },
-      "Lemont": {
-        "count": 1
-      },
-      "Telford": {
-        "count": 1
-      },
-      "Davidsville": {
-        "count": 1
-      },
-      "Center Valley": {
-        "count": 1
-      },
-      "Green Castle": {
-        "count": 1
-      },
-      "Conway": {
-        "count": 1
-      },
-      "Stewartstown": {
-        "count": 2
-      },
-      "Port Matilda": {
-        "count": 1
-      },
-      "Muncy": {
-        "count": 1
-      },
-      "Baldwin Borough": {
-        "count": 1
-      },
-      "Connelsville": {
-        "count": 1
-      },
-      "Marrietta": {
-        "count": 1
-      },
-      "Mechanicsburg (near)": {
-        "count": 1
-      },
-      "Elkins Park": {
-        "count": 1
-      },
-      "East Pittsburgh": {
-        "count": 1
-      },
-      "Slippery Rock Township, near New Castle": {
-        "count": 1
-      },
-      "Hershey": {
-        "count": 1
-      },
-      "Tullytown": {
-        "count": 1
-      },
-      "Cranberry twp (7 Fields)": {
-        "count": 1
-      },
-      "Harveys Lake": {
-        "count": 1
-      },
-      "Atglen": {
-        "count": 1
-      },
-      "Berwick": {
-        "count": 1
-      },
-      "Shunk": {
-        "count": 1
-      },
-      "Southampton": {
-        "count": 2
-      },
-      "Allison Park": {
-        "count": 2
-      },
-      "Johnstown": {
-        "count": 2
-      },
-      "Laurys Station": {
-        "count": 1
-      },
-      "Clinton": {
-        "count": 1
-      },
-      "Chester Springs": {
-        "count": 1
-      },
-      "Martinsburg": {
-        "count": 1
-      },
-      "Warrendale": {
-        "count": 1
-      },
-      "Hanover Township": {
-        "count": 1
-      },
-      "Hatboro": {
-        "count": 1
-      },
-      "Mckeesport": {
-        "count": 1
-      },
-      "Walnutport": {
-        "count": 1
-      },
-      "Northern Allegheny County": {
-        "count": 1
-      },
-      "Aspers": {
-        "count": 1
-      },
-      "Newmanstown": {
-        "count": 1
-      },
-      "Neola": {
-        "count": 1
-      },
-      "New Castle": {
-        "count": 4
-      },
-      "Canonsburg": {
-        "count": 1
-      },
-      "Dauphin": {
-        "count": 1
-      },
-      "Stahlstown": {
-        "count": 1
-      },
-      "Lafayette Hill": {
-        "count": 1
-      },
-      "Crum Lynne": {
-        "count": 1
-      },
-      "Mercersburg": {
-        "count": 1
-      },
-      "Royersford": {
-        "count": 1
-      },
-      "North Huntingdon": {
-        "count": 1
-      },
-      "Ottsville": {
-        "count": 1
-      },
-      "Solebury": {
-        "count": 1
-      },
-      "Carrick": {
-        "count": 1
-      },
-      "Mercersberg": {
-        "count": 1
-      },
-      "Etna": {
-        "count": 1
-      },
-      "Mount Poccono": {
-        "count": 1
-      },
-      "Waynesburg": {
-        "count": 1
-      },
-      "Wallingford": {
-        "count": 1
-      },
-      "Scotch Valley": {
-        "count": 1
-      },
-      "Coal Township": {
-        "count": 1
-      },
-      "Coal Township (Excelsior)": {
-        "count": 1
-      },
-      "East Rochester": {
-        "count": 1
-      },
-      "Somerset": {
-        "count": 1
-      },
-      "Natrona Heights": {
-        "count": 1
-      },
-      "Trucksville": {
-        "count": 1
-      },
-      "Lakeville": {
-        "count": 1
-      },
-      "Waterfall": {
-        "count": 1
-      },
-      "Rutledge": {
-        "count": 1
-      },
-      "Bristol": {
-        "count": 1
-      },
-      "Clifton Heights": {
-        "count": 1
-      },
-      "York New Salem": {
-        "count": 1
-      },
-      "Drexel Hill": {
-        "count": 2
-      },
-      "McKean Twp.": {
-        "count": 1
-      },
-      "Shenandoah": {
-        "count": 1
-      },
-      "Geigertown": {
-        "count": 1
-      },
-      "North Wales": {
-        "count": 1
-      },
-      "Hatfield": {
-        "count": 1
-      },
-      "Gibsonia": {
-        "count": 1
-      },
-      "Clearville": {
-        "count": 1
-      },
-      "Northumberland": {
-        "count": 1
-      },
-      "Conshohocken": {
-        "count": 1
-      },
-      "Abington": {
-        "count": 1
-      },
-      "Burgettstown": {
-        "count": 1
-      },
-      "Montgomeryville": {
-        "count": 1
-      },
-      "Munhall": {
-        "count": 1
-      },
-      "Glassport": {
-        "count": 1
-      },
-      "Philadelphia (northeast part)": {
-        "count": 1
-      },
-      "Sarver": {
-        "count": 1
-      },
-      "Jonestown": {
-        "count": 1
-      },
-      "Boalsburg": {
-        "count": 2
-      },
-      "Cranberry Township": {
-        "count": 1
-      },
-      "Dickson city": {
-        "count": 1
-      },
-      "Selinsgrove": {
-        "count": 1
-      },
-      "Airville/Pequea": {
-        "count": 1
-      },
-      "Avis": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Portland",
+    "state": "OR",
+    "count": 97
   },
-  "NC": {
-    "cities": {
-      "Fayetteville": {
-        "count": 20
-      },
-      "Greensboro": {
-        "count": 22
-      },
-      "Raleigh": {
-        "count": 29
-      },
-      "Mooresville": {
-        "count": 7
-      },
-      "Concord": {
-        "count": 6
-      },
-      "Germanton": {
-        "count": 2
-      },
-      "Durham": {
-        "count": 22
-      },
-      "Vass": {
-        "count": 1
-      },
-      "Davidson": {
-        "count": 2
-      },
-      "Clayton": {
-        "count": 2
-      },
-      "Winston-Salem": {
-        "count": 10
-      },
-      "Lincolnton": {
-        "count": 2
-      },
-      "Bullock": {
-        "count": 1
-      },
-      "Middlesex": {
-        "count": 1
-      },
-      "Edenton": {
-        "count": 1
-      },
-      "Pfafftown": {
-        "count": 2
-      },
-      "Asheville": {
-        "count": 9
-      },
-      "Smithfield": {
-        "count": 3
-      },
-      "Manassas": {
-        "count": 1
-      },
-      "Charlotte": {
-        "count": 34
-      },
-      "Matthews": {
-        "count": 5
-      },
-      "Randleman": {
-        "count": 1
-      },
-      "Black Creek": {
-        "count": 1
-      },
-      "Hillsborough": {
-        "count": 3
-      },
-      "Hope Mills": {
-        "count": 3
-      },
-      "Waxhaw": {
-        "count": 2
-      },
-      "Browns Summit": {
-        "count": 3
-      },
-      "Hickory": {
-        "count": 9
-      },
-      "Franklin": {
-        "count": 4
-      },
-      "Knightdale": {
-        "count": 1
-      },
-      "Nakina": {
-        "count": 1
-      },
-      "Lenoir": {
-        "count": 1
-      },
-      "Granite Falls": {
-        "count": 1
-      },
-      "Mount Holly": {
-        "count": 2
-      },
-      "Liberty": {
-        "count": 1
-      },
-      "Carolina Beach": {
-        "count": 3
-      },
-      "Chadbourn": {
-        "count": 1
-      },
-      "Burlington": {
-        "count": 4
-      },
-      "Hubert": {
-        "count": 1
-      },
-      "Fort Bragg (close to)": {
-        "count": 1
-      },
-      "Goldsboro": {
-        "count": 4
-      },
-      "Lumberton": {
-        "count": 1
-      },
-      "Chapel Hill": {
-        "count": 2
-      },
-      "New Bern": {
-        "count": 4
-      },
-      "Lake Wiley": {
-        "count": 1
-      },
-      "Oakboro": {
-        "count": 1
-      },
-      "Louisburg": {
-        "count": 1
-      },
-      "Pikeville": {
-        "count": 1
-      },
-      "Lexington": {
-        "count": 2
-      },
-      "Weaverville": {
-        "count": 2
-      },
-      "Cornelius": {
-        "count": 4
-      },
-      "Epsom": {
-        "count": 1
-      },
-      "Asheboro": {
-        "count": 8
-      },
-      "Washington": {
-        "count": 1
-      },
-      "Beaufort": {
-        "count": 1
-      },
-      "Morehead City": {
-        "count": 1
-      },
-      "Hendersonville": {
-        "count": 7
-      },
-      "Candler": {
-        "count": 3
-      },
-      "Swansboro": {
-        "count": 1
-      },
-      "Kinston": {
-        "count": 1
-      },
-      "Emerald Isle": {
-        "count": 3
-      },
-      "Cherokee": {
-        "count": 1
-      },
-      "Bessemer City": {
-        "count": 2
-      },
-      "Burnsville": {
-        "count": 2
-      },
-      "Wilmington": {
-        "count": 11
-      },
-      "Salisbury": {
-        "count": 3
-      },
-      "Statesville": {
-        "count": 3
-      },
-      "Taylorsville": {
-        "count": 2
-      },
-      "Snow Camp": {
-        "count": 2
-      },
-      "Stem": {
-        "count": 1
-      },
-      "Fontana": {
-        "count": 1
-      },
-      "Clyde": {
-        "count": 1
-      },
-      "Pittsboro": {
-        "count": 3
-      },
-      "Thomasville": {
-        "count": 4
-      },
-      "Raeford": {
-        "count": 3
-      },
-      "Currie": {
-        "count": 2
-      },
-      "Carthage": {
-        "count": 1
-      },
-      "Mount Airy": {
-        "count": 3
-      },
-      "Sanford": {
-        "count": 2
-      },
-      "Mt. Airy": {
-        "count": 1
-      },
-      "Siler City": {
-        "count": 1
-      },
-      "Grifton": {
-        "count": 2
-      },
-      "Winterville": {
-        "count": 2
-      },
-      "Aberdeen": {
-        "count": 1
-      },
-      "Highlands": {
-        "count": 1
-      },
-      "King": {
-        "count": 1
-      },
-      "Fuquay Varina": {
-        "count": 5
-      },
-      "Hurdle Mills": {
-        "count": 2
-      },
-      "Richlands": {
-        "count": 3
-      },
-      "Fletcher": {
-        "count": 2
-      },
-      "Trinity": {
-        "count": 1
-      },
-      "Greenville": {
-        "count": 4
-      },
-      "Wendell": {
-        "count": 2
-      },
-      "Edneyville": {
-        "count": 1
-      },
-      "Troy": {
-        "count": 1
-      },
-      "Franklinton": {
-        "count": 3
-      },
-      "Fuquay": {
-        "count": 1
-      },
-      "Millers Creek": {
-        "count": 1
-      },
-      "Hickory/Conover": {
-        "count": 1
-      },
-      "High Point": {
-        "count": 7
-      },
-      "Reidsville": {
-        "count": 1
-      },
-      "Shallotte": {
-        "count": 2
-      },
-      "Graham": {
-        "count": 6
-      },
-      "Zebulon": {
-        "count": 1
-      },
-      "Wilkesboro": {
-        "count": 1
-      },
-      "Albemarle": {
-        "count": 2
-      },
-      "Delco": {
-        "count": 1
-      },
-      "Goldhill": {
-        "count": 1
-      },
-      "Whittier": {
-        "count": 1
-      },
-      "Corolla": {
-        "count": 1
-      },
-      "Mt. Pleasant": {
-        "count": 1
-      },
-      "Cherryville": {
-        "count": 2
-      },
-      "Ayden": {
-        "count": 2
-      },
-      "Kannapolis/Mooresville": {
-        "count": 2
-      },
-      "North Topsail Beach": {
-        "count": 2
-      },
-      "Wallace": {
-        "count": 1
-      },
-      "Dobson": {
-        "count": 1
-      },
-      "Gates": {
-        "count": 1
-      },
-      "Carrboro": {
-        "count": 3
-      },
-      "Candor": {
-        "count": 1
-      },
-      "Black Mountain": {
-        "count": 2
-      },
-      "Walkertown": {
-        "count": 2
-      },
-      "Mebane": {
-        "count": 3
-      },
-      "Belmont": {
-        "count": 1
-      },
-      "Lewisville": {
-        "count": 1
-      },
-      "Atlantic Beach": {
-        "count": 1
-      },
-      "Kure Beach": {
-        "count": 3
-      },
-      "Emerald isl": {
-        "count": 1
-      },
-      "Erwin": {
-        "count": 1
-      },
-      "Wake Forest": {
-        "count": 5
-      },
-      "Vale": {
-        "count": 2
-      },
-      "Surf City": {
-        "count": 4
-      },
-      "Wilson": {
-        "count": 1
-      },
-      "Monroe": {
-        "count": 4
-      },
-      "Hamlet": {
-        "count": 1
-      },
-      "Elizabeth City": {
-        "count": 2
-      },
-      "Indian Trail": {
-        "count": 6
-      },
-      "Gastonia": {
-        "count": 3
-      },
-      "Angier": {
-        "count": 2
-      },
-      "Garner": {
-        "count": 4
-      },
-      "Topsail": {
-        "count": 1
-      },
-      "Holden Beach": {
-        "count": 1
-      },
-      "Ash": {
-        "count": 2
-      },
-      "Tryon Equestrian Center": {
-        "count": 1
-      },
-      "Waves": {
-        "count": 1
-      },
-      "Clemmons": {
-        "count": 2
-      },
-      "Myrtle Beach": {
-        "count": 1
-      },
-      "Bogie Sound (Emerald Isle Bridge)": {
-        "count": 1
-      },
-      "Avon": {
-        "count": 3
-      },
-      "Mills River": {
-        "count": 2
-      },
-      "Apex": {
-        "count": 1
-      },
-      "Thomasville/Greensboro": {
-        "count": 1
-      },
-      "Boone": {
-        "count": 3
-      },
-      "Como": {
-        "count": 1
-      },
-      "Johnsonville": {
-        "count": 1
-      },
-      "Sunny View": {
-        "count": 1
-      },
-      "Otto": {
-        "count": 1
-      },
-      "Columbus": {
-        "count": 1
-      },
-      "Winston-Salem/Lexington": {
-        "count": 1
-      },
-      "Maxton": {
-        "count": 1
-      },
-      "Norwood": {
-        "count": 1
-      },
-      "Hertford": {
-        "count": 3
-      },
-      "Calabash": {
-        "count": 1
-      },
-      "Summerfield": {
-        "count": 2
-      },
-      "Oak Island": {
-        "count": 6
-      },
-      "Henderson": {
-        "count": 2
-      },
-      "Nags Head": {
-        "count": 3
-      },
-      "Red Cross": {
-        "count": 1
-      },
-      "Ocean Isle Beach": {
-        "count": 1
-      },
-      "Kernersville": {
-        "count": 1
-      },
-      "Mineral Springs": {
-        "count": 1
-      },
-      "Rosman": {
-        "count": 1
-      },
-      "Biscoe": {
-        "count": 1
-      },
-      "Kill Devil Hills": {
-        "count": 3
-      },
-      "Hayesville": {
-        "count": 1
-      },
-      "Princeton": {
-        "count": 1
-      },
-      "Charlotte (outside of; I-485)": {
-        "count": 1
-      },
-      "Southmont": {
-        "count": 1
-      },
-      "Cooleemee": {
-        "count": 1
-      },
-      "Arden": {
-        "count": 1
-      },
-      "Four Oaks": {
-        "count": 4
-      },
-      "Mill Spring": {
-        "count": 1
-      },
-      "Nashville": {
-        "count": 1
-      },
-      "Ivanhoe": {
-        "count": 1
-      },
-      "Troutman": {
-        "count": 2
-      },
-      "Buxton": {
-        "count": 1
-      },
-      "Holly Springs": {
-        "count": 1
-      },
-      "Morehead city": {
-        "count": 1
-      },
-      "Wilmington (?)": {
-        "count": 1
-      },
-      "Gibsonville": {
-        "count": 1
-      },
-      "Cary": {
-        "count": 3
-      },
-      "Marshallberg": {
-        "count": 1
-      },
-      "Boiling Springs": {
-        "count": 1
-      },
-      "Swannanoa": {
-        "count": 2
-      },
-      "Walkertown (Johns Road)": {
-        "count": 1
-      },
-      "Elm City": {
-        "count": 1
-      },
-      "Kannapolis": {
-        "count": 2
-      },
-      "Rockingham": {
-        "count": 1
-      },
-      "Boiling Springs Lake": {
-        "count": 1
-      },
-      "Waynesville": {
-        "count": 1
-      },
-      "Harrisburg": {
-        "count": 1
-      },
-      "Weverville": {
-        "count": 1
-      },
-      "West Jefferson": {
-        "count": 2
-      },
-      "Weddington/Wesley Chapel": {
-        "count": 1
-      },
-      "Newton": {
-        "count": 2
-      },
-      "Maiden": {
-        "count": 1
-      },
-      "Salvo": {
-        "count": 1
-      },
-      "Southern Pines": {
-        "count": 1
-      },
-      "Cameron": {
-        "count": 1
-      },
-      "Rural Hall": {
-        "count": 1
-      },
-      "Rocky Mount": {
-        "count": 1
-      },
-      "North Wilkesboro": {
-        "count": 3
-      },
-      "Colfax": {
-        "count": 1
-      },
-      "Stallings": {
-        "count": 1
-      },
-      "Stony Point": {
-        "count": 1
-      },
-      "Midland": {
-        "count": 1
-      },
-      "Hatteras": {
-        "count": 2
-      },
-      "Jacksonville": {
-        "count": 2
-      },
-      "Tarawa Terrace": {
-        "count": 2
-      },
-      "Willow Spring": {
-        "count": 2
-      },
-      "Snowhill": {
-        "count": 1
-      },
-      "Kitty Hawk": {
-        "count": 1
-      },
-      "Blowing Rock": {
-        "count": 1
-      },
-      "Asheville (near Airport)": {
-        "count": 1
-      },
-      "Whiteville": {
-        "count": 1
-      },
-      "Mint Hill": {
-        "count": 1
-      },
-      "Morganton": {
-        "count": 2
-      },
-      "Holly Ridge": {
-        "count": 1
-      },
-      "Old Fort": {
-        "count": 1
-      },
-      "Bolivia": {
-        "count": 1
-      },
-      "Ruffin": {
-        "count": 1
-      },
-      "Camp Lejeune": {
-        "count": 1
-      },
-      "Bunnlevel": {
-        "count": 1
-      },
-      "Selma": {
-        "count": 1
-      },
-      "Rolesville": {
-        "count": 1
-      },
-      "Leland": {
-        "count": 2
-      },
-      "Bunn": {
-        "count": 1
-      },
-      "Cape Carteret (Emerald Isle)": {
-        "count": 1
-      },
-      "Bermuda Run": {
-        "count": 1
-      },
-      "Wade": {
-        "count": 2
-      },
-      "Snow Hill": {
-        "count": 1
-      },
-      "Fairview": {
-        "count": 1
-      },
-      "Old Fort/Morganton (between)": {
-        "count": 2
-      },
-      "Marion-Morganton": {
-        "count": 1
-      },
-      "Mars Hill": {
-        "count": 1
-      },
-      "Carolina Shores": {
-        "count": 1
-      },
-      "Marion": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "Ocean Isle": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Wilmington",
+    "state": "OH",
+    "count": 3
   },
-  "RI": {
-    "cities": {
-      "Warwick": {
-        "count": 9
-      },
-      "Warren": {
-        "count": 3
-      },
-      "South Kingstown": {
-        "count": 10
-      },
-      "Providence": {
-        "count": 12
-      },
-      "Cumberland": {
-        "count": 6
-      },
-      "Scituate": {
-        "count": 1
-      },
-      "Cranston": {
-        "count": 6
-      },
-      "Charlestown": {
-        "count": 3
-      },
-      "Greenville": {
-        "count": 1
-      },
-      "Pawtucket": {
-        "count": 7
-      },
-      "Smithfield": {
-        "count": 3
-      },
-      "Coventry": {
-        "count": 3
-      },
-      "Narraganssett": {
-        "count": 1
-      },
-      "West Warwick": {
-        "count": 1
-      },
-      "Middletown": {
-        "count": 4
-      },
-      "Newport": {
-        "count": 1
-      },
-      "Rumford": {
-        "count": 3
-      },
-      "Seekonk (general area)": {
-        "count": 1
-      },
-      "Woonsocket": {
-        "count": 5
-      },
-      "Portsmouth": {
-        "count": 2
-      },
-      "East Providence": {
-        "count": 4
-      },
-      "Lincoln": {
-        "count": 2
-      },
-      "North Providence": {
-        "count": 4
-      },
-      "Providence (Olneyville)": {
-        "count": 1
-      },
-      "Galilee": {
-        "count": 1
-      },
-      "Bristol": {
-        "count": 2
-      },
-      "Riverside": {
-        "count": 2
-      },
-      "West Greenwich": {
-        "count": 1
-      },
-      "South Kingston": {
-        "count": 1
-      },
-      "East Greenwich": {
-        "count": 1
-      },
-      "Ocala": {
-        "count": 1
-      },
-      "Tiverton": {
-        "count": 3
-      },
-      "Hope Valley": {
-        "count": 1
-      },
-      "North Smithfield": {
-        "count": 2
-      },
-      "North Kingstown": {
-        "count": 2
-      },
-      "Narragansett": {
-        "count": 3
-      },
-      "Block Island": {
-        "count": 1
-      },
-      "Westerly": {
-        "count": 1
-      },
-      "Groton Long Point": {
-        "count": 1
-      },
-      "Exeter": {
-        "count": 1
-      },
-      "Johnston": {
-        "count": 1
-      },
-      "Pawtucket/Rumford": {
-        "count": 1
-      },
-      "Hope": {
-        "count": 1
-      },
-      "Kingston": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Wilmington",
+    "state": "MA",
+    "count": 4
   },
-  "IA": {
-    "cities": {
-      "Underwood": {
-        "count": 1
-      },
-      "Cedar Rapids": {
-        "count": 14
-      },
-      "Williamsburg": {
-        "count": 1
-      },
-      "Des Moines": {
-        "count": 12
-      },
-      "Norwalk": {
-        "count": 1
-      },
-      "Clinton": {
-        "count": 2
-      },
-      "Council Bluffs": {
-        "count": 3
-      },
-      "Keokuk": {
-        "count": 2
-      },
-      "Colfax": {
-        "count": 1
-      },
-      "Sioux City": {
-        "count": 8
-      },
-      "Waterloo": {
-        "count": 5
-      },
-      "West Des Moines": {
-        "count": 3
-      },
-      "Nashua": {
-        "count": 1
-      },
-      "Moorland": {
-        "count": 1
-      },
-      "Hawarden": {
-        "count": 1
-      },
-      "Lamoni": {
-        "count": 1
-      },
-      "Manilla": {
-        "count": 1
-      },
-      "Marshalltown": {
-        "count": 2
-      },
-      "East Dubuque": {
-        "count": 1
-      },
-      "Croton": {
-        "count": 1
-      },
-      "Lake View": {
-        "count": 1
-      },
-      "Jewell": {
-        "count": 1
-      },
-      "Manchester": {
-        "count": 2
-      },
-      "Carroll": {
-        "count": 2
-      },
-      "Adel": {
-        "count": 2
-      },
-      "Dubuque": {
-        "count": 9
-      },
-      "Newton": {
-        "count": 2
-      },
-      "Holstein": {
-        "count": 1
-      },
-      "West Union": {
-        "count": 1
-      },
-      "Ames": {
-        "count": 5
-      },
-      "Casey": {
-        "count": 1
-      },
-      "Bettendorf": {
-        "count": 1
-      },
-      "Bagley": {
-        "count": 1
-      },
-      "Jasper County": {
-        "count": 1
-      },
-      "Eldora": {
-        "count": 2
-      },
-      "Creston": {
-        "count": 1
-      },
-      "Osceola": {
-        "count": 1
-      },
-      "Marion": {
-        "count": 3
-      },
-      "Iowa City": {
-        "count": 1
-      },
-      "Centerville": {
-        "count": 3
-      },
-      "Cedar Falls": {
-        "count": 6
-      },
-      "Dyersville": {
-        "count": 1
-      },
-      "Burlington": {
-        "count": 1
-      },
-      "Robins": {
-        "count": 1
-      },
-      "Batavia": {
-        "count": 1
-      },
-      "Muscatine": {
-        "count": 4
-      },
-      "Ossian": {
-        "count": 1
-      },
-      "Waukee": {
-        "count": 1
-      },
-      "Windsor Heights": {
-        "count": 1
-      },
-      "Charles City": {
-        "count": 2
-      },
-      "Davenport": {
-        "count": 1
-      },
-      "Urbandale": {
-        "count": 4
-      },
-      "Sidney": {
-        "count": 1
-      },
-      "Granger": {
-        "count": 1
-      },
-      "Maryville": {
-        "count": 1
-      },
-      "Frederika": {
-        "count": 1
-      },
-      "West Point": {
-        "count": 1
-      },
-      "Brayton": {
-        "count": 1
-      },
-      "Little Rock": {
-        "count": 1
-      },
-      "Steamboat Rock": {
-        "count": 1
-      },
-      "Sanborn": {
-        "count": 1
-      },
-      "Rockford": {
-        "count": 1
-      },
-      "North Liberty": {
-        "count": 1
-      },
-      "Fredericksburg": {
-        "count": 1
-      },
-      "Oskaloosa": {
-        "count": 2
-      },
-      "Coralville": {
-        "count": 1
-      },
-      "Fort Dodge": {
-        "count": 1
-      },
-      "Platsmouth (near; on Hwy S 29)": {
-        "count": 1
-      },
-      "Colwell": {
-        "count": 1
-      },
-      "Asbury": {
-        "count": 1
-      },
-      "Mason City": {
-        "count": 1
-      },
-      "Ankeny": {
-        "count": 1
-      },
-      "Hedrick": {
-        "count": 1
-      },
-      "Chariton": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Conway",
+    "state": "WA",
+    "count": 1
   },
-  "WV": {
-    "cities": {
-      "Capon Springs": {
-        "count": 1
-      },
-      "Morgantown": {
-        "count": 7
-      },
-      "Shinston": {
-        "count": 1
-      },
-      "Buckhannon": {
-        "count": 1
-      },
-      "Huntington": {
-        "count": 5
-      },
-      "Westover": {
-        "count": 1
-      },
-      "Elizabeth": {
-        "count": 1
-      },
-      "Thornton": {
-        "count": 1
-      },
-      "Barboursville": {
-        "count": 4
-      },
-      "Beckley": {
-        "count": 1
-      },
-      "Martinsburg": {
-        "count": 3
-      },
-      "Beaver": {
-        "count": 1
-      },
-      "New Cumberland": {
-        "count": 1
-      },
-      "Ashton": {
-        "count": 1
-      },
-      "Coolridge": {
-        "count": 1
-      },
-      "Cedar Grove": {
-        "count": 1
-      },
-      "Athens": {
-        "count": 1
-      },
-      "Chapmanville": {
-        "count": 2
-      },
-      "Bridgeport": {
-        "count": 3
-      },
-      "Point Pleasant": {
-        "count": 1
-      },
-      "Tornado": {
-        "count": 1
-      },
-      "Fairmont": {
-        "count": 1
-      },
-      "Hedgesville": {
-        "count": 4
-      },
-      "St. Albans": {
-        "count": 3
-      },
-      "Clarksburg/Bridgeport": {
-        "count": 1
-      },
-      "Foster": {
-        "count": 1
-      },
-      "Hurricane": {
-        "count": 3
-      },
-      "Elkins (near)": {
-        "count": 1
-      },
-      "Parkersburg": {
-        "count": 2
-      },
-      "Mt. Lookout": {
-        "count": 1
-      },
-      "Mason": {
-        "count": 2
-      },
-      "Marlinton": {
-        "count": 2
-      },
-      "Summersville": {
-        "count": 1
-      },
-      "Princeton": {
-        "count": 1
-      },
-      "Vienna": {
-        "count": 1
-      },
-      "Shinnston": {
-        "count": 2
-      },
-      "Huntingtion": {
-        "count": 1
-      },
-      "Charleston": {
-        "count": 2
-      },
-      "Elkview": {
-        "count": 1
-      },
-      "Branchland": {
-        "count": 1
-      },
-      "French Creek": {
-        "count": 1
-      },
-      "Hilldale": {
-        "count": 1
-      },
-      "Tomahawk": {
-        "count": 4
-      },
-      "Grafton": {
-        "count": 1
-      },
-      "New Martinsville": {
-        "count": 1
-      },
-      "Tridelphia": {
-        "count": 1
-      },
-      "Corridor H (??)": {
-        "count": 1
-      },
-      "Harpers Ferry": {
-        "count": 1
-      },
-      "Elkins": {
-        "count": 1
-      },
-      "Philippi": {
-        "count": 1
-      },
-      "Kanawha City": {
-        "count": 1
-      },
-      "Kearneysville": {
-        "count": 1
-      },
-      "Fayetteville": {
-        "count": 2
-      },
-      "McMechen": {
-        "count": 1
-      },
-      "Keyser": {
-        "count": 2
-      },
-      "Lewisburg": {
-        "count": 2
-      },
-      "Romney": {
-        "count": 1
-      },
-      "Rupert": {
-        "count": 1
-      },
-      "Wayne": {
-        "count": 1
-      },
-      "Cyrus, WV US 52 North • Coordinates: 38°18&#8242;19&#8243;N": {
-        "count": 1
-      },
-      "Buffalo": {
-        "count": 1
-      },
-      "Clendenin": {
-        "count": 2
-      },
-      "Sutton": {
-        "count": 1
-      },
-      "Cameo": {
-        "count": 1
-      },
-      "Mannington": {
-        "count": 1
-      },
-      "Bowden": {
-        "count": 1
-      },
-      "Charlestown": {
-        "count": 1
-      },
-      "Gerrardstown": {
-        "count": 1
-      },
-      "South Charleston": {
-        "count": 2
-      },
-      "Chester": {
-        "count": 1
-      },
-      "East Lynn": {
-        "count": 1
-      },
-      "Mineral Wells": {
-        "count": 1
-      },
-      "Inwood": {
-        "count": 1
-      },
-      "Dunlow": {
-        "count": 1
-      },
-      "Clarksburg": {
-        "count": 1
-      },
-      "High View": {
-        "count": 1
-      },
-      "Oak Hill": {
-        "count": 1
-      },
-      "Marmet": {
-        "count": 1
-      },
-      "Teays Valley": {
-        "count": 1
-      },
-      "Winifrede": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Frederick",
+    "state": "MD",
+    "count": 10
   },
-  "UT": {
-    "cities": {
-      "Logan": {
-        "count": 2
-      },
-      "Sandy": {
-        "count": 6
-      },
-      "Salt Lake City": {
-        "count": 38
-      },
-      "Richfield": {
-        "count": 2
-      },
-      "Utah (above; in flight)": {
-        "count": 1
-      },
-      "Hurricane": {
-        "count": 3
-      },
-      "St. George": {
-        "count": 20
-      },
-      "La Verkin": {
-        "count": 1
-      },
-      "Helper": {
-        "count": 1
-      },
-      "Beaver": {
-        "count": 1
-      },
-      "Layton": {
-        "count": 9
-      },
-      "Magna": {
-        "count": 3
-      },
-      "Eureka": {
-        "count": 3
-      },
-      "Salt Lake": {
-        "count": 3
-      },
-      "West Valley City": {
-        "count": 7
-      },
-      "Murray": {
-        "count": 4
-      },
-      "North Ogden": {
-        "count": 2
-      },
-      "Thompson Springs": {
-        "count": 2
-      },
-      "Uinta Mountian Range": {
-        "count": 1
-      },
-      "Richmond": {
-        "count": 1
-      },
-      "West Valley": {
-        "count": 2
-      },
-      "Ogden": {
-        "count": 9
-      },
-      "Riverdale": {
-        "count": 2
-      },
-      "West Jordan": {
-        "count": 2
-      },
-      "Pleasant Grove": {
-        "count": 2
-      },
-      "Saint George": {
-        "count": 3
-      },
-      "Saratoga Springs": {
-        "count": 1
-      },
-      "Salt Lake City Utah": {
-        "count": 1
-      },
-      "Millcreek": {
-        "count": 1
-      },
-      "Taylorsville": {
-        "count": 5
-      },
-      "Park City": {
-        "count": 5
-      },
-      "Honeyville": {
-        "count": 1
-      },
-      "Provo": {
-        "count": 4
-      },
-      "North Salt Lake": {
-        "count": 2
-      },
-      "Highland": {
-        "count": 1
-      },
-      "NSL ((North Salt Lake??))": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "Bountiful": {
-        "count": 4
-      },
-      "Morgan": {
-        "count": 1
-      },
-      "Midvale": {
-        "count": 1
-      },
-      "Ivins": {
-        "count": 1
-      },
-      "Santa Clara": {
-        "count": 2
-      },
-      "Centerville": {
-        "count": 3
-      },
-      "Virgin": {
-        "count": 1
-      },
-      "Orem": {
-        "count": 5
-      },
-      "Riverton": {
-        "count": 2
-      },
-      "Apple Valley": {
-        "count": 1
-      },
-      "St. George (40 miles outside of)": {
-        "count": 1
-      },
-      "Winnemucca": {
-        "count": 1
-      },
-      "Hyrum": {
-        "count": 1
-      },
-      "Herriman": {
-        "count": 1
-      },
-      "Cedar Hills": {
-        "count": 1
-      },
-      "Sandy (suburb of SLC)": {
-        "count": 1
-      },
-      "Monte Crist": {
-        "count": 1
-      },
-      "Tooele": {
-        "count": 3
-      },
-      "South Jordan": {
-        "count": 5
-      },
-      "Heber": {
-        "count": 1
-      },
-      "Heber City Canyon": {
-        "count": 1
-      },
-      "Lindon": {
-        "count": 3
-      },
-      "Cedar Valley": {
-        "count": 1
-      },
-      "Washington": {
-        "count": 1
-      },
-      "Delta": {
-        "count": 1
-      },
-      "Garden City": {
-        "count": 5
-      },
-      "Clive": {
-        "count": 1
-      },
-      "Green River": {
-        "count": 1
-      },
-      "Moab": {
-        "count": 2
-      },
-      "Hildale": {
-        "count": 1
-      },
-      "Roy": {
-        "count": 3
-      },
-      "Kearns": {
-        "count": 3
-      },
-      "Heber City": {
-        "count": 1
-      },
-      "Salem": {
-        "count": 3
-      },
-      "Draper": {
-        "count": 3
-      },
-      "Cedar City": {
-        "count": 2
-      },
-      "Layton (south of)": {
-        "count": 1
-      },
-      "Salt Lake City (north of)": {
-        "count": 1
-      },
-      "Kanab": {
-        "count": 1
-      },
-      "Panguitch": {
-        "count": 1
-      },
-      "Roosevelt": {
-        "count": 1
-      },
-      "Eagle Mountain": {
-        "count": 4
-      },
-      "Salina": {
-        "count": 1
-      },
-      "Fielding": {
-        "count": 1
-      },
-      "Riverdale City": {
-        "count": 1
-      },
-      "Vernal": {
-        "count": 1
-      },
-      "Holladay": {
-        "count": 1
-      },
-      "American Fork": {
-        "count": 1
-      },
-      "Midvale/Sandy": {
-        "count": 1
-      },
-      "Antelope Island": {
-        "count": 1
-      },
-      "Tooele Valley (above Oquirrh Mtns. & Dugway)": {
-        "count": 1
-      },
-      "Spanish Fork": {
-        "count": 1
-      },
-      "East Carbon": {
-        "count": 1
-      },
-      "Zion National Park": {
-        "count": 1
-      },
-      "Lehi": {
-        "count": 2
-      },
-      "Springville": {
-        "count": 1
-      },
-      "Farmington": {
-        "count": 1
-      },
-      "Milford": {
-        "count": 1
-      },
-      "Cottonwood Heights": {
-        "count": 1
-      },
-      "Bear Lake": {
-        "count": 1
-      },
-      "Navajo Lake": {
-        "count": 1
-      },
-      "Vero Beach": {
-        "count": 1
-      },
-      "Bluffdale": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Oklahoma City",
+    "state": "OK",
+    "count": 26
   },
-  "SC": {
-    "cities": {
-      "Lyman": {
-        "count": 1
-      },
-      "Chapin": {
-        "count": 2
-      },
-      "Gaffney": {
-        "count": 3
-      },
-      "Waterloo": {
-        "count": 1
-      },
-      "Kershaw": {
-        "count": 1
-      },
-      "Swansea": {
-        "count": 1
-      },
-      "Whitmire": {
-        "count": 2
-      },
-      "West Columbia": {
-        "count": 4
-      },
-      "Georgetown": {
-        "count": 5
-      },
-      "Pelzer": {
-        "count": 2
-      },
-      "Rock Hill": {
-        "count": 7
-      },
-      "Lexington": {
-        "count": 5
-      },
-      "Santee": {
-        "count": 1
-      },
-      "Myrtle Beach": {
-        "count": 49
-      },
-      "Clemson": {
-        "count": 1
-      },
-      "Manning": {
-        "count": 2
-      },
-      "Seneca": {
-        "count": 2
-      },
-      "Cross": {
-        "count": 1
-      },
-      "Columbia": {
-        "count": 22
-      },
-      "Summerville": {
-        "count": 9
-      },
-      "Sullivan's Island": {
-        "count": 1
-      },
-      "Conway": {
-        "count": 10
-      },
-      "Simpsonville": {
-        "count": 13
-      },
-      "Beaufort": {
-        "count": 4
-      },
-      "Easley": {
-        "count": 4
-      },
-      "Mount pleasant": {
-        "count": 1
-      },
-      "Hilton Head Island": {
-        "count": 2
-      },
-      "Folly Beach": {
-        "count": 4
-      },
-      "Mount Pleasant": {
-        "count": 2
-      },
-      "Spartanburg": {
-        "count": 3
-      },
-      "Fort Mill": {
-        "count": 3
-      },
-      "Aiken": {
-        "count": 5
-      },
-      "Little River": {
-        "count": 5
-      },
-      "Williamston": {
-        "count": 1
-      },
-      "Ladson": {
-        "count": 3
-      },
-      "North Myrtle Beach": {
-        "count": 22
-      },
-      "Donalds": {
-        "count": 2
-      },
-      "Marietta": {
-        "count": 2
-      },
-      "Lancaster": {
-        "count": 3
-      },
-      "Garden City Beach": {
-        "count": 2
-      },
-      "Garden City": {
-        "count": 8
-      },
-      "I-95 (@ MM 54/55)": {
-        "count": 1
-      },
-      "South Myrtle Beach": {
-        "count": 1
-      },
-      "North Charleston": {
-        "count": 5
-      },
-      "Goose Creek": {
-        "count": 8
-      },
-      "Irmo": {
-        "count": 3
-      },
-      "Dillon": {
-        "count": 3
-      },
-      "Hartsville": {
-        "count": 1
-      },
-      "Surfside Beach": {
-        "count": 5
-      },
-      "In-flight (military)(city not specified)": {
-        "count": 1
-      },
-      "Greenville": {
-        "count": 7
-      },
-      "Chesnee": {
-        "count": 1
-      },
-      "Gray Court": {
-        "count": 2
-      },
-      "Florence": {
-        "count": 5
-      },
-      "Greer": {
-        "count": 2
-      },
-      "Travelers Rest": {
-        "count": 3
-      },
-      "Sumter": {
-        "count": 5
-      },
-      "Harleyville": {
-        "count": 2
-      },
-      "Hemingway": {
-        "count": 1
-      },
-      "Fripp Island": {
-        "count": 1
-      },
-      "Johns Island": {
-        "count": 1
-      },
-      "Woodruff": {
-        "count": 2
-      },
-      "Monetta": {
-        "count": 1
-      },
-      "Charleston": {
-        "count": 12
-      },
-      "Hilton Head": {
-        "count": 4
-      },
-      "Andrews": {
-        "count": 1
-      },
-      "Seabrook": {
-        "count": 1
-      },
-      "Chester": {
-        "count": 3
-      },
-      "Pawleys Island": {
-        "count": 5
-      },
-      "Mytle Beach": {
-        "count": 1
-      },
-      "Newberry": {
-        "count": 1
-      },
-      "Murrells Inlet": {
-        "count": 2
-      },
-      "North Hardeeville": {
-        "count": 1
-      },
-      "Cherry Grove": {
-        "count": 2
-      },
-      "South Myrtle Beach/ surfside beach": {
-        "count": 1
-      },
-      "Cherry Grove (MCAS)": {
-        "count": 1
-      },
-      "Goosecreek": {
-        "count": 1
-      },
-      "Millwood Community to the outskirts of Andrews": {
-        "count": 1
-      },
-      "Moncks Corner": {
-        "count": 2
-      },
-      "Lake Wylie": {
-        "count": 3
-      },
-      "Taylors": {
-        "count": 2
-      },
-      "Forest Acres": {
-        "count": 1
-      },
-      "Campobello": {
-        "count": 1
-      },
-      "Inman": {
-        "count": 3
-      },
-      "Leesville": {
-        "count": 1
-      },
-      "Belton": {
-        "count": 3
-      },
-      "Salters": {
-        "count": 1
-      },
-      "Johnsonville": {
-        "count": 1
-      },
-      "Murrells Inlet / Burgess Community": {
-        "count": 1
-      },
-      "Lexinton": {
-        "count": 1
-      },
-      "Lugoff": {
-        "count": 1
-      },
-      "Indian Land": {
-        "count": 1
-      },
-      "Anderson": {
-        "count": 2
-      },
-      "McCormick": {
-        "count": 3
-      },
-      "James Island": {
-        "count": 1
-      },
-      "Ridgeland": {
-        "count": 1
-      },
-      "Union": {
-        "count": 1
-      },
-      "Rockhill": {
-        "count": 1
-      },
-      "Bethera": {
-        "count": 1
-      },
-      "Longs/Myrtle Beach": {
-        "count": 1
-      },
-      "Heath Springs": {
-        "count": 1
-      },
-      "Orangburg": {
-        "count": 1
-      },
-      "Pickens": {
-        "count": 1
-      },
-      "Lancaster Mill": {
-        "count": 1
-      },
-      "Orangeburg": {
-        "count": 1
-      },
-      "Socastee": {
-        "count": 1
-      },
-      "Tega Cay": {
-        "count": 2
-      },
-      "Isle of Palm": {
-        "count": 1
-      },
-      "Longs": {
-        "count": 1
-      },
-      "Myrtle Beach (501)": {
-        "count": 1
-      },
-      "Surfside/Myrtle Beach": {
-        "count": 1
-      },
-      "Loris": {
-        "count": 1
-      },
-      "Litchfield": {
-        "count": 1
-      },
-      "Pawley's Island": {
-        "count": 1
-      },
-      "Isle of Palms": {
-        "count": 1
-      },
-      "Murrell's inland": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Romeoville",
+    "state": "IL",
+    "count": 3
   },
-  "GA": {
-    "cities": {
-      "Cumming": {
-        "count": 13
-      },
-      "Gainesville": {
-        "count": 8
-      },
-      "Canton": {
-        "count": 8
-      },
-      "Douglas": {
-        "count": 2
-      },
-      "International waters": {
-        "count": 1
-      },
-      "Keysville": {
-        "count": 1
-      },
-      "Evans": {
-        "count": 4
-      },
-      "Rock Spring": {
-        "count": 1
-      },
-      "Waynesboro": {
-        "count": 1
-      },
-      "Macon": {
-        "count": 7
-      },
-      "Marietta": {
-        "count": 19
-      },
-      "Alpharetta": {
-        "count": 4
-      },
-      "Rome": {
-        "count": 4
-      },
-      "Acworth": {
-        "count": 7
-      },
-      "Greensboro": {
-        "count": 1
-      },
-      "Newnan": {
-        "count": 3
-      },
-      "Helen": {
-        "count": 1
-      },
-      "Atlanta": {
-        "count": 24
-      },
-      "Stone Mountain": {
-        "count": 2
-      },
-      "Eastanollee": {
-        "count": 1
-      },
-      "Savannah": {
-        "count": 9
-      },
-      "Athens": {
-        "count": 8
-      },
-      "Lagrange": {
-        "count": 1
-      },
-      "Grovetown": {
-        "count": 4
-      },
-      "Fitzgerald": {
-        "count": 1
-      },
-      "Dearing": {
-        "count": 1
-      },
-      "Dallas": {
-        "count": 4
-      },
-      "Winder": {
-        "count": 6
-      },
-      "Allentown": {
-        "count": 1
-      },
-      "Augusta": {
-        "count": 7
-      },
-      "Columbus": {
-        "count": 7
-      },
-      "Dawsonville": {
-        "count": 2
-      },
-      "Douglasville": {
-        "count": 5
-      },
-      "Dalton": {
-        "count": 1
-      },
-      "Cedartown": {
-        "count": 2
-      },
-      "Milton": {
-        "count": 1
-      },
-      "Lindale": {
-        "count": 1
-      },
-      "Ellenwood": {
-        "count": 1
-      },
-      "Snellville": {
-        "count": 6
-      },
-      "Woodstock": {
-        "count": 6
-      },
-      "Hiawassee": {
-        "count": 1
-      },
-      "Hogansville": {
-        "count": 3
-      },
-      "Columbus (North)": {
-        "count": 1
-      },
-      "West Green": {
-        "count": 1
-      },
-      "Norcross": {
-        "count": 2
-      },
-      "Lawrenceville": {
-        "count": 8
-      },
-      "Jefferson": {
-        "count": 4
-      },
-      "Saint Simons Island": {
-        "count": 2
-      },
-      "Fort Oglethorpe": {
-        "count": 2
-      },
-      "Port Wentworth (Pooler)": {
-        "count": 1
-      },
-      "Sugar Hill": {
-        "count": 1
-      },
-      "Covington": {
-        "count": 2
-      },
-      "Ft. Olgethorpe": {
-        "count": 1
-      },
-      "Blackshear": {
-        "count": 4
-      },
-      "Kennesaw": {
-        "count": 5
-      },
-      "Eatonton": {
-        "count": 1
-      },
-      "Gray": {
-        "count": 1
-      },
-      "Sylvester": {
-        "count": 2
-      },
-      "Savanagh": {
-        "count": 1
-      },
-      "Franklin": {
-        "count": 1
-      },
-      "Albany": {
-        "count": 2
-      },
-      "Jonesboro": {
-        "count": 1
-      },
-      "Monticello": {
-        "count": 2
-      },
-      "Putney": {
-        "count": 1
-      },
-      "Donaldsonville": {
-        "count": 1
-      },
-      "Decatur": {
-        "count": 4
-      },
-      "Hiram": {
-        "count": 2
-      },
-      "Roswell": {
-        "count": 5
-      },
-      "Social Circle": {
-        "count": 1
-      },
-      "Hopulikit": {
-        "count": 1
-      },
-      "Duluth": {
-        "count": 6
-      },
-      "Valdosta": {
-        "count": 1
-      },
-      "Stockbridge": {
-        "count": 3
-      },
-      "Conyers": {
-        "count": 2
-      },
-      "Senoia": {
-        "count": 2
-      },
-      "Powder Springs": {
-        "count": 1
-      },
-      "Oak Park": {
-        "count": 1
-      },
-      "Reynolds": {
-        "count": 1
-      },
-      "Hinesville": {
-        "count": 2
-      },
-      "Ball Ground": {
-        "count": 1
-      },
-      "Suwanee": {
-        "count": 2
-      },
-      "Sylvania": {
-        "count": 1
-      },
-      "Riverdale": {
-        "count": 2
-      },
-      "Arcade": {
-        "count": 1
-      },
-      "Kingsland": {
-        "count": 4
-      },
-      "McDonough": {
-        "count": 3
-      },
-      "Tyrone": {
-        "count": 1
-      },
-      "Warner Robins": {
-        "count": 4
-      },
-      "Bethlehem": {
-        "count": 1
-      },
-      "Hoschton": {
-        "count": 2
-      },
-      "Thomasville": {
-        "count": 2
-      },
-      "Johns Creek": {
-        "count": 2
-      },
-      "Loganville": {
-        "count": 2
-      },
-      "Crandall": {
-        "count": 1
-      },
-      "Adairsville": {
-        "count": 1
-      },
-      "Blue Ridge": {
-        "count": 2
-      },
-      "Lilburn": {
-        "count": 3
-      },
-      "Austell": {
-        "count": 1
-      },
-      "Buford": {
-        "count": 6
-      },
-      "Thomson": {
-        "count": 2
-      },
-      "Jasper (looking west)": {
-        "count": 1
-      },
-      "Hawkinsville": {
-        "count": 3
-      },
-      "Boston": {
-        "count": 1
-      },
-      "Varnell": {
-        "count": 1
-      },
-      "Bremen": {
-        "count": 3
-      },
-      "Carrollton": {
-        "count": 2
-      },
-      "St. Marys": {
-        "count": 1
-      },
-      "Ashburn": {
-        "count": 2
-      },
-      "Glennville": {
-        "count": 1
-      },
-      "Milner": {
-        "count": 2
-      },
-      "Cataula": {
-        "count": 1
-      },
-      "Cornelia": {
-        "count": 1
-      },
-      "Byron": {
-        "count": 3
-      },
-      "LaGrange": {
-        "count": 2
-      },
-      "Smyrna": {
-        "count": 3
-      },
-      "Waleska": {
-        "count": 2
-      },
-      "Johns Creek/Atlanta": {
-        "count": 1
-      },
-      "Luella": {
-        "count": 1
-      },
-      "Jasper": {
-        "count": 3
-      },
-      "Lookout Mountain": {
-        "count": 1
-      },
-      "Chatsworth": {
-        "count": 1
-      },
-      "Oakwood": {
-        "count": 1
-      },
-      "Wrightsville": {
-        "count": 1
-      },
-      "Whitesburg": {
-        "count": 1
-      },
-      "Arabi": {
-        "count": 1
-      },
-      "Griffin": {
-        "count": 1
-      },
-      "Sparta": {
-        "count": 1
-      },
-      "Cleveland": {
-        "count": 1
-      },
-      "Clermont": {
-        "count": 1
-      },
-      "Grayson": {
-        "count": 1
-      },
-      "Between": {
-        "count": 1
-      },
-      "Aloharetta": {
-        "count": 1
-      },
-      "Sharpsburg": {
-        "count": 2
-      },
-      "Pembroke": {
-        "count": 1
-      },
-      "Ringgold": {
-        "count": 2
-      },
-      "Bonaire": {
-        "count": 1
-      },
-      "Pine Mountain": {
-        "count": 1
-      },
-      "Pineview": {
-        "count": 1
-      },
-      "Barnesville": {
-        "count": 2
-      },
-      "Dacula": {
-        "count": 2
-      },
-      "Woods Canyon Lake": {
-        "count": 1
-      },
-      "Las Vegas": {
-        "count": 1
-      },
-      "Lula": {
-        "count": 2
-      },
-      "Calhoun": {
-        "count": 3
-      },
-      "St. Simons Island": {
-        "count": 1
-      },
-      "Statesboro": {
-        "count": 1
-      },
-      "Unadilla": {
-        "count": 1
-      },
-      "Dublin": {
-        "count": 1
-      },
-      "Canton/Marietta": {
-        "count": 1
-      },
-      "Flowery Branch": {
-        "count": 1
-      },
-      "Tifton": {
-        "count": 1
-      },
-      "Wadley": {
-        "count": 1
-      },
-      "Coolidge": {
-        "count": 1
-      },
-      "Cartersville": {
-        "count": 2
-      },
-      "Villa Rica": {
-        "count": 5
-      },
-      "Doerun": {
-        "count": 1
-      },
-      "Blythe": {
-        "count": 1
-      },
-      "Tybee Island": {
-        "count": 1
-      },
-      "Marietta/Roswell": {
-        "count": 1
-      },
-      "Lincoln County (northern part)": {
-        "count": 1
-      },
-      "Sandy Springs": {
-        "count": 1
-      },
-      "Cumming/Alpharetta": {
-        "count": 1
-      },
-      "Port Wentworth": {
-        "count": 1
-      },
-      "Garfield": {
-        "count": 1
-      },
-      "Twin City": {
-        "count": 1
-      },
-      "Lakemont": {
-        "count": 1
-      },
-      "Larkesville": {
-        "count": 1
-      },
-      "Nashville": {
-        "count": 1
-      },
-      "Rentz": {
-        "count": 1
-      },
-      "Meansville": {
-        "count": 1
-      },
-      "Fayetteville": {
-        "count": 1
-      },
-      "Savannah/Jacksonville": {
-        "count": 1
-      },
-      "White Plains": {
-        "count": 1
-      },
-      "Locust Grove": {
-        "count": 1
-      },
-      "Watkinsville": {
-        "count": 2
-      },
-      "Pulaski County": {
-        "count": 1
-      },
-      "Dahlonega": {
-        "count": 2
-      },
-      "Tunnel Hill": {
-        "count": 1
-      },
-      "Summerville": {
-        "count": 1
-      },
-      "Thomaston": {
-        "count": 1
-      },
-      "Peachtree City/Newnan": {
-        "count": 1
-      },
-      "Pitts": {
-        "count": 2
-      }
-    }
+  {
+    "city": "Chesterland",
+    "state": "OH",
+    "count": 1
   },
-  "AZ": {
-    "cities": {
-      "Maricopa": {
-        "count": 13
-      },
-      "Mesa": {
-        "count": 46
-      },
-      "Anthem": {
-        "count": 4
-      },
-      "Ganado": {
-        "count": 1
-      },
-      "Chandler": {
-        "count": 33
-      },
-      "Show Low": {
-        "count": 2
-      },
-      "Green Valley": {
-        "count": 8
-      },
-      "Tonopah": {
-        "count": 1
-      },
-      "Phoenix": {
-        "count": 126
-      },
-      "Tucson": {
-        "count": 71
-      },
-      "Marana": {
-        "count": 4
-      },
-      "Dragoon": {
-        "count": 1
-      },
-      "Lake Havasu City": {
-        "count": 11
-      },
-      "Snowflake": {
-        "count": 1
-      },
-      "Village of Oak Creek": {
-        "count": 1
-      },
-      "Duncan": {
-        "count": 2
-      },
-      "PHONEX": {
-        "count": 1
-      },
-      "Queen Creek": {
-        "count": 9
-      },
-      "Sonora Desert": {
-        "count": 1
-      },
-      "San Tan Valley": {
-        "count": 13
-      },
-      "Gold Canyon": {
-        "count": 5
-      },
-      "Queen Creek/South Gilbert": {
-        "count": 1
-      },
-      "Scottsdale": {
-        "count": 24
-      },
-      "North Phoenix": {
-        "count": 2
-      },
-      "Dewey": {
-        "count": 3
-      },
-      "Chino Valley": {
-        "count": 2
-      },
-      "Gilbert": {
-        "count": 24
-      },
-      "Snowflake (toward; near)": {
-        "count": 1
-      },
-      "Glendale": {
-        "count": 28
-      },
-      "Bullhead City": {
-        "count": 8
-      },
-      "Fountain Hills": {
-        "count": 4
-      },
-      "Tempe": {
-        "count": 24
-      },
-      "Yuma": {
-        "count": 9
-      },
-      "Page": {
-        "count": 1
-      },
-      "Sahuarita": {
-        "count": 7
-      },
-      "Wellton": {
-        "count": 2
-      },
-      "South Lake Havasu City": {
-        "count": 1
-      },
-      "Sells": {
-        "count": 1
-      },
-      "Miami": {
-        "count": 1
-      },
-      "San tan valley": {
-        "count": 1
-      },
-      "Superior": {
-        "count": 3
-      },
-      "Tucson (Pima Co.)(copper mine S of )": {
-        "count": 1
-      },
-      "Buckeye": {
-        "count": 18
-      },
-      "Dateland": {
-        "count": 2
-      },
-      "Sedona": {
-        "count": 8
-      },
-      "Kingman": {
-        "count": 11
-      },
-      "Cave Creek": {
-        "count": 5
-      },
-      "Casa Grande": {
-        "count": 6
-      },
-      "Leupp": {
-        "count": 1
-      },
-      "Desert Hills": {
-        "count": 1
-      },
-      "Paulden": {
-        "count": 3
-      },
-      "Fortuna": {
-        "count": 1
-      },
-      "Prescott Valley": {
-        "count": 8
-      },
-      "Welton": {
-        "count": 1
-      },
-      "Benson": {
-        "count": 2
-      },
-      "Gila Bend": {
-        "count": 4
-      },
-      "El Mirage": {
-        "count": 7
-      },
-      "Sierra Vista": {
-        "count": 3
-      },
-      "Globe": {
-        "count": 4
-      },
-      "Tucson/Sierra Vista (Interstate 10)": {
-        "count": 1
-      },
-      "Surprise": {
-        "count": 13
-      },
-      "Apache Junction": {
-        "count": 11
-      },
-      "Goodyear": {
-        "count": 13
-      },
-      "Luke Air Force Base": {
-        "count": 1
-      },
-      "Williams": {
-        "count": 1
-      },
-      "Ajo": {
-        "count": 1
-      },
-      "tempe": {
-        "count": 1
-      },
-      "Prescott": {
-        "count": 8
-      },
-      "Payson": {
-        "count": 3
-      },
-      "Buckeye/Litchfield Park": {
-        "count": 1
-      },
-      "Sun City West": {
-        "count": 5
-      },
-      "Peoria": {
-        "count": 16
-      },
-      "Avondale": {
-        "count": 9
-      },
-      "not sure": {
-        "count": 1
-      },
-      "Sahaurita": {
-        "count": 1
-      },
-      "New River": {
-        "count": 3
-      },
-      "Florence Jct./Reymart": {
-        "count": 1
-      },
-      "Kayenta": {
-        "count": 1
-      },
-      "Benson (north of)": {
-        "count": 1
-      },
-      "Gila Bend (west of; on I-8)": {
-        "count": 1
-      },
-      "Sweetwater": {
-        "count": 1
-      },
-      "Congress": {
-        "count": 1
-      },
-      "Rock Point": {
-        "count": 1
-      },
-      "Florence": {
-        "count": 2
-      },
-      "Golden Valley": {
-        "count": 2
-      },
-      "Parker": {
-        "count": 4
-      },
-      "Cochise County": {
-        "count": 1
-      },
-      "Interstate 8": {
-        "count": 1
-      },
-      "Grand Canyon": {
-        "count": 1
-      },
-      "Surprise/Glendale": {
-        "count": 1
-      },
-      "Camp Verde": {
-        "count": 2
-      },
-      "Quartzsite": {
-        "count": 2
-      },
-      "Oro Valley": {
-        "count": 1
-      },
-      "Laveen": {
-        "count": 2
-      },
-      "Mohave Valley": {
-        "count": 1
-      },
-      "Wittmann": {
-        "count": 1
-      },
-      "Sun City": {
-        "count": 4
-      },
-      "Lakeside": {
-        "count": 1
-      },
-      "Phoenix/Tempe": {
-        "count": 1
-      },
-      "Wickenburg": {
-        "count": 1
-      },
-      "Nelson": {
-        "count": 1
-      },
-      "Wickieup": {
-        "count": 1
-      },
-      "Wickieup (south of)": {
-        "count": 1
-      },
-      "Clarkdale": {
-        "count": 1
-      },
-      "Scottsdale/Northwest Mesa": {
-        "count": 1
-      },
-      "Levene": {
-        "count": 1
-      },
-      "Sacaton": {
-        "count": 3
-      },
-      "Palm Springs": {
-        "count": 1
-      },
-      "Estrella (west of Phoenix)": {
-        "count": 1
-      },
-      "Casa Grande (near)": {
-        "count": 1
-      },
-      "Paradise Valley": {
-        "count": 5
-      },
-      "Carefree": {
-        "count": 1
-      },
-      "Tempe/Phoenix": {
-        "count": 1
-      },
-      "Phoenix (Fort McDowell)": {
-        "count": 1
-      },
-      "Jerome": {
-        "count": 1
-      },
-      "Black Canyon City": {
-        "count": 1
-      },
-      "Cottonwood": {
-        "count": 4
-      },
-      "York Valley": {
-        "count": 1
-      },
-      "Coolidge": {
-        "count": 4
-      },
-      "Safford": {
-        "count": 1
-      },
-      "Scenic": {
-        "count": 1
-      },
-      "Pearce": {
-        "count": 1
-      },
-      "Kingman (45 mi. E; I-40)": {
-        "count": 1
-      },
-      "Lake Havasu": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "Litchfield Park": {
-        "count": 2
-      },
-      "South Phoenix/Laveen": {
-        "count": 1
-      },
-      "Arizona City": {
-        "count": 1
-      },
-      "Wheatfields": {
-        "count": 1
-      },
-      "Tacna": {
-        "count": 1
-      },
-      "Spring Valley": {
-        "count": 1
-      },
-      "East Mesa": {
-        "count": 3
-      },
-      "South Scottsdale": {
-        "count": 1
-      },
-      "Yucca": {
-        "count": 1
-      },
-      "Cordes Lakes": {
-        "count": 1
-      },
-      "Catalina Township": {
-        "count": 1
-      },
-      "North Mountain area": {
-        "count": 1
-      },
-      "Aguila": {
-        "count": 1
-      },
-      "Utting": {
-        "count": 1
-      },
-      "Goodyear (in flight)": {
-        "count": 1
-      },
-      "Douglas": {
-        "count": 1
-      },
-      "Twenty Nine Palms": {
-        "count": 1
-      },
-      "Groom Creek wilderness area": {
-        "count": 1
-      },
-      "Phoenix (northwest area)": {
-        "count": 1
-      },
-      "Wikiup": {
-        "count": 1
-      },
-      "Avra Valley": {
-        "count": 1
-      },
-      "Flagstaff": {
-        "count": 3
-      },
-      "Queen creek": {
-        "count": 1
-      },
-      "Vicksburg (east of Quartsite)": {
-        "count": 1
-      },
-      "Surprise (75 miles north of)": {
-        "count": 1
-      },
-      "South Phoenix": {
-        "count": 1
-      },
-      "Waddell": {
-        "count": 3
-      },
-      "Ash Fork": {
-        "count": 1
-      },
-      "Gila River Indian Reservation": {
-        "count": 1
-      },
-      "Cottonwood (outside city limits)": {
-        "count": 1
-      },
-      "Mesa/Chandler": {
-        "count": 1
-      },
-      "Eloy": {
-        "count": 1
-      },
-      "Phoenix (northwest part)": {
-        "count": 1
-      },
-      "Cascabels (near)": {
-        "count": 1
-      },
-      "Oracle": {
-        "count": 1
-      },
-      "Witch Wells": {
-        "count": 1
-      },
-      "Sedona area": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Painesville",
+    "state": "OH",
+    "count": 2
   },
-  "AR": {
-    "cities": {
-      "Farmington": {
-        "count": 1
-      },
-      "Fayetteville": {
-        "count": 8
-      },
-      "Crossett": {
-        "count": 1
-      },
-      "Little Rock": {
-        "count": 4
-      },
-      "Ozark National Forest (near)": {
-        "count": 1
-      },
-      "Dardanelle": {
-        "count": 1
-      },
-      "McRae": {
-        "count": 2
-      },
-      "Tontitown": {
-        "count": 2
-      },
-      "Bentonville": {
-        "count": 6
-      },
-      "Conway": {
-        "count": 9
-      },
-      "Elkins": {
-        "count": 1
-      },
-      "Marshall": {
-        "count": 1
-      },
-      "Russellville": {
-        "count": 3
-      },
-      "Hartman": {
-        "count": 3
-      },
-      "Lake City": {
-        "count": 1
-      },
-      "Batesville": {
-        "count": 1
-      },
-      "Jonesboro": {
-        "count": 2
-      },
-      "Clarkridge": {
-        "count": 1
-      },
-      "Rogers": {
-        "count": 2
-      },
-      "Texarkana": {
-        "count": 1
-      },
-      "Camden": {
-        "count": 2
-      },
-      "Hot Springs": {
-        "count": 4
-      },
-      "Pine Bluff": {
-        "count": 1
-      },
-      "Paragould": {
-        "count": 4
-      },
-      "Bonnerdale/Crossroads": {
-        "count": 1
-      },
-      "Holiday Island": {
-        "count": 1
-      },
-      "Nunley": {
-        "count": 1
-      },
-      "Bryant": {
-        "count": 2
-      },
-      "Hot Springs National Park": {
-        "count": 1
-      },
-      "Board Camp": {
-        "count": 1
-      },
-      "Helena": {
-        "count": 2
-      },
-      "Fort Chafee": {
-        "count": 1
-      },
-      "Jacksonville": {
-        "count": 2
-      },
-      "Corning/Pocahontas (between)": {
-        "count": 1
-      },
-      "Berryville": {
-        "count": 1
-      },
-      "Fountain Hill": {
-        "count": 2
-      },
-      "Centerton": {
-        "count": 3
-      },
-      "St. Joe (SW of)": {
-        "count": 1
-      },
-      "Harrison": {
-        "count": 2
-      },
-      "Van Buren": {
-        "count": 2
-      },
-      "Highway I-40 Truck parking": {
-        "count": 1
-      },
-      "Mena": {
-        "count": 1
-      },
-      "Newport": {
-        "count": 1
-      },
-      "Corning": {
-        "count": 2
-      },
-      "Gosnell": {
-        "count": 1
-      },
-      "Mountain Home": {
-        "count": 1
-      },
-      "Siloam Springs": {
-        "count": 1
-      },
-      "Alma": {
-        "count": 1
-      },
-      "Springdale": {
-        "count": 2
-      },
-      "Light": {
-        "count": 2
-      },
-      "Pea Ridge": {
-        "count": 2
-      },
-      "Lexa": {
-        "count": 1
-      },
-      "Gum Springs": {
-        "count": 1
-      },
-      "Forrest City": {
-        "count": 2
-      },
-      "Luxora": {
-        "count": 2
-      },
-      "Pangburn": {
-        "count": 1
-      },
-      "Maumelle": {
-        "count": 1
-      },
-      "New Blaine": {
-        "count": 1
-      },
-      "Trumann": {
-        "count": 1
-      },
-      "Mount Ida": {
-        "count": 1
-      },
-      "Midway": {
-        "count": 1
-      },
-      "Alexander": {
-        "count": 1
-      },
-      "El Dorado": {
-        "count": 1
-      },
-      "Ouchita National Forest": {
-        "count": 1
-      },
-      "Lincoln": {
-        "count": 1
-      },
-      "Mayflower": {
-        "count": 1
-      },
-      "Leslie": {
-        "count": 1
-      },
-      "Russleville": {
-        "count": 1
-      },
-      "Greenbrier": {
-        "count": 2
-      },
-      "Marion": {
-        "count": 1
-      },
-      "Lowell": {
-        "count": 1
-      },
-      "London": {
-        "count": 1
-      },
-      "Star City": {
-        "count": 1
-      },
-      "Bauxite": {
-        "count": 1
-      },
-      "Boonville": {
-        "count": 1
-      },
-      "Benton": {
-        "count": 1
-      },
-      "Magnolia": {
-        "count": 1
-      },
-      "Cabot": {
-        "count": 1
-      },
-      "McGehee": {
-        "count": 1
-      },
-      "Heber Springs": {
-        "count": 1
-      },
-      "Gurdon": {
-        "count": 1
-      },
-      "Clarksville": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Grand Rapids",
+    "state": "MI",
+    "count": 22
   },
-  "MO": {
-    "cities": {
-      "Strafford": {
-        "count": 2
-      },
-      "Belton": {
-        "count": 3
-      },
-      "Joplin": {
-        "count": 3
-      },
-      "Raymore": {
-        "count": 2
-      },
-      "Bismarck": {
-        "count": 1
-      },
-      "Desloge": {
-        "count": 1
-      },
-      "Lowry City": {
-        "count": 1
-      },
-      "Lebanon": {
-        "count": 2
-      },
-      "De Soto": {
-        "count": 1
-      },
-      "Desoto": {
-        "count": 2
-      },
-      "Versailles": {
-        "count": 1
-      },
-      "Rolla": {
-        "count": 4
-      },
-      "Bonne Terre": {
-        "count": 2
-      },
-      "Iberia": {
-        "count": 1
-      },
-      "Laquey": {
-        "count": 1
-      },
-      "Columbia": {
-        "count": 15
-      },
-      "St. Louis": {
-        "count": 25
-      },
-      "Cole Camp": {
-        "count": 1
-      },
-      "Park Hills": {
-        "count": 1
-      },
-      "Cuba": {
-        "count": 1
-      },
-      "Kansas City": {
-        "count": 13
-      },
-      "Arnold": {
-        "count": 6
-      },
-      "Wentzville": {
-        "count": 3
-      },
-      "Springfield": {
-        "count": 14
-      },
-      "Montreal": {
-        "count": 4
-      },
-      "Harrisonville": {
-        "count": 1
-      },
-      "Florissant": {
-        "count": 5
-      },
-      "Mansfield": {
-        "count": 1
-      },
-      "Cassville": {
-        "count": 1
-      },
-      "Boonville": {
-        "count": 1
-      },
-      "St. Ann": {
-        "count": 2
-      },
-      "Lees Summit": {
-        "count": 4
-      },
-      "O'Fallon": {
-        "count": 9
-      },
-      "Bridgeton": {
-        "count": 3
-      },
-      "Overland": {
-        "count": 1
-      },
-      "Wheatland": {
-        "count": 1
-      },
-      "Moscow Mills": {
-        "count": 1
-      },
-      "Nixa": {
-        "count": 1
-      },
-      "Jefferson City": {
-        "count": 6
-      },
-      "Chesterfield": {
-        "count": 2
-      },
-      "Deepwater": {
-        "count": 1
-      },
-      "Kirbyville": {
-        "count": 1
-      },
-      "Pulaski": {
-        "count": 1
-      },
-      "Independence": {
-        "count": 11
-      },
-      "Osage Beach": {
-        "count": 1
-      },
-      "Chamois": {
-        "count": 1
-      },
-      "Camdenton": {
-        "count": 5
-      },
-      "Sullivan": {
-        "count": 1
-      },
-      "Ballwin": {
-        "count": 3
-      },
-      "Lampe": {
-        "count": 1
-      },
-      "New Bloomfield": {
-        "count": 1
-      },
-      "Mountain Grove": {
-        "count": 1
-      },
-      "Lee's Summit": {
-        "count": 5
-      },
-      "St. Peters": {
-        "count": 9
-      },
-      "Waynesville": {
-        "count": 4
-      },
-      "Birch Tree": {
-        "count": 1
-      },
-      "Eminence": {
-        "count": 1
-      },
-      "St. Louis County": {
-        "count": 2
-      },
-      "Normandy": {
-        "count": 1
-      },
-      "Lake St. Louis": {
-        "count": 1
-      },
-      "Fenton": {
-        "count": 5
-      },
-      "Cape Girardeau": {
-        "count": 4
-      },
-      "Saint James": {
-        "count": 1
-      },
-      "Creve Couer": {
-        "count": 1
-      },
-      "Bartlett": {
-        "count": 1
-      },
-      "St. Robert": {
-        "count": 2
-      },
-      "Saint Joseph": {
-        "count": 2
-      },
-      "Lockwood": {
-        "count": 1
-      },
-      "Festus": {
-        "count": 1
-      },
-      "St. Charles": {
-        "count": 5
-      },
-      "Eureka": {
-        "count": 2
-      },
-      "Fort Leonard Wood": {
-        "count": 1
-      },
-      "Steelville": {
-        "count": 1
-      },
-      "Ozark": {
-        "count": 1
-      },
-      "Hillsboro": {
-        "count": 1
-      },
-      "Town and Country": {
-        "count": 1
-      },
-      "Smithville": {
-        "count": 1
-      },
-      "St. Clair": {
-        "count": 1
-      },
-      "Ste. Genevieve": {
-        "count": 1
-      },
-      "Mountain View": {
-        "count": 1
-      },
-      "Palmyra": {
-        "count": 1
-      },
-      "Trenton": {
-        "count": 1
-      },
-      "Hayti": {
-        "count": 1
-      },
-      "Lake of the Ozarks": {
-        "count": 3
-      },
-      "Branson": {
-        "count": 2
-      },
-      "High Ridge": {
-        "count": 2
-      },
-      "Lathrop": {
-        "count": 2
-      },
-      "Charleston": {
-        "count": 1
-      },
-      "Nevada": {
-        "count": 1
-      },
-      "Dixon": {
-        "count": 1
-      },
-      "Hurley": {
-        "count": 1
-      },
-      "Brookline Station": {
-        "count": 2
-      },
-      "Kansas City/Columbia (between)": {
-        "count": 1
-      },
-      "Oak Grove": {
-        "count": 2
-      },
-      "Windsor": {
-        "count": 1
-      },
-      "Morse Mill": {
-        "count": 1
-      },
-      "Foristell": {
-        "count": 1
-      },
-      "Arrow Rock": {
-        "count": 1
-      },
-      "Jasper": {
-        "count": 1
-      },
-      "Sarcoxie": {
-        "count": 2
-      },
-      "Union": {
-        "count": 2
-      },
-      "Des Peres": {
-        "count": 1
-      },
-      "Buffalo": {
-        "count": 1
-      },
-      "Troy (NW of)": {
-        "count": 1
-      },
-      "Elkland": {
-        "count": 1
-      },
-      "Cedarcreek": {
-        "count": 1
-      },
-      "Troy": {
-        "count": 1
-      },
-      "Warsaw": {
-        "count": 1
-      },
-      "Mount Vernon": {
-        "count": 1
-      },
-      "Dederick": {
-        "count": 2
-      },
-      "Branson ((possibly; unsure))": {
-        "count": 1
-      },
-      "Wentzvillle": {
-        "count": 1
-      },
-      "Marshall": {
-        "count": 2
-      },
-      "California": {
-        "count": 1
-      },
-      "Stover": {
-        "count": 2
-      },
-      "Clinton": {
-        "count": 1
-      },
-      "Bolivar, Hermitage, and Urbana": {
-        "count": 1
-      },
-      "LaMonte": {
-        "count": 1
-      },
-      "Marshfield": {
-        "count": 1
-      },
-      "Farmington": {
-        "count": 4
-      },
-      "Cedar Hill/Burnsmill": {
-        "count": 1
-      },
-      "Gainesville": {
-        "count": 6
-      },
-      "Lake Ozark": {
-        "count": 1
-      },
-      "Longview": {
-        "count": 1
-      },
-      "Houston": {
-        "count": 1
-      },
-      "Warrensburg": {
-        "count": 1
-      },
-      "Crystal City": {
-        "count": 1
-      },
-      "Paris": {
-        "count": 1
-      },
-      "Catawissa/Burnsville": {
-        "count": 1
-      },
-      "St. Joseph": {
-        "count": 1
-      },
-      "Taylor": {
-        "count": 1
-      },
-      "Moberly": {
-        "count": 1
-      },
-      "Afton": {
-        "count": 2
-      },
-      "Marble Hill": {
-        "count": 1
-      },
-      "Kansas City (entering from I-70 west)": {
-        "count": 1
-      },
-      "House Springs": {
-        "count": 1
-      },
-      "Liberty": {
-        "count": 2
-      },
-      "Sedalia": {
-        "count": 1
-      },
-      "Bolivar": {
-        "count": 1
-      },
-      "Winfield": {
-        "count": 1
-      },
-      "Clarksburg": {
-        "count": 1
-      },
-      "Pacific": {
-        "count": 1
-      },
-      "Butler": {
-        "count": 1
-      },
-      "Chillicothe": {
-        "count": 1
-      },
-      "Weldon Spring": {
-        "count": 1
-      },
-      "Housesprings": {
-        "count": 1
-      },
-      "Saint Louis": {
-        "count": 1
-      },
-      "Monroe City": {
-        "count": 1
-      },
-      "Hannibal": {
-        "count": 1
-      },
-      "Fredericktown": {
-        "count": 1
-      },
-      "Rogersville": {
-        "count": 1
-      },
-      "Concordia": {
-        "count": 1
-      },
-      "Carthage": {
-        "count": 1
-      },
-      "Brentwood": {
-        "count": 1
-      },
-      "Potosi (near)": {
-        "count": 1
-      },
-      "Perryville": {
-        "count": 1
-      },
-      "Oakville": {
-        "count": 1
-      },
-      "Maryland Heights": {
-        "count": 1
-      },
-      "Republic": {
-        "count": 1
-      },
-      "Long Lane": {
-        "count": 1
-      },
-      "Anderson": {
-        "count": 1
-      },
-      "Eldon": {
-        "count": 2
-      },
-      "Saint Charles": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Wichita",
+    "state": "KS",
+    "count": 24
   },
-  "TN": {
-    "cities": {
-      "Sparta": {
-        "count": 1
-      },
-      "Murfreesboro": {
-        "count": 13
-      },
-      "Cordova": {
-        "count": 1
-      },
-      "Antioch": {
-        "count": 4
-      },
-      "Walter Hill": {
-        "count": 1
-      },
-      "Hampshire": {
-        "count": 1
-      },
-      "Smyrna": {
-        "count": 3
-      },
-      "Sevierville": {
-        "count": 3
-      },
-      "Manchester": {
-        "count": 1
-      },
-      "Chattanooga": {
-        "count": 14
-      },
-      "Jackson": {
-        "count": 5
-      },
-      "Nashville": {
-        "count": 30
-      },
-      "Knoxville": {
-        "count": 25
-      },
-      "Rockwood": {
-        "count": 2
-      },
-      "Rural Hill": {
-        "count": 1
-      },
-      "Kingsport": {
-        "count": 10
-      },
-      "Franklin": {
-        "count": 11
-      },
-      "Harrogate": {
-        "count": 2
-      },
-      "Elizabethton": {
-        "count": 6
-      },
-      "Dayton": {
-        "count": 2
-      },
-      "Munford": {
-        "count": 2
-      },
-      "Stoney Creek": {
-        "count": 1
-      },
-      "Hendersonville": {
-        "count": 4
-      },
-      "Cleveland": {
-        "count": 3
-      },
-      "Clarksville": {
-        "count": 14
-      },
-      "Cottontown": {
-        "count": 1
-      },
-      "Old Hickory": {
-        "count": 2
-      },
-      "Greenbrier": {
-        "count": 2
-      },
-      "Oak Ridge": {
-        "count": 2
-      },
-      "Decaturville": {
-        "count": 1
-      },
-      "Morristown": {
-        "count": 3
-      },
-      "Tazewell": {
-        "count": 2
-      },
-      "Lenoir City": {
-        "count": 3
-      },
-      "Rutledge": {
-        "count": 2
-      },
-      "Atoka": {
-        "count": 3
-      },
-      "Jonesborough": {
-        "count": 4
-      },
-      "Cookeville": {
-        "count": 1
-      },
-      "Millington": {
-        "count": 2
-      },
-      "Memphis": {
-        "count": 15
-      },
-      "Benton": {
-        "count": 1
-      },
-      "Pigeon Forge": {
-        "count": 2
-      },
-      "Piney Flats": {
-        "count": 1
-      },
-      "Powell": {
-        "count": 3
-      },
-      "Fayetteville": {
-        "count": 1
-      },
-      "Mountain City": {
-        "count": 3
-      },
-      "LaVergne": {
-        "count": 1
-      },
-      "Algood": {
-        "count": 1
-      },
-      "Johnson City": {
-        "count": 7
-      },
-      "Clinton": {
-        "count": 2
-      },
-      "Loudon": {
-        "count": 2
-      },
-      "Dandridge": {
-        "count": 1
-      },
-      "Christiana": {
-        "count": 1
-      },
-      "Hixson": {
-        "count": 4
-      },
-      "Farragut": {
-        "count": 1
-      },
-      "Lancing": {
-        "count": 1
-      },
-      "Portland": {
-        "count": 2
-      },
-      "Charleston": {
-        "count": 1
-      },
-      "Maryville": {
-        "count": 4
-      },
-      "Andersonville": {
-        "count": 1
-      },
-      "Lake Tanis": {
-        "count": 1
-      },
-      "Gordonsville": {
-        "count": 1
-      },
-      "Great Smokey Mountains National Park": {
-        "count": 1
-      },
-      "Blountville": {
-        "count": 1
-      },
-      "Bybee": {
-        "count": 1
-      },
-      "Gatlinburg": {
-        "count": 2
-      },
-      "Bristol": {
-        "count": 2
-      },
-      "Waverly": {
-        "count": 1
-      },
-      "Downtown Nashville": {
-        "count": 1
-      },
-      "Dyersburg": {
-        "count": 1
-      },
-      "Hermitage": {
-        "count": 2
-      },
-      "White House": {
-        "count": 2
-      },
-      "Ten Mile": {
-        "count": 1
-      },
-      "Lebanon": {
-        "count": 1
-      },
-      "Newbern": {
-        "count": 1
-      },
-      "Trezevant": {
-        "count": 1
-      },
-      "Gray": {
-        "count": 2
-      },
-      "Blaine": {
-        "count": 1
-      },
-      "Columbia": {
-        "count": 2
-      },
-      "Bristol tn and bristol va": {
-        "count": 1
-      },
-      "Mt. Juliet": {
-        "count": 4
-      },
-      "Eads": {
-        "count": 1
-      },
-      "Bellevue": {
-        "count": 2
-      },
-      "Rogersville": {
-        "count": 1
-      },
-      "Goodlettsville": {
-        "count": 1
-      },
-      "Gallatin": {
-        "count": 3
-      },
-      "Byrdstown": {
-        "count": 1
-      },
-      "Shelbyville": {
-        "count": 1
-      },
-      "Ivy Bluff": {
-        "count": 1
-      },
-      "Bean Station": {
-        "count": 1
-      },
-      "Spring Hill": {
-        "count": 6
-      },
-      "Lupton City": {
-        "count": 2
-      },
-      "Ten mile": {
-        "count": 2
-      },
-      "Rover": {
-        "count": 1
-      },
-      "Ten Mile to Knox": {
-        "count": 1
-      },
-      "Huntingdon": {
-        "count": 1
-      },
-      "Seymour": {
-        "count": 1
-      },
-      "Lynnville": {
-        "count": 1
-      },
-      "Bluff City": {
-        "count": 3
-      },
-      "Smithville": {
-        "count": 1
-      },
-      "Pulaski": {
-        "count": 1
-      },
-      "Signal Mountain": {
-        "count": 1
-      },
-      "Brentwood": {
-        "count": 2
-      },
-      "Soddy Daisy": {
-        "count": 3
-      },
-      "Soddy Daisy/Hixson": {
-        "count": 1
-      },
-      "Henderson": {
-        "count": 1
-      },
-      "Arlington": {
-        "count": 1
-      },
-      "Cleveland (SE section)": {
-        "count": 1
-      },
-      "Lewisburg": {
-        "count": 1
-      },
-      "Crossville": {
-        "count": 1
-      },
-      "Greeneville": {
-        "count": 1
-      },
-      "Hartford": {
-        "count": 1
-      },
-      "Boones Creek": {
-        "count": 1
-      },
-      "Spring City": {
-        "count": 1
-      },
-      "Decatur": {
-        "count": 2
-      },
-      "Moss": {
-        "count": 1
-      },
-      "Jefferson City": {
-        "count": 1
-      },
-      "Adamsville": {
-        "count": 1
-      },
-      "Tullahoma": {
-        "count": 1
-      },
-      "Kingston": {
-        "count": 1
-      },
-      "Mount Juliet": {
-        "count": 3
-      },
-      "Toone": {
-        "count": 1
-      },
-      "Gallatin/Hendersonville/Madison": {
-        "count": 1
-      },
-      "Petersburg": {
-        "count": 1
-      },
-      "McKenzie": {
-        "count": 1
-      },
-      "Erwin": {
-        "count": 1
-      },
-      "Livingston": {
-        "count": 1
-      },
-      "Greenback": {
-        "count": 1
-      },
-      "Friendsville": {
-        "count": 1
-      },
-      "McMinnville": {
-        "count": 1
-      },
-      "Nashville (Columbia)": {
-        "count": 1
-      },
-      "Murpheesboro": {
-        "count": 1
-      },
-      "Bartlett": {
-        "count": 1
-      },
-      "Flintville": {
-        "count": 1
-      },
-      "Ooltewah": {
-        "count": 1
-      },
-      "Lake City": {
-        "count": 1
-      },
-      "Alcoa": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Port Saint Lucie",
+    "state": "FL",
+    "count": 11
   },
-  "KY": {
-    "cities": {
-      "Brandenburg": {
-        "count": 1
-      },
-      "Berea": {
-        "count": 1
-      },
-      "Richmond": {
-        "count": 3
-      },
-      "Fredonia": {
-        "count": 1
-      },
-      "Williamsburg": {
-        "count": 1
-      },
-      "Earlington": {
-        "count": 1
-      },
-      "Hopkinsville (I-24)": {
-        "count": 1
-      },
-      "Louisville": {
-        "count": 32
-      },
-      "Nancy": {
-        "count": 1
-      },
-      "Lawrenceburg": {
-        "count": 2
-      },
-      "Clay City": {
-        "count": 1
-      },
-      "Monticello": {
-        "count": 1
-      },
-      "Owensboro": {
-        "count": 5
-      },
-      "Eddyville": {
-        "count": 1
-      },
-      "Lancaster": {
-        "count": 1
-      },
-      "Hyden": {
-        "count": 1
-      },
-      "Smilax": {
-        "count": 1
-      },
-      "Florence": {
-        "count": 7
-      },
-      "Ricetown": {
-        "count": 5
-      },
-      "Hillview/Shepherdsville": {
-        "count": 1
-      },
-      "Essie": {
-        "count": 1
-      },
-      "Whitesburg": {
-        "count": 2
-      },
-      "Trigg County (Lake Barkley)": {
-        "count": 1
-      },
-      "Lexington": {
-        "count": 12
-      },
-      "Versailles": {
-        "count": 3
-      },
-      "Louisvile": {
-        "count": 1
-      },
-      "Albany": {
-        "count": 1
-      },
-      "Corbin": {
-        "count": 2
-      },
-      "Somerset": {
-        "count": 4
-      },
-      "Bardstown": {
-        "count": 1
-      },
-      "Hebron": {
-        "count": 1
-      },
-      "Morehead": {
-        "count": 2
-      },
-      "Dayhoit": {
-        "count": 1
-      },
-      "Bardwell": {
-        "count": 1
-      },
-      "Beattyville": {
-        "count": 1
-      },
-      "Willard": {
-        "count": 2
-      },
-      "Smithfield": {
-        "count": 1
-      },
-      "Paducah": {
-        "count": 1
-      },
-      "Ludlow": {
-        "count": 1
-      },
-      "Dabney": {
-        "count": 1
-      },
-      "Radcliff": {
-        "count": 2
-      },
-      "Danville": {
-        "count": 1
-      },
-      "Elizabeth": {
-        "count": 1
-      },
-      "Bowling Green": {
-        "count": 7
-      },
-      "Shepherdsville": {
-        "count": 3
-      },
-      "Clarkson": {
-        "count": 2
-      },
-      "Alvaton": {
-        "count": 1
-      },
-      "Prospect": {
-        "count": 1
-      },
-      "Owenton": {
-        "count": 1
-      },
-      "Pellville": {
-        "count": 1
-      },
-      "Paris": {
-        "count": 1
-      },
-      "Stanton": {
-        "count": 2
-      },
-      "Wickliffe": {
-        "count": 1
-      },
-      "McKee": {
-        "count": 1
-      },
-      "Erlanger": {
-        "count": 2
-      },
-      "Frankfort": {
-        "count": 1
-      },
-      "Cynthiana": {
-        "count": 2
-      },
-      "Symsonia": {
-        "count": 1
-      },
-      "Hopkinsville": {
-        "count": 2
-      },
-      "Willisburg": {
-        "count": 1
-      },
-      "Hazel Green": {
-        "count": 1
-      },
-      "McQuady": {
-        "count": 1
-      },
-      "Jackson": {
-        "count": 1
-      },
-      "Meadow Creek": {
-        "count": 1
-      },
-      "Murray": {
-        "count": 1
-      },
-      "Trenton": {
-        "count": 1
-      },
-      "Jenkins": {
-        "count": 1
-      },
-      "Corinth": {
-        "count": 2
-      },
-      "Oakland": {
-        "count": 1
-      },
-      "Russell Springs": {
-        "count": 1
-      },
-      "Thornton": {
-        "count": 1
-      },
-      "Winchester": {
-        "count": 3
-      },
-      "burlington": {
-        "count": 1
-      },
-      "Dubre": {
-        "count": 1
-      },
-      "Henderson": {
-        "count": 2
-      },
-      "Paris-Winchester": {
-        "count": 1
-      },
-      "Wayland": {
-        "count": 1
-      },
-      "Hodgenville": {
-        "count": 1
-      },
-      "Maysville": {
-        "count": 1
-      },
-      "Nicholasville": {
-        "count": 1
-      },
-      "Taylorsville": {
-        "count": 2
-      },
-      "Mount Sterling": {
-        "count": 3
-      },
-      "Munfordville/Glendale (between)": {
-        "count": 1
-      },
-      "Jeffersonville": {
-        "count": 1
-      },
-      "Warsaw": {
-        "count": 1
-      },
-      "Liberty": {
-        "count": 1
-      },
-      "Mt. Washington": {
-        "count": 1
-      },
-      "Independence": {
-        "count": 1
-      },
-      "Louisa": {
-        "count": 1
-      },
-      "Central City": {
-        "count": 1
-      },
-      "Madisonville": {
-        "count": 1
-      },
-      "Greenup": {
-        "count": 1
-      },
-      "Dry Ridge": {
-        "count": 1
-      },
-      "Aurora": {
-        "count": 1
-      },
-      "Slade": {
-        "count": 1
-      },
-      "Georgetown": {
-        "count": 2
-      },
-      "Cropper": {
-        "count": 1
-      },
-      "Glencoe": {
-        "count": 1
-      },
-      "Harrodsburg": {
-        "count": 1
-      },
-      "Louisville (near: I-64, Exit 113)": {
-        "count": 1
-      },
-      "Ekron": {
-        "count": 1
-      },
-      "I-24 80 to 74 mile marker": {
-        "count": 1
-      },
-      "Burnside": {
-        "count": 1
-      },
-      "Grant County": {
-        "count": 1
-      },
-      "Leitchfield": {
-        "count": 1
-      },
-      "Kiambu": {
-        "count": 1
-      },
-      "Cold Springs": {
-        "count": 1
-      },
-      "Petersburg": {
-        "count": 1
-      },
-      "Catlettsburg (Louisa area)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Rancho Cucamonga",
+    "state": "CA",
+    "count": 13
   },
-  "VT": {
-    "cities": {
-      "Morristown": {
-        "count": 1
-      },
-      "West Brattleboro": {
-        "count": 1
-      },
-      "Barre": {
-        "count": 4
-      },
-      "St. Albans": {
-        "count": 2
-      },
-      "Rutland": {
-        "count": 5
-      },
-      "Northfield": {
-        "count": 1
-      },
-      "Richmond": {
-        "count": 1
-      },
-      "Grand Isle": {
-        "count": 1
-      },
-      "Bakersfield": {
-        "count": 1
-      },
-      "Pawlet": {
-        "count": 1
-      },
-      "Orange County": {
-        "count": 1
-      },
-      "Colchester": {
-        "count": 4
-      },
-      "Benson": {
-        "count": 2
-      },
-      "Troy": {
-        "count": 1
-      },
-      "Milton": {
-        "count": 4
-      },
-      "Springfield": {
-        "count": 1
-      },
-      "Bennington": {
-        "count": 1
-      },
-      "Windsor": {
-        "count": 2
-      },
-      "Montpelier": {
-        "count": 4
-      },
-      "South Burlington": {
-        "count": 4
-      },
-      "Ferrisburgh": {
-        "count": 1
-      },
-      "Manchester": {
-        "count": 2
-      },
-      "Stamford": {
-        "count": 1
-      },
-      "West Windsor": {
-        "count": 1
-      },
-      "Rutland (near; Griffith Lake)": {
-        "count": 1
-      },
-      "West Pawlet": {
-        "count": 1
-      },
-      "Wells": {
-        "count": 1
-      },
-      "Sharon": {
-        "count": 1
-      },
-      "Vergennes": {
-        "count": 1
-      },
-      "Thetford": {
-        "count": 2
-      },
-      "Fairlee": {
-        "count": 3
-      },
-      "West Topsham": {
-        "count": 2
-      },
-      "Barre Town": {
-        "count": 1
-      },
-      "Norwich/Thetford": {
-        "count": 1
-      },
-      "Plainfield": {
-        "count": 1
-      },
-      "Williston": {
-        "count": 1
-      },
-      "Burlington": {
-        "count": 2
-      },
-      "Hinesburg": {
-        "count": 1
-      },
-      "Waterbury": {
-        "count": 1
-      },
-      "Essex Center": {
-        "count": 1
-      },
-      "Washington": {
-        "count": 2
-      },
-      "Eden": {
-        "count": 1
-      },
-      "Guilford": {
-        "count": 1
-      },
-      "Westford": {
-        "count": 1
-      },
-      "Lincoln": {
-        "count": 1
-      },
-      "Saint Johnsbury": {
-        "count": 1
-      },
-      "Enosburg Falls": {
-        "count": 1
-      },
-      "Newbury": {
-        "count": 1
-      },
-      "Londonderry/Andover": {
-        "count": 2
-      },
-      "Rockies": {
-        "count": 1
-      },
-      "Lyndonville": {
-        "count": 1
-      },
-      "Jericho": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "Richmond (near)": {
-        "count": 1
-      },
-      "Castleton": {
-        "count": 1
-      },
-      "North Hero": {
-        "count": 1
-      },
-      "West Danville": {
-        "count": 1
-      },
-      "Hartford/Dothan": {
-        "count": 1
-      },
-      "Concord": {
-        "count": 1
-      },
-      "Windsor County": {
-        "count": 1
-      },
-      "Woodstock": {
-        "count": 1
-      },
-      "East Charleston": {
-        "count": 1
-      },
-      "Morrisville": {
-        "count": 1
-      },
-      "Fairfax": {
-        "count": 1
-      },
-      "Newport": {
-        "count": 1
-      },
-      "Windham": {
-        "count": 1
-      },
-      "Peacham": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Hollywood",
+    "state": "FL",
+    "count": 11
   },
-  "MT": {
-    "cities": {
-      "Bozeman": {
-        "count": 11
-      },
-      "Billings": {
-        "count": 25
-      },
-      "Laurel": {
-        "count": 2
-      },
-      "Anaconda": {
-        "count": 1
-      },
-      "Livingston": {
-        "count": 4
-      },
-      "Helena": {
-        "count": 10
-      },
-      "Dillon": {
-        "count": 1
-      },
-      "Divide": {
-        "count": 1
-      },
-      "Townsend": {
-        "count": 1
-      },
-      "Montana City": {
-        "count": 2
-      },
-      "Missoula": {
-        "count": 20
-      },
-      "Great Falls": {
-        "count": 6
-      },
-      "Polson": {
-        "count": 1
-      },
-      "Kalispell": {
-        "count": 10
-      },
-      "Wilsall": {
-        "count": 1
-      },
-      "Florence": {
-        "count": 3
-      },
-      "Butte": {
-        "count": 8
-      },
-      "Havre": {
-        "count": 1
-      },
-      "Hamilton": {
-        "count": 3
-      },
-      "Big Timber": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "Absarokee": {
-        "count": 1
-      },
-      "Glendive": {
-        "count": 1
-      },
-      "Whitefish": {
-        "count": 3
-      },
-      "Hays": {
-        "count": 1
-      },
-      "Stevensville": {
-        "count": 3
-      },
-      "Victor": {
-        "count": 1
-      },
-      "Gallatin Gateway": {
-        "count": 3
-      },
-      "Jordan": {
-        "count": 1
-      },
-      "Creston": {
-        "count": 2
-      },
-      "Darby": {
-        "count": 2
-      },
-      "Bigfork": {
-        "count": 1
-      },
-      "Alberton": {
-        "count": 2
-      },
-      "Poplar": {
-        "count": 3
-      },
-      "Corvallis": {
-        "count": 1
-      },
-      "Thompson Falls": {
-        "count": 1
-      },
-      "Lakside": {
-        "count": 1
-      },
-      "Pray/Livingston (between)": {
-        "count": 1
-      },
-      "White Sulphur Springs": {
-        "count": 2
-      },
-      "Polson (north of)": {
-        "count": 1
-      },
-      "Belgrade": {
-        "count": 3
-      },
-      "Lolo": {
-        "count": 1
-      },
-      "Clancy": {
-        "count": 1
-      },
-      "Clinton": {
-        "count": 1
-      },
-      "Ronan": {
-        "count": 1
-      },
-      "Browning": {
-        "count": 1
-      },
-      "Sidney": {
-        "count": 3
-      },
-      "Trout Creek": {
-        "count": 1
-      },
-      "Mildred": {
-        "count": 1
-      },
-      "Tracy": {
-        "count": 2
-      },
-      "Red Lodge": {
-        "count": 2
-      },
-      "Columbia Falls": {
-        "count": 1
-      },
-      "Bozeman/Gallatin Gateway (Hyalite Reservoir)": {
-        "count": 1
-      },
-      "Hot Springs": {
-        "count": 1
-      },
-      "Reed Point": {
-        "count": 1
-      },
-      "Wolf Creek": {
-        "count": 1
-      },
-      "Plains": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Carlsbad",
+    "state": "CA",
+    "count": 11
   },
-  "CT": {
-    "cities": {
-      "Meriden": {
-        "count": 5
-      },
-      "Shelton": {
-        "count": 2
-      },
-      "Stonington": {
-        "count": 3
-      },
-      "Seymour": {
-        "count": 2
-      },
-      "Hartford": {
-        "count": 5
-      },
-      "West Suffield": {
-        "count": 5
-      },
-      "Southington": {
-        "count": 5
-      },
-      "Ashford": {
-        "count": 1
-      },
-      "Wilton": {
-        "count": 1
-      },
-      "Vernon": {
-        "count": 3
-      },
-      "New Britain": {
-        "count": 5
-      },
-      "Stratford": {
-        "count": 4
-      },
-      "Newington": {
-        "count": 3
-      },
-      "Plainville": {
-        "count": 4
-      },
-      "Manchester": {
-        "count": 8
-      },
-      "Moodus": {
-        "count": 1
-      },
-      "Windham/Williamantic": {
-        "count": 1
-      },
-      "Milford": {
-        "count": 11
-      },
-      "Harwinton": {
-        "count": 3
-      },
-      "Norwalk": {
-        "count": 8
-      },
-      "Bridgeport": {
-        "count": 12
-      },
-      "Stratford/Bridgeport": {
-        "count": 1
-      },
-      "Monroe": {
-        "count": 1
-      },
-      "Bristol": {
-        "count": 4
-      },
-      "Rocky Hill": {
-        "count": 1
-      },
-      "Derby/Ansonia": {
-        "count": 1
-      },
-      "Stafford Springs": {
-        "count": 1
-      },
-      "Danbury": {
-        "count": 3
-      },
-      "Pawcatuck": {
-        "count": 1
-      },
-      "Woodbridge": {
-        "count": 1
-      },
-      "East Windsor": {
-        "count": 3
-      },
-      "Oakdale": {
-        "count": 1
-      },
-      "Burlington": {
-        "count": 2
-      },
-      "Short Gap": {
-        "count": 1
-      },
-      "Marlborough": {
-        "count": 1
-      },
-      "Norwalk/Darien": {
-        "count": 1
-      },
-      "Sandy Hook": {
-        "count": 1
-      },
-      "Groton": {
-        "count": 1
-      },
-      "South Windsor": {
-        "count": 2
-      },
-      "Clinton": {
-        "count": 5
-      },
-      "Middletown": {
-        "count": 9
-      },
-      "Waterford": {
-        "count": 2
-      },
-      "Bozra": {
-        "count": 1
-      },
-      "New Milford": {
-        "count": 4
-      },
-      "Guilford": {
-        "count": 2
-      },
-      "Oneco": {
-        "count": 1
-      },
-      "Berlin": {
-        "count": 3
-      },
-      "Tolland": {
-        "count": 1
-      },
-      "East Haven": {
-        "count": 3
-      },
-      "Columbia": {
-        "count": 2
-      },
-      "New London": {
-        "count": 1
-      },
-      "Jewett City": {
-        "count": 1
-      },
-      "Waterbury": {
-        "count": 7
-      },
-      "Middlefield": {
-        "count": 2
-      },
-      "Cromwell": {
-        "count": 2
-      },
-      "Niantic": {
-        "count": 1
-      },
-      "Naugatuck": {
-        "count": 4
-      },
-      "Broad Brook": {
-        "count": 1
-      },
-      "Torrington": {
-        "count": 5
-      },
-      "New Britian": {
-        "count": 1
-      },
-      "Stamford": {
-        "count": 5
-      },
-      "Ellington": {
-        "count": 4
-      },
-      "Old Lyme": {
-        "count": 5
-      },
-      "Wethersfield": {
-        "count": 3
-      },
-      "Thomaston": {
-        "count": 1
-      },
-      "Ansonia": {
-        "count": 1
-      },
-      "Greenwich": {
-        "count": 2
-      },
-      "Putnam": {
-        "count": 2
-      },
-      "Wolcott": {
-        "count": 3
-      },
-      "Watertown": {
-        "count": 1
-      },
-      "Quaker Hill": {
-        "count": 2
-      },
-      "Suffield": {
-        "count": 4
-      },
-      "Colchester": {
-        "count": 1
-      },
-      "Plainfield": {
-        "count": 1
-      },
-      "Hamden": {
-        "count": 3
-      },
-      "North Haven": {
-        "count": 1
-      },
-      "Canton": {
-        "count": 1
-      },
-      "Waterbury (over)": {
-        "count": 1
-      },
-      "Glastonbury": {
-        "count": 1
-      },
-      "Beacon Falls": {
-        "count": 2
-      },
-      "Fairfield": {
-        "count": 1
-      },
-      "West Hartford": {
-        "count": 2
-      },
-      "Newtown": {
-        "count": 2
-      },
-      "Norwich": {
-        "count": 1
-      },
-      "New Haven (Fair Haven/East Haven)": {
-        "count": 1
-      },
-      "Hebron": {
-        "count": 1
-      },
-      "Enfield": {
-        "count": 2
-      },
-      "Branford": {
-        "count": 1
-      },
-      "Winsted": {
-        "count": 2
-      },
-      "Kensington": {
-        "count": 1
-      },
-      "West Haven": {
-        "count": 1
-      },
-      "Wethersfield/Cromwell are": {
-        "count": 1
-      },
-      "Southbury": {
-        "count": 1
-      },
-      "Collinsville": {
-        "count": 1
-      },
-      "Norwalk/Westport (between on Ct 15)": {
-        "count": 1
-      },
-      "Killingly": {
-        "count": 1
-      },
-      "Willimantic": {
-        "count": 1
-      },
-      "Plymouth": {
-        "count": 1
-      },
-      "New Haven/Fair Haven/ East Haven": {
-        "count": 1
-      },
-      "Bethel": {
-        "count": 1
-      },
-      "Oakville": {
-        "count": 1
-      },
-      "Durham": {
-        "count": 1
-      },
-      "Lyme": {
-        "count": 1
-      },
-      "North Franklin": {
-        "count": 1
-      },
-      "Old Saybrook": {
-        "count": 1
-      },
-      "Lyme/Haddam": {
-        "count": 1
-      },
-      "New Haven": {
-        "count": 1
-      },
-      "Sharon": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "New Fairfield": {
-        "count": 1
-      },
-      "Westport": {
-        "count": 1
-      },
-      "Trumbull": {
-        "count": 1
-      },
-      "Essex": {
-        "count": 1
-      },
-      "Farmington": {
-        "count": 1
-      },
-      "Weston": {
-        "count": 1
-      },
-      "Simsbury": {
-        "count": 1
-      },
-      "Oxford": {
-        "count": 1
-      }
-    }
+  {
+    "city": "San Angelo",
+    "state": "TX",
+    "count": 4
   },
-  "ME": {
-    "cities": {
-      "Windham": {
-        "count": 2
-      },
-      "Brooklin": {
-        "count": 1
-      },
-      "Ellsworth": {
-        "count": 4
-      },
-      "Norridgewock": {
-        "count": 1
-      },
-      "Tremont": {
-        "count": 1
-      },
-      "Corinth/Monson (betweem)": {
-        "count": 1
-      },
-      "Rumford": {
-        "count": 1
-      },
-      "Robbinston": {
-        "count": 1
-      },
-      "Eliot": {
-        "count": 2
-      },
-      "York": {
-        "count": 5
-      },
-      "Albion": {
-        "count": 1
-      },
-      "Winslow": {
-        "count": 2
-      },
-      "Grand Isle": {
-        "count": 1
-      },
-      "Baldwin": {
-        "count": 1
-      },
-      "Augusta": {
-        "count": 6
-      },
-      "Franklin": {
-        "count": 1
-      },
-      "Kittery": {
-        "count": 3
-      },
-      "Richmond": {
-        "count": 2
-      },
-      "Clifton": {
-        "count": 1
-      },
-      "Pownal": {
-        "count": 1
-      },
-      "Parsonsfield": {
-        "count": 1
-      },
-      "Orono": {
-        "count": 1
-      },
-      "Arundel": {
-        "count": 1
-      },
-      "Poland": {
-        "count": 4
-      },
-      "West Gardiner": {
-        "count": 2
-      },
-      "Exeter": {
-        "count": 2
-      },
-      "Orrington": {
-        "count": 2
-      },
-      "Lisbon": {
-        "count": 1
-      },
-      "Monson": {
-        "count": 1
-      },
-      "winter harbor": {
-        "count": 1
-      },
-      "Casco": {
-        "count": 1
-      },
-      "Swanville": {
-        "count": 1
-      },
-      "Hartford": {
-        "count": 1
-      },
-      "Kingfield": {
-        "count": 1
-      },
-      "Sidney": {
-        "count": 1
-      },
-      "Belfast": {
-        "count": 1
-      },
-      "Newport": {
-        "count": 3
-      },
-      "Freeport": {
-        "count": 1
-      },
-      "Winter Harbor": {
-        "count": 1
-      },
-      "Gorham": {
-        "count": 4
-      },
-      "Fairfield": {
-        "count": 3
-      },
-      "Scarborough": {
-        "count": 7
-      },
-      "Kittery area": {
-        "count": 1
-      },
-      "Stonington": {
-        "count": 1
-      },
-      "Bowdoinham": {
-        "count": 1
-      },
-      "South Berwick": {
-        "count": 4
-      },
-      "Bucksport": {
-        "count": 1
-      },
-      "Pittsfield": {
-        "count": 1
-      },
-      "Cumberland Center": {
-        "count": 2
-      },
-      "Waterville": {
-        "count": 1
-      },
-      "Bangor": {
-        "count": 9
-      },
-      "Minot": {
-        "count": 1
-      },
-      "Farmington": {
-        "count": 1
-      },
-      "Brooks": {
-        "count": 1
-      },
-      "Small Point": {
-        "count": 1
-      },
-      "Corinna": {
-        "count": 1
-      },
-      "Sabattus": {
-        "count": 2
-      },
-      "Old Orchard Beach": {
-        "count": 3
-      },
-      "Biddeford": {
-        "count": 2
-      },
-      "Palermo": {
-        "count": 1
-      },
-      "Westbrook": {
-        "count": 2
-      },
-      "Ogunquit": {
-        "count": 1
-      },
-      "Guilford": {
-        "count": 1
-      },
-      "Portland": {
-        "count": 3
-      },
-      "Brunswick": {
-        "count": 1
-      },
-      "Carmel": {
-        "count": 2
-      },
-      "North Berwick": {
-        "count": 1
-      },
-      "Troy": {
-        "count": 1
-      },
-      "Carrabassett Valley": {
-        "count": 1
-      },
-      "E. Parsonsfield": {
-        "count": 1
-      },
-      "South Portland": {
-        "count": 1
-      },
-      "Chesterville": {
-        "count": 1
-      },
-      "Bridgton": {
-        "count": 3
-      },
-      "Dixmont": {
-        "count": 1
-      },
-      "Holden": {
-        "count": 1
-      },
-      "Blue Hill": {
-        "count": 1
-      },
-      "Newburgh": {
-        "count": 2
-      },
-      "Prospect": {
-        "count": 1
-      },
-      "Gardiner/Pittston": {
-        "count": 1
-      },
-      "Hollis": {
-        "count": 2
-      },
-      "Gardner": {
-        "count": 1
-      },
-      "Lewiston": {
-        "count": 1
-      },
-      "Damariscotta": {
-        "count": 1
-      },
-      "Bethel": {
-        "count": 1
-      },
-      "Thorndike": {
-        "count": 1
-      },
-      "Peaks Island": {
-        "count": 1
-      },
-      "Waldoboro": {
-        "count": 1
-      },
-      "New Gloucester": {
-        "count": 1
-      },
-      "Hollis Center": {
-        "count": 1
-      },
-      "Centerville": {
-        "count": 1
-      },
-      "Cumberland": {
-        "count": 1
-      },
-      "Topsham": {
-        "count": 1
-      },
-      "Auburn": {
-        "count": 2
-      },
-      "Lamoine": {
-        "count": 1
-      },
-      "Topsfield": {
-        "count": 1
-      },
-      "Sanford": {
-        "count": 3
-      },
-      "Cornish": {
-        "count": 1
-      },
-      "Falmouth": {
-        "count": 1
-      },
-      "Rockland": {
-        "count": 1
-      },
-      "Medford": {
-        "count": 1
-      },
-      "Searsport": {
-        "count": 1
-      },
-      "St. George": {
-        "count": 1
-      },
-      "Unspecified": {
-        "count": 1
-      },
-      "Sullivan": {
-        "count": 1
-      },
-      "Jefferson": {
-        "count": 1
-      },
-      "Otter Creek": {
-        "count": 1
-      },
-      "Brewer": {
-        "count": 1
-      },
-      "Shapleigh": {
-        "count": 1
-      },
-      "Stoneham": {
-        "count": 1
-      },
-      "Eddington": {
-        "count": 1
-      },
-      "East Wilton": {
-        "count": 1
-      },
-      "Raymond": {
-        "count": 1
-      },
-      "Greenville": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Wasilla",
+    "state": "AK",
+    "count": 13
   },
-  "ID": {
-    "cities": {
-      "Eden": {
-        "count": 3
-      },
-      "Boise": {
-        "count": 58
-      },
-      "Victor": {
-        "count": 2
-      },
-      "White Bird": {
-        "count": 1
-      },
-      "Mountain Home AFB": {
-        "count": 1
-      },
-      "Athol": {
-        "count": 1
-      },
-      "Twin Falls": {
-        "count": 13
-      },
-      "Pocatello": {
-        "count": 2
-      },
-      "Caldwell": {
-        "count": 8
-      },
-      "Lewiston": {
-        "count": 3
-      },
-      "Harrison": {
-        "count": 1
-      },
-      "Post Falls": {
-        "count": 5
-      },
-      "Marsing": {
-        "count": 1
-      },
-      "Payette": {
-        "count": 1
-      },
-      "Nampa": {
-        "count": 22
-      },
-      "Spirit Lake": {
-        "count": 1
-      },
-      "Melba": {
-        "count": 2
-      },
-      "Meridian": {
-        "count": 15
-      },
-      "Garden City": {
-        "count": 2
-      },
-      "Rigby": {
-        "count": 2
-      },
-      "Lava Hot Springs": {
-        "count": 2
-      },
-      "Hope": {
-        "count": 1
-      },
-      "Coeur d'Alene": {
-        "count": 5
-      },
-      "Middleton": {
-        "count": 4
-      },
-      "Hailey": {
-        "count": 2
-      },
-      "Kuna": {
-        "count": 8
-      },
-      "Idaho Falls": {
-        "count": 1
-      },
-      "Weiser": {
-        "count": 1
-      },
-      "Rexburg": {
-        "count": 1
-      },
-      "Elmore County (House Mountain Road)": {
-        "count": 1
-      },
-      "Mountain Home": {
-        "count": 11
-      },
-      "Emmett": {
-        "count": 2
-      },
-      "Buhl": {
-        "count": 1
-      },
-      "DeSmet": {
-        "count": 1
-      },
-      "Firth": {
-        "count": 1
-      },
-      "Blackfoot": {
-        "count": 1
-      },
-      "Atlanta": {
-        "count": 1
-      },
-      "Sandpoint": {
-        "count": 3
-      },
-      "Bruneau": {
-        "count": 1
-      },
-      "Star": {
-        "count": 1
-      },
-      "Idaho City (10.6 miles NW)": {
-        "count": 1
-      },
-      "Priest River": {
-        "count": 1
-      },
-      "Idaho falls": {
-        "count": 1
-      },
-      "Gonzales": {
-        "count": 1
-      },
-      "Eagle": {
-        "count": 3
-      },
-      "\n": {
-        "count": 1
-      },
-      "Rogerson": {
-        "count": 1
-      },
-      "Priest Lake": {
-        "count": 2
-      },
-      "Plummer": {
-        "count": 1
-      },
-      "Council": {
-        "count": 1
-      },
-      "Payette/Weiser": {
-        "count": 1
-      },
-      "Coeur D'Alene": {
-        "count": 1
-      },
-      "Moscow": {
-        "count": 3
-      },
-      "Saint Maries": {
-        "count": 1
-      },
-      "Homedale": {
-        "count": 1
-      },
-      "Coeur d'Alene/Post Falls": {
-        "count": 1
-      },
-      "Montpelier": {
-        "count": 1
-      },
-      "Salmon": {
-        "count": 1
-      },
-      "Donnelly": {
-        "count": 1
-      },
-      "Kootenai (10 miles north}": {
-        "count": 1
-      },
-      "Burley": {
-        "count": 1
-      },
-      "Fairview": {
-        "count": 1
-      },
-      "Weippe": {
-        "count": 1
-      },
-      "Driggs": {
-        "count": 1
-      },
-      "Hayden": {
-        "count": 1
-      },
-      "Ammon": {
-        "count": 1
-      },
-      "Worley": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Pasadena",
+    "state": "CA",
+    "count": 7
   },
-  "HI": {
-    "cities": {
-      "Waimea": {
-        "count": 2
-      },
-      "Hana": {
-        "count": 2
-      },
-      "Waikoloa": {
-        "count": 1
-      },
-      "Waianae": {
-        "count": 2
-      },
-      "Pearl Harbor": {
-        "count": 1
-      },
-      "Nanakuli": {
-        "count": 1
-      },
-      "Kapaa": {
-        "count": 4
-      },
-      "Kealakekua": {
-        "count": 1
-      },
-      "Honolulu": {
-        "count": 18
-      },
-      "Waimea Canyon": {
-        "count": 1
-      },
-      "Mokuliea": {
-        "count": 1
-      },
-      "Kailua": {
-        "count": 3
-      },
-      "Kahana": {
-        "count": 1
-      },
-      "Waipio": {
-        "count": 1
-      },
-      "Lahaina": {
-        "count": 2
-      },
-      "Napili": {
-        "count": 1
-      },
-      "Maui (in-flight; off coast of)": {
-        "count": 1
-      },
-      "Kaunakakai": {
-        "count": 3
-      },
-      "Kaimuki": {
-        "count": 1
-      },
-      "Pearl City": {
-        "count": 1
-      },
-      "Haleiwa": {
-        "count": 1
-      },
-      "Kihei": {
-        "count": 3
-      },
-      "Kawaihae": {
-        "count": 1
-      },
-      "Kalaheo": {
-        "count": 1
-      },
-      "Wheeler AAF": {
-        "count": 1
-      },
-      "Naalehu": {
-        "count": 1
-      },
-      "Keaau": {
-        "count": 3
-      },
-      "North Shore": {
-        "count": 1
-      },
-      "Manoa Hills": {
-        "count": 1
-      },
-      "Aiea": {
-        "count": 1
-      },
-      "Lanai": {
-        "count": 1
-      },
-      "Koloa": {
-        "count": 1
-      },
-      "Schofield Barracks": {
-        "count": 1
-      },
-      "Hilo": {
-        "count": 3
-      },
-      "Ocean View": {
-        "count": 2
-      },
-      "Oahu": {
-        "count": 1
-      },
-      "Molokai (above)": {
-        "count": 1
-      },
-      "Wahiawa": {
-        "count": 1
-      },
-      "Wailua": {
-        "count": 1
-      },
-      "Kailua Kona": {
-        "count": 1
-      },
-      "Wailuku": {
-        "count": 1
-      },
-      "Waimanalo": {
-        "count": 1
-      },
-      "Kailua (Kona)": {
-        "count": 1
-      },
-      "Hakalau": {
-        "count": 1
-      },
-      "Kapahi": {
-        "count": 1
-      },
-      "Haleakala / Kahului": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Tanana",
+    "state": "AK",
+    "count": 1
   },
-  "WY": {
-    "cities": {
-      "Cheyenne": {
-        "count": 6
-      },
-      "Laramie (Harmony Lane)": {
-        "count": 1
-      },
-      "Lusk": {
-        "count": 1
-      },
-      "Shoshoni (outside of; towards Riverton)": {
-        "count": 1
-      },
-      "Powell": {
-        "count": 1
-      },
-      "Cody and Wapiti (between)": {
-        "count": 1
-      },
-      "Douglas": {
-        "count": 1
-      },
-      "Casper": {
-        "count": 5
-      },
-      "Buffalo": {
-        "count": 2
-      },
-      "Cody": {
-        "count": 7
-      },
-      "Pinedale": {
-        "count": 1
-      },
-      "Buford": {
-        "count": 3
-      },
-      "Elk Mountain": {
-        "count": 1
-      },
-      "Riverton (outside of)": {
-        "count": 1
-      },
-      "Rawlins": {
-        "count": 1
-      },
-      "Lovell": {
-        "count": 1
-      },
-      "Glenrock": {
-        "count": 1
-      },
-      "Recluse": {
-        "count": 1
-      },
-      "Gillette": {
-        "count": 1
-      },
-      "Saratoga": {
-        "count": 1
-      },
-      "Sheridan": {
-        "count": 4
-      },
-      "Veduawoo": {
-        "count": 1
-      },
-      "Thermopolis": {
-        "count": 1
-      },
-      "Rock Springs": {
-        "count": 1
-      },
-      "Torrington": {
-        "count": 4
-      },
-      "Evanston": {
-        "count": 2
-      },
-      "Beloit": {
-        "count": 1
-      },
-      "Laramie": {
-        "count": 1
-      },
-      "Chugwater": {
-        "count": 1
-      },
-      "Lander": {
-        "count": 1
-      },
-      "Rozet": {
-        "count": 1
-      },
-      "GreenRiver": {
-        "count": 1
-      },
-      "Ehete": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Chesapeake",
+    "state": "VA",
+    "count": 10
   },
-  "AL": {
-    "cities": {
-      "Huntsville": {
-        "count": 9
-      },
-      "Birmingham": {
-        "count": 10
-      },
-      "Sylacauga (Canada)": {
-        "count": 1
-      },
-      "Dawson": {
-        "count": 1
-      },
-      "Chelsea": {
-        "count": 2
-      },
-      "Madison": {
-        "count": 3
-      },
-      "Tuscaloosa": {
-        "count": 3
-      },
-      "Anniston": {
-        "count": 5
-      },
-      "Enterprise": {
-        "count": 2
-      },
-      "Lanett": {
-        "count": 1
-      },
-      "Alabaster": {
-        "count": 2
-      },
-      "Dora": {
-        "count": 3
-      },
-      "Bay Minnette": {
-        "count": 1
-      },
-      "Gordo": {
-        "count": 1
-      },
-      "Helena": {
-        "count": 1
-      },
-      "Vernon": {
-        "count": 1
-      },
-      "Cold Springs (Bugtussel)": {
-        "count": 1
-      },
-      "Gulf Shores": {
-        "count": 3
-      },
-      "Birmingham (outside Hueytown)": {
-        "count": 1
-      },
-      "Birmingham (NE of)": {
-        "count": 1
-      },
-      "Gardendale": {
-        "count": 1
-      },
-      "Hazel Green": {
-        "count": 1
-      },
-      "Hamilton": {
-        "count": 2
-      },
-      "Auburn": {
-        "count": 5
-      },
-      "Montgomery": {
-        "count": 4
-      },
-      "Warrior": {
-        "count": 1
-      },
-      "Newton": {
-        "count": 2
-      },
-      "Jasper": {
-        "count": 1
-      },
-      "Eastaboga": {
-        "count": 1
-      },
-      "Dothan": {
-        "count": 8
-      },
-      "Grant": {
-        "count": 1
-      },
-      "Lapine": {
-        "count": 1
-      },
-      "Altoona": {
-        "count": 1
-      },
-      "Sand Rock": {
-        "count": 1
-      },
-      "Boaz": {
-        "count": 1
-      },
-      "Vestavia": {
-        "count": 2
-      },
-      "Wetumpka": {
-        "count": 2
-      },
-      "Maycomb": {
-        "count": 1
-      },
-      "Summerdale": {
-        "count": 1
-      },
-      "Mobile": {
-        "count": 11
-      },
-      "Clio": {
-        "count": 1
-      },
-      "Phenix City": {
-        "count": 5
-      },
-      "Hartselle": {
-        "count": 1
-      },
-      "New Brockton": {
-        "count": 1
-      },
-      "Ozark": {
-        "count": 1
-      },
-      "Phil Campbell": {
-        "count": 1
-      },
-      "Cullman": {
-        "count": 2
-      },
-      "Odenville": {
-        "count": 1
-      },
-      "Foley": {
-        "count": 1
-      },
-      "Florence": {
-        "count": 8
-      },
-      "Athens": {
-        "count": 2
-      },
-      "Hanceville": {
-        "count": 1
-      },
-      "Toney": {
-        "count": 1
-      },
-      "Ashville": {
-        "count": 1
-      },
-      "Atmore": {
-        "count": 1
-      },
-      "Daphne": {
-        "count": 1
-      },
-      "Spanish Fort": {
-        "count": 2
-      },
-      "Chunchula": {
-        "count": 1
-      },
-      "Oxford": {
-        "count": 2
-      },
-      "Tanner": {
-        "count": 1
-      },
-      "Lisman": {
-        "count": 2
-      },
-      "Hoover": {
-        "count": 3
-      },
-      "Decatur": {
-        "count": 1
-      },
-      "Tirana (Albania)": {
-        "count": 1
-      },
-      "Pelham": {
-        "count": 1
-      },
-      "Clements": {
-        "count": 1
-      },
-      "West Mobile": {
-        "count": 1
-      },
-      "Montevallo": {
-        "count": 1
-      },
-      "Clanton": {
-        "count": 1
-      },
-      "Phenix city": {
-        "count": 2
-      },
-      "Gadsden": {
-        "count": 1
-      },
-      "Southwest UK (UK/England)": {
-        "count": 1
-      },
-      "Harpersville": {
-        "count": 1
-      },
-      "Dothan (general area)": {
-        "count": 1
-      },
-      "Vance": {
-        "count": 1
-      },
-      "Hollywood": {
-        "count": 1
-      },
-      "Red Hill": {
-        "count": 1
-      },
-      "Eastaboba": {
-        "count": 1
-      },
-      "Fort Payne": {
-        "count": 1
-      },
-      "Vandiver": {
-        "count": 1
-      },
-      "Rogersville": {
-        "count": 1
-      },
-      "Centre": {
-        "count": 1
-      },
-      "Wicksburg": {
-        "count": 1
-      },
-      "Stapleton": {
-        "count": 1
-      },
-      "Crane Hill": {
-        "count": 1
-      },
-      "Valley": {
-        "count": 2
-      },
-      "Waverly": {
-        "count": 1
-      },
-      "Thorsby": {
-        "count": 1
-      },
-      "Jones": {
-        "count": 1
-      },
-      "Littleville": {
-        "count": 1
-      },
-      "Tuscumbia": {
-        "count": 3
-      },
-      "Nanafalia": {
-        "count": 1
-      },
-      "Woodland": {
-        "count": 1
-      },
-      "Kentucky": {
-        "count": 1
-      },
-      "Gulf shores": {
-        "count": 1
-      },
-      "Hartford": {
-        "count": 1
-      },
-      "Homewood": {
-        "count": 1
-      },
-      "Fairhope": {
-        "count": 1
-      },
-      "Elberta": {
-        "count": 1
-      },
-      "Huntsville (Owens Cross Roads)": {
-        "count": 1
-      },
-      "Ahmadi (Kuwait)": {
-        "count": 1
-      },
-      "Leeds": {
-        "count": 1
-      },
-      "Salem": {
-        "count": 1
-      },
-      "Harvest": {
-        "count": 1
-      },
-      "Orange Beach": {
-        "count": 1
-      },
-      "Semmes": {
-        "count": 1
-      },
-      "Florala": {
-        "count": 1
-      },
-      "Trussville": {
-        "count": 2
-      },
-      "Ranburne": {
-        "count": 1
-      },
-      "Shelby (Lay Lake)": {
-        "count": 1
-      },
-      "Attalla": {
-        "count": 1
-      },
-      "Rockford": {
-        "count": 1
-      },
-      "Albertville": {
-        "count": 1
-      },
-      "Columbia": {
-        "count": 1
-      },
-      "Greendale": {
-        "count": 1
-      },
-      "Robertsdale": {
-        "count": 1
-      },
-      "Muscadine": {
-        "count": 1
-      },
-      "Andalusia": {
-        "count": 1
-      },
-      "Somerville": {
-        "count": 1
-      },
-      "Panama City": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Millis",
+    "state": "MA",
+    "count": 1
   },
-  "DC": {
-    "cities": {
-      "Washington": {
-        "count": 2
-      },
-      "Washington, DC": {
-        "count": 2
-      },
-      "Washington, D.C.": {
-        "count": 6
-      },
-      "Washington, D.C. (above I-295 bridge)": {
-        "count": 1
-      },
-      "Wilmington": {
-        "count": 1
-      },
-      "Rehoboth Beach": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Kandiyohi",
+    "state": "MN",
+    "count": 1
   },
-  "NS": {
-    "cities": {
-      "Smiths Cove (Canada)": {
-        "count": 1
-      },
-      "Sydney (Canada)": {
-        "count": 3
-      },
-      "Truro (Canada)": {
-        "count": 3
-      },
-      "Yarmouth (Nova Scotia)(Canada)": {
-        "count": 1
-      },
-      "Dartmouth (Canada)": {
-        "count": 4
-      },
-      "Truro (Nova Scotia)(Canada)": {
-        "count": 1
-      },
-      "Glace Bay (Canada)": {
-        "count": 1
-      },
-      "Sydney (Australia)": {
-        "count": 1
-      },
-      "Yarmouth (Canada)": {
-        "count": 1
-      },
-      "New Waterford (Canada)": {
-        "count": 1
-      },
-      "Windsor (Canada)": {
-        "count": 1
-      },
-      "Musquodoboit Harbor (Canada)": {
-        "count": 1
-      },
-      "Halifax (Canada)": {
-        "count": 3
-      },
-      "Parma (Canada)": {
-        "count": 1
-      },
-      "Pictou Landing (Canada)": {
-        "count": 1
-      },
-      "River Denys (Canada)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Dayton",
+    "state": "TX",
+    "count": 3
   },
-  "DE": {
-    "cities": {
-      "Newark": {
-        "count": 6
-      },
-      "Anderson's Corner": {
-        "count": 1
-      },
-      "Selbyville": {
-        "count": 3
-      },
-      "Rehoboth Beach": {
-        "count": 3
-      },
-      "Claymont": {
-        "count": 1
-      },
-      "Hockessin": {
-        "count": 2
-      },
-      "South Dewey Beach": {
-        "count": 1
-      },
-      "Georgetown": {
-        "count": 1
-      },
-      "Bear": {
-        "count": 6
-      },
-      "Wilmington": {
-        "count": 11
-      },
-      "Millsboro": {
-        "count": 4
-      },
-      "Dover": {
-        "count": 3
-      },
-      "Milford": {
-        "count": 3
-      },
-      "Newcastle": {
-        "count": 3
-      },
-      "Delmar": {
-        "count": 2
-      },
-      "Middletown": {
-        "count": 3
-      },
-      "Bethany Beach": {
-        "count": 3
-      },
-      "Frederica": {
-        "count": 1
-      },
-      "Laurel": {
-        "count": 2
-      },
-      "Pike Creek": {
-        "count": 4
-      },
-      "Harrington": {
-        "count": 1
-      },
-      "Elsmere": {
-        "count": 2
-      },
-      "Lewes": {
-        "count": 1
-      },
-      "Bethany (Route 1)": {
-        "count": 1
-      },
-      "Felton": {
-        "count": 1
-      },
-      "North Star": {
-        "count": 1
-      },
-      "New Castle": {
-        "count": 1
-      },
-      "Deerfield": {
-        "count": 1
-      },
-      "Smyrna": {
-        "count": 1
-      },
-      "Stanton": {
-        "count": 1
-      },
-      "Tallahassee": {
-        "count": 1
-      },
-      "Hartly": {
-        "count": 1
-      },
-      "Townsend": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "count": 4
   },
-  "IN": {
-    "cities": {
-      "Valparaiso": {
-        "count": 5
-      },
-      "Jasper": {
-        "count": 2
-      },
-      "Fort Wayne": {
-        "count": 17
-      },
-      "Bloomington": {
-        "count": 3
-      },
-      "Crown Point": {
-        "count": 5
-      },
-      "Indianapolis": {
-        "count": 32
-      },
-      "Logansport": {
-        "count": 1
-      },
-      "Lafayette": {
-        "count": 2
-      },
-      "Veedersburg": {
-        "count": 1
-      },
-      "Farmland": {
-        "count": 1
-      },
-      "Greenwood": {
-        "count": 5
-      },
-      "Jeffersonville": {
-        "count": 3
-      },
-      "Southport": {
-        "count": 2
-      },
-      "Zionsville": {
-        "count": 1
-      },
-      "South Bend": {
-        "count": 11
-      },
-      "Evansville": {
-        "count": 10
-      },
-      "Rosston": {
-        "count": 1
-      },
-      "Ellettsville": {
-        "count": 1
-      },
-      "Kokomo": {
-        "count": 4
-      },
-      "Arlington": {
-        "count": 1
-      },
-      "\n": {
-        "count": 1
-      },
-      "Knox": {
-        "count": 2
-      },
-      "Brownsburg": {
-        "count": 2
-      },
-      "Muncie": {
-        "count": 3
-      },
-      "Shelbyville": {
-        "count": 4
-      },
-      "New Salisbury": {
-        "count": 1
-      },
-      "Amboy": {
-        "count": 1
-      },
-      "Carbondale": {
-        "count": 1
-      },
-      "Vincennes": {
-        "count": 3
-      },
-      "Walton": {
-        "count": 1
-      },
-      "Demotte": {
-        "count": 2
-      },
-      "Goshen": {
-        "count": 3
-      },
-      "Lynn": {
-        "count": 1
-      },
-      "Seymour": {
-        "count": 2
-      },
-      "Monticello": {
-        "count": 1
-      },
-      "Fishers": {
-        "count": 4
-      },
-      "Alexandria": {
-        "count": 2
-      },
-      "Princeton": {
-        "count": 1
-      },
-      "Mt. Summit": {
-        "count": 1
-      },
-      "Osceola": {
-        "count": 2
-      },
-      "Liberty": {
-        "count": 1
-      },
-      "Boone Grove": {
-        "count": 1
-      },
-      "Bedford": {
-        "count": 1
-      },
-      "Selma": {
-        "count": 1
-      },
-      "Portage": {
-        "count": 3
-      },
-      "Rolling Prairie": {
-        "count": 1
-      },
-      "McCordsville": {
-        "count": 1
-      },
-      "Greenfield": {
-        "count": 4
-      },
-      "Albion": {
-        "count": 1
-      },
-      "North Vernon": {
-        "count": 1
-      },
-      "Whiting": {
-        "count": 2
-      },
-      "Madurai (India)": {
-        "count": 1
-      },
-      "Danville": {
-        "count": 1
-      },
-      "Aurora": {
-        "count": 2
-      },
-      "Westport": {
-        "count": 1
-      },
-      "Gary": {
-        "count": 1
-      },
-      "Terre Haute": {
-        "count": 6
-      },
-      "Greensburg": {
-        "count": 2
-      },
-      "Michigan City": {
-        "count": 3
-      },
-      "Angola": {
-        "count": 1
-      },
-      "Peru": {
-        "count": 1
-      },
-      "Anderson": {
-        "count": 2
-      },
-      "Lapel": {
-        "count": 1
-      },
-      "Between Wabash and Marion onq5": {
-        "count": 1
-      },
-      "Jasper I": {
-        "count": 1
-      },
-      "Chesterton": {
-        "count": 1
-      },
-      "Parker City": {
-        "count": 1
-      },
-      "Schererville": {
-        "count": 1
-      },
-      "Chicago (Lake Shafer)": {
-        "count": 1
-      },
-      "Newburgh": {
-        "count": 2
-      },
-      "Nappannee": {
-        "count": 1
-      },
-      "Lowell": {
-        "count": 1
-      },
-      "Mishawaka": {
-        "count": 2
-      },
-      "Hobart": {
-        "count": 2
-      },
-      "Noblesville": {
-        "count": 3
-      },
-      "Earl Park": {
-        "count": 1
-      },
-      "Nineveh": {
-        "count": 1
-      },
-      "Corydon": {
-        "count": 1
-      },
-      "Highland": {
-        "count": 1
-      },
-      "Newburg": {
-        "count": 1
-      },
-      "Camby/Indianapolis": {
-        "count": 1
-      },
-      "Marion": {
-        "count": 2
-      },
-      "Indianapolis/Fishers": {
-        "count": 1
-      },
-      "New Albany": {
-        "count": 1
-      },
-      "Cambridge City": {
-        "count": 1
-      },
-      "Elkhart": {
-        "count": 3
-      },
-      "Austin": {
-        "count": 1
-      },
-      "San Pierre": {
-        "count": 1
-      },
-      "Fairland": {
-        "count": 1
-      },
-      "Stockwell": {
-        "count": 1
-      },
-      "West Lafayette": {
-        "count": 1
-      },
-      "Munster": {
-        "count": 1
-      },
-      "Huntertown": {
-        "count": 1
-      },
-      "North Judson": {
-        "count": 1
-      },
-      "Morristown": {
-        "count": 1
-      },
-      "Ft. Wayne": {
-        "count": 1
-      },
-      "Columbia City": {
-        "count": 1
-      },
-      "Gas City": {
-        "count": 1
-      },
-      "Montpelier": {
-        "count": 1
-      },
-      "LaPorte": {
-        "count": 1
-      },
-      "Urbana": {
-        "count": 1
-      },
-      "Franklin": {
-        "count": 1
-      },
-      "South Whitley": {
-        "count": 1
-      },
-      "Indianapolis (northwest part)": {
-        "count": 1
-      },
-      "New Palestine": {
-        "count": 1
-      },
-      "Columbus": {
-        "count": 1
-      },
-      "Hammond": {
-        "count": 1
-      },
-      "Lawrence (E of Indianaplis)": {
-        "count": 1
-      },
-      "Belleville": {
-        "count": 1
-      },
-      "Middletown": {
-        "count": 2
-      },
-      "I-65 (Mile Marker 250)": {
-        "count": 1
-      },
-      "Kouts": {
-        "count": 1
-      },
-      "Churubuaco": {
-        "count": 1
-      },
-      "Mooresville": {
-        "count": 1
-      },
-      "Merriville": {
-        "count": 1
-      },
-      "Carmel": {
-        "count": 1
-      },
-      "Muncie/Warren (near; Exit 278 on I-69)": {
-        "count": 1
-      },
-      "Fort Wayne (outside of)": {
-        "count": 1
-      },
-      "Butler": {
-        "count": 1
-      },
-      "Gary (headed towards Chicago, Illinois)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Manteca",
+    "state": "CA",
+    "count": 5
   },
-  "AB": {
-    "cities": {
-      "Edmonton (Canada)": {
-        "count": 28
-      },
-      "Lacombe (Canada)": {
-        "count": 2
-      },
-      "Athabasca (Canada)": {
-        "count": 2
-      },
-      "St. Albert (Canada)": {
-        "count": 2
-      },
-      "Wetaskiwin (Canada)": {
-        "count": 3
-      },
-      "Edmonton": {
-        "count": 2
-      },
-      "Banff (Canada)": {
-        "count": 2
-      },
-      "Calgary (Canada)": {
-        "count": 14
-      },
-      "Jarvie (Canada)": {
-        "count": 1
-      },
-      "Barrhead (Canada)": {
-        "count": 1
-      },
-      "Airdrie (Canada)": {
-        "count": 1
-      },
-      "Lethbridge (Canada)": {
-        "count": 3
-      },
-      "Redwater (Canada)": {
-        "count": 1
-      },
-      "Canmore (Canada)": {
-        "count": 1
-      },
-      "Exshaw (Canada)": {
-        "count": 1
-      },
-      "Leduc (Canada)": {
-        "count": 1
-      },
-      "Calmar (Canada)": {
-        "count": 1
-      },
-      "Strathmore (Canada)": {
-        "count": 1
-      },
-      "Lloydminster (Canada)": {
-        "count": 1
-      },
-      "Spring Lake (Canada)": {
-        "count": 1
-      },
-      "Grande Prairie (Canada)": {
-        "count": 7
-      },
-      "Strathmore area": {
-        "count": 1
-      },
-      "Sundre (Canada)": {
-        "count": 1
-      },
-      "Jasper (Canada)": {
-        "count": 1
-      },
-      "Alberta Beach": {
-        "count": 1
-      },
-      "Innisfree (Canada)": {
-        "count": 1
-      },
-      "Caroline (Canada)": {
-        "count": 1
-      },
-      "Grande Prairie (Cutbank Bridge Campground)(Canada)": {
-        "count": 1
-      },
-      "Camrose (Canada)": {
-        "count": 2
-      },
-      "Ashmont (Canada)": {
-        "count": 1
-      },
-      "Fort McMurray (Canada)": {
-        "count": 1
-      },
-      "Sherwood Park (Canada)": {
-        "count": 1
-      },
-      "Whitecourt (Canada)": {
-        "count": 2
-      },
-      "Alberta (rural)": {
-        "count": 1
-      },
-      "Edson (Canada)": {
-        "count": 2
-      },
-      "High Prairie (Canada)": {
-        "count": 1
-      },
-      "Edmonton, AB (Canada)": {
-        "count": 1
-      },
-      "Cochrane (Canada)": {
-        "count": 2
-      },
-      "Mayerthorpe (Canada)": {
-        "count": 1
-      },
-      "Hwy 63 (northbound)(Canada)": {
-        "count": 1
-      },
-      "Olds (Canada)": {
-        "count": 2
-      },
-      "Bow Island (Canada)": {
-        "count": 1
-      },
-      "Two Hills": {
-        "count": 1
-      },
-      "Drayton Valley (Canada)": {
-        "count": 1
-      },
-      "Ponoka (Canada)": {
-        "count": 2
-      },
-      "Spruce Grove": {
-        "count": 1
-      },
-      "Calgary": {
-        "count": 1
-      },
-      "Medicine Hat (Canada)": {
-        "count": 1
-      },
-      "Beaumont (Canada)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Morristown",
+    "state": "NJ",
+    "count": 2
   },
-  "ND": {
-    "cities": {
-      "Grand Forks": {
-        "count": 3
-      },
-      "Washburn": {
-        "count": 1
-      },
-      "Bismarck": {
-        "count": 6
-      },
-      "Cavalier": {
-        "count": 1
-      },
-      "Fargo": {
-        "count": 4
-      },
-      "Wahpeton": {
-        "count": 1
-      },
-      "Ruso": {
-        "count": 1
-      },
-      "Lidgerwood": {
-        "count": 2
-      },
-      "Sarles": {
-        "count": 1
-      },
-      "Cary": {
-        "count": 1
-      },
-      "Sentinel Butte": {
-        "count": 1
-      },
-      "Hillsboro": {
-        "count": 1
-      },
-      "Dickinson": {
-        "count": 1
-      },
-      "Surrey": {
-        "count": 1
-      },
-      "Minot": {
-        "count": 2
-      },
-      "Davenport": {
-        "count": 1
-      },
-      "Valley City": {
-        "count": 1
-      },
-      "West Fargo": {
-        "count": 1
-      },
-      "Rugby": {
-        "count": 1
-      },
-      "Newtown": {
-        "count": 1
-      },
-      "Mandan": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Upper Lake",
+    "state": "CA",
+    "count": 1
   },
-  "NE": {
-    "cities": {
-      "Lincoln": {
-        "count": 16
-      },
-      "Dawson": {
-        "count": 1
-      },
-      "Omaha": {
-        "count": 17
-      },
-      "Grand Island": {
-        "count": 2
-      },
-      "Wellfleet": {
-        "count": 1
-      },
-      "La Vista": {
-        "count": 3
-      },
-      "Papillion": {
-        "count": 1
-      },
-      "Kearney": {
-        "count": 1
-      },
-      "Lyons": {
-        "count": 1
-      },
-      "Mitchell": {
-        "count": 1
-      },
-      "Bennington": {
-        "count": 1
-      },
-      "Gretna": {
-        "count": 2
-      },
-      "York": {
-        "count": 3
-      },
-      "Ashland": {
-        "count": 3
-      },
-      "Raymond": {
-        "count": 1
-      },
-      "Central City": {
-        "count": 2
-      },
-      "Pawnee County (location unspecified)": {
-        "count": 1
-      },
-      "Bellevue": {
-        "count": 2
-      },
-      "Elkhorn": {
-        "count": 1
-      },
-      "Ogallala": {
-        "count": 1
-      },
-      "Galloway": {
-        "count": 1
-      },
-      "Fremont": {
-        "count": 1
-      },
-      "Lincoln/Omaha (between)": {
-        "count": 1
-      },
-      "Lemoyne": {
-        "count": 1
-      },
-      "La Junta": {
-        "count": 1
-      },
-      "Auburn": {
-        "count": 1
-      },
-      "Lexington": {
-        "count": 1
-      },
-      "Richlands": {
-        "count": 1
-      },
-      "Norfolk": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Commack",
+    "state": "NY",
+    "count": 2
   },
-  "SD": {
-    "cities": {
-      "Sioux Falls": {
-        "count": 23
-      },
-      "Belle Fourche": {
-        "count": 1
-      },
-      "Oglala": {
-        "count": 1
-      },
-      "Mission": {
-        "count": 1
-      },
-      "Pierre": {
-        "count": 1
-      },
-      "Howard": {
-        "count": 1
-      },
-      "Clear Lake": {
-        "count": 1
-      },
-      "Hartford": {
-        "count": 1
-      },
-      "Alcester": {
-        "count": 2
-      },
-      "Brandon": {
-        "count": 1
-      },
-      "Aberdeen": {
-        "count": 2
-      },
-      "Hot Springs": {
-        "count": 1
-      },
-      "Spearfish": {
-        "count": 1
-      },
-      "Chester": {
-        "count": 1
-      },
-      "Madison": {
-        "count": 1
-      },
-      "North Sioux City": {
-        "count": 1
-      },
-      "Dell Rapids": {
-        "count": 2
-      },
-      "Tea": {
-        "count": 1
-      },
-      "Jefferson": {
-        "count": 1
-      },
-      "Brookings": {
-        "count": 2
-      },
-      "Box Elder": {
-        "count": 1
-      },
-      "Rapid City": {
-        "count": 4
-      },
-      "Crooks": {
-        "count": 1
-      },
-      "Roberts County": {
-        "count": 1
-      },
-      "Wakpala": {
-        "count": 1
-      },
-      "Sioux Falls (at UT 33 and Southeastern)": {
-        "count": 1
-      },
-      "Egan": {
-        "count": 1
-      },
-      "Sisseton": {
-        "count": 1
-      },
-      "Huron": {
-        "count": 2
-      }
-    }
+  {
+    "city": "Somerville",
+    "state": "NJ",
+    "count": 2
   },
-  "BC": {
-    "cities": {
-      "Langely (Canada)": {
-        "count": 1
-      },
-      "Port Coquitlam (Canada)": {
-        "count": 2
-      },
-      "Vancouver (Canada)": {
-        "count": 8
-      },
-      "Victoria (Canada)": {
-        "count": 9
-      },
-      "Coquitlam (Canada)": {
-        "count": 1
-      },
-      "Kamloops (Canada)": {
-        "count": 6
-      },
-      "Fernie (Canada)": {
-        "count": 1
-      },
-      "Gibsons (Canada)": {
-        "count": 1
-      },
-      "Mission (Canada)": {
-        "count": 1
-      },
-      "Abbotsford (Canada)": {
-        "count": 1
-      },
-      "Courtenay (Canada)": {
-        "count": 1
-      },
-      "Maple Ridge (Canada)": {
-        "count": 5
-      },
-      "Inside Passage (Canada)": {
-        "count": 1
-      },
-      "Nanaimo (Canada)": {
-        "count": 6
-      },
-      "Sooke (Canada)": {
-        "count": 3
-      },
-      "Mojave (Canada)": {
-        "count": 1
-      },
-      "West Kelowna (Canada)": {
-        "count": 1
-      },
-      "Richmond (Canada)": {
-        "count": 1
-      },
-      "Bowen Island (Canada)": {
-        "count": 2
-      },
-      "White Rock (Canada)": {
-        "count": 1
-      },
-      "Fort Fraiser/Vanderhoof": {
-        "count": 1
-      },
-      "Cracroft Island (Canada)": {
-        "count": 1
-      },
-      "Port Clements (Canada)": {
-        "count": 1
-      },
-      "Langley (Canada)": {
-        "count": 2
-      },
-      "Prince Rupert (Canada)": {
-        "count": 1
-      },
-      "Burnaby (Canada)": {
-        "count": 1
-      },
-      "Parksville/Nanaimo (Canada)": {
-        "count": 1
-      },
-      "Squamish (Canada)": {
-        "count": 1
-      },
-      "Milner (Canada)": {
-        "count": 1
-      },
-      "Canada (west coast; Alaskan cruise)": {
-        "count": 1
-      },
-      "Surrey/Burnaby (Canada)": {
-        "count": 1
-      },
-      "Walnut Grove (Canada)": {
-        "count": 1
-      },
-      "Newport Beach": {
-        "count": 1
-      },
-      "Bowser (Canada)": {
-        "count": 1
-      },
-      "Victoria (above)(Canada)": {
-        "count": 1
-      },
-      "Delta/Tsawwassen (Canada)": {
-        "count": 1
-      },
-      "North Vancouver (Canada)": {
-        "count": 2
-      },
-      "North Vancouver": {
-        "count": 1
-      },
-      "Fort St. John (Canada)": {
-        "count": 1
-      },
-      "Kimberley (Canada)": {
-        "count": 1
-      },
-      "Whiskey Creek/Parksville (Canada)": {
-        "count": 2
-      },
-      "Kitimat": {
-        "count": 1
-      },
-      "Cranbrook (Canada)": {
-        "count": 1
-      },
-      "Kelowna (Canada)": {
-        "count": 2
-      },
-      "Creston (Canada)": {
-        "count": 1
-      },
-      "Deep Cove (North Vancouver)(Canada)": {
-        "count": 1
-      },
-      "Salmon Arm": {
-        "count": 1
-      },
-      "Westbank (Canada)": {
-        "count": 1
-      },
-      "Parksville": {
-        "count": 1
-      },
-      "Chilliwack (Canada)": {
-        "count": 1
-      },
-      "Langley": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Tinton Falls",
+    "state": "NJ",
+    "count": 3
   },
-  "MB": {
-    "cities": {
-      "Highway 60 (Canada)": {
-        "count": 1
-      },
-      "Dominion City (North of)(Canada)": {
-        "count": 1
-      },
-      "Winnipeg (Canada)": {
-        "count": 8
-      },
-      "Winkler (Canada)": {
-        "count": 1
-      },
-      "Niverville (Canada)": {
-        "count": 1
-      },
-      "Thompson (Canada)": {
-        "count": 5
-      },
-      "Anola (Canada)": {
-        "count": 1
-      },
-      "Selkirk (north of)(Canada)": {
-        "count": 1
-      },
-      "Gimli (Canada)": {
-        "count": 2
-      },
-      "Lorette (Canada)": {
-        "count": 1
-      },
-      "Portage la Prairie (Canada)": {
-        "count": 1
-      },
-      "St. Fracois Xavier (Canada)": {
-        "count": 1
-      },
-      "Portage La Prairie (N. of)(Canada)": {
-        "count": 1
-      },
-      "Portage La Prairie (Canada)": {
-        "count": 1
-      },
-      "Winnipeg (near)(Canada)": {
-        "count": 1
-      },
-      "Winnipeg (near) (Canada)": {
-        "count": 1
-      },
-      "Jackhead Reserve (Canada)": {
-        "count": 1
-      },
-      "Gardenton (Canada)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Canaan",
+    "state": "NH",
+    "count": 3
   },
-  "NF": {
-    "cities": {
-      "La Manche (Canada)": {
-        "count": 1
-      },
-      "Glenwood (Canada)": {
-        "count": 1
-      },
-      "St. John's (Canada)": {
-        "count": 1
-      },
-      "North River (Canada)": {
-        "count": 1
-      },
-      "Conception Bay South (Canada)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Oakland (Canada)",
+    "state": "NB",
+    "count": 1
   },
-  "SK": {
-    "cities": {
-      "Moose Jaw (Canada)": {
-        "count": 1
-      },
-      "Prince Albert (Canada)": {
-        "count": 1
-      },
-      "Regina (Canada)": {
-        "count": 4
-      },
-      "Prince Albert": {
-        "count": 2
-      },
-      "La Ronge (Canada)": {
-        "count": 1
-      },
-      "Saskatoon (Canada)": {
-        "count": 7
-      },
-      "Moosomin (Canada)": {
-        "count": 1
-      },
-      "Air Ronge (Canada)": {
-        "count": 1
-      },
-      "Phalaborwa (South Africa)": {
-        "count": 1
-      },
-      "Rhien (Canada)": {
-        "count": 1
-      },
-      "Saskatchewan (rural) (Canada)": {
-        "count": 1
-      },
-      "Gull Lake (Canada)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "count": 97
   },
-  "QC": {
-    "cities": {
-      "Montreal (Canada)": {
-        "count": 6
-      },
-      "Québec City (Canada)": {
-        "count": 1
-      },
-      "Sherbrooke (Canada)": {
-        "count": 2
-      },
-      "Montreal West (Canada)": {
-        "count": 3
-      },
-      "Marieville (Canada)": {
-        "count": 1
-      },
-      "Gatineau (Canada)": {
-        "count": 2
-      },
-      "Lery (Canada)": {
-        "count": 1
-      },
-      "Laval (Canada)": {
-        "count": 1
-      },
-      "Pierrefonds (Canada)": {
-        "count": 1
-      },
-      "Joliette (Canada)": {
-        "count": 1
-      },
-      "Venise en Quebec (Canada)": {
-        "count": 1
-      },
-      "Bromont (Canada)": {
-        "count": 1
-      },
-      "Roxboro (Canada)": {
-        "count": 1
-      },
-      "Gatineau (Aylmer) (Canada)": {
-        "count": 1
-      },
-      "Chateauguay (Canada)": {
-        "count": 1
-      },
-      "Ste-Brigitte de Laval (Canada)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "count": 32
   },
-  "YT": {
-    "cities": {
-      "Watson Lake (Canada)": {
-        "count": 1
-      },
-      "Melbourne (Australia)": {
-        "count": 1
-      },
-      "Whitehorse (Canada)": {
-        "count": 1
-      },
-      "Mayo (Canada)": {
-        "count": 1
-      },
-      "Dorset (UK/England)": {
-        "count": 1
-      },
-      "Teslin (Canada)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Fayetteville",
+    "state": "NC",
+    "count": 20
   },
-  "NT": {
-    "cities": {
-      "Wigan (UK/England)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Albuquerque",
+    "state": "NM",
+    "count": 66
   },
-  "PE": {
-    "cities": {
-      "Montague (Canada)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Fife",
+    "state": "WA",
+    "count": 3
   },
-  "SA": {
-    "cities": {
-      "Adelaide (Australia)": {
-        "count": 1
-      }
-    }
+  {
+    "city": "Ballanger County line",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Robertsdale",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Greensboro",
+    "state": "NC",
+    "count": 22
+  },
+  {
+    "city": "Kansas City",
+    "state": "KS",
+    "count": 9
+  },
+  {
+    "city": "Warwick",
+    "state": "RI",
+    "count": 9
+  },
+  {
+    "city": "Port St. Lucie",
+    "state": "FL",
+    "count": 15
+  },
+  {
+    "city": "Poinciana",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Loveland",
+    "state": "CO",
+    "count": 10
+  },
+  {
+    "city": "Longmont",
+    "state": "CO",
+    "count": 19
+  },
+  {
+    "city": "Underwood",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Capon Springs",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Logan",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Rocksprings",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Sand Springs",
+    "state": "OK",
+    "count": 5
+  },
+  {
+    "city": "Batavia",
+    "state": "OH",
+    "count": 4
+  },
+  {
+    "city": "Lyman",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Brookshire",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Chapin",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Cumming",
+    "state": "GA",
+    "count": 13
+  },
+  {
+    "city": "Milliken",
+    "state": "CO",
+    "count": 3
+  },
+  {
+    "city": "Lancaster",
+    "state": "PA",
+    "count": 5
+  },
+  {
+    "city": "Woodinville",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Fredrick",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Hampshire",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Williamston",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Milwaukie",
+    "state": "OR",
+    "count": 7
+  },
+  {
+    "city": "Alamosa",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Appointee Falls",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Maricopa",
+    "state": "AZ",
+    "count": 13
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "count": 29
+  },
+  {
+    "city": "Farmington",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Strafford",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "De Pere",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Bakersfield",
+    "state": "CA",
+    "count": 17
+  },
+  {
+    "city": "Eugene",
+    "state": "OR",
+    "count": 32
+  },
+  {
+    "city": "Blaine",
+    "state": "MN",
+    "count": 7
+  },
+  {
+    "city": "San Jose",
+    "state": "CA",
+    "count": 39
+  },
+  {
+    "city": "Santa Clarita",
+    "state": "CA",
+    "count": 10
+  },
+  {
+    "city": "Harleysville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Kirkland",
+    "state": "WA",
+    "count": 5
+  },
+  {
+    "city": "Sparta",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Fayetteville",
+    "state": "AR",
+    "count": 8
+  },
+  {
+    "city": "Brown Deer",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Colorado City",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Brandenburg",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Gaffney",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Richmond",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Rosamond",
+    "state": "CA",
+    "count": 8
+  },
+  {
+    "city": "Olive Branch",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "count": 65
+  },
+  {
+    "city": "Morristown",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Sylmar",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Bozeman",
+    "state": "MT",
+    "count": 11
+  },
+  {
+    "city": "Lowell",
+    "state": "MA",
+    "count": 9
+  },
+  {
+    "city": "Moss Beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Brodnax",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Fraser",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Eureka",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Burlington",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Orlando",
+    "state": "FL",
+    "count": 58
+  },
+  {
+    "city": "Fort Myers",
+    "state": "FL",
+    "count": 12
+  },
+  {
+    "city": "Port Charlotte",
+    "state": "FL",
+    "count": 12
+  },
+  {
+    "city": "Toledo",
+    "state": "OH",
+    "count": 14
+  },
+  {
+    "city": "Mooresville",
+    "state": "NC",
+    "count": 7
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "count": 39
+  },
+  {
+    "city": "Meriden",
+    "state": "CT",
+    "count": 5
+  },
+  {
+    "city": "Arvin",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Stanwood",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Centralia",
+    "state": "WA",
+    "count": 5
+  },
+  {
+    "city": "West Melbourne",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Richland",
+    "state": "WA",
+    "count": 10
+  },
+  {
+    "city": "Oshawa (Canada)",
+    "state": "ON",
+    "count": 11
+  },
+  {
+    "city": "Spokane Valley",
+    "state": "WA",
+    "count": 9
+  },
+  {
+    "city": "North Miami Beach",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Riverbank",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Mesa",
+    "state": "AZ",
+    "count": 46
+  },
+  {
+    "city": "Jupiter",
+    "state": "FL",
+    "count": 7
+  },
+  {
+    "city": "Sarasota",
+    "state": "FL",
+    "count": 18
+  },
+  {
+    "city": "Davenport",
+    "state": "FL",
+    "count": 11
+  },
+  {
+    "city": "Windham",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Fort Bragg",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Gainesville",
+    "state": "GA",
+    "count": 8
+  },
+  {
+    "city": "Janesville",
+    "state": "WI",
+    "count": 8
+  },
+  {
+    "city": "Ephrata",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Palm Bay",
+    "state": "FL",
+    "count": 9
+  },
+  {
+    "city": "Anthem",
+    "state": "AZ",
+    "count": 4
+  },
+  {
+    "city": "Parker",
+    "state": "CO",
+    "count": 8
+  },
+  {
+    "city": "Cedar Springs",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Santa Ana",
+    "state": "CA",
+    "count": 11
+  },
+  {
+    "city": "Liberty Lake",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Sulphur Springs",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Keizer",
+    "state": "OR",
+    "count": 8
+  },
+  {
+    "city": "Eden",
+    "state": "ID",
+    "count": 3
+  },
+  {
+    "city": "Broken Arrow",
+    "state": "OK",
+    "count": 6
+  },
+  {
+    "city": "Morgantown",
+    "state": "WV",
+    "count": 7
+  },
+  {
+    "city": "Stroudsburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Murfreesboro",
+    "state": "TN",
+    "count": 13
+  },
+  {
+    "city": "Ganado",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Waimea",
+    "state": "HI",
+    "count": 2
+  },
+  {
+    "city": "Frostburg",
+    "state": "MD",
+    "count": 3
+  },
+  {
+    "city": "Harrisburg",
+    "state": "PA",
+    "count": 7
+  },
+  {
+    "city": "Brownsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Eagle",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Pilot",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Como",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Concord",
+    "state": "NH",
+    "count": 10
+  },
+  {
+    "city": "Sandy",
+    "state": "UT",
+    "count": 6
+  },
+  {
+    "city": "Shelton",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Colorado Springs",
+    "state": "CO",
+    "count": 53
+  },
+  {
+    "city": "Iselin",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Chesterfiled",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Cheyenne",
+    "state": "WY",
+    "count": 6
+  },
+  {
+    "city": "Stonington",
+    "state": "CT",
+    "count": 3
+  },
+  {
+    "city": "Fleming Island",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Corte Madera-Mt. Tamalpais",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Buffalo",
+    "state": "NY",
+    "count": 18
+  },
+  {
+    "city": "Medford",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Green Bay",
+    "state": "WI",
+    "count": 11
+  },
+  {
+    "city": "Huntsville",
+    "state": "AL",
+    "count": 9
+  },
+  {
+    "city": "Seymour",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Dover",
+    "state": "NH",
+    "count": 11
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "count": 5
+  },
+  {
+    "city": "Utica",
+    "state": "NY",
+    "count": 11
+  },
+  {
+    "city": "West Brattleboro",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Mahomet",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Canton",
+    "state": "GA",
+    "count": 8
+  },
+  {
+    "city": "Edmonds",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Garland",
+    "state": "TX",
+    "count": 6
+  },
+  {
+    "city": "Chandler",
+    "state": "AZ",
+    "count": 33
+  },
+  {
+    "city": "Liverpool",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Taos",
+    "state": "NM",
+    "count": 8
+  },
+  {
+    "city": "Barnesville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Anchorage",
+    "state": "AK",
+    "count": 34
+  },
+  {
+    "city": "Palm Desert",
+    "state": "CA",
+    "count": 12
+  },
+  {
+    "city": "Three Rivers",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Ellenton",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Douglas",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "San Bernardino",
+    "state": "CA",
+    "count": 17
+  },
+  {
+    "city": "Temecula",
+    "state": "CA",
+    "count": 15
+  },
+  {
+    "city": "Discovery Bay",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Encinitas",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "West Suffield",
+    "state": "CT",
+    "count": 5
+  },
+  {
+    "city": "Barre",
+    "state": "VT",
+    "count": 4
+  },
+  {
+    "city": "Flint",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Naples",
+    "state": "FL",
+    "count": 17
+  },
+  {
+    "city": "Darien",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Crossett",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Show Low",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "Okeechobee",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Green Valley",
+    "state": "AZ",
+    "count": 8
+  },
+  {
+    "city": "Tonopah",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Phoenix",
+    "state": "AZ",
+    "count": 126
+  },
+  {
+    "city": "Tucson",
+    "state": "AZ",
+    "count": 71
+  },
+  {
+    "city": "Marana",
+    "state": "AZ",
+    "count": 4
+  },
+  {
+    "city": "Dragoon",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Lake Havasu City",
+    "state": "AZ",
+    "count": 11
+  },
+  {
+    "city": "Snowflake",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Village of Oak Creek",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Moriarty area",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Imperial Beach",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "count": 56
+  },
+  {
+    "city": "Rancho mirage",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "North Hollywood",
+    "state": "CA",
+    "count": 8
+  },
+  {
+    "city": "Woodland hillls",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Santa Monica",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Buena Park",
+    "state": "CA",
+    "count": 8
+  },
+  {
+    "city": "Claremont",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Highland",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Hemet",
+    "state": "CA",
+    "count": 8
+  },
+  {
+    "city": "Pomona",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Huntington Beach",
+    "state": "CA",
+    "count": 18
+  },
+  {
+    "city": "Fallbrook",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Wilmington",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Vista",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Aptos",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Agoura Hills",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Escondido",
+    "state": "CA",
+    "count": 14
+  },
+  {
+    "city": "San Pedro (port of Los Angeles)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Hesperia",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Westminster",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Rancho Bernado",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Murrieta",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "El Cajon",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Palm Springs",
+    "state": "CA",
+    "count": 10
+  },
+  {
+    "city": "Ramona",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Torrance",
+    "state": "CA",
+    "count": 11
+  },
+  {
+    "city": "Hemet and San Jacinto",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Irvine",
+    "state": "CA",
+    "count": 9
+  },
+  {
+    "city": "Seaside",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Santa Margarita",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Dana Point",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "los angeles",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Duncan",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "Baldwin Park",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Aurora",
+    "state": "CO",
+    "count": 27
+  },
+  {
+    "city": "Reno",
+    "state": "NV",
+    "count": 38
+  },
+  {
+    "city": "Southington",
+    "state": "CT",
+    "count": 5
+  },
+  {
+    "city": "Jacksonville",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Little Rock",
+    "state": "AR",
+    "count": 4
+  },
+  {
+    "city": "Pleasanton",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Sacramento",
+    "state": "CA",
+    "count": 47
+  },
+  {
+    "city": "Beaverton",
+    "state": "OR",
+    "count": 17
+  },
+  {
+    "city": "Sciota",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Spring Valley",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "PHONEX",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Ashford",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "count": 2
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "count": 31
+  },
+  {
+    "city": "International waters",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Olympia",
+    "state": "WA",
+    "count": 20
+  },
+  {
+    "city": "Billings",
+    "state": "MT",
+    "count": 25
+  },
+  {
+    "city": "Wilton",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Richmond Hill",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Richmond Hill (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Mount Pleasant",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Berea",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Somerville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Silver Lake",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Vernon",
+    "state": "CT",
+    "count": 3
+  },
+  {
+    "city": "Eden Prairie",
+    "state": "MN",
+    "count": 8
+  },
+  {
+    "city": "Richmond",
+    "state": "KY",
+    "count": 3
+  },
+  {
+    "city": "Smiths Cove (Canada)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Cordova",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Brooklin",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Caithness (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Byron/Salem Corners",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Waterloo",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Newark",
+    "state": "DE",
+    "count": 6
+  },
+  {
+    "city": "Antioch",
+    "state": "TN",
+    "count": 4
+  },
+  {
+    "city": "Somerville",
+    "state": "MA",
+    "count": 5
+  },
+  {
+    "city": "Middle River",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Arlington Heights",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Carmichael",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Lake Orion",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Jersey City",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Valparaiso",
+    "state": "IN",
+    "count": 5
+  },
+  {
+    "city": "Palm Beach Gardens",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Queen Creek",
+    "state": "AZ",
+    "count": 9
+  },
+  {
+    "city": "Concord",
+    "state": "NC",
+    "count": 6
+  },
+  {
+    "city": "Boise",
+    "state": "ID",
+    "count": 58
+  },
+  {
+    "city": "Plymouth",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Belton",
+    "state": "MO",
+    "count": 3
+  },
+  {
+    "city": "Sanford",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Jensen Beach",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Mt Morris",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Alexandria",
+    "state": "VA",
+    "count": 13
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "count": 38
+  },
+  {
+    "city": "Daly City",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Cocoa Beach",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Deer Park",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Pennsville",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Anaheim Hills",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "count": 14
+  },
+  {
+    "city": "Brookings",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Sault Ste Marie (outside of)(Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "New Port Richey",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Malabar",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Hana",
+    "state": "HI",
+    "count": 2
+  },
+  {
+    "city": "Dover",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Walter Hill",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Syracuse",
+    "state": "NY",
+    "count": 21
+  },
+  {
+    "city": "Riverview (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Joplin",
+    "state": "MO",
+    "count": 3
+  },
+  {
+    "city": "Jasper",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Keysville",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "La Mesa",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Waikoloa",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Cape Coral",
+    "state": "FL",
+    "count": 35
+  },
+  {
+    "city": "Pawnee",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Reseda",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Upper Marlboro",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Germanton",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Richfield",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Plato Center",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Laramie (Harmony Lane)",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Sonora Desert",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Lusk",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Santa Fe",
+    "state": "NM",
+    "count": 27
+  },
+  {
+    "city": "Fort Wayne",
+    "state": "IN",
+    "count": 17
+  },
+  {
+    "city": "Evans",
+    "state": "GA",
+    "count": 4
+  },
+  {
+    "city": "Durham",
+    "state": "NC",
+    "count": 22
+  },
+  {
+    "city": "Dallas/Ft. Worth",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Birmingham",
+    "state": "AL",
+    "count": 10
+  },
+  {
+    "city": "Gresham",
+    "state": "OR",
+    "count": 12
+  },
+  {
+    "city": "Anderson's Corner",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Edmonton (Canada)",
+    "state": "AB",
+    "count": 28
+  },
+  {
+    "city": "Redding",
+    "state": "CA",
+    "count": 9
+  },
+  {
+    "city": "Ellsworth",
+    "state": "ME",
+    "count": 4
+  },
+  {
+    "city": "Watsonville",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Hampshire",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Vancouver",
+    "state": "WA",
+    "count": 27
+  },
+  {
+    "city": "Rock Spring",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Miami Beach",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Labelle",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Kershaw",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Smyrna",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "Raymore",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Menomonee Falls",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Fort Pierce",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Vass",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "San Diego (Lemon Grove)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Waynesboro",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "New Britain",
+    "state": "CT",
+    "count": 5
+  },
+  {
+    "city": "Sour Lake",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Adams",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Davidson",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Santa Rosa",
+    "state": "CA",
+    "count": 24
+  },
+  {
+    "city": "Commerce Twp.",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Rochester",
+    "state": "MN",
+    "count": 4
+  },
+  {
+    "city": "Victor",
+    "state": "ID",
+    "count": 2
+  },
+  {
+    "city": "Macon",
+    "state": "GA",
+    "count": 7
+  },
+  {
+    "city": "Skykomish",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "New Smyrna Beach",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "San Tan Valley",
+    "state": "AZ",
+    "count": 13
+  },
+  {
+    "city": "Gold Canyon",
+    "state": "AZ",
+    "count": 5
+  },
+  {
+    "city": "Clayton",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Queen Creek/South Gilbert",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Sevierville",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "Grand Forks",
+    "state": "ND",
+    "count": 3
+  },
+  {
+    "city": "Rancho Santa Margarita",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Santa Clara",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Naperville",
+    "state": "IL",
+    "count": 8
+  },
+  {
+    "city": "Turlock",
+    "state": "CA",
+    "count": 8
+  },
+  {
+    "city": "Utah (above; in flight)",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Dannemora",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Amarillo",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Ozark National Forest (near)",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "New York City (Brooklyn)",
+    "state": "NY",
+    "count": 38
+  },
+  {
+    "city": "Lincoln",
+    "state": "NE",
+    "count": 16
+  },
+  {
+    "city": "Sylacauga (Canada)",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Hurricane",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "St. George",
+    "state": "UT",
+    "count": 20
+  },
+  {
+    "city": "Bismarck",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "La Verkin",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Littleton",
+    "state": "CO",
+    "count": 14
+  },
+  {
+    "city": "New Braunfels",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Vienna",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Phillipsburg",
+    "state": "KS",
+    "count": 2
+  },
+  {
+    "city": "Helper",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Avon",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Arvada",
+    "state": "CO",
+    "count": 19
+  },
+  {
+    "city": "Boulder",
+    "state": "CO",
+    "count": 13
+  },
+  {
+    "city": "Topeka",
+    "state": "KS",
+    "count": 6
+  },
+  {
+    "city": "Castle Rock",
+    "state": "CO",
+    "count": 4
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "count": 60
+  },
+  {
+    "city": "Springfield",
+    "state": "IL",
+    "count": 10
+  },
+  {
+    "city": "Rachel",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Ohkay Owingeh (San Juan)",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Laurel",
+    "state": "MT",
+    "count": 2
+  },
+  {
+    "city": "Desloge",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Anaconda",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Paxico",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Lowry City",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Livingston",
+    "state": "MT",
+    "count": 4
+  },
+  {
+    "city": "Lebanon",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Shoshoni (outside of; towards Riverton)",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Powell",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "De Soto",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Desoto",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Versailles",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Rolla",
+    "state": "MO",
+    "count": 4
+  },
+  {
+    "city": "Helena",
+    "state": "MT",
+    "count": 10
+  },
+  {
+    "city": "Carbondale",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Bonne Terre",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Iberia",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Dillon",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Russell to Hays",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Divide",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Swansea",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Whitmire",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Townsend",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Washburn",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Winston-Salem",
+    "state": "NC",
+    "count": 10
+  },
+  {
+    "city": "Dardanelle",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "West Columbia",
+    "state": "SC",
+    "count": 4
+  },
+  {
+    "city": "Marietta",
+    "state": "GA",
+    "count": 19
+  },
+  {
+    "city": "Hornbrook",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "East Stroudsburg",
+    "state": "PA",
+    "count": 4
+  },
+  {
+    "city": "Fredonia",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Arcadia/Monrovia",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Plumsted",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Hawthorne",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Independence",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Nottingham",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Placitas",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Lakewood",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Lacombe (Canada)",
+    "state": "AB",
+    "count": 2
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "count": 32
+  },
+  {
+    "city": "Dallas",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Fremont",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Marshfield",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Stevens Point",
+    "state": "WI",
+    "count": 8
+  },
+  {
+    "city": "Tulsa",
+    "state": "OK",
+    "count": 28
+  },
+  {
+    "city": "Packwaukee",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Auburn",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Kent",
+    "state": "WA",
+    "count": 6
+  },
+  {
+    "city": "Florence",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Waupaca",
+    "state": "WI",
+    "count": 4
+  },
+  {
+    "city": "Cherry Hill",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Champaign",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "DuBois",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Portland (northeast)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Seaside",
+    "state": "OR",
+    "count": 7
+  },
+  {
+    "city": "Cupertino",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Redgranite",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Dodge City",
+    "state": "KS",
+    "count": 5
+  },
+  {
+    "city": "Beatty",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Stuart",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Laquey",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Midwest City",
+    "state": "OK",
+    "count": 3
+  },
+  {
+    "city": "North Fort Myers",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Schenectady",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Turner",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Kramer Junction",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Sioux Falls",
+    "state": "SD",
+    "count": 23
+  },
+  {
+    "city": "St. Augustine",
+    "state": "FL",
+    "count": 13
+  },
+  {
+    "city": "McRae",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Arcadia",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Georgetown",
+    "state": "SC",
+    "count": 5
+  },
+  {
+    "city": "Gervais",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Pelzer",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Rock Hill",
+    "state": "SC",
+    "count": 7
+  },
+  {
+    "city": "Bennington",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "count": 44
+  },
+  {
+    "city": "Berkeley",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Port Chester",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Arlington",
+    "state": "VA",
+    "count": 6
+  },
+  {
+    "city": "Langely (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Farmingville",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Williamsburg",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "St. Albans",
+    "state": "VT",
+    "count": 2
+  },
+  {
+    "city": "Manchester",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Citrus Heights",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Columbia",
+    "state": "MO",
+    "count": 15
+  },
+  {
+    "city": "Honeoye Falls",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Parkville",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Shickshinny",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Bel Air",
+    "state": "MD",
+    "count": 5
+  },
+  {
+    "city": "Winslow Township",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Golden",
+    "state": "CO",
+    "count": 10
+  },
+  {
+    "city": "Dawson",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Bloomington",
+    "state": "IN",
+    "count": 3
+  },
+  {
+    "city": "Jackson",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Brandon",
+    "state": "FL",
+    "count": 12
+  },
+  {
+    "city": "Elk River",
+    "state": "MN",
+    "count": 4
+  },
+  {
+    "city": "Foyil",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "New Rochelle",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Lone Tree",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "National City",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Homestead",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Sydney (Canada)",
+    "state": "NS",
+    "count": 3
+  },
+  {
+    "city": "Ludlow",
+    "state": "MA",
+    "count": 4
+  },
+  {
+    "city": "Stanley",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Jacksonville",
+    "state": "FL",
+    "count": 49
+  },
+  {
+    "city": "Madison",
+    "state": "WI",
+    "count": 26
+  },
+  {
+    "city": "Tylersport",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Everywhere",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Lincolnton",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "New Brunswick",
+    "state": "NJ",
+    "count": 4
+  },
+  {
+    "city": "Plymouth",
+    "state": "MA",
+    "count": 8
+  },
+  {
+    "city": "West Jefferson",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Batavia",
+    "state": "NY",
+    "count": 7
+  },
+  {
+    "city": "Pittsburg/Antioch",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Northwood",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Sturbridge/Warren",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Clifton Park",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Orland",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Cherry Valley",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Rochester/Byron/Salem Corners",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Slidell",
+    "state": "LA",
+    "count": 4
+  },
+  {
+    "city": "Vandling",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Eucha",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Sterling",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Dawson",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Lexington",
+    "state": "SC",
+    "count": 5
+  },
+  {
+    "city": "Chattanooga",
+    "state": "TN",
+    "count": 14
+  },
+  {
+    "city": "Chelsea",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Jackson",
+    "state": "TN",
+    "count": 5
+  },
+  {
+    "city": "Ruskin",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Spanaway",
+    "state": "WA",
+    "count": 7
+  },
+  {
+    "city": "Armonk",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Kettering",
+    "state": "OH",
+    "count": 8
+  },
+  {
+    "city": "Comstock Park",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "count": 30
+  },
+  {
+    "city": "Madison",
+    "state": "AL",
+    "count": 3
+  },
+  {
+    "city": "Leesburg",
+    "state": "VA",
+    "count": 6
+  },
+  {
+    "city": "Rochester",
+    "state": "NH",
+    "count": 15
+  },
+  {
+    "city": "Beaver",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Winter Haven",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Spotsylvania Courthouse",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Wilkes Barre",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Newhall",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Delray Beach",
+    "state": "FL",
+    "count": 9
+  },
+  {
+    "city": "Jackson Twp.",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Kingman",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Rockville",
+    "state": "MD",
+    "count": 7
+  },
+  {
+    "city": "Caraquet (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Earlington",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Moreno Valley",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Alpharetta",
+    "state": "GA",
+    "count": 4
+  },
+  {
+    "city": "Abington",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Freehold",
+    "state": "NJ",
+    "count": 5
+  },
+  {
+    "city": "Shrewsbury",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Bullock",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Suffolk",
+    "state": "VA",
+    "count": 4
+  },
+  {
+    "city": "Virginia Beach",
+    "state": "VA",
+    "count": 28
+  },
+  {
+    "city": "Selbyville",
+    "state": "DE",
+    "count": 3
+  },
+  {
+    "city": "Middlesex",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Elkton",
+    "state": "MD",
+    "count": 6
+  },
+  {
+    "city": "Knoxville",
+    "state": "TN",
+    "count": 25
+  },
+  {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "count": 24
+  },
+  {
+    "city": "Mandeville",
+    "state": "LA",
+    "count": 4
+  },
+  {
+    "city": "Wilmette",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Montana City",
+    "state": "MT",
+    "count": 2
+  },
+  {
+    "city": "Deer Park",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Lanham",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Stratford",
+    "state": "CT",
+    "count": 4
+  },
+  {
+    "city": "Stockton",
+    "state": "CA",
+    "count": 12
+  },
+  {
+    "city": "Glen Allen",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Alameda",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Brockton",
+    "state": "MA",
+    "count": 4
+  },
+  {
+    "city": "Santa Paula",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Cortland",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Newington",
+    "state": "CT",
+    "count": 3
+  },
+  {
+    "city": "Capitola",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Pueblo",
+    "state": "CO",
+    "count": 16
+  },
+  {
+    "city": "Rome",
+    "state": "GA",
+    "count": 4
+  },
+  {
+    "city": "Williamsburg",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Council Hill",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Hanover",
+    "state": "PA",
+    "count": 7
+  },
+  {
+    "city": "Los Angeles/Arts District",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Exeter",
+    "state": "NH",
+    "count": 3
+  },
+  {
+    "city": "Pierce",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Dunnellon",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Medicine Park",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Houma",
+    "state": "LA",
+    "count": 2
+  },
+  {
+    "city": "Norridgewock",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Santee",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Hopkinsville (I-24)",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Belle Fourche",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "San Clemente",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Wadsworth",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Dixon",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Warren",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "East Los Angeles",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Salem",
+    "state": "OR",
+    "count": 30
+  },
+  {
+    "city": "Rutland",
+    "state": "VT",
+    "count": 5
+  },
+  {
+    "city": "Jennings",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Oxford",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Cleveland",
+    "state": "OH",
+    "count": 10
+  },
+  {
+    "city": "Royal Gorge",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Marysville",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Anaheim",
+    "state": "CA",
+    "count": 23
+  },
+  {
+    "city": "Puyallup",
+    "state": "WA",
+    "count": 17
+  },
+  {
+    "city": "Ventura",
+    "state": "CA",
+    "count": 12
+  },
+  {
+    "city": "Kissimmee",
+    "state": "FL",
+    "count": 8
+  },
+  {
+    "city": "Mount Laurel",
+    "state": "NJ",
+    "count": 6
+  },
+  {
+    "city": "Henderson",
+    "state": "NV",
+    "count": 19
+  },
+  {
+    "city": "Simi Valley",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Kissimme/Champions Gate",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "San Gabriel",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Bethesda",
+    "state": "MD",
+    "count": 5
+  },
+  {
+    "city": "Long Beach",
+    "state": "CA",
+    "count": 37
+  },
+  {
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "count": 49
+  },
+  {
+    "city": "North Phoenix",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "Newman",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Ocean View",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Edenton",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Martinez",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Los Altos",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Pfafftown",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Asheville",
+    "state": "NC",
+    "count": 9
+  },
+  {
+    "city": "Florence",
+    "state": "OR",
+    "count": 6
+  },
+  {
+    "city": "Biloxi",
+    "state": "MS",
+    "count": 6
+  },
+  {
+    "city": "Lancaster",
+    "state": "OH",
+    "count": 5
+  },
+  {
+    "city": "Des Moines",
+    "state": "IA",
+    "count": 12
+  },
+  {
+    "city": "Milford",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Dayton",
+    "state": "OH",
+    "count": 12
+  },
+  {
+    "city": "Dewey",
+    "state": "AZ",
+    "count": 3
+  },
+  {
+    "city": "Smithfield",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Enumclaw",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Madeira Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Perris",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Crown Point",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Delta",
+    "state": "CO",
+    "count": 4
+  },
+  {
+    "city": "Modesto",
+    "state": "CA",
+    "count": 17
+  },
+  {
+    "city": "Soccorro",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Silverpeak",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Sunnyvale",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Layton",
+    "state": "UT",
+    "count": 9
+  },
+  {
+    "city": "Manville",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Vacaville",
+    "state": "CA",
+    "count": 8
+  },
+  {
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "count": 3
+  },
+  {
+    "city": "Burton",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Roswell",
+    "state": "NM",
+    "count": 7
+  },
+  {
+    "city": "Pflugerville",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Johnstown/Loveland",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Panama City",
+    "state": "FL",
+    "count": 9
+  },
+  {
+    "city": "Broomfield",
+    "state": "CO",
+    "count": 12
+  },
+  {
+    "city": "Estes Park",
+    "state": "CO",
+    "count": 3
+  },
+  {
+    "city": "Chino Valley",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "Waterflow",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Richmond Hill",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Crown Point",
+    "state": "IN",
+    "count": 5
+  },
+  {
+    "city": "Tyngsborough",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Tremont",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Warren",
+    "state": "RI",
+    "count": 3
+  },
+  {
+    "city": "North Bend",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Glendale/Pasadena",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Haverhill",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Glen Gardner",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Missoula",
+    "state": "MT",
+    "count": 20
+  },
+  {
+    "city": "Natick",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Acworth",
+    "state": "GA",
+    "count": 7
+  },
+  {
+    "city": "Folsom",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Eaton",
+    "state": "CO",
+    "count": 3
+  },
+  {
+    "city": "Conneaut",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "South Milwaukee",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Brooklyn Park",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Port Coquitlam (Canada)",
+    "state": "BC",
+    "count": 2
+  },
+  {
+    "city": "Frederickson",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Baton Rouge",
+    "state": "LA",
+    "count": 13
+  },
+  {
+    "city": "St. Petersburg",
+    "state": "FL",
+    "count": 31
+  },
+  {
+    "city": "Greenwich",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Batavia",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Rockwood",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Anniston",
+    "state": "AL",
+    "count": 5
+  },
+  {
+    "city": "St. Louis",
+    "state": "MO",
+    "count": 25
+  },
+  {
+    "city": "Paola",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Tontitown",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Rutland",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Plainville",
+    "state": "CT",
+    "count": 4
+  },
+  {
+    "city": "Cole Camp",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Manchester",
+    "state": "CT",
+    "count": 8
+  },
+  {
+    "city": "Strongsville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Long Pond",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Omaha",
+    "state": "NE",
+    "count": 17
+  },
+  {
+    "city": "West Salem",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Park Hills",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Lakewood",
+    "state": "CO",
+    "count": 19
+  },
+  {
+    "city": "Pueblo (Belmont)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Burlington",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Magnolia",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Norristown",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Mardela Springs",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Lincoln Boro",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Coral Gables",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Clemson",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Salem",
+    "state": "NH",
+    "count": 10
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "count": 15
+  },
+  {
+    "city": "Lantana Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Albany",
+    "state": "OR",
+    "count": 15
+  },
+  {
+    "city": "Cuba",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Highway 60 (Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Gilbert",
+    "state": "AZ",
+    "count": 24
+  },
+  {
+    "city": "Snowflake (toward; near)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Cincinnati",
+    "state": "OH",
+    "count": 20
+  },
+  {
+    "city": "Glendale",
+    "state": "AZ",
+    "count": 28
+  },
+  {
+    "city": "Rural Hill",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "White Lake",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Cathedral City",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Dunedin",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Parkland",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Rialto",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Weymouth",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Shakopee",
+    "state": "MN",
+    "count": 5
+  },
+  {
+    "city": "Pratt",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Port Orchard",
+    "state": "WA",
+    "count": 11
+  },
+  {
+    "city": "Walnut",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Bullhead City",
+    "state": "AZ",
+    "count": 8
+  },
+  {
+    "city": "Fountain",
+    "state": "CO",
+    "count": 4
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "count": 10
+  },
+  {
+    "city": "Port Austin",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Costa Mesa",
+    "state": "CA",
+    "count": 11
+  },
+  {
+    "city": "Saylorsburg",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Irving",
+    "state": "TX",
+    "count": 6
+  },
+  {
+    "city": "Norwalk",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Bridgewater",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Canal Fulton",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Manassas",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "New York City (Queens)",
+    "state": "NY",
+    "count": 7
+  },
+  {
+    "city": "Clinton",
+    "state": "IA",
+    "count": 2
+  },
+  {
+    "city": "Chehalis",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Long Branch",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Vancouver (Canada)",
+    "state": "BC",
+    "count": 8
+  },
+  {
+    "city": "Kingsport",
+    "state": "TN",
+    "count": 10
+  },
+  {
+    "city": "Greensboro",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "White Bird",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Moodus",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Newnan",
+    "state": "GA",
+    "count": 3
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "count": 34
+  },
+  {
+    "city": "Appleton",
+    "state": "WI",
+    "count": 7
+  },
+  {
+    "city": "Coos Bay",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Enterprise",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "East Boston/Boston",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Matthews",
+    "state": "NC",
+    "count": 5
+  },
+  {
+    "city": "Corinth/Monson (betweem)",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Newberry",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Laughlin",
+    "state": "NV",
+    "count": 2
+  },
+  {
+    "city": "Chico",
+    "state": "CA",
+    "count": 8
+  },
+  {
+    "city": "Helen",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Fountain Hills",
+    "state": "AZ",
+    "count": 4
+  },
+  {
+    "city": "Oak Harbor",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Rancho San Diego",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Weed",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Bellingham",
+    "state": "WA",
+    "count": 21
+  },
+  {
+    "city": "Norton",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Council Bluffs",
+    "state": "IA",
+    "count": 3
+  },
+  {
+    "city": "Cody and Wapiti (between)",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Cross Lake",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Banning",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lansdale/Quakertown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Salem",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Zephyrhills",
+    "state": "FL",
+    "count": 9
+  },
+  {
+    "city": "Campbell",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "South Kingstown",
+    "state": "RI",
+    "count": 10
+  },
+  {
+    "city": "Athabasca (Canada)",
+    "state": "AB",
+    "count": 2
+  },
+  {
+    "city": "South Pasadena",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Green Brook",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "North Gower (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Mountlake Terrace",
+    "state": "WA",
+    "count": 4
+  },
+  {
+    "city": "Windham/Williamantic",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "University Place",
+    "state": "WA",
+    "count": 6
+  },
+  {
+    "city": "Manning",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "San Antonio",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Mount Washington",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Laguna Beach",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Randleman",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "count": 33
+  },
+  {
+    "city": "Lawrence",
+    "state": "KS",
+    "count": 12
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "count": 24
+  },
+  {
+    "city": "Bentonville",
+    "state": "AR",
+    "count": 6
+  },
+  {
+    "city": "Georgetown",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "St. Albert (Canada)",
+    "state": "AB",
+    "count": 2
+  },
+  {
+    "city": "Sturbridge",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Indianapolis",
+    "state": "IN",
+    "count": 32
+  },
+  {
+    "city": "Stone Mountain",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Eastanollee",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Sonoma",
+    "state": "CA",
+    "count": 9
+  },
+  {
+    "city": "Black Creek",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Kalama",
+    "state": "WA",
+    "count": 4
+  },
+  {
+    "city": "Lake City",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Savannah",
+    "state": "GA",
+    "count": 9
+  },
+  {
+    "city": "Northfield",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Milford",
+    "state": "CT",
+    "count": 11
+  },
+  {
+    "city": "Great Falls",
+    "state": "MT",
+    "count": 6
+  },
+  {
+    "city": "Apple Valley",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Hillsborough",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Conway",
+    "state": "AR",
+    "count": 9
+  },
+  {
+    "city": "Lincoln",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Elkins",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Bordentown",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Edmond",
+    "state": "OK",
+    "count": 10
+  },
+  {
+    "city": "Bainbridge Island",
+    "state": "WA",
+    "count": 7
+  },
+  {
+    "city": "Sheridan",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Columbus",
+    "state": "OH",
+    "count": 39
+  },
+  {
+    "city": "Marshall",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Russellville",
+    "state": "AR",
+    "count": 3
+  },
+  {
+    "city": "Mountain Home AFB",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Poway",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "El Paso (NE; Fairbanks & Rushing)",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Wetaskiwin (Canada)",
+    "state": "AB",
+    "count": 3
+  },
+  {
+    "city": "Sherman",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "La Manche (Canada)",
+    "state": "NF",
+    "count": 1
+  },
+  {
+    "city": "West Los Angeles",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Rancho Palos Verdes",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Leola",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Rowlett",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Mason",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Marysville",
+    "state": "WA",
+    "count": 8
+  },
+  {
+    "city": "Ontario",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Oregon City",
+    "state": "OR",
+    "count": 5
+  },
+  {
+    "city": "Rehoboth Beach",
+    "state": "DE",
+    "count": 3
+  },
+  {
+    "city": "Artesia",
+    "state": "NM",
+    "count": 5
+  },
+  {
+    "city": "West Hills",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Redondo Beach",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Seneca",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Hope Mills",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Tustin",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Hansville",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Huntington",
+    "state": "NY",
+    "count": 5
+  },
+  {
+    "city": "Middletown/Braddock Heights (between)",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Louisville",
+    "state": "KY",
+    "count": 32
+  },
+  {
+    "city": "Willamsburg",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Logansport",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Burney",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Pickerington",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Toms River",
+    "state": "NJ",
+    "count": 7
+  },
+  {
+    "city": "Bismarck",
+    "state": "ND",
+    "count": 6
+  },
+  {
+    "city": "Taylor",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Palm Springs (Windy Point)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "San Dimas",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Grand Island",
+    "state": "NE",
+    "count": 2
+  },
+  {
+    "city": "Ruidoso",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Huntington station",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Lafayette",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Mooers",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Athens",
+    "state": "GA",
+    "count": 8
+  },
+  {
+    "city": "Dominion City (North of)(Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Astoria",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Orange Park",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Queensbury",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Lanett",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Lagrange",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Scarborough (Canada)",
+    "state": "ON",
+    "count": 7
+  },
+  {
+    "city": "Monroe",
+    "state": "MI",
+    "count": 5
+  },
+  {
+    "city": "Williamstown",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Alabaster",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "New Paltz",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Los Banos",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Rumford",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Tampa",
+    "state": "FL",
+    "count": 37
+  },
+  {
+    "city": "Magna",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "Englewood",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Cross",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Portsmouth",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Williamsburg",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Hartman",
+    "state": "AR",
+    "count": 3
+  },
+  {
+    "city": "Scarborough",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Hudson",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Kansas City",
+    "state": "MO",
+    "count": 13
+  },
+  {
+    "city": "Bend",
+    "state": "OR",
+    "count": 22
+  },
+  {
+    "city": "Veedersburg",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Columbia",
+    "state": "SC",
+    "count": 22
+  },
+  {
+    "city": "Waxhaw",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Robbinston",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "East Liverpool",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Grovetown",
+    "state": "GA",
+    "count": 4
+  },
+  {
+    "city": "Marietta",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Summerville",
+    "state": "SC",
+    "count": 9
+  },
+  {
+    "city": "Dora",
+    "state": "AL",
+    "count": 3
+  },
+  {
+    "city": "Arnold",
+    "state": "MO",
+    "count": 6
+  },
+  {
+    "city": "Foresthill",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Providence",
+    "state": "RI",
+    "count": 12
+  },
+  {
+    "city": "Fire Island (Barett Beach)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Kennett Square/Philadelphia",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Bay Minnette",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "North Adams",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Palmer",
+    "state": "AK",
+    "count": 7
+  },
+  {
+    "city": "Minneola",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Sparland",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Lake Oswego",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Fitzgerald",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Valdez",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Tempe",
+    "state": "AZ",
+    "count": 24
+  },
+  {
+    "city": "Hopewell Cape (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Wyeville",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Bethel",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Mt. Orab",
+    "state": "OH",
+    "count": 4
+  },
+  {
+    "city": "Wentzville",
+    "state": "MO",
+    "count": 3
+  },
+  {
+    "city": "Springfield",
+    "state": "MO",
+    "count": 14
+  },
+  {
+    "city": "Browns Summit",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Deltaville",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Harwinton",
+    "state": "CT",
+    "count": 3
+  },
+  {
+    "city": "Spring Valley",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Norwalk",
+    "state": "CT",
+    "count": 8
+  },
+  {
+    "city": "Bay Village",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Dearing",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Plymouth",
+    "state": "MN",
+    "count": 4
+  },
+  {
+    "city": "Richmond",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Dimondale",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Sykesville",
+    "state": "MD",
+    "count": 5
+  },
+  {
+    "city": "Wellfleet",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "gonzales",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Newtown",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Marlborough",
+    "state": "MA",
+    "count": 4
+  },
+  {
+    "city": "Spout spring",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Forest Grove",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Bellbrook",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Las Cruces",
+    "state": "NM",
+    "count": 19
+  },
+  {
+    "city": "Wenatchee",
+    "state": "WA",
+    "count": 10
+  },
+  {
+    "city": "Huntsville",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "West Chazy",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Dallas",
+    "state": "GA",
+    "count": 4
+  },
+  {
+    "city": "Douglas",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Hillsboro",
+    "state": "OR",
+    "count": 14
+  },
+  {
+    "city": "Winder",
+    "state": "GA",
+    "count": 6
+  },
+  {
+    "city": "Seven Hills",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Victoria (Canada)",
+    "state": "BC",
+    "count": 9
+  },
+  {
+    "city": "Wheat Ridge",
+    "state": "CO",
+    "count": 6
+  },
+  {
+    "city": "Lebanon",
+    "state": "OR",
+    "count": 7
+  },
+  {
+    "city": "Warren",
+    "state": "MI",
+    "count": 13
+  },
+  {
+    "city": "Fort Montgomery",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Gilcrest",
+    "state": "CO",
+    "count": 4
+  },
+  {
+    "city": "Alhambra",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Hickory",
+    "state": "NC",
+    "count": 9
+  },
+  {
+    "city": "Franklin",
+    "state": "NC",
+    "count": 4
+  },
+  {
+    "city": "Grand Isle",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Montreal",
+    "state": "MO",
+    "count": 4
+  },
+  {
+    "city": "Newport",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Middletown",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Pope (near)",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Sullivan's Island",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Polson",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Salinas",
+    "state": "CA",
+    "count": 10
+  },
+  {
+    "city": "Valrico",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Harrisonville",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Niles",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Bristow",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Moose Jaw (Canada)",
+    "state": "SK",
+    "count": 1
+  },
+  {
+    "city": "Knightdale",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Duck Hill",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Allentown",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Eastvale",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "New Richmond",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Clearwater",
+    "state": "FL",
+    "count": 14
+  },
+  {
+    "city": "Barefoot Bay",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Salida",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Effingham",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Nancy",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Lincoln",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Merriam",
+    "state": "KS",
+    "count": 3
+  },
+  {
+    "city": "Fort Coffee",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Bridgeport",
+    "state": "CT",
+    "count": 12
+  },
+  {
+    "city": "East Wenatchee",
+    "state": "WA",
+    "count": 4
+  },
+  {
+    "city": "Nikiski",
+    "state": "AK",
+    "count": 2
+  },
+  {
+    "city": "Puyallup (South Hill)",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Stratford/Bridgeport",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Unionville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Cheswick",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "North Hampton",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Blacksburg",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Cougar",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Cumberland",
+    "state": "RI",
+    "count": 6
+  },
+  {
+    "city": "Galloway",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Farmington",
+    "state": "NM",
+    "count": 5
+  },
+  {
+    "city": "Big Flats",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Chatsworth",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Porter Ranch",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Oak Park",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Waianae",
+    "state": "HI",
+    "count": 2
+  },
+  {
+    "city": "Troutdale",
+    "state": "OR",
+    "count": 6
+  },
+  {
+    "city": "Winnipeg (Canada)",
+    "state": "MB",
+    "count": 8
+  },
+  {
+    "city": "Camano Island",
+    "state": "WA",
+    "count": 5
+  },
+  {
+    "city": "Longview",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Town of Texas",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Bloomington",
+    "state": "IL",
+    "count": 5
+  },
+  {
+    "city": "River Falls/Prescott",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Paul’s Valley (near)",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Farmland",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Leland",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Athol",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Hastings Ranch",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Woodbridge",
+    "state": "VA",
+    "count": 9
+  },
+  {
+    "city": "Shinston",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Pojoque",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Staten Island",
+    "state": "NY",
+    "count": 20
+  },
+  {
+    "city": "Vienna",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Beavercreek",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Eliot",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Greeley",
+    "state": "CO",
+    "count": 20
+  },
+  {
+    "city": "Las Vegas/Henderson area",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Goshen",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Cunningham",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Kalispell",
+    "state": "MT",
+    "count": 10
+  },
+  {
+    "city": "Ottawa (Canada)",
+    "state": "ON",
+    "count": 18
+  },
+  {
+    "city": "Nashua",
+    "state": "NH",
+    "count": 17
+  },
+  {
+    "city": "Warrington",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Claymont",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Fredericksburg",
+    "state": "VA",
+    "count": 15
+  },
+  {
+    "city": "Jemez Springs",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Jackson",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Parsippany",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Coopersburg",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Yuma",
+    "state": "AZ",
+    "count": 9
+  },
+  {
+    "city": "Conway",
+    "state": "SC",
+    "count": 10
+  },
+  {
+    "city": "Simpsonville",
+    "state": "SC",
+    "count": 13
+  },
+  {
+    "city": "Sandusky",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Scituate",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Bay City",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Warrenton",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Shediac (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Monroe",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Clifton",
+    "state": "NJ",
+    "count": 5
+  },
+  {
+    "city": "Westfield",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Augusta",
+    "state": "GA",
+    "count": 7
+  },
+  {
+    "city": "Wilsonville",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Califon",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Beaufort",
+    "state": "SC",
+    "count": 4
+  },
+  {
+    "city": "Easley",
+    "state": "SC",
+    "count": 4
+  },
+  {
+    "city": "O'Fallon",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Allentown",
+    "state": "PA",
+    "count": 10
+  },
+  {
+    "city": "Greenbelt",
+    "state": "MD",
+    "count": 4
+  },
+  {
+    "city": "Woodland",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Lexington",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Knox",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Troy",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Broadview Heights",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Casper",
+    "state": "WY",
+    "count": 5
+  },
+  {
+    "city": "Nakina",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "London",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Lyndon Station",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Page",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Buckhannon",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Everett",
+    "state": "WA",
+    "count": 22
+  },
+  {
+    "city": "Gordo",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Lawrenceburg",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Franklin",
+    "state": "TN",
+    "count": 11
+  },
+  {
+    "city": "Tarzana",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Route 476",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Moravia",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Stockton",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Baltimore",
+    "state": "MD",
+    "count": 31
+  },
+  {
+    "city": "Mount pleasant",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Mechanicsburg",
+    "state": "PA",
+    "count": 8
+  },
+  {
+    "city": "Deland",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Clay City",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Shokapee",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Harpursville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Twin Falls",
+    "state": "ID",
+    "count": 13
+  },
+  {
+    "city": "Hockessin",
+    "state": "DE",
+    "count": 2
+  },
+  {
+    "city": "Chester",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Florissant",
+    "state": "MO",
+    "count": 5
+  },
+  {
+    "city": "Monticello",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Whitby (Canada)",
+    "state": "ON",
+    "count": 3
+  },
+  {
+    "city": "Owensboro",
+    "state": "KY",
+    "count": 5
+  },
+  {
+    "city": "Eddyville",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Kenyon",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Huntington",
+    "state": "WV",
+    "count": 5
+  },
+  {
+    "city": "Bristol",
+    "state": "CT",
+    "count": 4
+  },
+  {
+    "city": "Kennett Square",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Winkler (Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Levittown",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Rockford/Belvidere",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Ronkonkoma",
+    "state": "NY",
+    "count": 6
+  },
+  {
+    "city": "Sahuarita",
+    "state": "AZ",
+    "count": 7
+  },
+  {
+    "city": "Lampeter-Strasburg, Reading",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Rocky Hill",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Linden",
+    "state": "NJ",
+    "count": 6
+  },
+  {
+    "city": "Laurel",
+    "state": "MD",
+    "count": 4
+  },
+  {
+    "city": "Harrogate",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Lenoir",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "York",
+    "state": "ME",
+    "count": 5
+  },
+  {
+    "city": "Denver (Denver International Airport)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "La Vista",
+    "state": "NE",
+    "count": 3
+  },
+  {
+    "city": "Centerville",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Wewahitchka",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Columbus",
+    "state": "GA",
+    "count": 7
+  },
+  {
+    "city": "Harshaw",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Pataskala",
+    "state": "OH",
+    "count": 6
+  },
+  {
+    "city": "Brick",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Windsor",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Papillion",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Mattoon",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Lancaster",
+    "state": "CA",
+    "count": 10
+  },
+  {
+    "city": "Gardner",
+    "state": "KS",
+    "count": 2
+  },
+  {
+    "city": "Revere",
+    "state": "MA",
+    "count": 6
+  },
+  {
+    "city": "Derby/Ansonia",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Elizabethton",
+    "state": "TN",
+    "count": 6
+  },
+  {
+    "city": "Waynesville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Woodburn",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Johnston City",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Pottstown - Trenton",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Edmonton",
+    "state": "AB",
+    "count": 2
+  },
+  {
+    "city": "Banff (Canada)",
+    "state": "AB",
+    "count": 2
+  },
+  {
+    "city": "Sykesville (near)",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Adamstown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Monterey",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Wellton",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "Keokuk",
+    "state": "IA",
+    "count": 2
+  },
+  {
+    "city": "Hilton Head Island",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Cranston",
+    "state": "RI",
+    "count": 6
+  },
+  {
+    "city": "Salem",
+    "state": "VA",
+    "count": 5
+  },
+  {
+    "city": "Folly Beach",
+    "state": "SC",
+    "count": 4
+  },
+  {
+    "city": "Yountville",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Hackberry",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Oglala",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "South Tampa",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Sausalito",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Fruitport",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "East Brookfield",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Granite Falls",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Grand Haven",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "New York City",
+    "state": "NY",
+    "count": 18
+  },
+  {
+    "city": "Stafford Springs",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Union",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Armada",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lancaster",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "West Chase",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Dawsonville",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Mansfield",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Colfax",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Douglasville",
+    "state": "GA",
+    "count": 5
+  },
+  {
+    "city": "Brick Twp.",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Hyden",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Malden",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Lake City",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Mount Holly",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Dayton",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Stuarts Draft",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Onion Creek",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "New Windsor",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Lower Southampton",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "New Hope",
+    "state": "PA",
+    "count": 4
+  },
+  {
+    "city": "Batesville",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Manassas",
+    "state": "VA",
+    "count": 8
+  },
+  {
+    "city": "Sioux City",
+    "state": "IA",
+    "count": 8
+  },
+  {
+    "city": "Corona",
+    "state": "CA",
+    "count": 17
+  },
+  {
+    "city": "Mount Pleasant",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Chula Vista",
+    "state": "CA",
+    "count": 11
+  },
+  {
+    "city": "Redlands",
+    "state": "CA",
+    "count": 9
+  },
+  {
+    "city": "Whittier",
+    "state": "CA",
+    "count": 9
+  },
+  {
+    "city": "San Pedro",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Yonkers",
+    "state": "NY",
+    "count": 5
+  },
+  {
+    "city": "Liberty",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Coquitlam (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Albion",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Dalton",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Smilax",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Northglenn",
+    "state": "CO",
+    "count": 6
+  },
+  {
+    "city": "Newoort Beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Carmel/Kent",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Cedartown",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Gaithersburg",
+    "state": "MD",
+    "count": 3
+  },
+  {
+    "city": "Commerce City",
+    "state": "CO",
+    "count": 5
+  },
+  {
+    "city": "Smithtown",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "The Villages",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Carolina Beach",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "manistee",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Uniontown",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Newark",
+    "state": "NJ",
+    "count": 6
+  },
+  {
+    "city": "Okmulgee",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "Fallston",
+    "state": "MD",
+    "count": 3
+  },
+  {
+    "city": "Pocatello",
+    "state": "ID",
+    "count": 2
+  },
+  {
+    "city": "South Daytona",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Bristol",
+    "state": "VA",
+    "count": 4
+  },
+  {
+    "city": "Saratoga",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Jonesboro",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Templeton",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "O Brien",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Bakersfield",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Hudsonville",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "New York City (Bronx)",
+    "state": "NY",
+    "count": 13
+  },
+  {
+    "city": "Ransom",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Port Lambton (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Chadbourn",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "New Baltimore",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "South Saint Paul",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Oakdale",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Eureka",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "Saint John (Canada)",
+    "state": "NB",
+    "count": 3
+  },
+  {
+    "city": "Baraboo",
+    "state": "WI",
+    "count": 4
+  },
+  {
+    "city": "Normal",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Ocean City",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Snowmass Village",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Highlands Ranch",
+    "state": "CO",
+    "count": 3
+  },
+  {
+    "city": "Salt Lake",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "Little Falls",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Monroe",
+    "state": "OH",
+    "count": 4
+  },
+  {
+    "city": "Spartanburg",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Cedar Park",
+    "state": "TX",
+    "count": 6
+  },
+  {
+    "city": "Waterloo",
+    "state": "IA",
+    "count": 5
+  },
+  {
+    "city": "Pawlet",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Superior",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Lehigh Acres",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Indian Springs/Las Vegas",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Coachella",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Gross Ile",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Burlington",
+    "state": "NC",
+    "count": 4
+  },
+  {
+    "city": "Jordan",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Plains",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Tulare",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Clarkridge",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Oldsmar",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "South Lake Havasu City",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "South Oklahoma City",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Southwick",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Ozone Park",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "St augustine",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Philipsburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Earleville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Crystal City",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Rochester",
+    "state": "NY",
+    "count": 18
+  },
+  {
+    "city": "Lake Stevens",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Westover",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Pottstown",
+    "state": "PA",
+    "count": 4
+  },
+  {
+    "city": "West Valley City",
+    "state": "UT",
+    "count": 7
+  },
+  {
+    "city": "Kamloops (Canada)",
+    "state": "BC",
+    "count": 6
+  },
+  {
+    "city": "Vicksburg",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Milwaukee",
+    "state": "WI",
+    "count": 23
+  },
+  {
+    "city": "Wildwood",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "West Des Moines",
+    "state": "IA",
+    "count": 3
+  },
+  {
+    "city": "Helena",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Longboat Key",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Napa",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Hubert",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Hazel Park",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Greenwood",
+    "state": "IN",
+    "count": 5
+  },
+  {
+    "city": "Munford",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Pearl Harbor",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Kearney",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Bethel Park",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Dearborn Heights",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Charlestown",
+    "state": "RI",
+    "count": 3
+  },
+  {
+    "city": "Fort Bragg (close to)",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Lake",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Milton",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Montreal (Canada)",
+    "state": "QC",
+    "count": 6
+  },
+  {
+    "city": "Lee",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Longwood",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Cassville",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Danbury",
+    "state": "CT",
+    "count": 3
+  },
+  {
+    "city": "Kalamazoo",
+    "state": "MI",
+    "count": 7
+  },
+  {
+    "city": "Elmwood Park",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Jeffersonville",
+    "state": "IN",
+    "count": 3
+  },
+  {
+    "city": "Detroit (northwest area)",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Stayton",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Alto",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Mantorville",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "North Las Vegas",
+    "state": "NV",
+    "count": 11
+  },
+  {
+    "city": "Goldsboro",
+    "state": "NC",
+    "count": 4
+  },
+  {
+    "city": "Watertown",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Riverside",
+    "state": "CA",
+    "count": 19
+  },
+  {
+    "city": "Medford/Weed",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Blyton",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Boonville",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Macedonia",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Newfoundland",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Southport",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Florence",
+    "state": "KY",
+    "count": 7
+  },
+  {
+    "city": "Williamson",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Sheffield",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Rothbury",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Zionsville",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Murray",
+    "state": "UT",
+    "count": 4
+  },
+  {
+    "city": "Alliance",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Lyons",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Aurora",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Vadnais Heights/White Bear Township",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Stoney Creek",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Mount Clemens",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Richmond",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Winter Springs",
+    "state": "FL",
+    "count": 7
+  },
+  {
+    "city": "East Hampton",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Maison",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Nashua",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Azle",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Vernon",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Maurice",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Inglewood",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Nanakuli",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Warsaw",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "East Otay Mesa",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mission",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Fayetteville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Concord",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Gainesville",
+    "state": "FL",
+    "count": 9
+  },
+  {
+    "city": "Calgary (Canada)",
+    "state": "AB",
+    "count": 14
+  },
+  {
+    "city": "La Salle",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Manalapan",
+    "state": "NJ",
+    "count": 5
+  },
+  {
+    "city": "Voorheesville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Burien",
+    "state": "WA",
+    "count": 5
+  },
+  {
+    "city": "Bothell",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Delhi (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Jarvie (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Ricetown",
+    "state": "KY",
+    "count": 5
+  },
+  {
+    "city": "Lumberton",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Half Moon Bay",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Lindale",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Melbourne",
+    "state": "FL",
+    "count": 11
+  },
+  {
+    "city": "St. Ann",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Oil City",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "River Valley (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Bigfork",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Lewistown",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Menifee",
+    "state": "CA",
+    "count": 11
+  },
+  {
+    "city": "Garden Grove",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Winslow",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Greenville",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Rio Rancho",
+    "state": "NM",
+    "count": 7
+  },
+  {
+    "city": "\n",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Worcester",
+    "state": "MA",
+    "count": 13
+  },
+  {
+    "city": "Pawcatuck",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Dearborn",
+    "state": "MI",
+    "count": 5
+  },
+  {
+    "city": "Monroe",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Whitehall",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Elizabeth",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "E. Rio Vista",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Grass Valley",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Detroit",
+    "state": "MI",
+    "count": 17
+  },
+  {
+    "city": "Lees Summit",
+    "state": "MO",
+    "count": 4
+  },
+  {
+    "city": "San Anselmo",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Sells",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Miami",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "San tan valley",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Vacaville or Fairfield (?) (near)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Centerport",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Grand Junction",
+    "state": "CO",
+    "count": 13
+  },
+  {
+    "city": "Kearny Mesa",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Chapel Hill",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Superior",
+    "state": "AZ",
+    "count": 3
+  },
+  {
+    "city": "Ft. Myers",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Tucson (Pima Co.)(copper mine S of )",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "O'Fallon",
+    "state": "MO",
+    "count": 9
+  },
+  {
+    "city": "North Ogden",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Odessa (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Wendover",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Girard",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Ellenwood",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "North Creek",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Thornton",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Elizabethtown",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Morrison",
+    "state": "CO",
+    "count": 3
+  },
+  {
+    "city": "Paterson",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Rome",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Thompson Springs",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Monroe",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Crescent Valley",
+    "state": "NV",
+    "count": 2
+  },
+  {
+    "city": "Westminster",
+    "state": "CO",
+    "count": 9
+  },
+  {
+    "city": "Hanover Twp",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Snellville",
+    "state": "GA",
+    "count": 6
+  },
+  {
+    "city": "Bath",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Tillicum Campground",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "pompano beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Waterford",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Woodbridge",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "South Heights",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Brimfield",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Lehigh Township",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Bloomfield",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Nageezi",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Pawtucket",
+    "state": "RI",
+    "count": 7
+  },
+  {
+    "city": "East Patchogue",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Hemet (general area)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Fitchburg",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Tillamook",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Denver/Glendale",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Carlisle",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Lansford",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Rochester Hills",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Treasure Island",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Hillview/Shepherdsville",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Glenwood (Canada)",
+    "state": "NF",
+    "count": 1
+  },
+  {
+    "city": "New Lenox",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Barrhead (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Spring Valley",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Coulee Dam",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Airdrie (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Prairie Village",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "South Bend",
+    "state": "IN",
+    "count": 11
+  },
+  {
+    "city": "Duncansville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Sunnyside",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Buckeye",
+    "state": "AZ",
+    "count": 18
+  },
+  {
+    "city": "Ellicott City",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Truro (Canada)",
+    "state": "NS",
+    "count": 3
+  },
+  {
+    "city": "Barboursville",
+    "state": "WV",
+    "count": 4
+  },
+  {
+    "city": "New Bern",
+    "state": "NC",
+    "count": 4
+  },
+  {
+    "city": "Catonsville",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Glenwood",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "East Windsor",
+    "state": "CT",
+    "count": 3
+  },
+  {
+    "city": "Hendersonville",
+    "state": "TN",
+    "count": 4
+  },
+  {
+    "city": "Caldwell",
+    "state": "ID",
+    "count": 8
+  },
+  {
+    "city": "Evansville",
+    "state": "IN",
+    "count": 10
+  },
+  {
+    "city": "Ely",
+    "state": "NV",
+    "count": 2
+  },
+  {
+    "city": "Ormond Beach",
+    "state": "FL",
+    "count": 7
+  },
+  {
+    "city": "Dateland",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "Lake Shelbyville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Mulino",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Cleveland",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "White Plains",
+    "state": "MD",
+    "count": 3
+  },
+  {
+    "city": "Reading",
+    "state": "PA",
+    "count": 8
+  },
+  {
+    "city": "Lake Wiley",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Sedona",
+    "state": "AZ",
+    "count": 8
+  },
+  {
+    "city": "Bridgeton",
+    "state": "MO",
+    "count": 3
+  },
+  {
+    "city": "Cape May Wildwood Crest",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Cape May (headed toward on Parkway South)",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Traverse City",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Cortez",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Beckley",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Oakdale",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Springhill",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Wrightsville",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Oxford",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Elk Grove",
+    "state": "CA",
+    "count": 12
+  },
+  {
+    "city": "Brainerd",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Lanesboro",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Mansfield",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "New York City (Jamaica)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "West Palm",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Uinta Mountian Range",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Montello",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Henrico",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Smithfield",
+    "state": "RI",
+    "count": 3
+  },
+  {
+    "city": "Grand Isle",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Lake Elsinore",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Moraine",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Bayshore",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Becket",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Johnstown",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Hampton Beach",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Loudon",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "El Centro",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Perkasie",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Vernon",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Coventry",
+    "state": "RI",
+    "count": 3
+  },
+  {
+    "city": "Garden City",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Montrose",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Tobyhanna",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Silverton",
+    "state": "OR",
+    "count": 5
+  },
+  {
+    "city": "Cold Springs (Bugtussel)",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Oakwood Hills",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Georgetown",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Woodstock",
+    "state": "GA",
+    "count": 6
+  },
+  {
+    "city": "Stagecoach",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Visalia",
+    "state": "CA",
+    "count": 9
+  },
+  {
+    "city": "Baldwin",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Georgetown",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Sunland",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Antioch",
+    "state": "CA",
+    "count": 13
+  },
+  {
+    "city": "Essex",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Placerville",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "North Ridgeville",
+    "state": "OH",
+    "count": 6
+  },
+  {
+    "city": "Patchogue",
+    "state": "NY",
+    "count": 5
+  },
+  {
+    "city": "Burlington",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Palisade",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Kenmore",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Rosston",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Jalama Beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Short Gap",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Mount Pleasant",
+    "state": "OH",
+    "count": 4
+  },
+  {
+    "city": "Pine Grove",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Clarksville",
+    "state": "TN",
+    "count": 14
+  },
+  {
+    "city": "Muskegon",
+    "state": "MI",
+    "count": 9
+  },
+  {
+    "city": "Norfolk",
+    "state": "VA",
+    "count": 9
+  },
+  {
+    "city": "Cottontown",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Montville",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Blairsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Mayfield Hts",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Manlius",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Kissimee",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Daytona Beach",
+    "state": "FL",
+    "count": 7
+  },
+  {
+    "city": "Richmond",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Old Hickory",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Hiawassee",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Oakboro",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Brookline",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "\n",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Fort Mill",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Benton Hot Springs",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Cleveland (east side of)",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Augusta",
+    "state": "ME",
+    "count": 6
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "count": 8
+  },
+  {
+    "city": "Narraganssett",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "La Rue",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Essie",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Litchfield",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Onset",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Martinsburg",
+    "state": "WV",
+    "count": 3
+  },
+  {
+    "city": "Fernie (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Sherman Oaks",
+    "state": "CA",
+    "count": 10
+  },
+  {
+    "city": "Mitchell",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Davis",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Rabbit Ears Pass/Steamboat springs",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Chino",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Marlborough",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Whitesburg",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "West Valley",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Gulf Shores",
+    "state": "AL",
+    "count": 3
+  },
+  {
+    "city": "Sandown",
+    "state": "NH",
+    "count": 7
+  },
+  {
+    "city": "Overland",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Victorville",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "St. John's (Canada)",
+    "state": "NF",
+    "count": 1
+  },
+  {
+    "city": "Kent",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Ellettsville",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Ridgewood",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Grosse Pointe Farms",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Rice Lake",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Moorland",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Niverville (Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Kapaa",
+    "state": "HI",
+    "count": 4
+  },
+  {
+    "city": "Glendale",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Alex",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Nelson",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Waupun",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Mississauga (Canada)",
+    "state": "ON",
+    "count": 6
+  },
+  {
+    "city": "Linwood",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Hopewell Junction",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Springfield",
+    "state": "OR",
+    "count": 10
+  },
+  {
+    "city": "Exton",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Hogansville",
+    "state": "GA",
+    "count": 3
+  },
+  {
+    "city": "Arden Hills",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Leicester",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Pierre",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Berks County",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Louisburg",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "West Islip",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Carrollton",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Niceville",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Auburn",
+    "state": "WA",
+    "count": 15
+  },
+  {
+    "city": "Woodbridge",
+    "state": "NJ",
+    "count": 8
+  },
+  {
+    "city": "Norwalk/Darien",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Rosemount",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Spring Lake",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Ogden",
+    "state": "UT",
+    "count": 9
+  },
+  {
+    "city": "Howard",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Rotterdam",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Martin",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Thunder Bay (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Newbury",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Altoona",
+    "state": "PA",
+    "count": 4
+  },
+  {
+    "city": "West Warwick",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Riverdale",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Lincoln",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Oakesdale",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Lewiston",
+    "state": "ID",
+    "count": 3
+  },
+  {
+    "city": "Fall River",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Troy",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Sun Valley",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Franklin",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Silver City",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Viking",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Mayfield",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Rockford",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Macomb",
+    "state": "MI",
+    "count": 5
+  },
+  {
+    "city": "Crystal Lake",
+    "state": "IL",
+    "count": 5
+  },
+  {
+    "city": "Orland Hills",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Estacada",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Newcastle",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Joppa",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Wheatland",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Piscataway",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Columbus (North)",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Corcoran",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Bellevue",
+    "state": "WA",
+    "count": 13
+  },
+  {
+    "city": "Aiken",
+    "state": "SC",
+    "count": 5
+  },
+  {
+    "city": "Sandy Hook",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Woodford",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Benicia",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Bennington",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Eastern Shore",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "West Green",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Rising Sun",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Marstons Mills",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Greenbrier",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Pikeville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Grayling",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Lethbridge (Canada)",
+    "state": "AB",
+    "count": 3
+  },
+  {
+    "city": "Lexington",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Collingwood (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Little River",
+    "state": "SC",
+    "count": 5
+  },
+  {
+    "city": "Keller",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Bothell (above)",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Yelm (near)",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Olalla",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Harrison",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Spokane",
+    "state": "WA",
+    "count": 23
+  },
+  {
+    "city": "Black Diamond",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Pilot Point",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Chanhassen",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Lake Worth",
+    "state": "FL",
+    "count": 9
+  },
+  {
+    "city": "Hawarden",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Hammond",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "West Jordan",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Norcross",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Raton",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Orange County",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Rogers",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Covina",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Gibsons (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Monroeville",
+    "state": "PA",
+    "count": 4
+  },
+  {
+    "city": "Ramsey",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Dingmans Ferry",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Coudersport",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Weaverville",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Colchester",
+    "state": "VT",
+    "count": 4
+  },
+  {
+    "city": "Durham",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Buffalo",
+    "state": "WY",
+    "count": 2
+  },
+  {
+    "city": "Kittery",
+    "state": "ME",
+    "count": 3
+  },
+  {
+    "city": "Green Valley Lake",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Kokomo",
+    "state": "IN",
+    "count": 4
+  },
+  {
+    "city": "Winterset",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Pleasanton",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Texarkana",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Williamston",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Westfield",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "North Muskegon",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Rock Springs",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "New York City (Manhattan)",
+    "state": "NY",
+    "count": 16
+  },
+  {
+    "city": "Ladson",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Lincoln City",
+    "state": "OR",
+    "count": 5
+  },
+  {
+    "city": "Moscow Mills",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Nixa",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Grand Marais",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Cornelius",
+    "state": "NC",
+    "count": 4
+  },
+  {
+    "city": "Assateague Island",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Oshkosh",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Holiday",
+    "state": "FL",
+    "count": 11
+  },
+  {
+    "city": "Epsom",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "St. Croix (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Van Nuys",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Richmond",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Graham",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Geneva",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Trigg County (Lake Barkley)",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Pleasant Grove",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Springdale",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Rushford",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Saint George",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "Hutchinson",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Jefferson City",
+    "state": "MO",
+    "count": 6
+  },
+  {
+    "city": "Loveland",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Owasso",
+    "state": "OK",
+    "count": 3
+  },
+  {
+    "city": "La Habra",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "West Chester",
+    "state": "OH",
+    "count": 4
+  },
+  {
+    "city": "Pelham",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Deltona",
+    "state": "FL",
+    "count": 11
+  },
+  {
+    "city": "Buzzards Bay",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Chesterfield",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Deepwater",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Birmingham (outside Hueytown)",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Santa rosa",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "North Myrtle Beach",
+    "state": "SC",
+    "count": 22
+  },
+  {
+    "city": "New Oxford",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Takhlakh Lake",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "St. Andrews By The Sea (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Gretna",
+    "state": "NE",
+    "count": 2
+  },
+  {
+    "city": "Waynesboro",
+    "state": "VA",
+    "count": 4
+  },
+  {
+    "city": "Asheboro",
+    "state": "NC",
+    "count": 8
+  },
+  {
+    "city": "Everett",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Lynnwood",
+    "state": "WA",
+    "count": 6
+  },
+  {
+    "city": "Arlington",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Auburn Hills",
+    "state": "MI",
+    "count": 5
+  },
+  {
+    "city": "Glassboro",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Washington",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Roy",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Tualatin",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Nacogdoches",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Grand Saline",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Saratoga Springs",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Hanover Park",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Granada Hills",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Fredericton (Canada)",
+    "state": "NB",
+    "count": 6
+  },
+  {
+    "city": "Strafford",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Copake",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Cadillac",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Nazareth",
+    "state": "PA",
+    "count": 4
+  },
+  {
+    "city": "Lakeville",
+    "state": "MN",
+    "count": 8
+  },
+  {
+    "city": "Fulton",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Palmdale",
+    "state": "CA",
+    "count": 10
+  },
+  {
+    "city": "Cody",
+    "state": "WY",
+    "count": 7
+  },
+  {
+    "city": "Kirbyville",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Whidbey Island",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Canal Winchester",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Selden",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Pulaski",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Gallipolis",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Walnut",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Woburn",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Methuen",
+    "state": "MA",
+    "count": 6
+  },
+  {
+    "city": "Kenner",
+    "state": "LA",
+    "count": 9
+  },
+  {
+    "city": "Parlin",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Groton",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Medford",
+    "state": "MA",
+    "count": 5
+  },
+  {
+    "city": "Independence",
+    "state": "MO",
+    "count": 11
+  },
+  {
+    "city": "Independence",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Donalds",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Hyannis",
+    "state": "MA",
+    "count": 4
+  },
+  {
+    "city": "Lyons",
+    "state": "CO",
+    "count": 4
+  },
+  {
+    "city": "Windsor (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Clinton Township",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "North Canton",
+    "state": "OH",
+    "count": 8
+  },
+  {
+    "city": "Greensburg",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Post Falls",
+    "state": "ID",
+    "count": 5
+  },
+  {
+    "city": "Lapine",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Wilsall",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Erie",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Midland",
+    "state": "MI",
+    "count": 6
+  },
+  {
+    "city": "Honor",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Kingston (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Pinon Hills",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Wappingers Falls",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Oak Ridge",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Beaufort",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Morehead City",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Lawrenceville",
+    "state": "GA",
+    "count": 8
+  },
+  {
+    "city": "McKinney",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Pinedale",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Takoma Park",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Marietta",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Weston",
+    "state": "FL",
+    "count": 8
+  },
+  {
+    "city": "Vernon",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Carlisle",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Cavalier",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Labadieville",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Bellaire",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Gallup",
+    "state": "NM",
+    "count": 3
+  },
+  {
+    "city": "Williamsburg",
+    "state": "VA",
+    "count": 5
+  },
+  {
+    "city": "South Dewey Beach",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Hampton",
+    "state": "NH",
+    "count": 4
+  },
+  {
+    "city": "Birmingham (NE of)",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Hamilton (Canada)",
+    "state": "ON",
+    "count": 3
+  },
+  {
+    "city": "Osage Beach",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Florence",
+    "state": "MT",
+    "count": 3
+  },
+  {
+    "city": "Lamoni",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Southaven",
+    "state": "MS",
+    "count": 3
+  },
+  {
+    "city": "Hermiston",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Newville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Somerset",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Scituate",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Richland",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Vadnis Heights/white bear lake",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Nickerson State Park. Brewster",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Occoquan",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Wakefield",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "South Windsor",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "La Pine",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Augusta",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Canton",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Lancaster",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Bowling Green",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Hendersonville",
+    "state": "NC",
+    "count": 7
+  },
+  {
+    "city": "Jefferson",
+    "state": "GA",
+    "count": 4
+  },
+  {
+    "city": "Yerington",
+    "state": "NV",
+    "count": 3
+  },
+  {
+    "city": "Salt Lake City Utah",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Sterling Heights",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Lexington",
+    "state": "KY",
+    "count": 12
+  },
+  {
+    "city": "Versailles",
+    "state": "KY",
+    "count": 3
+  },
+  {
+    "city": "Chamois",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Edinburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Manilla",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Mentor",
+    "state": "OH",
+    "count": 6
+  },
+  {
+    "city": "\n",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Telluride",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Clinton",
+    "state": "CT",
+    "count": 5
+  },
+  {
+    "city": "Davie",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Walla Walla",
+    "state": "WA",
+    "count": 6
+  },
+  {
+    "city": "Royal Oak",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Mt. Morrison",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "St. Augustine Beach",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Ocoee",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "West Mifflin",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Plymouth",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Louisvile",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Port Sanilac",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Anahiem",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Locke",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Marsing",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Marshalltown",
+    "state": "IA",
+    "count": 2
+  },
+  {
+    "city": "Warner Springs (near)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Majors Place (south of)",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Alto",
+    "state": "NM",
+    "count": 4
+  },
+  {
+    "city": "Decaturville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Kingman",
+    "state": "AZ",
+    "count": 11
+  },
+  {
+    "city": "Elkhart Lake",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Payette",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Mission (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Port Hadlock",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Fargo",
+    "state": "ND",
+    "count": 4
+  },
+  {
+    "city": "New Kensington",
+    "state": "PA",
+    "count": 5
+  },
+  {
+    "city": "Montrose",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Abbotsford (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Glenpool",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "Stanton",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Ocean City",
+    "state": "MD",
+    "count": 8
+  },
+  {
+    "city": "Atchison",
+    "state": "KS",
+    "count": 2
+  },
+  {
+    "city": "Nampa",
+    "state": "ID",
+    "count": 22
+  },
+  {
+    "city": "Yreka",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Butte",
+    "state": "MT",
+    "count": 8
+  },
+  {
+    "city": "Reston",
+    "state": "VA",
+    "count": 4
+  },
+  {
+    "city": "Larmont",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Morristown",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "Candler",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Hermiston",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Prospect",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Collinsville",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Garden City Beach",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "New York City (Queens)(Hollis)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Franklin Square",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Montebello",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Rantoul",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Jal",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Greencastle",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Manchester",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Suisun City",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Wabasha",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Middleton",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Oklahoma City (South)",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Saint Simons Island",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Penacook",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Camden",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Savage",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Greenville",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Knox",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "New Tampa",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Acworth",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Weld County (rural)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Galena",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "East Longmeadow",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Hot Springs",
+    "state": "AR",
+    "count": 4
+  },
+  {
+    "city": "East Dubuque",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Lakeville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Camdenton",
+    "state": "MO",
+    "count": 5
+  },
+  {
+    "city": "Waters",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Waters",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Chestertown",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Doaktown",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Eagle Rock",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Middletown",
+    "state": "CT",
+    "count": 9
+  },
+  {
+    "city": "Denton",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Marysville",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Cloverdale",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Brownsburg",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Delaware Township",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Sullivan",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Kent/Auburn",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Gallitzin",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Cooper City",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Sinking Spring",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Cave Creek",
+    "state": "AZ",
+    "count": 5
+  },
+  {
+    "city": "Effort",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Forest Lake",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Calistoga",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Imlay City",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Hillsborough (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Gardendale",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "West Windsor",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Lancaster County",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Millcreek",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Sonoma (Fetters Hot Springs)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Albany",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Clifton",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Taylorsville",
+    "state": "UT",
+    "count": 5
+  },
+  {
+    "city": "Staunton",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Silver Spring",
+    "state": "MD",
+    "count": 11
+  },
+  {
+    "city": "Charlottesville",
+    "state": "VA",
+    "count": 8
+  },
+  {
+    "city": "Massapequa",
+    "state": "NY",
+    "count": 5
+  },
+  {
+    "city": "Lindenhurst",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Stafford",
+    "state": "VA",
+    "count": 8
+  },
+  {
+    "city": "Gloucester",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Georgetown",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "West Deptford",
+    "state": "NJ",
+    "count": 4
+  },
+  {
+    "city": "Hampton/Newport News",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Beaver",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Brookville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Williamstown",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Sun Prairie",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Mastic Beach",
+    "state": "NY",
+    "count": 5
+  },
+  {
+    "city": "Newport News",
+    "state": "VA",
+    "count": 6
+  },
+  {
+    "city": "Fort Oglethorpe",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Trimont",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "East Norwich",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "count": 10
+  },
+  {
+    "city": "Duluth",
+    "state": "MN",
+    "count": 4
+  },
+  {
+    "city": "Miamiville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Bear",
+    "state": "DE",
+    "count": 6
+  },
+  {
+    "city": "Casa Grande",
+    "state": "AZ",
+    "count": 6
+  },
+  {
+    "city": "Soap Lake",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Cambridge",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Leupp",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Benson",
+    "state": "VT",
+    "count": 2
+  },
+  {
+    "city": "Garden City",
+    "state": "SC",
+    "count": 8
+  },
+  {
+    "city": "Lisbon",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Swansboro",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Tazewell",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Lincoln",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Ballwin",
+    "state": "MO",
+    "count": 3
+  },
+  {
+    "city": "McMurray",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Gloversville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Corbin",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Korbel",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Courtenay (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Lampe",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Maple Ridge (Canada)",
+    "state": "BC",
+    "count": 5
+  },
+  {
+    "city": "Inside Passage (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "North Port",
+    "state": "FL",
+    "count": 7
+  },
+  {
+    "city": "Blue Mountains (in NE Oregon)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "St. Louis",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Diamond Lake/Mt. Thielson",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Titusville",
+    "state": "FL",
+    "count": 8
+  },
+  {
+    "city": "Merritt Island (above)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Farmington",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Rockledge",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "New Bloomfield",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Hazel Green",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Ephrata",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Fairfield",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Minneapolis",
+    "state": "MN",
+    "count": 24
+  },
+  {
+    "city": "Bonney Lake",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Longview",
+    "state": "WA",
+    "count": 8
+  },
+  {
+    "city": "Olney",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Paulding",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Pasadena",
+    "state": "MD",
+    "count": 7
+  },
+  {
+    "city": "Pasco",
+    "state": "WA",
+    "count": 7
+  },
+  {
+    "city": "Desert Hills",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Tujunga",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mystic Island",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Lansdale",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Lenoir City",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "Holbrook",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Mountain Grove",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Waverly",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Harvey",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Attleboro",
+    "state": "MA",
+    "count": 7
+  },
+  {
+    "city": "Port Wentworth (Pooler)",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Kettle Falls",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Stillwater",
+    "state": "OK",
+    "count": 3
+  },
+  {
+    "city": "Lee's Summit",
+    "state": "MO",
+    "count": 5
+  },
+  {
+    "city": "Kinston",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Streetsboro",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Romulus",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Saginaw",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Adair Village",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Havre",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Muncie",
+    "state": "IN",
+    "count": 3
+  },
+  {
+    "city": "Ferrum",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Axton",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Waldport",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Danville",
+    "state": "VA",
+    "count": 5
+  },
+  {
+    "city": "Yosemite National Park",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Sams Valley",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "St. Peters",
+    "state": "MO",
+    "count": 9
+  },
+  {
+    "city": "Duncannon",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Bucyrus",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Aurora",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "St. Paul",
+    "state": "MN",
+    "count": 14
+  },
+  {
+    "city": "Old Bridge",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Falls Church",
+    "state": "VA",
+    "count": 4
+  },
+  {
+    "city": "Somerset",
+    "state": "KY",
+    "count": 4
+  },
+  {
+    "city": "Circleville",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Fairfield",
+    "state": "CA",
+    "count": 13
+  },
+  {
+    "city": "Ruther Glen",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Great Falls",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Berry Creek",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Aledo",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Barrington",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Colby",
+    "state": "KS",
+    "count": 3
+  },
+  {
+    "city": "Paulden",
+    "state": "AZ",
+    "count": 3
+  },
+  {
+    "city": "Clear Lake",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Colonie",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Leander",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Corinth",
+    "state": "MS",
+    "count": 2
+  },
+  {
+    "city": "Waynesville",
+    "state": "MO",
+    "count": 4
+  },
+  {
+    "city": "Walsenburg",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Peabody",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Dunkirk",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Emerald Isle",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Bardstown",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Gunnison National Forest (Almost)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Ukiah",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Lapeer",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Port Barre",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Donora",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Pocono Lake",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Minnetonka",
+    "state": "MN",
+    "count": 6
+  },
+  {
+    "city": "Fortuna",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Redwater (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Lantana",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "San Leandro",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Toronto",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Rutledge",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Westminster",
+    "state": "MD",
+    "count": 4
+  },
+  {
+    "city": "Massillon",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Palmyra",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Turnersville",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Wilmington",
+    "state": "DE",
+    "count": 11
+  },
+  {
+    "city": "New York City (Queens)(Flushing Meadows)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Roseville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Goffstown",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Shelbyville",
+    "state": "IN",
+    "count": 4
+  },
+  {
+    "city": "Yakima",
+    "state": "WA",
+    "count": 8
+  },
+  {
+    "city": "Novi",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Troy",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Oak Lawn",
+    "state": "IL",
+    "count": 19
+  },
+  {
+    "city": "Hardy",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Croton",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Anderson",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Nanaimo (Canada)",
+    "state": "BC",
+    "count": 6
+  },
+  {
+    "city": "Rabbit Valley",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Hebron",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Cherokee",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Eau Claire",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Leota",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Morehead",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Atoka",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "Cimarron",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Park City",
+    "state": "UT",
+    "count": 5
+  },
+  {
+    "city": "Round Lake",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Ballinger",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Derry",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "New Cumberland",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Allen Park",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Peoria",
+    "state": "IL",
+    "count": 5
+  },
+  {
+    "city": "Bremerton",
+    "state": "WA",
+    "count": 14
+  },
+  {
+    "city": "Lock Haven",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Prescott Valley",
+    "state": "AZ",
+    "count": 8
+  },
+  {
+    "city": "Welton",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Troy",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Portsmouth",
+    "state": "VA",
+    "count": 14
+  },
+  {
+    "city": "Beloit",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Brushton",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Bessemer City",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Dayhoit",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Cushing",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "New Philadelphia",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Bellmore",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Waterford",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Parker/Aurora",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Manteno",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Fairfield",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Annapolis",
+    "state": "MD",
+    "count": 9
+  },
+  {
+    "city": "Borrego Springs",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Kings Beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Burnsville",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Plaistow",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Canton",
+    "state": "MI",
+    "count": 10
+  },
+  {
+    "city": "New Salisbury",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "I-95 (@ MM 54/55)",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Palo Alto",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Spirit Lake",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Little Neck",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Hamilton",
+    "state": "MT",
+    "count": 3
+  },
+  {
+    "city": "Lake View",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Balliettsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Benson",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "Amboy",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Montoursville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Fullerton",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Carbondale",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "South Myrtle Beach",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Brighton",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Nashville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Pearisburg",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Honeyville",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Boardman",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Adrian",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Edison",
+    "state": "NJ",
+    "count": 5
+  },
+  {
+    "city": "Rowley",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Perryville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Lakeway",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Buford",
+    "state": "WY",
+    "count": 3
+  },
+  {
+    "city": "Mountain Top",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Land O'Lakes",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Long Beach",
+    "state": "MS",
+    "count": 3
+  },
+  {
+    "city": "Oxford",
+    "state": "MS",
+    "count": 3
+  },
+  {
+    "city": "Saint Peter",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Slingerlands",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Oak Grove",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Norman",
+    "state": "OK",
+    "count": 5
+  },
+  {
+    "city": "Wahpeton",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Provo",
+    "state": "UT",
+    "count": 4
+  },
+  {
+    "city": "Gila Bend",
+    "state": "AZ",
+    "count": 4
+  },
+  {
+    "city": "Macedon",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Birch Tree",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Sugar Hill",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Kewanee",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Northvale",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Wonder Lake",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Auburn",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Eminence",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "El Mirage",
+    "state": "AZ",
+    "count": 7
+  },
+  {
+    "city": "Malibu",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Camas",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Sutherlin",
+    "state": "OR",
+    "count": 7
+  },
+  {
+    "city": "Delano",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Marine park Bklyn",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Keego Harbor",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Clarence",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Oakland",
+    "state": "CA",
+    "count": 12
+  },
+  {
+    "city": "Spring",
+    "state": "TX",
+    "count": 12
+  },
+  {
+    "city": "Sierra Vista",
+    "state": "AZ",
+    "count": 3
+  },
+  {
+    "city": "South Easton",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Dolton",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Randolph",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Marysville",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Venice",
+    "state": "FL",
+    "count": 8
+  },
+  {
+    "city": "Delmont",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Orland Park",
+    "state": "IL",
+    "count": 7
+  },
+  {
+    "city": "Sooke (Canada)",
+    "state": "BC",
+    "count": 3
+  },
+  {
+    "city": "Arlington",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Floresville",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Millsboro",
+    "state": "DE",
+    "count": 4
+  },
+  {
+    "city": "Friendswood",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Camden",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Fort Worth",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "West Pasco",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Pace",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Pine Bluff",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Bryan",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Fontana",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Brewster",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Northfield",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Webster",
+    "state": "NY",
+    "count": 7
+  },
+  {
+    "city": "Greece",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Globe",
+    "state": "AZ",
+    "count": 4
+  },
+  {
+    "city": "North Salt Lake",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Leadville",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Lovington",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Castro Valley",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "St. Louis County",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Sumner",
+    "state": "WA",
+    "count": 7
+  },
+  {
+    "city": "Bardwell",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Los Gatos Mountains",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Madera",
+    "state": "CA",
+    "count": 9
+  },
+  {
+    "city": "Wilmington",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Delaware",
+    "state": "OH",
+    "count": 5
+  },
+  {
+    "city": "Landers",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Belen",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Landers (Yucca Valley)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Jonesborough",
+    "state": "TN",
+    "count": 4
+  },
+  {
+    "city": "Silver Lake",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Pleasant Hill",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mechanicsville",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Goleta",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Bozra",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "New Windsor",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Wilkes-Barre",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Quincy",
+    "state": "WA",
+    "count": 4
+  },
+  {
+    "city": "Weare ,",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Lubbock",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "san jose",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Paragould",
+    "state": "AR",
+    "count": 4
+  },
+  {
+    "city": "North Charleston",
+    "state": "SC",
+    "count": 5
+  },
+  {
+    "city": "Bowie",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Des Plaines",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Edwardsville",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "New Milford",
+    "state": "CT",
+    "count": 4
+  },
+  {
+    "city": "Wilmington",
+    "state": "NC",
+    "count": 11
+  },
+  {
+    "city": "White Marsh",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Hoboken",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Milton",
+    "state": "VT",
+    "count": 4
+  },
+  {
+    "city": "Pownal",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Salisbury",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Ashton",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Normandy",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Hamilton",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Roseville",
+    "state": "CA",
+    "count": 16
+  },
+  {
+    "city": "Seatac",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Lebanon",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Springfield",
+    "state": "MA",
+    "count": 5
+  },
+  {
+    "city": "Ft. Collins",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Melba",
+    "state": "ID",
+    "count": 2
+  },
+  {
+    "city": "Fort Loramie",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Cookeville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Minster",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Depew",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Vincennes",
+    "state": "IN",
+    "count": 3
+  },
+  {
+    "city": "Hudson",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Rockledge",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Cypress",
+    "state": "TX",
+    "count": 6
+  },
+  {
+    "city": "Howell",
+    "state": "NJ",
+    "count": 4
+  },
+  {
+    "city": "Belpre",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Covington",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Evans",
+    "state": "CO",
+    "count": 4
+  },
+  {
+    "city": "Williamsport",
+    "state": "PA",
+    "count": 5
+  },
+  {
+    "city": "Centerville",
+    "state": "OH",
+    "count": 4
+  },
+  {
+    "city": "Coolridge",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Breckenridge",
+    "state": "CO",
+    "count": 3
+  },
+  {
+    "city": "Palm Beach",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Limon",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Katy",
+    "state": "TX",
+    "count": 7
+  },
+  {
+    "city": "Millington",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Tucson/Sierra Vista (Interstate 10)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Statesville",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Pullman",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "West Lakeland",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Surprise",
+    "state": "AZ",
+    "count": 13
+  },
+  {
+    "city": "Washington, DC",
+    "state": "DC",
+    "count": 2
+  },
+  {
+    "city": "Enid",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Zimmerman",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Apache Junction",
+    "state": "AZ",
+    "count": 11
+  },
+  {
+    "city": "Alamogordo",
+    "state": "NM",
+    "count": 8
+  },
+  {
+    "city": "Joshua Tree",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Stanford",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Ontario",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "((Location no revealed by witness))",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Canmore (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Higginsville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Atlantic City",
+    "state": "NJ",
+    "count": 4
+  },
+  {
+    "city": "Memphis",
+    "state": "TN",
+    "count": 15
+  },
+  {
+    "city": "Abilene",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Amanda",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Ft. Olgethorpe",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Blackshear",
+    "state": "GA",
+    "count": 4
+  },
+  {
+    "city": "West Covina",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Guilford",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Brooklyn Park",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Harrington",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Auburn",
+    "state": "AL",
+    "count": 5
+  },
+  {
+    "city": "Auburn",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Northville",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Clearwater/Palm Harbor",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Lake St. Louis",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Greenville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Wylie",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Jewell",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Montgomery",
+    "state": "AL",
+    "count": 4
+  },
+  {
+    "city": "Warrior",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "District Heights",
+    "state": "MD",
+    "count": 3
+  },
+  {
+    "city": "Walton",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Vineland",
+    "state": "NJ",
+    "count": 4
+  },
+  {
+    "city": "Goodyear",
+    "state": "AZ",
+    "count": 13
+  },
+  {
+    "city": "Waxahachie",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Hibbing",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Bonnerdale/Crossroads",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Camp McGregor",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Mojave (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "York",
+    "state": "NE",
+    "count": 3
+  },
+  {
+    "city": "Onchiota",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Edgewood",
+    "state": "NM",
+    "count": 3
+  },
+  {
+    "city": "Meridian",
+    "state": "ID",
+    "count": 15
+  },
+  {
+    "city": "Taft",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Goose Creek",
+    "state": "SC",
+    "count": 8
+  },
+  {
+    "city": "Lake Los Angeles",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "West Union",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Barneveld",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Kennesaw",
+    "state": "GA",
+    "count": 5
+  },
+  {
+    "city": "Canoga Park",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Georgesville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Lawrenceville",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Tewksbury",
+    "state": "MA",
+    "count": 4
+  },
+  {
+    "city": "Chugiak",
+    "state": "AK",
+    "count": 2
+  },
+  {
+    "city": "Millville",
+    "state": "NJ",
+    "count": 5
+  },
+  {
+    "city": "Seminary",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Taylor",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Peyton",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Eatonton",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Belleville",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Pebble Beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Del Valle",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Chiloquin",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Mansfield",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Newport",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Edina",
+    "state": "MN",
+    "count": 5
+  },
+  {
+    "city": "Medford",
+    "state": "OR",
+    "count": 8
+  },
+  {
+    "city": "Chambersburg",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Woods Hole",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Coconut Creek",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Fords",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Excelsior",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Kealakekua",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Sturgeon Bay",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Demotte",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Burl County",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Franklin Park",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Germantown",
+    "state": "MD",
+    "count": 7
+  },
+  {
+    "city": "Temple hills",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Garden City",
+    "state": "ID",
+    "count": 2
+  },
+  {
+    "city": "West Bend",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "West Kelowna (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Gambrills",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Mossyrock",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Orangeville (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Bradenton",
+    "state": "FL",
+    "count": 13
+  },
+  {
+    "city": "Beattyville",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Indian Reservation on way to Barona Casino",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Vienna",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Pinellas Park",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Santa Barbara",
+    "state": "CA",
+    "count": 10
+  },
+  {
+    "city": "Largo",
+    "state": "FL",
+    "count": 9
+  },
+  {
+    "city": "Seminole",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Plant City",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "West Palm Beach",
+    "state": "FL",
+    "count": 10
+  },
+  {
+    "city": "Plantation",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Ponca City",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "Apollo Beach",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Rigby",
+    "state": "ID",
+    "count": 2
+  },
+  {
+    "city": "Nicassio",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Vance AFB",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Parsonsfield",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "count": 20
+  },
+  {
+    "city": "Roseville",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Fenton",
+    "state": "MO",
+    "count": 5
+  },
+  {
+    "city": "Iota",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Orono",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Chappell Hill",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Salt Point State Park",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Richmond (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Selah",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Goshen",
+    "state": "IN",
+    "count": 3
+  },
+  {
+    "city": "Irmo",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Lake Forest",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Oneco",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Burlington (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Midwest city",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Thompson (Canada)",
+    "state": "MB",
+    "count": 5
+  },
+  {
+    "city": "Dillon",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Sanra Rosa",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Neenah",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "McKinleyville",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Stevenson Ranch",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lynn",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "North River (Canada)",
+    "state": "NF",
+    "count": 1
+  },
+  {
+    "city": "Hanging Rock",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Hartsville",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Surfside Beach",
+    "state": "SC",
+    "count": 5
+  },
+  {
+    "city": "Petaluma",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Thibodaux",
+    "state": "LA",
+    "count": 3
+  },
+  {
+    "city": "Palmyra",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Vashon",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Bridgeview",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Newton",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Cobourg (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Benton",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Gray",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Cape Girardeau",
+    "state": "MO",
+    "count": 4
+  },
+  {
+    "city": "Holiday Island",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Uniontown/Kent",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Willard",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Galena Park",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Smithfield",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Cottage Grove & Madison",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Warminster",
+    "state": "PA",
+    "count": 6
+  },
+  {
+    "city": "New York City (upper West Side)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Grant",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Sugarland",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Seymour",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Dover",
+    "state": "DE",
+    "count": 3
+  },
+  {
+    "city": "Vallejo",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Sylvester",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Jasper",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Fort Lee",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Ardsley",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "South Belot",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Big Timber",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Rock Island",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Oceanside",
+    "state": "CA",
+    "count": 10
+  },
+  {
+    "city": "Bolingbrook",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Arundel",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Honolulu",
+    "state": "HI",
+    "count": 18
+  },
+  {
+    "city": "Merrimack",
+    "state": "NH",
+    "count": 5
+  },
+  {
+    "city": "Dickinson (headed toward Galveston)",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Eastaboga",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Willowdale",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Dothan",
+    "state": "AL",
+    "count": 8
+  },
+  {
+    "city": "Gordon",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Monticello",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Santa Maria",
+    "state": "CA",
+    "count": 8
+  },
+  {
+    "city": "Woodsville",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Saint James",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Grant",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Woodbury",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Poland",
+    "state": "ME",
+    "count": 4
+  },
+  {
+    "city": "Marne",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Irvine/Costa Mesa (between)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Sawgrass area",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Clermont",
+    "state": "FL",
+    "count": 7
+  },
+  {
+    "city": "Great Barrington",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Sister Bay",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Savanagh",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Monona",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Sammamish",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Franklin",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Springfield",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Creve Couer",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Frisco",
+    "state": "TX",
+    "count": 5
+  },
+  {
+    "city": "Taylorsville",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Pigeon Forge",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Rochelle",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Lincoln Park",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Luke Air Force Base",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Harrisville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Snow Camp",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Hartford",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Stem",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Clovis",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "New Orleans",
+    "state": "LA",
+    "count": 14
+  },
+  {
+    "city": "In-flight (military)(city not specified)",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Kitchener (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Phoenix",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Calexico",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Davenport",
+    "state": "WA",
+    "count": 5
+  },
+  {
+    "city": "Mission Viejo",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Brawley",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Pacific Beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "San Marcos",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Colorado (southeast part)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Chiraco Summit",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Fontana",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Live Oak",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Clyde",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "West Gardiner",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Falcon",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Fishers",
+    "state": "IN",
+    "count": 4
+  },
+  {
+    "city": "Lawton (between Lawton and Duncan, hwy 7 west going east)",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Tinley Park",
+    "state": "IL",
+    "count": 4
+  },
+  {
+    "city": "Raymond",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Albany",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Tougaloo",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Riverside",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Exshaw (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Highland",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Williams",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Paso Robles",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Kawartha Lakes",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Hammond",
+    "state": "LA",
+    "count": 3
+  },
+  {
+    "city": "New Iberia",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Jonesboro",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Valley Center",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "La Mirada",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "\n",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Lapine",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Chesapeake",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Clinton",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Gheen",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Fresno",
+    "state": "CA",
+    "count": 24
+  },
+  {
+    "city": "Culver City",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Manchester",
+    "state": "IA",
+    "count": 2
+  },
+  {
+    "city": "Cedar Grove",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Middletown",
+    "state": "RI",
+    "count": 4
+  },
+  {
+    "city": "Rogers County",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Tillsonburg (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Bridgewater",
+    "state": "NJ",
+    "count": 5
+  },
+  {
+    "city": "Pioneertown (near)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Frankenmuth",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Snohomish",
+    "state": "WA",
+    "count": 5
+  },
+  {
+    "city": "Waukesha",
+    "state": "WI",
+    "count": 6
+  },
+  {
+    "city": "Woodinvile",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Seal Beach",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Amherst",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Granbury",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Orleans",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Indian Shores",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Allendale",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lockhart",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Hernandez",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Orange",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Canby",
+    "state": "OR",
+    "count": 5
+  },
+  {
+    "city": "Wrightwood",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Wyoming",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Boulevard",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Crescent",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Bartow",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Shiprock",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Coachella Valley",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Pittsboro",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Hamilton",
+    "state": "OH",
+    "count": 6
+  },
+  {
+    "city": "Orange Spring",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Newport",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Exeter",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Leduc (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Orrington",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Corrales",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Fairborn",
+    "state": "OH",
+    "count": 8
+  },
+  {
+    "city": "Thomasville",
+    "state": "NC",
+    "count": 4
+  },
+  {
+    "city": "North Richland Hills",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Sheboygan",
+    "state": "WI",
+    "count": 4
+  },
+  {
+    "city": "Ilfeld",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "\n",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Raeford",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Miramar",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Framingham",
+    "state": "MA",
+    "count": 7
+  },
+  {
+    "city": "Altoona",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Livonia",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Currie",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "New Orleans (80 mi. SE of; Gulf of Mexico)",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Woodstock (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Athens",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Groveland",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Ajo",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Forest",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Berlin",
+    "state": "CT",
+    "count": 3
+  },
+  {
+    "city": "Eagle Pass",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Greenville",
+    "state": "SC",
+    "count": 7
+  },
+  {
+    "city": "Carroll",
+    "state": "IA",
+    "count": 2
+  },
+  {
+    "city": "Carthage",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Nunley",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Washington",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Monticello",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Arkansas City",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Pompano Beach",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Parrish",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Sebastian",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Bryant",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Bartlett",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Grandview",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Montague",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Portsmouth",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Putney",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Tolland",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Century",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Ruso",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Gull Lake",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "tempe",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Dallas (Lakewood area)",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Wareham",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Sand Rock",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Bayville",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Grand Isle",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Chesnee",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "St. Robert",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Wellington",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Volcano",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Cherry Springs Community",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Aliso Viejo",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Lava Hot Springs",
+    "state": "ID",
+    "count": 2
+  },
+  {
+    "city": "Colton",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Wyandotte",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Mount Airy",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Sanford",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Hot Springs National Park",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Paw Paw",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Boaz",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Chapmanville",
+    "state": "WV",
+    "count": 2
+  },
+  {
+    "city": "Columbus",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Lewis center",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Camp Hill",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Oley",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Lavallette",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Mt. Airy",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Wausau",
+    "state": "WI",
+    "count": 4
+  },
+  {
+    "city": "Yarmouth (Nova Scotia)(Canada)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Belpit",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Grand Terrace",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Des Moines",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Alexandria",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Battle Creek",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Newton",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Dartmouth (Canada)",
+    "state": "NS",
+    "count": 4
+  },
+  {
+    "city": "Jackson",
+    "state": "MS",
+    "count": 2
+  },
+  {
+    "city": "LaFayette",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Prince Albert (Canada)",
+    "state": "SK",
+    "count": 1
+  },
+  {
+    "city": "Leonardtown",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Saint Joseph",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Vestavia",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Lockwood",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Belvidere",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Piney Flats",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Riverdale",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Ypsilanti",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Gray Court",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Princeton",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Adel",
+    "state": "IA",
+    "count": 2
+  },
+  {
+    "city": "Surry",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Jamestown",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Meridian",
+    "state": "MS",
+    "count": 3
+  },
+  {
+    "city": "Ft. Lauderdale",
+    "state": "FL",
+    "count": 14
+  },
+  {
+    "city": "Walker",
+    "state": "LA",
+    "count": 5
+  },
+  {
+    "city": "Lisbon",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Anola (Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Honeybrook",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "San Fernando",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Wheeling",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Upper Freehold Township",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Powell",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "Absarokee",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Amelia Island",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Donaldsonville",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Lynchburg",
+    "state": "VA",
+    "count": 5
+  },
+  {
+    "city": "Plymouth",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Kaukauna",
+    "state": "WI",
+    "count": 4
+  },
+  {
+    "city": "Monson",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Ashland",
+    "state": "NE",
+    "count": 3
+  },
+  {
+    "city": "Soldotna",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Englewood",
+    "state": "CO",
+    "count": 6
+  },
+  {
+    "city": "Ridgecrest",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Wetumpka",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Index",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Lake Conroe",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Waco",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Floodwood",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Fayetteville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Cloquet",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "St. Clair",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Ingram",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Islip Terrace",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Mountain City",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "Atascocta",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Thorndale",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Plains",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Decatur",
+    "state": "GA",
+    "count": 4
+  },
+  {
+    "city": "Manistee",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Easton",
+    "state": "PA",
+    "count": 8
+  },
+  {
+    "city": "Sand Point",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Lutz",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Prescott",
+    "state": "AZ",
+    "count": 8
+  },
+  {
+    "city": "Dubuque",
+    "state": "IA",
+    "count": 9
+  },
+  {
+    "city": "Carpentersville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Superior",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "LaVergne",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Dade City",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Freeport",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Calmar (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Albany (near)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "las vegas",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Glendive",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Watson Lake (Canada)",
+    "state": "YT",
+    "count": 1
+  },
+  {
+    "city": "Highland",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Fall Creek",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Beacon",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "winter harbor",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Wapwallopen",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Payson",
+    "state": "AZ",
+    "count": 3
+  },
+  {
+    "city": "Ravenna",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Bennington",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Buckeye/Litchfield Park",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Hiram",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Hamilton",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Rosendale",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Greenfield Twp",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Bensalem",
+    "state": "PA",
+    "count": 5
+  },
+  {
+    "city": "Abingdon",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Brook Park",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Festus",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Tamaqua",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Fountain Valley",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Whitefish",
+    "state": "MT",
+    "count": 3
+  },
+  {
+    "city": "Bowen Island (Canada)",
+    "state": "BC",
+    "count": 2
+  },
+  {
+    "city": "Casco",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Fremont",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Swanville",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Windsor",
+    "state": "VT",
+    "count": 2
+  },
+  {
+    "city": "Marietta",
+    "state": "OH",
+    "count": 5
+  },
+  {
+    "city": "Sebastopol",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Nederland",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Sun City West",
+    "state": "AZ",
+    "count": 5
+  },
+  {
+    "city": "Peoria",
+    "state": "AZ",
+    "count": 16
+  },
+  {
+    "city": "Basehor",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Newton",
+    "state": "IA",
+    "count": 2
+  },
+  {
+    "city": "San Pablo",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Roswell",
+    "state": "GA",
+    "count": 5
+  },
+  {
+    "city": "Stacy",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Porter township",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Parachute",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Merritt Island",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "East Haven",
+    "state": "CT",
+    "count": 3
+  },
+  {
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Lindenwold",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "South Dennis",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Midland (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Hays",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Grandville",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Bushkill Township",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Siler City",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Waimea Canyon",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Mananlapan",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Shrewsbury",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Penfield",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Mt. Summit",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Elk Mountain",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Londonderry",
+    "state": "NH",
+    "count": 3
+  },
+  {
+    "city": "Board Camp",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Sawyer",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Apple valley",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "West bend",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Skokie",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Glendale Heights",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Chanhassen (east of)",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Hartford",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Massena",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "MckeesRocksr",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "NSL ((North Salt Lake??))",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Gettysburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Millvale",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Osceola",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Moon Township/clinton",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Holstein",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Panama city beach,east",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Florence",
+    "state": "SC",
+    "count": 5
+  },
+  {
+    "city": "Johnson City",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Holland",
+    "state": "MI",
+    "count": 9
+  },
+  {
+    "city": "Social Circle",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Bartlesville",
+    "state": "OK",
+    "count": 3
+  },
+  {
+    "city": "Santa Fe/Eldorado",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Grifton",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Winterville",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Paducah",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Camarillo",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Maycomb",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Caledonia (Village of))",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Bushkill",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Greer",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Hopulikit",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Austin",
+    "state": "NV",
+    "count": 3
+  },
+  {
+    "city": "Shawnee",
+    "state": "KS",
+    "count": 4
+  },
+  {
+    "city": "Harper",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Chillicothe",
+    "state": "OH",
+    "count": 7
+  },
+  {
+    "city": "Aberdeen",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Algood",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Ashtabula",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Strathmore (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Bethlehem",
+    "state": "PA",
+    "count": 8
+  },
+  {
+    "city": "Pioneer",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Auburn",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "West Lake Village",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Hollister",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Kelso",
+    "state": "WA",
+    "count": 5
+  },
+  {
+    "city": "Morton",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Alcester",
+    "state": "SD",
+    "count": 2
+  },
+  {
+    "city": "Franklin",
+    "state": "NH",
+    "count": 3
+  },
+  {
+    "city": "Concord - Penecook",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "West Union",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Highlands",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Wall",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Franklin",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Ludlow",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Medina",
+    "state": "OH",
+    "count": 5
+  },
+  {
+    "city": "Mokuliea",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Abingdon",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Tigard",
+    "state": "OR",
+    "count": 4
+  },
+  {
+    "city": "Novelty",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "King",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Saint Paul",
+    "state": "MN",
+    "count": 8
+  },
+  {
+    "city": "Valencia",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lithia",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Brook Park",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Anoka",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Fuquay Varina",
+    "state": "NC",
+    "count": 5
+  },
+  {
+    "city": "Stevensville",
+    "state": "MT",
+    "count": 3
+  },
+  {
+    "city": "Amite",
+    "state": "LA",
+    "count": 3
+  },
+  {
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Summerdale",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Ames",
+    "state": "IA",
+    "count": 5
+  },
+  {
+    "city": "Hurdle Mills",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Duluth",
+    "state": "GA",
+    "count": 6
+  },
+  {
+    "city": "Hollywood",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "New Kent",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Long Beach",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Eagan",
+    "state": "MN",
+    "count": 6
+  },
+  {
+    "city": "Howell",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Norton",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Johnson City",
+    "state": "TN",
+    "count": 7
+  },
+  {
+    "city": "Red Bank",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Valdosta",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Columbia",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Youngstown",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Kirkland",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Avondale",
+    "state": "AZ",
+    "count": 9
+  },
+  {
+    "city": "Espanola",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Kingfield",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Pinion Hills",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lloydminster (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Liberty Hill",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Tallahassee",
+    "state": "FL",
+    "count": 11
+  },
+  {
+    "city": "Land O'Lakes",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Bay St. Louis",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Stockbridge",
+    "state": "GA",
+    "count": 3
+  },
+  {
+    "city": "Arnold",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Salisbury",
+    "state": "MD",
+    "count": 3
+  },
+  {
+    "city": "Panama City Beach, gulf",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Whitehall",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Reynoldsburg",
+    "state": "OH",
+    "count": 5
+  },
+  {
+    "city": "Millmont",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Redway",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Athens",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Rivera Maya",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Carmine",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Village of Caledonia",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Clinton",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Santee",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Miramar",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Marshall",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Cape May Court House",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "\n",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Hutto",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Flagler Beach",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Flagler",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Webster",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "St. Charles",
+    "state": "MO",
+    "count": 5
+  },
+  {
+    "city": "Kailua",
+    "state": "HI",
+    "count": 3
+  },
+  {
+    "city": "Mobile",
+    "state": "AL",
+    "count": 11
+  },
+  {
+    "city": "Eureka",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Williamsville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Fort Leonard Wood",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Hope",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Angola",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Azusa",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "West Seattle",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "New London",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Helena",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "not sure",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Los Angeles/Sherman Oaks",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Richlands",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Duxbury",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Travelers Rest",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Oviedo",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Fort Chafee",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Fletcher",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Somersworth",
+    "state": "NH",
+    "count": 3
+  },
+  {
+    "city": "Conyers",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Bountiful",
+    "state": "UT",
+    "count": 4
+  },
+  {
+    "city": "Walden",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Cohasset",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Clio",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Studio City",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Trinity",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Greenville",
+    "state": "NC",
+    "count": 4
+  },
+  {
+    "city": "Grover",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Boca Raton",
+    "state": "FL",
+    "count": 8
+  },
+  {
+    "city": "Chardon",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Londonderry/Hudson",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Waunakee",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Porterville",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Jenks",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Mays Landing",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Ragley",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Berkeley Heights",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Pennington",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Spencer",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Wendell",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Farmington/New Durham",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Potomac",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Selma",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Tampa (general area)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Phenix City",
+    "state": "AL",
+    "count": 5
+  },
+  {
+    "city": "Towson",
+    "state": "MD",
+    "count": 7
+  },
+  {
+    "city": "Leominster",
+    "state": "MA",
+    "count": 4
+  },
+  {
+    "city": "Hernando",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Liberty",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Desert Hot Springs",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Compton",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lakehills",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Midlothian",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Sidney",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Belfast",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Newport",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Minneapolis/Bryn Mawr/ Theodore Wirth Golf Course area",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Jacksonville",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Steelville",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Los Lunas",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Hays",
+    "state": "KS",
+    "count": 2
+  },
+  {
+    "city": "Lacey",
+    "state": "WA",
+    "count": 4
+  },
+  {
+    "city": "Yachats",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Gila",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Cinnaminson",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Senoia",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Holland",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Saint Augustine",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Holly Hill",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Cocoa",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Franklinton",
+    "state": "LA",
+    "count": 2
+  },
+  {
+    "city": "Summerfield",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Skillman",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Lincoln",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Walnut Creek",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Truro (Nova Scotia)(Canada)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Sumter",
+    "state": "SC",
+    "count": 5
+  },
+  {
+    "city": "Brandon",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Crystal River",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "River Falls",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Wilson",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "New Market",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Randall",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Yucca Valley",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Warner",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Morgan",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Ozark",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Powder Springs",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Oak Park",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Chino Hills",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Carrizo",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Edneyville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Lake Charles",
+    "state": "LA",
+    "count": 11
+  },
+  {
+    "city": "Reynolds",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Dedham",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "San Rafael",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Milford",
+    "state": "DE",
+    "count": 3
+  },
+  {
+    "city": "Bloomingburg",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Rumford",
+    "state": "RI",
+    "count": 3
+  },
+  {
+    "city": "Uhland",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Holiday",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Troy",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Tarpon Springs",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Ponce Inlet",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Conroe",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Midvale",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Harleyville",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Franklinton",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Shelton",
+    "state": "WA",
+    "count": 7
+  },
+  {
+    "city": "Hays (5 miles east of; on I-70)",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Hinesville",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Chester",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "West Newbury",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Madison",
+    "state": "MS",
+    "count": 4
+  },
+  {
+    "city": "Hemingway",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Hillsboro",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Magdalena",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Mountainair",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Sahaurita",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Gouldsboro",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Issaquah",
+    "state": "WA",
+    "count": 5
+  },
+  {
+    "city": "Palm Coast",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Bealeton",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Frankfort",
+    "state": "IL",
+    "count": 4
+  },
+  {
+    "city": "Southfield",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Waterford",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Macfarland",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Ball Ground",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Poteet",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Conception Bay South (Canada)",
+    "state": "NF",
+    "count": 1
+  },
+  {
+    "city": "Newcastle",
+    "state": "DE",
+    "count": 3
+  },
+  {
+    "city": "Hardyston Township",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Shepherd",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Apopka",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Antelope Valley",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "New Berlin",
+    "state": "WI",
+    "count": 4
+  },
+  {
+    "city": "Centerview",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Sparta",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Coon Rapids",
+    "state": "MN",
+    "count": 4
+  },
+  {
+    "city": "Loudon",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Merced",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Langley",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Parkland",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Port Angeles",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Davenport",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Dickinson",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Thousand Oaks",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Halethorpe",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Portland, OR/Vancouver, WA",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "East Orange",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Brampton (Canada)",
+    "state": "ON",
+    "count": 12
+  },
+  {
+    "city": "Decatur",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Owings Mills",
+    "state": "MD",
+    "count": 4
+  },
+  {
+    "city": "Coronado",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Shafter",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Galt",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Placida",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Pbg",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Casselberry",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Schaumburg",
+    "state": "IL",
+    "count": 4
+  },
+  {
+    "city": "Fuquay",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Campbell",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Satellite Beach",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Santa Cruz",
+    "state": "CA",
+    "count": 8
+  },
+  {
+    "city": "Coeur d'Alene",
+    "state": "ID",
+    "count": 5
+  },
+  {
+    "city": "Ponte Vedra Beach",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Indialantic",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Hallam",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Redmond",
+    "state": "OR",
+    "count": 6
+  },
+  {
+    "city": "Victor",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Deer Park",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Novato",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Burlington",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Cleburne",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Turner",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Dandridge",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Uxbridge",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Spring Hill",
+    "state": "FL",
+    "count": 12
+  },
+  {
+    "city": "Newport Beach",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Miss Point",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "New River",
+    "state": "AZ",
+    "count": 3
+  },
+  {
+    "city": "Delmar",
+    "state": "DE",
+    "count": 2
+  },
+  {
+    "city": "Toronto (Canada)",
+    "state": "ON",
+    "count": 22
+  },
+  {
+    "city": "Hartselle",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Patterson",
+    "state": "LA",
+    "count": 3
+  },
+  {
+    "city": "El Monte",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "North Dartmouth",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Templeton",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Davie (heading to Hollywood/Ft. Lauderdale)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Elkhorn",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "White Stone",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Spring Lake (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Jewett City",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Suwanee",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Millers Creek",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Multiple",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Texhoma",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Newbrighton",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Center Line",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Philadelphia (100 naut. miles E of; over water)",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Buckingham",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Corning/Pocahontas (between)",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Bivins",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "White Rock (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Sylvania",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "New London",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Belfair",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Oxnard",
+    "state": "CA",
+    "count": 17
+  },
+  {
+    "city": "Exit 8 mass pike",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Carson City",
+    "state": "NV",
+    "count": 7
+  },
+  {
+    "city": "Palmetto",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Port Orange",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Lake Umatilla; John Day Dam (~30 mi. E of; approximate)",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Montpelier",
+    "state": "VT",
+    "count": 4
+  },
+  {
+    "city": "Waterbury",
+    "state": "CT",
+    "count": 7
+  },
+  {
+    "city": "Aberdeen",
+    "state": "SD",
+    "count": 2
+  },
+  {
+    "city": "Mead/Thornton (between; on I-25)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Woodridge",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Christiana",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Delta Junction",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Melbourne (Australia)",
+    "state": "YT",
+    "count": 1
+  },
+  {
+    "city": "New Brockton",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Girard",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Deer River",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Fort Meade",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Redwood City",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Cheltenham",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Harrisonburg",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "East Peoria",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Florence Jct./Reymart",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Huber Heights",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Town and Country",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Richardson",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Berryville",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Mission",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Kahana",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Waipio",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Ojai",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Hixson",
+    "state": "TN",
+    "count": 4
+  },
+  {
+    "city": "La Veta",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Skiatook",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "Middlefield",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Winchester",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Stephenson",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Ozark",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "North Chesterfield",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Dabney",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "South Burlington",
+    "state": "VT",
+    "count": 4
+  },
+  {
+    "city": "Monroe Twp",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Berthoud",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "La Jolla",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Hale",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "St. Johns",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Zanesvill",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Hagerstown",
+    "state": "MD",
+    "count": 12
+  },
+  {
+    "city": "Stevens Pass",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "West Collingswood",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "South Lake Tahoe",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Eden Prarie",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Smithville",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Casey",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Independence",
+    "state": "LA",
+    "count": 2
+  },
+  {
+    "city": "Trabuco Canyon",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Gallatin Gateway",
+    "state": "MT",
+    "count": 3
+  },
+  {
+    "city": "Hot Springs",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Erving",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Farragut",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Virginia Beach (City of)",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Kayenta",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Lahaina",
+    "state": "HI",
+    "count": 2
+  },
+  {
+    "city": "Navajo",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Hickory/Conover",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Pearland",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Lancing",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Newport",
+    "state": "ME",
+    "count": 3
+  },
+  {
+    "city": "Jerseyville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "St. Clair",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Cromwell",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Napili",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Fishkill",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Riverdale",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Waterloo (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Pt. Sur (50 miles off)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Binghamton",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "High Point",
+    "state": "NC",
+    "count": 7
+  },
+  {
+    "city": "Nairn",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Holland",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Lake Jackson (Brazoria Co.)",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Union",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Osterville",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Sunrise",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Regina (Canada)",
+    "state": "SK",
+    "count": 4
+  },
+  {
+    "city": "Niantic",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Ivins",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Haskell",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Westmoreland",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Keswick (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Elizabethtown (near)",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Sauk Rapids",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Freeport",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Arcade",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Redwood Falls",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Brinklow",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Winter Harbor",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Severn",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "London (Canada)",
+    "state": "ON",
+    "count": 8
+  },
+  {
+    "city": "Matawan",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Corte Madera",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Boone Grove",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "North Snohomish",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Gorham",
+    "state": "ME",
+    "count": 4
+  },
+  {
+    "city": "Reidsville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Raphine",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Chester",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Ashland",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Portland",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Amherst",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Asbury Park",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Camp Shelby",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Riverton (outside of)",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Radcliff",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Kingsland",
+    "state": "GA",
+    "count": 4
+  },
+  {
+    "city": "Fayetteville",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Montpelier",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Belmont",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Bridgeport",
+    "state": "WV",
+    "count": 3
+  },
+  {
+    "city": "American Canyon",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Niagara Falls (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Carlinville",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Plainfield",
+    "state": "IL",
+    "count": 8
+  },
+  {
+    "city": "Happy Valley",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Anchor Point",
+    "state": "AK",
+    "count": 2
+  },
+  {
+    "city": "Tazewell",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Athol",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Ste. Genevieve",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Seekonk (general area)",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Fairfield",
+    "state": "ME",
+    "count": 3
+  },
+  {
+    "city": "Centerville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Carrying Place (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Bay Shore",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Kenmore",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Maui (in-flight; off coast of)",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Raymond",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Bailey",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Bergen",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Middletown",
+    "state": "NY",
+    "count": 6
+  },
+  {
+    "city": "Naugatuck",
+    "state": "CT",
+    "count": 4
+  },
+  {
+    "city": "Fairview",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "McDonough",
+    "state": "GA",
+    "count": 3
+  },
+  {
+    "city": "Spearfish",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Shallotte",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "McChord AFB/Ft. Lewis",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "West New York",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Olathe",
+    "state": "KS",
+    "count": 4
+  },
+  {
+    "city": "Tyrone",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Nevada (eastern)",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Bedford",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Corpus Christi",
+    "state": "TX",
+    "count": 6
+  },
+  {
+    "city": "Warner Robins",
+    "state": "GA",
+    "count": 4
+  },
+  {
+    "city": "Newcastle",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Graham",
+    "state": "NC",
+    "count": 6
+  },
+  {
+    "city": "Balko",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "\n",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Zebulon",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Monrovia",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "D'iberville",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Central Square",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Poteau",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Seguin",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Santa Clara",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Beecher",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Derby",
+    "state": "KS",
+    "count": 3
+  },
+  {
+    "city": "Cecil",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Atkinson/Kingston",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Floral City",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Jarrettsville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Scarborough",
+    "state": "ME",
+    "count": 7
+  },
+  {
+    "city": "Key Colony Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Fountain Hill",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Miramar Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Burbank",
+    "state": "CA",
+    "count": 8
+  },
+  {
+    "city": "Charleston",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Franklin",
+    "state": "WI",
+    "count": 4
+  },
+  {
+    "city": "Boynton Beach",
+    "state": "FL",
+    "count": 10
+  },
+  {
+    "city": "Ferrisburgh",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Smithton",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Obernburg",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Stone Creek",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Hampton",
+    "state": "VA",
+    "count": 8
+  },
+  {
+    "city": "Kittery area",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Mc Murray",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Athens",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Benton City",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Jordan",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Lower Burrell",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Stonington",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Fripp Island",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Benson (north of)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Barberton/Akron",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Middleton",
+    "state": "ID",
+    "count": 4
+  },
+  {
+    "city": "Danville",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Maple Grove",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Wood Village",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Carlton",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Green Garden Township",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Egg Harbor Township",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Frostproof",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Shady Cove",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Mosinee",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Bettendorf",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Prince Albert",
+    "state": "SK",
+    "count": 2
+  },
+  {
+    "city": "Berlin",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Tahlequah",
+    "state": "OK",
+    "count": 3
+  },
+  {
+    "city": "Old Washington",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Saltillo",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Gardena",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Central City",
+    "state": "NE",
+    "count": 2
+  },
+  {
+    "city": "Blanchardville",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Wilkesboro",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Pickering (near) (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Chesapeake Bay (above; south of Annapolis)",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Chester",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Gila Bend (west of; on I-8)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Selma",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Grande Prairie (Canada)",
+    "state": "AB",
+    "count": 7
+  },
+  {
+    "city": "Wheaton",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Ottawa",
+    "state": "IL",
+    "count": 6
+  },
+  {
+    "city": "Elwood",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Bagley",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Maryville",
+    "state": "TN",
+    "count": 4
+  },
+  {
+    "city": "Galesville",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Andersonville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Chesterfield",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Highland Park",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Bloomfield Hills",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Middletown",
+    "state": "DE",
+    "count": 3
+  },
+  {
+    "city": "Owatonna",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Jasper County",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Terra Linda",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Moss Point",
+    "state": "MS",
+    "count": 2
+  },
+  {
+    "city": "West Salem",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Herod",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Pompano beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Lamont",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Watervliet",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Eldora",
+    "state": "IA",
+    "count": 2
+  },
+  {
+    "city": "Colby (south of)",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Lake Tanis",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "La Ronge (Canada)",
+    "state": "SK",
+    "count": 1
+  },
+  {
+    "city": "Lemon Grove",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Euless",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Washington",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Arlington",
+    "state": "WA",
+    "count": 9
+  },
+  {
+    "city": "Lester Prairie",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Irma",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Saskatoon (Canada)",
+    "state": "SK",
+    "count": 7
+  },
+  {
+    "city": "Albemarle",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Madison",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "San Rafael",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Fort Fraiser/Vanderhoof",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Portage",
+    "state": "IN",
+    "count": 3
+  },
+  {
+    "city": "Findlay",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Mountain View",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Hanford",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Rolling Prairie",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Redmond",
+    "state": "WA",
+    "count": 9
+  },
+  {
+    "city": "Bethlehem",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Gordonsville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Moon",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Reinholds",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Oregon House",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "McCordsville",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Lidgerwood",
+    "state": "ND",
+    "count": 2
+  },
+  {
+    "city": "Creston",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Dripping Springs",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Villa Park",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Palmyra",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Hoschton",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Delco",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Osceola",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Mequon",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Bethany Beach",
+    "state": "DE",
+    "count": 3
+  },
+  {
+    "city": "Palmyra",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Stevensville",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Ithaca",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Goldhill",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Derry",
+    "state": "NH",
+    "count": 3
+  },
+  {
+    "city": "Hampstead",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "West Orange",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Burlington",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Sweetwater",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Manchester",
+    "state": "NH",
+    "count": 11
+  },
+  {
+    "city": "Los Angeles (LAX Airport)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Holland",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Johns Island",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Redbank",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Centerville",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "Sarles",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Alvin",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Elizabeth",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Marianna",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Québec City (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Pollock Pines",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Voorhees",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Ellsworth",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Hailey",
+    "state": "ID",
+    "count": 2
+  },
+  {
+    "city": "Whittier",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Corolla",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Mt. Pleasant",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Newton",
+    "state": "MA",
+    "count": 4
+  },
+  {
+    "city": "Pawnee County (location unspecified)",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Congress",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Junction City",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Point Pleasant",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Wantagh",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Robstown",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Centerton",
+    "state": "AR",
+    "count": 3
+  },
+  {
+    "city": "Tarentum",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Hackensack",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Miller Place",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Ashburn",
+    "state": "VA",
+    "count": 4
+  },
+  {
+    "city": "Harrisburg (near; on I-83)",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Phil Campbell",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Fairhaven",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Gilroy",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Albany",
+    "state": "NY",
+    "count": 10
+  },
+  {
+    "city": "Pennsburg",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Thomasville",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Tuckerton",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Cracroft Island (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Cape Canaveral",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "St. Thomas (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Holmes Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Mayfield Heights",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Racine",
+    "state": "WI",
+    "count": 6
+  },
+  {
+    "city": "Rock Point",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Sumner",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Jeromesville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Cherryville",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Florence",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "Bowling Green",
+    "state": "KY",
+    "count": 7
+  },
+  {
+    "city": "Burnet",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Walker",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Topanga",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Bayonne",
+    "state": "NJ",
+    "count": 6
+  },
+  {
+    "city": "Petal",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Virgin",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Schaghticoke",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Oklahoma City",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Ayden",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Spring hill",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Creston",
+    "state": "MT",
+    "count": 2
+  },
+  {
+    "city": "Broad Brook",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Cary",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Great Smokey Mountains National Park",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Willow Grove",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Deerfield Beach",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Port Hueneme",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Chalmette",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Bay Saint Louis",
+    "state": "MS",
+    "count": 3
+  },
+  {
+    "city": "Colonial Beach",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Shepherdsville",
+    "state": "KY",
+    "count": 3
+  },
+  {
+    "city": "Middleburg",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Kannapolis/Mooresville",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "North Richland hills",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Baltimore City",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Louisville",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Dickerson",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Trenton",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "North Topsail Beach",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Alvord",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Beaver Dam",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Krum",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Shingle Springs",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Cutthroat Lake Trail - Hwy 20",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Shawnee",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Lakeland",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Cullman",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Forrestville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Elizabethtown",
+    "state": "PA",
+    "count": 4
+  },
+  {
+    "city": "Grass Valley/Auburn (between)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Glace Bay (Canada)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Brunswick",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Renton",
+    "state": "WA",
+    "count": 7
+  },
+  {
+    "city": "Johns Creek",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "La Puente",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Carrollton",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Dover",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Ilwaco",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Columbus",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Fort Lupton",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "St. Joe (SW of)",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Stillwater",
+    "state": "MN",
+    "count": 5
+  },
+  {
+    "city": "Wallace",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Cayucos",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Clarkson",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Copperas Cove",
+    "state": "TX",
+    "count": 5
+  },
+  {
+    "city": "Playa Del Rey (Dockweller Beach)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Alma",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Pacific Palisades",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Pinckney",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Gainseville",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Dobson",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Stow",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Rawlins",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Waverly/Chillicothe",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Almont",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Kuna",
+    "state": "ID",
+    "count": 8
+  },
+  {
+    "city": "Alvaton",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Blountville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Ortonville",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Marion",
+    "state": "IA",
+    "count": 3
+  },
+  {
+    "city": "Tornado",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Oregon",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Greenfield",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "South Hadley",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Fort Washington",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Orem",
+    "state": "UT",
+    "count": 5
+  },
+  {
+    "city": "Bybee",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Madison",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Taylorville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "South Orange",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Loganville",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Key Biscayne",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Mansfield",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Golden Valley",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "Banner Springs",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Madison",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Anacoco",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Aliquippa",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Greenfield",
+    "state": "IN",
+    "count": 4
+  },
+  {
+    "city": "Idaho Falls",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Upland",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Valle Vista",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Clarkdale community (Meridian)",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Centerburg",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Albion",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Parker",
+    "state": "AZ",
+    "count": 4
+  },
+  {
+    "city": "Gilford",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Socorro",
+    "state": "NM",
+    "count": 3
+  },
+  {
+    "city": "Bowdoinham",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Spearhead Point Campground",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Ocean Springs",
+    "state": "MS",
+    "count": 3
+  },
+  {
+    "city": "Riverton",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Gatlinburg",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Odenville",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Gulf of Mexico SMI 69 B",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Hayti",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Prospect",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Lake of the Ozarks",
+    "state": "MO",
+    "count": 3
+  },
+  {
+    "city": "Gates",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Lido Beach",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Ocean Shores",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Vestal",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Norwood",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Astoria",
+    "state": "OR",
+    "count": 7
+  },
+  {
+    "city": "Columbia",
+    "state": "MD",
+    "count": 5
+  },
+  {
+    "city": "Kerrville",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Lovell",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Harrison City",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Port Clements (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Langley (Canada)",
+    "state": "BC",
+    "count": 2
+  },
+  {
+    "city": "Prince Rupert (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Aurora",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Yucaipa",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Madison Heights",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Mt. Airy",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Illiopolis",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Owenton",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Harrison",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Polk",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Bellevue",
+    "state": "NE",
+    "count": 2
+  },
+  {
+    "city": "Darby",
+    "state": "MT",
+    "count": 2
+  },
+  {
+    "city": "Coweta",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "Crandall",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Strathmore area",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Van Buren",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Cochise County",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Gardner",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "South Gardner",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "New Ipswich",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Secaucus",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Bucks Lake",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Manchester",
+    "state": "VT",
+    "count": 2
+  },
+  {
+    "city": "Hicksville",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Meadville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Foley",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Highway I-40 Truck parking",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Antlers",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "South Berwick",
+    "state": "ME",
+    "count": 4
+  },
+  {
+    "city": "Torrington",
+    "state": "CT",
+    "count": 5
+  },
+  {
+    "city": "Grandview",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Slate Hill",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Lake Elmo-Oakdale",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Ticonderoga",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Port Richey",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Florence",
+    "state": "AL",
+    "count": 8
+  },
+  {
+    "city": "Destin",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Greenfield",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Boonsboro",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Hilton",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Hanover",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Frederica",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Brentwood",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Branson",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Carrboro",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "North Vernon",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Laurel",
+    "state": "DE",
+    "count": 2
+  },
+  {
+    "city": "Saginaw",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Coshocton",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Belchertown",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Adairsville",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Murphy",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Bristol",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Washington, D.C.",
+    "state": "DC",
+    "count": 6
+  },
+  {
+    "city": "Woodruff",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Iowa City",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Mena",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Waverly",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Santa Rosa Beach",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "North Mankato",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Long Island",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Whiting",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Laona",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Central",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Monetta",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Yukon",
+    "state": "OK",
+    "count": 4
+  },
+  {
+    "city": "Bucksport",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Plano",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Millsap",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Candor",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Havre de Grace",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "High Ridge",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Grand Blanc",
+    "state": "MI",
+    "count": 5
+  },
+  {
+    "city": "Glenrock",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Sullivan",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Fernley",
+    "state": "NV",
+    "count": 4
+  },
+  {
+    "city": "West Park",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Geneva",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Lemitar",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Blue Ridge",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Recluse",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Ferndale",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Marlton",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Sault Ste. Marie (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Pittsfield",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Weiser",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Sanborn",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Logan",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "North Sioux City",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Kennewick",
+    "state": "WA",
+    "count": 7
+  },
+  {
+    "city": "Idyllwild",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Overland Park",
+    "state": "KS",
+    "count": 4
+  },
+  {
+    "city": "Rexburg",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Black Mountain",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Dell Rapids",
+    "state": "SD",
+    "count": 2
+  },
+  {
+    "city": "Hoquiam",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "New Britian",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "West pittston",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Somerville (toward; on Route 287)",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Centennial",
+    "state": "CO",
+    "count": 10
+  },
+  {
+    "city": "Bernville",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Navarre",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Newport",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Lathrop",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "North Pole",
+    "state": "AK",
+    "count": 2
+  },
+  {
+    "city": "Cowiche",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Palm Beach Garden (near)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Napoleonville",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Walkertown",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Apple Valley",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Oakdale",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Rothschild",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Pulaski",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Rocklin",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Cranford",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "East Brunswick",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Brandywine",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Montville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Stering Heights",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "White Plains",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Fenton",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Akron",
+    "state": "OH",
+    "count": 6
+  },
+  {
+    "city": "Hamilton",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Niagara Falls",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Cumberland Center",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Macungie",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "New Holland",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Fairmont",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Silverlake",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Alice",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Downy",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Syracuse to Phoenix",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Melbourne Beach",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Lilburn",
+    "state": "GA",
+    "count": 3
+  },
+  {
+    "city": "Springfield",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Glenside",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Austell",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Woonsocket",
+    "state": "RI",
+    "count": 5
+  },
+  {
+    "city": "Livingston",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Petersburg",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Mebane",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Quincy",
+    "state": "MA",
+    "count": 4
+  },
+  {
+    "city": "North Brookfield",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Rico",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Cicero",
+    "state": "NY",
+    "count": 6
+  },
+  {
+    "city": "Pellville",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Buford",
+    "state": "GA",
+    "count": 6
+  },
+  {
+    "city": "Tea",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Springtown",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Elmore County (House Mountain Road)",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Freeland",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Amherst/Tonawanda",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Assumption",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Charleroi",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Burnaby (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Oakville (Canada)",
+    "state": "ON",
+    "count": 3
+  },
+  {
+    "city": "Thomson",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Phoenix to Syracuse",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Brookfield",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Aumsville",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Oswego",
+    "state": "IL",
+    "count": 8
+  },
+  {
+    "city": "Saucier",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Crandon",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Jasper (looking west)",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Pittsfield",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Madurai (India)",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Cloverdale",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Danforth",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Tesuque",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Charleston",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Ingersoll (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Morongo valley",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Oroville",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Manitou Springs",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Hopedale",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Stamford",
+    "state": "CT",
+    "count": 5
+  },
+  {
+    "city": "Colton",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Danville",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Summerlin/Las Vegas",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Preston",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Los Alamos",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Durango",
+    "state": "CO",
+    "count": 4
+  },
+  {
+    "city": "Ridgway",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Athens",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Aurora",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Bowmanville (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Cumberland",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Waterville",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Ritzville",
+    "state": "WA",
+    "count": 4
+  },
+  {
+    "city": "Bangor",
+    "state": "ME",
+    "count": 9
+  },
+  {
+    "city": "Baldwinsville",
+    "state": "NY",
+    "count": 5
+  },
+  {
+    "city": "Minot",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Charleston",
+    "state": "SC",
+    "count": 12
+  },
+  {
+    "city": "Marina Del Rey",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Belmont",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Nevada",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Grapevine",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Stoughton",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Mountain Home",
+    "state": "ID",
+    "count": 11
+  },
+  {
+    "city": "Bigfork",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Sundre (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Seagrove",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Farmington",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Smithville",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Hingham",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Gladwin",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Prince William",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Hawkinsville",
+    "state": "GA",
+    "count": 3
+  },
+  {
+    "city": "Highland",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "False Cape State Park",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Soringfield",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Blanchester",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Sea Isle City",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "San Marcos",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Lewisville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Alberton",
+    "state": "MT",
+    "count": 2
+  },
+  {
+    "city": "Mount Orab",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Sugar Grove",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Fort Edward",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Lakewood",
+    "state": "WA",
+    "count": 6
+  },
+  {
+    "city": "Atlantic Beach",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Kure Beach",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "West Portsmouth",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Dixon",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Emerald isl",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Stamford",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "South Haven",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Brooks",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Boston",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Paris",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Emmett",
+    "state": "ID",
+    "count": 2
+  },
+  {
+    "city": "St. Charles",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Riverside",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Downtown Nashville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "North Andover",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Thornton",
+    "state": "CO",
+    "count": 11
+  },
+  {
+    "city": "Moosomin (Canada)",
+    "state": "SK",
+    "count": 1
+  },
+  {
+    "city": "Warren",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Pontotoc",
+    "state": "MS",
+    "count": 2
+  },
+  {
+    "city": "Granville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Mellen",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Brandon",
+    "state": "MS",
+    "count": 2
+  },
+  {
+    "city": "Hartsdale",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Selkirk (north of)(Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Clayton",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Farmington",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Lima",
+    "state": "OH",
+    "count": 7
+  },
+  {
+    "city": "Wilson Lake",
+    "state": "KS",
+    "count": 2
+  },
+  {
+    "city": "Elma",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Pharr",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Sydney (Australia)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Hilton Head",
+    "state": "SC",
+    "count": 4
+  },
+  {
+    "city": "Ventnor",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Corning",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Jasper (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Ridley Park",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Elko New Market",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Moore",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Eaton",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Battle Ground",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Andrews",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Sandy",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Jal (15 miles E of)",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Erwin",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Wake Forest",
+    "state": "NC",
+    "count": 5
+  },
+  {
+    "city": "Denio (south of)",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Westport",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Brilliant",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Duncan/Comanche area",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Centerville",
+    "state": "IA",
+    "count": 3
+  },
+  {
+    "city": "Haworth",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Harrison",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Deptford",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Adrian",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Portsmouth",
+    "state": "RI",
+    "count": 2
+  },
+  {
+    "city": "Stonefort",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Oak Forest",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Kingston",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "West Windsor",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Atascosa",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "La Canada",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Dundalk",
+    "state": "MD",
+    "count": 3
+  },
+  {
+    "city": "Bangor",
+    "state": "PA",
+    "count": 4
+  },
+  {
+    "city": "Palm Spring",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lake Crystal",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Brentwood",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Gary",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Dyersburg",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "St. George (40 miles outside of)",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Delaware (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Bloomer",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Spotsylvania",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Pittsgrove",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "South Park Township",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Rose City",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Magalia",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Jamaica Beach",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Hillsdale (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Jefferson Hills",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "National Park",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Varnell",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Bremen",
+    "state": "GA",
+    "count": 3
+  },
+  {
+    "city": "Elgin",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "West Chester",
+    "state": "PA",
+    "count": 4
+  },
+  {
+    "city": "Winnemucca",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Portage",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Northbrook",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Mount royal",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Auburn",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Madisonville",
+    "state": "LA",
+    "count": 2
+  },
+  {
+    "city": "Hurley",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Chicago (Wood Dale)",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Angels Camp",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Hamburg",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Parksville/Nanaimo (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Roseville",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Greenwood Lake",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Sellersville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Hanceville",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Pensacola",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Manistique",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Oxon Hill",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Hedgesville",
+    "state": "WV",
+    "count": 4
+  },
+  {
+    "city": "Pike Creek",
+    "state": "DE",
+    "count": 4
+  },
+  {
+    "city": "Harbor Springs",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Sherbrooke (Canada)",
+    "state": "QC",
+    "count": 2
+  },
+  {
+    "city": "Seekonk",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Nashport",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Angleton",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Brookline Station",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Erie",
+    "state": "CO",
+    "count": 5
+  },
+  {
+    "city": "St. Albans",
+    "state": "WV",
+    "count": 3
+  },
+  {
+    "city": "McMinnville",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Gainesville",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Riegelsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Alberta Beach",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Stickney",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Panama City Beach",
+    "state": "FL",
+    "count": 11
+  },
+  {
+    "city": "Dollar Bay",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lehighton",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "South Marquette County",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Vale",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Innisfree (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Terre Haute",
+    "state": "IN",
+    "count": 6
+  },
+  {
+    "city": "Malo",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Arlington",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Grants",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Oklahoma city",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Shoreview",
+    "state": "MN",
+    "count": 4
+  },
+  {
+    "city": "Holden",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Zeeland",
+    "state": "MI",
+    "count": 5
+  },
+  {
+    "city": "Ellington",
+    "state": "CT",
+    "count": 4
+  },
+  {
+    "city": "Hyrum",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "West Chicago",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Seabrook",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Herriman",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Easton",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Pittsfielsd",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Carrollton",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Surf City",
+    "state": "NC",
+    "count": 4
+  },
+  {
+    "city": "Pomona",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Hermitage",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "New Castle",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Newmarket (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Juneau",
+    "state": "AK",
+    "count": 4
+  },
+  {
+    "city": "Runnemede",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Wakefield",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Camden",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Old Lyme",
+    "state": "CT",
+    "count": 5
+  },
+  {
+    "city": "White House",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Sarnia (Canada)",
+    "state": "ON",
+    "count": 3
+  },
+  {
+    "city": "Spencerport",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Malverne",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Jefferson",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Caledonia",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Surf City",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Greensburg",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Altamonte Springs",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Laplata",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Macomb",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Gilbertsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Wilson",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Aloha",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Cicero",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "McConnellsburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Mosca",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Whitehall",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Emporium",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "SeaTac Airport",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Walnut Creek (area off I-680)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Cleveland (Oneida Lake)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Baytown",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Rutland (near; Griffith Lake)",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Carver",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "East Providence",
+    "state": "RI",
+    "count": 4
+  },
+  {
+    "city": "Palm Harbor",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Kansas City/Columbia (between)",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Comer's Rock (near)",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Hilliard",
+    "state": "OH",
+    "count": 6
+  },
+  {
+    "city": "Montreal West (Canada)",
+    "state": "QC",
+    "count": 3
+  },
+  {
+    "city": "Westwood",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Stoddard",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Avalon",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Oak Grove",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Montrose",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Mantua",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Livingston",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Swedesboro",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Elkhorn",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Mauriceville/Buna",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Newburg",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Whitehorse (Canada)",
+    "state": "YT",
+    "count": 1
+  },
+  {
+    "city": "Gillette",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Wellington",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Monroe",
+    "state": "NC",
+    "count": 4
+  },
+  {
+    "city": "Cedar Hills",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Windsor",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "San Diego (North County)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "West Pawlet",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Jamestown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Southport",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Small Point",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "South Amboy",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Hazel Crest",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Michigan City",
+    "state": "IN",
+    "count": 3
+  },
+  {
+    "city": "Essex",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Atkinson",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Aberdeen Gardens",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Lebanon",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Red Lion",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Curtis Bau",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Gosnell",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Sylvania",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Corinna",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Sun City",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Citrus Springs",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Lake Wales",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "St. Marys",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Slatington",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Waterloo",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Perrysburgh",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Kemp",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Opelousas",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Tygh Valley",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Clarksburg/Bridgeport",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Gaylord",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Hamlet",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "White Sands",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Biglerville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Cadiz",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Pine island",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Foster",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Wassaic",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Ogallala",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Wheatland",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Sedro Woolley",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Sabattus",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Nantucket",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Allyn",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Saratoga",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Chester",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Berea",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Bourbonnais",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Hurricane",
+    "state": "WV",
+    "count": 3
+  },
+  {
+    "city": "Elkins (near)",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Mukwonago",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Miami (Bal Harbor)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Leawood",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Elizabeth City",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Alexandria",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Charlevoix",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Fairfax",
+    "state": "VA",
+    "count": 4
+  },
+  {
+    "city": "Inkster",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lake Roesiger",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "New York City (Middle Village)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Tijeras",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Parkersburg",
+    "state": "WV",
+    "count": 2
+  },
+  {
+    "city": "Interstate 8",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Wilburton",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Indian Trail",
+    "state": "NC",
+    "count": 6
+  },
+  {
+    "city": "Kaunakakai",
+    "state": "HI",
+    "count": 3
+  },
+  {
+    "city": "Wells",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Kaimuki",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Lincoln",
+    "state": "RI",
+    "count": 2
+  },
+  {
+    "city": "Three Oaks",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Eagle Point",
+    "state": "OR",
+    "count": 5
+  },
+  {
+    "city": "South Gate",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Oysterville",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "North Providence",
+    "state": "RI",
+    "count": 4
+  },
+  {
+    "city": "SeaTac",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Curlew",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "York",
+    "state": "PA",
+    "count": 8
+  },
+  {
+    "city": "Naches",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Sharon",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Chelan",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Ashland",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Squamish (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Anchorage/Eagle River (between)",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Morse Mill",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Oak Creek",
+    "state": "WI",
+    "count": 4
+  },
+  {
+    "city": "Gastonia",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Home",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Angier",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Lafayette",
+    "state": "CO",
+    "count": 4
+  },
+  {
+    "city": "Avon",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Colfax",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Mankato",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Pearl City",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Bel Aire",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Pawleys Island",
+    "state": "SC",
+    "count": 5
+  },
+  {
+    "city": "Big Stone Gap",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Starke",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Sheridan",
+    "state": "WY",
+    "count": 4
+  },
+  {
+    "city": "Washington",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Wethersfield",
+    "state": "CT",
+    "count": 3
+  },
+  {
+    "city": "Bradley Beach",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Sandy (suburb of SLC)",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Galion",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Elliottsburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Cement City",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lady Lake",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Hastings/Revanna Townships",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Edgerton",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "College Park",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Monte Crist",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Dresden (near)",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Saugerties",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Stanton",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Bemidji",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Windham (Catskills)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Mt. Lookout",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Elyria",
+    "state": "OH",
+    "count": 4
+  },
+  {
+    "city": "Garner",
+    "state": "NC",
+    "count": 4
+  },
+  {
+    "city": "Freedom",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Mason",
+    "state": "WV",
+    "count": 2
+  },
+  {
+    "city": "El Paso",
+    "state": "TX",
+    "count": 11
+  },
+  {
+    "city": "Clinton",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Oak Hill",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Shelby",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Chincoteague",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Barre",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Upper St. Clair",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Rosedale",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Toney",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Cold Spring",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Englewood",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Lake Mills",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Philmont Scout Ranch",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Cliffside Park",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Russia",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Snoqualmie",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Yarmouth (Canada)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Winnemucca",
+    "state": "NV",
+    "count": 2
+  },
+  {
+    "city": "Mackinaw City",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Dorchester",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Centereach",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Clovis",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Winthrop Harbor",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Round Rock",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Mount Gilead",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Ashville",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Pittsburg",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Hiltons",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Baltimore",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Port Colbourne (Ontario)(Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Shoreline",
+    "state": "WA",
+    "count": 5
+  },
+  {
+    "city": "New Waterford (Canada)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Old Orchard Beach",
+    "state": "ME",
+    "count": 3
+  },
+  {
+    "city": "Blythe",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Fort Salonga",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Mayo (Canada)",
+    "state": "YT",
+    "count": 1
+  },
+  {
+    "city": "Mountain Home",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Gold Hill",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Greendale",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Sun Prarie",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Bamber Lakes",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Franklinville",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Sherwood",
+    "state": "OR",
+    "count": 4
+  },
+  {
+    "city": "Angola",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Marlinton",
+    "state": "WV",
+    "count": 2
+  },
+  {
+    "city": "Foristell",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Watkins",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Roseburg",
+    "state": "OR",
+    "count": 6
+  },
+  {
+    "city": "Lancaster",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "St. Germain",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "College Station",
+    "state": "TX",
+    "count": 5
+  },
+  {
+    "city": "Lawrence",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Norwalk",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Veduawoo",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Ten Mile",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Haleiwa",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Reardan",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Clarence Center",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Muskego",
+    "state": "WI",
+    "count": 5
+  },
+  {
+    "city": "Mohawk",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Grants Pass",
+    "state": "OR",
+    "count": 9
+  },
+  {
+    "city": "Canon City",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Cambridge Springs",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Milner (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Beowawe",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Clackamas",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Oakridge",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Hurst",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Howe",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Wheaton",
+    "state": "IL",
+    "count": 5
+  },
+  {
+    "city": "Tooele",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "South Jordan",
+    "state": "UT",
+    "count": 5
+  },
+  {
+    "city": "Heber",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Heber City Canyon",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Lindon",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "Buhl",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Cedar Valley",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "DeSmet",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Washington",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Beaumont",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Mojave",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Tracy",
+    "state": "CA",
+    "count": 7
+  },
+  {
+    "city": "Lake Hughes",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mesquite",
+    "state": "NV",
+    "count": 4
+  },
+  {
+    "city": "Tonopah",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Phelan",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Truckee",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Anza",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Livermore",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Mariposa County",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Waterford",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Corona/Lake Mathews",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Dublin",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Minden",
+    "state": "NV",
+    "count": 2
+  },
+  {
+    "city": "Incline Village",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Frazier Park",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "French Camp",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Pahrump",
+    "state": "NV",
+    "count": 2
+  },
+  {
+    "city": "San Mateo",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "California City",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Boonville",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Alpaugh",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Rohnert Park",
+    "state": "CA",
+    "count": 8
+  },
+  {
+    "city": "Thomaston",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Willits",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Grand Canyon",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Biddeford",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Garden City",
+    "state": "MI",
+    "count": 5
+  },
+  {
+    "city": "Air Ronge (Canada)",
+    "state": "SK",
+    "count": 1
+  },
+  {
+    "city": "Surprise/Glendale",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Diamond Lake",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Poplar",
+    "state": "MT",
+    "count": 3
+  },
+  {
+    "city": "Lebanon",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "State College",
+    "state": "PA",
+    "count": 4
+  },
+  {
+    "city": "Livonia",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Newbern",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Ashburn",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Auburn",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Rock Falls",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Amesbury",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Topsail",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Providence (Olneyville)",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Vantage",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Port Townsend",
+    "state": "WA",
+    "count": 4
+  },
+  {
+    "city": "Gimli (Canada)",
+    "state": "MB",
+    "count": 2
+  },
+  {
+    "city": "Antelope",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Centerville",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Farmville",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Galilee",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Irwin",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Canada (west coast; Alaskan cruise)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Severna Park",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Maple valley",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Richland",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Mexico",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Mount Vernon",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Commerce Township",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Alma Center",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "La Quinta, Indian Wells, Palm Desert",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Palm Desert/La Quinta",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Brookings",
+    "state": "SD",
+    "count": 2
+  },
+  {
+    "city": "Bristol",
+    "state": "RI",
+    "count": 2
+  },
+  {
+    "city": "LaBelle",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Atmore",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Caroline (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Farmington Hills",
+    "state": "MI",
+    "count": 4
+  },
+  {
+    "city": "Delta",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Oakmont",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Daphne",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Hamilton Square",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Spanish Fort",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Camp Verde",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "The Dalles",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Norwood Young America",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Oceano",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Rahway",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Marion",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Chunchula",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Vergennes",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Peru",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Owego",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Texas City",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Mytle Beach",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Holden Beach",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Lower Haines City",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Gunnison",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Collegeville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Ash",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Maryville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Fredricksburg",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "New York City (over the Hudson)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Anaheim (NE of)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Ansonia",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Milan",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Stockholm",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Firth",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Trezevant",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Huntingdon",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Quartzsite",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "St. James",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Murphysboro",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Xenia",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "Shorewood",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Gray",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Tryon Equestrian Center",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Oakland",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Waves",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Brooks",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Big Lake",
+    "state": "AK",
+    "count": 2
+  },
+  {
+    "city": "Anderson",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "San diego",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Hasty",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Colfax",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lapel",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Cedar Falls",
+    "state": "IA",
+    "count": 6
+  },
+  {
+    "city": "Lititz",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Glennville",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Wickliffe",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Milner",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Jackson",
+    "state": "NJ",
+    "count": 5
+  },
+  {
+    "city": "Blackwood",
+    "state": "NJ",
+    "count": 4
+  },
+  {
+    "city": "Verona",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "McKee",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Lafayette",
+    "state": "LA",
+    "count": 7
+  },
+  {
+    "city": "Coloma",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Blue Star Memorial Highway",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Brightwood",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Greenwich",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Lake Zurich",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Bay Head",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Kihei",
+    "state": "HI",
+    "count": 3
+  },
+  {
+    "city": "Rocky Ford",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Clemmons",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Between Wabash and Marion onq5",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Herron Island",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Hurt",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Lakeside",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Washougal",
+    "state": "WA",
+    "count": 5
+  },
+  {
+    "city": "Amboy",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "I-196 at Mile Marker 7",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Mountain View",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Jasper I",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Blackfoot",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Lauderhill",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Erlanger",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Arrow Rock",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Oscoda",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "New Freedom",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Henderson",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Oxford",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Laguna Hills",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Zachary",
+    "state": "LA",
+    "count": 2
+  },
+  {
+    "city": "Lincoln and Roseville",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Marathon",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Jasper",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Palermo",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Grande Prairie (Cutbank Bridge Campground)(Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Chesterton",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Parker City",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Hometown",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Vancouver & Portland",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Detour Village",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Buckley",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Westbrook",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Jacobus",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Windsor",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Joliet",
+    "state": "IL",
+    "count": 4
+  },
+  {
+    "city": "South Elgin",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Frankfort",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Lena",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Sebring",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Summersville",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "anywhere",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Warren",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Port Washington",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Viera",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Tyngsboro",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Channel Islands Point Magu",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "East Grand Forks",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Putnam",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Cynthiana",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Sarcoxie",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Sterling",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Upper Kintore (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Union",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Fitchburg",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Pequea",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Matteson",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Michigan (Central Upper)",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Herkimer",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Millbury",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Wingdale",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Milbury",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Tanner",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Seffner",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Ogunquit",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Madison Heights",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Atlanta",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Rootstown",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Surrey/Burnaby (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Jersey city",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Dyersville",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Downers Grove",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Brighton",
+    "state": "CO",
+    "count": 3
+  },
+  {
+    "city": "Kings Canyon National Parks",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lafayette",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Wolcott",
+    "state": "CT",
+    "count": 3
+  },
+  {
+    "city": "Lively Grove",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Blaine",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Kawaihae",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Lisman",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Columbia",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "placitas",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Lodi",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Northwest Medford",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Mount Laguna",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Ham Lake",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Kerhonkson",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Newton",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Myrtle Beach",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Schererville",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "White Center",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Sandpoint",
+    "state": "ID",
+    "count": 3
+  },
+  {
+    "city": "Symsonia",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Pacifica",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Belleville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Woodland Hills",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Shavertown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Chicago (Lake Shafer)",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "New Egypt",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Bloomfield",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Siloam Springs",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "New Bedford",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Dudley",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Corvallis",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Cairo",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Swartz Creek",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Zelienople",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Walworth",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Palomar Mountain",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Bow",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Guilford",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Thompson Falls",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Pell Lake",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Effingham",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Aldie",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Blackstock (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Brigantine",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Plainwell",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Flowood",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Lorette (Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Newton Falls",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Hanson",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Hollidaysburg",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Marieville (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Portland",
+    "state": "ME",
+    "count": 3
+  },
+  {
+    "city": "East Oroville",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Carol Stream",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Bruneau",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Throop",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Cataula",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Riverside",
+    "state": "RI",
+    "count": 2
+  },
+  {
+    "city": "Watertown",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Webster",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Amsterdam",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Southbridge",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Dix Hills",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Bathurst (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Star",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Manheim",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Mount Sinai",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Oak Park",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Bogie Sound (Emerald Isle Bridge)",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Gardnerville",
+    "state": "NV",
+    "count": 4
+  },
+  {
+    "city": "Aberdeen",
+    "state": "MD",
+    "count": 4
+  },
+  {
+    "city": "San Ramon",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Endicott",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Jackson",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Avon",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Cold Creek",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Idaho City (10.6 miles NW)",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Lake Vermilion (near tower)",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Mills River",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Kenosha",
+    "state": "WI",
+    "count": 8
+  },
+  {
+    "city": "Bradford",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Canton",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "South Barrington",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Monaca",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "East Northport",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Farmingdale",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Ridgeway",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Gold Beach",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Newberry",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Spencerville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "West Babylon",
+    "state": "NY",
+    "count": 4
+  },
+  {
+    "city": "Rodeo",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Arnprior (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Oro Valley",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Milan",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Bristol tn and bristol va",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Hopkinsville",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Gatineau (Canada)",
+    "state": "QC",
+    "count": 2
+  },
+  {
+    "city": "Bridgewater",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Pretty Prairie",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Box Elder",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Cornelia",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Orange City",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Rapid City",
+    "state": "SD",
+    "count": 4
+  },
+  {
+    "city": "New Hope",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Hebe/Klingerstown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Mount Vernon",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Willisburg",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Park Rapids",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Bourne",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Brunswick",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Danvers",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Coffman Cove",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Front Royal",
+    "state": "VA",
+    "count": 4
+  },
+  {
+    "city": "Santa Fe Springs",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lower Makefield",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "West Bangor",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Indian Rock Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Cambridge",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Bloomsburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Fredenberg Township",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Winter Park",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Laguna Niguel",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Des Peres",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Westland",
+    "state": "MI",
+    "count": 5
+  },
+  {
+    "city": "Newburgh",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Laveen",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "Walden",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Orono (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Carmel",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Sharron (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Apex",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Princeton",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Potwin",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Mercer Island",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Thomasville/Greensboro",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "De Tour Village",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lucedale",
+    "state": "MS",
+    "count": 2
+  },
+  {
+    "city": "Flanders",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Boone",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Stanley",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Butler",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Buffalo",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Covington",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Longmeadow",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Vienna",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Quaker Hill",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Gold Bar",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Troy (NW of)",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Elkland",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Cedarcreek",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Godfrey",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Mohave Valley",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Sentinel Butte",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Louisville",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Middletown",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Deer Trailer",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Como",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Valley Village",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Andover",
+    "state": "KS",
+    "count": 2
+  },
+  {
+    "city": "Crooks",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Murrells Inlet",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "North Hardeeville",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Nappannee",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Cliffdell",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Fair Oaks",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Manhattan",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Lincoln Park",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Cherry Grove",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Williamsford (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Wittmann",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Joshua Tree-Twenty Nine Palms",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Algonquin",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Hoover",
+    "state": "AL",
+    "count": 3
+  },
+  {
+    "city": "Sun City",
+    "state": "AZ",
+    "count": 4
+  },
+  {
+    "city": "Lakeside",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Cambridge (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Harrington",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "West Greenwich",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Bloomfield",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Honey Brook",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Pittsburgh (near)",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "North Berwick",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Blue Island",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Byron",
+    "state": "GA",
+    "count": 3
+  },
+  {
+    "city": "North Syracuse",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Troy",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Brockville (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Ely",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Taylors Falls",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Fallon",
+    "state": "NV",
+    "count": 3
+  },
+  {
+    "city": "Lynden",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Shinnston",
+    "state": "WV",
+    "count": 2
+  },
+  {
+    "city": "Canton",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Braidwood",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Mt. Juliet",
+    "state": "TN",
+    "count": 4
+  },
+  {
+    "city": "Vaughn (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Suffield",
+    "state": "CT",
+    "count": 4
+  },
+  {
+    "city": "Troy",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Port Clinton",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Concord",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Lowell",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Susquehanna",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Johnsonville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Montgomery village",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Brooksville",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Woodville",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Cedarburg",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Evergreen",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Burlington",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Miami (South Dade)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Glenview",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Eastpointe",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Sagamok First Nation (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "West Springfield",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Gerber",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Colchester",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Sunny View",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Northfield",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Los Angeles (Del Mar Beach)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Edgewood",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Moriarty",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Barstow",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Wyoming",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Warsaw",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Greenville",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Geneva",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Pe Ell",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Elliot Lake (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Sylvan Beach",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Mishawaka",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Eads",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Mineral Point",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Alma",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Rosholt",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Grand Coulee",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Jacksonville Beach",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Downingtown",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Black River Falls",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Dorothy",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Joshua Tree National Park",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Monroe County (Road \"V\")",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Big Spring",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Huntingtion",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Hobart",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Bellevue",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Dos Palos",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Morgantown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Kingsville",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Otto",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Hazel Green",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Carrabassett Valley",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Galloway",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Noblesville",
+    "state": "IN",
+    "count": 3
+  },
+  {
+    "city": "Reynoldsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Riverhead",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Robins",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Willard",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "LaGrange",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Decatur",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Haltom City",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Lafayette",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Baldwin park",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Garden City",
+    "state": "UT",
+    "count": 5
+  },
+  {
+    "city": "Columbus",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Clive",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Winston-Salem/Lexington",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Duck Key",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Pickering (Canada",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Bow",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Stateline",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Elsmere",
+    "state": "DE",
+    "count": 2
+  },
+  {
+    "city": "Grayland",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Minneapolis-Uptown",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Raynham",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "soledad",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Gulf of Mexico",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Bobcaygeon (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Willows",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Belmont",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "East of Kingman (E of; rural)",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Commerce",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Maxton",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Palm Beach Lakes",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Hillsborough",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Lewisburg",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Norwood",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Marion",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Philadelphia",
+    "state": "MS",
+    "count": 2
+  },
+  {
+    "city": "Urbana",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "McQuady",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Shreveport",
+    "state": "LA",
+    "count": 7
+  },
+  {
+    "city": "Buffalo Grove",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Tamarac",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Hertford",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Shelbyville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "McComb",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Ocala",
+    "state": "FL",
+    "count": 10
+  },
+  {
+    "city": "Woodbury",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Rogersville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Big Lake",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Batavia",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Manhattan Beach",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Crested Butte",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Scanlon",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Mantua",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Mize",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Phoenix/Tempe",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Calabash",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Springdale",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Walnut Grove (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Summerfield",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "New York Mills",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Camrose (Canada)",
+    "state": "AB",
+    "count": 2
+  },
+  {
+    "city": "Westport",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Hart",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "St. Charles",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Castiac",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Yorkville",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Fort Walton Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "South Myrtle Beach/ surfside beach",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Light",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Oak Island",
+    "state": "NC",
+    "count": 6
+  },
+  {
+    "city": "Stony Point",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Mayville",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Cherry Grove (MCAS)",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Jarrell",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Smyrna",
+    "state": "GA",
+    "count": 3
+  },
+  {
+    "city": "Sterling",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Goosecreek",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Barstow (I-15 Fwy)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mukilteo",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Waverly",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "St. Catharines (Canada)",
+    "state": "ON",
+    "count": 3
+  },
+  {
+    "city": "Lake Villa",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Passaic",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Henderson",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Horizon City",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Bonita Springs",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Waleska",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Newport Beach",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Plainfield",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Maywood",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Mount Vernon",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Ashmont (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Johns Creek/Atlanta",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Cibola County (SR 117, MM32)",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Dederick",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Ashton",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Lewes",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "El Segundo",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "High Springs",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Green River",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Bethany (Route 1)",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Hermantown",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Royal Palm Beach",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "North Bergen",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Richfield",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Leander-Jarrell",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Rothsay",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Rock Island",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Nags Head",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Elmhurst",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Goodlettsville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Palos Verdes Estates",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Muscatine",
+    "state": "IA",
+    "count": 4
+  },
+  {
+    "city": "E. Parsonsfield",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Alden",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Lewis Center",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Sullivan",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Wickenburg",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Liberty Township",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Gallatin",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "Pea Ridge",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Ossian",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Cairo",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Lake Kiowa",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Reading",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Boerne",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Potsdam",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Dartmouth",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "South Kingston",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Stoneham",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Lakehurst",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Millwood Community to the outskirts of Andrews",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Lexa",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Brecksville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Luella",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Corona (Queens)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Curwensville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Lascar (I-25; MM 62)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Earl Park",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Chadds Ford",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Ellsworth",
+    "state": "KS",
+    "count": 3
+  },
+  {
+    "city": "Tappan",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Mount Carmel",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Nelson",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Mount Holly",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Summer Lake",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Lamberton",
+    "state": "MN",
+    "count": 5
+  },
+  {
+    "city": "Mount Dora",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Monroe",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Vinton",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Two Harbors",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Oneonta",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Fort Lauderdale Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Charleston",
+    "state": "WV",
+    "count": 2
+  },
+  {
+    "city": "Moab",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Duvall",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Krotz Springs",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Priest River",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Renville",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Jasper",
+    "state": "GA",
+    "count": 3
+  },
+  {
+    "city": "Taunton",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Red Cross",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Branson ((possibly; unsure))",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Starkville",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Bass Lake",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Berwyn",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Bartow",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Warren",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Nineveh",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Hildale",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Oconomowoc",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "South Portland",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "West Frankfort",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Abiquiu",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Florence",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "High Point",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Dayton/Fairborn",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Palatine",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Wickieup",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Grant",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Allentown",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "New York City (Yonkers)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Pt. Townsend",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Limerick",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Hudson",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Navasota",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Moore",
+    "state": "OK",
+    "count": 4
+  },
+  {
+    "city": "Rumney",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Owen Sound (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "St. Helens",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Shasta Lake",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Arlington",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Corydon",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Irondequoit",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Morro Bay",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Verona",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Windham",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Crestline",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Denver Metro",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Hamden",
+    "state": "CT",
+    "count": 3
+  },
+  {
+    "city": "Rochester",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Wentzvillle",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Portage la Prairie (Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Glenwood Springs",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Lakside",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Paradise",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Gum Springs",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Epping",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Pelican",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Cedaredge",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Sequim",
+    "state": "WA",
+    "count": 6
+  },
+  {
+    "city": "New Lexington",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Chesterville",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Wigan (UK/England)",
+    "state": "NT",
+    "count": 1
+  },
+  {
+    "city": "Bridgton",
+    "state": "ME",
+    "count": 3
+  },
+  {
+    "city": "Kirkland/Kenmore",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Jackson",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Lakewood",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Lorenzo",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Meadow Creek",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "North Haven",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Stratham",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Tirana (Albania)",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Ocean Isle Beach",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Byrdstown",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Placheville",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "West Grove",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "South Branch (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Highland",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Wylie and Rowlett",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Elbert",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Lagrange",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Eau Gallie",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Felton",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Orleans (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Glide",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Blocksburg",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "San Ysidro (Baja??)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "West Linn",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Marshall",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Pine Grove",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Winchester",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Sterling",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Franklin Furnace",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Murray",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Kernersville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Nogal",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Forrest City",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Mount Shasta",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Plymouth Meeting",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Canton",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Omak",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Wichita Falls",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "South Pasadena",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Lookout Mountain",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Irrigon",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Ravena",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Los Fresnos",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Mineral Springs",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Washington, D.C. (above I-295 bridge)",
+    "state": "DC",
+    "count": 1
+  },
+  {
+    "city": "Parry Sound (near) (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Ft. Pierce",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Rosman",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "New Cumberland",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Paris",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Kotzebue",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "McHenrry",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Elkridge",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Northampton",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Dillingham",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Roy",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "Stirling",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "West Farmington",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "East Greenwich",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Ponte Vedra",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Long Prairie",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Denton",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "New Hampton",
+    "state": "NH",
+    "count": 3
+  },
+  {
+    "city": "Biscoe",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Steamboat Springs",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Castaic",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Chatsworth",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Ocklawaha",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Burke",
+    "state": "VA",
+    "count": 4
+  },
+  {
+    "city": "Kill Devil Hills",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Pelham",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Hayesville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Orange",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "College Point (Queens)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Shelbyville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Pasco County",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Gage (I-10, Exit 67)",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Watertown",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Thetford",
+    "state": "VT",
+    "count": 2
+  },
+  {
+    "city": "Hanover",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Fairlee",
+    "state": "VT",
+    "count": 3
+  },
+  {
+    "city": "Kalaheo",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Barrie (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Everglades",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "West Topsham",
+    "state": "VT",
+    "count": 2
+  },
+  {
+    "city": "LaVeta",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Pine Bush",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Baldwinville",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Jacksonville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Wickieup (south of)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Clarkdale",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Scottsdale/Northwest Mesa",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Oakwood",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Pikesville",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Montclair",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Shalimar",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Princeton",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "California",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Stover",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Waterbury (over)",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Battle Lake",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Glastonbury",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Luxora",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Harbor Beach",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Salunga/Landisville area right by highway 283",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Port Hope (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Clinton",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Bolivar, Hermitage, and Urbana",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "LaMonte",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Edwards",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Marshfield",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Tannersville",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Centreville",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Rosiclare",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Suffern",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Bandon",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Pray/Livingston (between)",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Pittstown",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Charlotte (outside of; I-485)",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Levene",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Rubidoux",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Ivy Bluff",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Bowser (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Eastham",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Farmington",
+    "state": "MO",
+    "count": 4
+  },
+  {
+    "city": "Faribault",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Plam Bay",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Elkview",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Creede",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Dillsburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Cedar Hill/Burnsmill",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Sacaton",
+    "state": "AZ",
+    "count": 3
+  },
+  {
+    "city": "White Sulphur Springs",
+    "state": "MT",
+    "count": 2
+  },
+  {
+    "city": "Gainesville",
+    "state": "MO",
+    "count": 6
+  },
+  {
+    "city": "Palm Springs",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Lower Mount Bethel",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Lompoc",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Johnson Creek (on outskirts of; on Hwy 94 east)",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Rancho Bernardo",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Clements",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Sodaville",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Copan",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "El Dorado",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Dieppe (Canada)",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Phalaborwa (South Africa)",
+    "state": "SK",
+    "count": 1
+  },
+  {
+    "city": "Vancouver",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Milford",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Wilkeson",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Odessa",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Preston",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "count": 6
+  },
+  {
+    "city": "Lordstown",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Belleville",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Saint Francis",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Colerain Township",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Esko",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Newtown",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Hoffman",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Kingston",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Churchville",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Estrella (west of Phoenix)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Forest Hill",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Glens Falls",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Victoria (above)(Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Carling area (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Gallatin (town of; Red Hook zip)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Farmington/Helenville",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Chicopee",
+    "state": "MA",
+    "count": 3
+  },
+  {
+    "city": "Spring Prairie",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Miami (Suburbs)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Martinsville",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "New London",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Watertown",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Casa Grande (near)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Ford",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Birch Run",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Enterprise",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Kasilof",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Pangburn",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Federal Way",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Tunkhannock",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Elberon",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "East Aurora",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Ran home Santa Fe",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Santa Fe (on ranch)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Hayward",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Lakewood",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "Pottersville",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Pinellas",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Beacon Falls",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Fairfield",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Starview",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "West Mobile",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Carpenteria",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Morrisville",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Spring Creek",
+    "state": "NV",
+    "count": 3
+  },
+  {
+    "city": "Monticello",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Wheeler AAF",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Newburg",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Seabrook",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Ojo Caliente",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "La Porte",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Hickory Hills",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Zion",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Cerritos",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Odenton",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "La Junta",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Lebo",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Bothell/Kirkland",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Bean Station",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Radford",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Paradise Valley",
+    "state": "AZ",
+    "count": 5
+  },
+  {
+    "city": "Cutler Bay",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Arcata",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Watchung",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Geyserville",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Ione",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Culver",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Idanha",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Ashland",
+    "state": "OR",
+    "count": 4
+  },
+  {
+    "city": "Kingsburg",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Alexandria",
+    "state": "LA",
+    "count": 2
+  },
+  {
+    "city": "Fredonia",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Laredo",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Perrine",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Delta/Tsawwassen (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Eagle River",
+    "state": "AK",
+    "count": 4
+  },
+  {
+    "city": "Mill Creek",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Washington, D.C. & Baltimore (between; on I-295)",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Hermosa Beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Los Ranchos de Albuquerque",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Culpeper",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Spring Hill",
+    "state": "TN",
+    "count": 6
+  },
+  {
+    "city": "Claysburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Camp Lake",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Pekin",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Selkirk",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Southmont",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Carefree",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Cheektowaga",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Cooleemee",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Doylestown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Los Angeles (Venice Beach)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "New London",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Waretown",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Lupton City",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Kingston",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Lake Ozark",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Granite Bay",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Lombard",
+    "state": "IL",
+    "count": 3
+  },
+  {
+    "city": "Kearns",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "Stanton",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Emigrant Pass (near; foothills of)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Ten mile",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Hampton Bays",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Hopkins",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Dansville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Rover",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "La Plata",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Clark",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Hillsville",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Naalehu",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Pontiac",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Baltimore (West Hampden)",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Trenton",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Orono",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Umatilla",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Helenville",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Barrington",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "La Luz",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Tempe/Phoenix",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Tome",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Waukee",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Ayer/Harvard",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Phoenix (Fort McDowell)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Forked River",
+    "state": "NJ",
+    "count": 3
+  },
+  {
+    "city": "Absecon (most reports)",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Shippensburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Uniontown",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Concord",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Arden",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Highland Village",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Keaau",
+    "state": "HI",
+    "count": 3
+  },
+  {
+    "city": "Ocean & Monmouth Counties",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Falmouth",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Roswell/Ruidoso",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Route 66 West (Exit 50)",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Moncks Corner",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Seneca",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Windsor (Canada)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Salem",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Ten Mile to Knox",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Whitestone",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Four Oaks",
+    "state": "NC",
+    "count": 4
+  },
+  {
+    "city": "Lakveville",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Huntingdon",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Montevallo",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Bolton",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Damascus",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Council Grove",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Huntington",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Orting",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Antinito",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Middle Village",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Manassas Park",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Barre Town",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Norwich/Thetford",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Levittown",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Clio",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Little Chute",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Camby/Indianapolis",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Foley",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Ivor",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Heber City",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Fort McMurray (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Hillsboro",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Coleman",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Mineola",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Joppatown",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Accord",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Amery/Star Prairie",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Neskowin",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Woodside",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Mill Spring",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Denvile",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Florham Park",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Kawartha Lakes (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Scranton",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Warren",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Morganza",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Sherwood Park (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Road",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Desert Center",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Marion",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "I-495 North (driving on)",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Burbank",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Antioch",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Jerome",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Sutherlin",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Maumelle",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Mecca",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Longview",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Woodland Township",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Lafayette (14 mi. E of)",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Elk Grove Village",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Columbia",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Houston",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Colorado Springs (east of)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Rifton",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Bolton (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Nashville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Ivanhoe",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Wrightsville",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Natchitoches",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Dixmont",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Ocala",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Cooperstown",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Rockville",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Corona del Mar",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Yarmouth",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Hutchinson",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Pasadena",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Susanville",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Trout Valley",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Odessa",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Clanton",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Unity",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Brodheadsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Jenkins",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "North Vancouver (Canada)",
+    "state": "BC",
+    "count": 2
+  },
+  {
+    "city": "Holden",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "North Vancouver",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Goliad",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Vassar",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "West Hartford",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Hubertus",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Phenix city",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Arlington/Marysville",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Hereford Township",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "North Riverside",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Windsor Heights",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Lake Wylie",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Blue Hill",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Seymour",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Maurice River TWP",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Lordstown (near; on I-80)",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "New Blaine",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Twin Lake",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Orangevale",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Warrensburg",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Roberts County",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Fort St. John (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "North Shore",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Stanardsville",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Walpole Island (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Taylors",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Forest Acres",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Newtown",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Dickinson",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Black Canyon City",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Norwich",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Cornelius",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Whitecourt (Canada)",
+    "state": "AB",
+    "count": 2
+  },
+  {
+    "city": "Pound Ridge",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Langhorne",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Branchland",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "French Creek",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Colville",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Newburgh",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Corinth",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Medford",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Thermopolis",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Joppatowne",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Crystal City",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Covington",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Salem",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "Peterborough (Canada)",
+    "state": "ON",
+    "count": 3
+  },
+  {
+    "city": "Wilkes-Barre/Hazleton (between)",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Bay City",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Gadsden",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Plainfield",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Southwest UK (UK/England)",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "San Ysidro",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Monmouth",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Avon/Eagle",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Cle Elum",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Harpersville",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Orient",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Tehachapi",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "Hilldale",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Cottonwood",
+    "state": "AZ",
+    "count": 4
+  },
+  {
+    "city": "Glendale (La Crecenta",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Gill",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Campobello",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "DeLuz/Temecula",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Elmhurst",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Upton/Millbury",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Greene",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Plum",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Wind Lake",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Brush Prairie",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Draper",
+    "state": "UT",
+    "count": 3
+  },
+  {
+    "city": "Sligo",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Kemptville (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Tomahawk",
+    "state": "WV",
+    "count": 4
+  },
+  {
+    "city": "Mill Run",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Kimberley (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Grafton",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Toluca Lake",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Harlansburgh",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Cedar City",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Sky Valley",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Moorpark",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Boulder City",
+    "state": "NV",
+    "count": 2
+  },
+  {
+    "city": "Elizabeth",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Troutman",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Attelboro",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Middleboro",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Surrey",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Schnecksville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "York Valley",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "McComb",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Whitesburg",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Pope",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "North Minneapolis",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Arabi",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Victoria",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Friendship",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Port Isabel",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Lee",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "New Boston",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Pineville",
+    "state": "LA",
+    "count": 3
+  },
+  {
+    "city": "Mountatin Top",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Ewing",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Oakland",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Penndel",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Otay Mesa",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Robbinsville",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Larned",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Loxahatchee",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Hattiesburg",
+    "state": "MS",
+    "count": 4
+  },
+  {
+    "city": "Camden",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "New Haven (Fair Haven/East Haven)",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Dothan (general area)",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Lynnville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Elk City",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "Milwaukee (north of)",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Russell Springs",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Trenton",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Musquodoboit Harbor (Canada)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Fogelsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Hamburg",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Buxton",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Inman",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Oakland Township",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Brighton",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Trumann",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Port Allegheny",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Bluff City",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "East Los Angeles (Boyle Heights)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Valley Falls",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Lucerne Valley",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Frenchtown (Monroe)",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Rosemead",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Spring Grove",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Holly Springs",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Mount Ida",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Vance",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "New Bloomington",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Matanzas Inlet",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Keene",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Bexley",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "King George",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Cowlington",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Linden",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Grafton",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Thornton",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Jamison",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Prospect",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Huntingdon Valley",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Green Bay West",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Paris",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Beaver Falls",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Gilchrist (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Norton Shores",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Charles City",
+    "state": "IA",
+    "count": 2
+  },
+  {
+    "city": "Morehead city",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Smithville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Catawissa/Burnsville",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Clare",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Elizabeth",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Alanson",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Fridley",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Jefferson",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Wilmington (?)",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Chesterfield",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Breese",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Provincetown",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Layton (south of)",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Richmond (near)",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Griffin",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Sparta",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Alberta (rural)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Leesville",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Montague",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Sea-Tac (to the south of??)",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Arroyo Grande",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Hebron",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Brownsville (on I-5 highway)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Lake Buena Vista",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "St. Fracois Xavier (Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Continental Divide",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Pine River",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Pingree Grove",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Belton",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Harding",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Colts Neck",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Eureka",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Alton",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Montrose",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Quakertown",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Suquamish",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Loleta",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Ft. Myers Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Sugar Grove",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Dunes City",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Moline",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Eastsound",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Corvallis",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Capitol Heights",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Billerica",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Polson (north of)",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Butler",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Riverview",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Pulaski",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Sears Point Raceway",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "South Lyon",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Belgrade",
+    "state": "MT",
+    "count": 3
+  },
+  {
+    "city": "Brooklyn Center",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Fremont",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Cleveland",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Athens",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Kenvil",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Enfield",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "Hollywood",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Winchester",
+    "state": "KY",
+    "count": 3
+  },
+  {
+    "city": "Shirley",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Buena Vista",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Lucasville",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Beaverdam",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Elizabeth",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Crestone",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Signal Mountain",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Miamisburg",
+    "state": "OH",
+    "count": 7
+  },
+  {
+    "city": "Jamestown",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Tuscarora Indian Reservation",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Red Hill",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Lakeville",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Haughton",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Somerset Center",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Gibsonville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Salt Lake City (north of)",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Tiverton",
+    "state": "RI",
+    "count": 3
+  },
+  {
+    "city": "burlington",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Idaho falls",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Branford",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Vannuys",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Indianapolis/Fishers",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "sacramento",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Eagle",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Morris",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Flowermound",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Bistib",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Granite Falls",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "west union",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Glacier",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Windgap",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Winsted",
+    "state": "CT",
+    "count": 2
+  },
+  {
+    "city": "White sands missile range",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "rockford",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Springfield",
+    "state": "OH",
+    "count": 6
+  },
+  {
+    "city": "Brentwood",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "Cary",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "Coolidge",
+    "state": "AZ",
+    "count": 4
+  },
+  {
+    "city": "Forest",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Cleveland",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Soddy Daisy",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "Gatesville",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Soddy Daisy/Hixson",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "St. Joseph",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Taylor",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Safford",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Hope Valley",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Lolo",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Oakley",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Salters",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Eastaboba",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Ardmore",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "Circleville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Moses Lake",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Canandaigua",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Ocean Beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Horseheads",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Fort Payne",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Harmonyville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Somerset",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Sharon",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Allen",
+    "state": "TX",
+    "count": 3
+  },
+  {
+    "city": "Ripon",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Sussex",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Campton",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Glenmoore",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Ferguson Falls",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Wolfeboro",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Wynanskill",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Marshallberg",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Bernalillo",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Henderson",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Arlington",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "New Prague",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Lake In The Hills",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Boiling Springs",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Plaquemine",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Palos Park",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Dubre",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Davenport",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Gonzales",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Gary",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Moberly",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Clermont",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "none",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Bend/Burns (between; on Hwy. 20)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Sherman",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "San Benito",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Vandiver",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Cleveland (SE section)",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Kanab",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Hauppauge",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Mt. Pleasant",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Richland",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Rogersville",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Centre",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Williston",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Swannanoa",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Blanchard",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Osprey",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Gardiner/Pittston",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Colbert",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Rotterdam/Amsterdam",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Williston",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Scenic",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Morrisville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "DeKalb",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Abita Springs",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Minot",
+    "state": "ND",
+    "count": 2
+  },
+  {
+    "city": "Urbandale",
+    "state": "IA",
+    "count": 4
+  },
+  {
+    "city": "New Martinsville",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Rockvile",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Portage La Prairie (N. of)(Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Tridelphia",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Walkertown (Johns Road)",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Trotwood/Englewood",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Utica",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Panguitch",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Swain",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Corpus Christi (south of)",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Wallaceburg (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Monrovia",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Granton",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Elko",
+    "state": "NV",
+    "count": 2
+  },
+  {
+    "city": "East Lansing",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "East Irondequoit",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Manoa Hills",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Gahanna",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Villas",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Fond du Lac",
+    "state": "WI",
+    "count": 3
+  },
+  {
+    "city": "Pearce",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Kingman (45 mi. E; I-40)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Lake Havasu",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Roosevelt",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Hurley",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "\n",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Pie Town",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Chippewa Falls",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Litchfield Park",
+    "state": "AZ",
+    "count": 2
+  },
+  {
+    "city": "Eagle Mountain",
+    "state": "UT",
+    "count": 4
+  },
+  {
+    "city": "All over",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "South Phoenix/Laveen",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Arizona City",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Cotati",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Bay Area",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Buellton",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mira Mesa",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "La Quinta",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Litchfield",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Marina del Rey",
+    "state": "CA",
+    "count": 4
+  },
+  {
+    "city": "29 Palms",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Long Beach/Los Angles",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Las Vegas/Summerlin",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Knights Landing",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lemoore",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "San Diego",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Danville",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "San Jacinto",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Fremont",
+    "state": "CA",
+    "count": 5
+  },
+  {
+    "city": "San Diego (Mission Valley)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Overton",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Ozena",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lomira",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Newberry Springs",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "San Juan Capistrano",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Boyle Heights",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Cardiff by The Sea",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "East Hemet",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "San Diego/Mira Mesa",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Patterson",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Buellton (near)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Filmore",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Isla Vista",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Carpinteria",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Morgan Hill",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Rio Vista",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Tustin (viewed from)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Nuevo",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Del Mar",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Encintas",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Paramount",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Carson",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Canyon Lake",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Downey",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Wilows",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Carmel Valley",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Needles",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Soledad",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Electra",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Ashby",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Coldwater",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Barnegat",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Homeland",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Elm City",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "East Rutherford",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Manchester to Baltimore, MD",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Henderson",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Sidney",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Sparks",
+    "state": "NV",
+    "count": 3
+  },
+  {
+    "city": "Hollis",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Miami Shores",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "La Crescenta",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Gardner",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Menifeeca",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Atwater",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Berlin",
+    "state": "NJ",
+    "count": 4
+  },
+  {
+    "city": "Safety Harbor",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Lewiston",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Clancy",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "North Smithfield",
+    "state": "RI",
+    "count": 2
+  },
+  {
+    "city": "Appalachia",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Paris-Winchester",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "St. Cloud",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Granger",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Bremen",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Deer Park",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "North Star",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Peru",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Berryville",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Latrobe",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Midway",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "North Kingstown",
+    "state": "RI",
+    "count": 2
+  },
+  {
+    "city": "Eudora",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Ada",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Grapevine",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Copley",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Cleveland Heights",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Wicksburg",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Burlington",
+    "state": "VT",
+    "count": 2
+  },
+  {
+    "city": "Wimberley",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Waterford",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Wyckoff",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Kensington",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Dixon",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Newport",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Chelmsford",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Littleton",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Bedford",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Damariscotta",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Lincoln/Omaha (between)",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "La Crosse",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Nome",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Wheatfields",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Otsego",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Wayland",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "New Castle",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Rensselaer",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Zolfo Springs",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Wellsville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Dayton",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Grayson",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Afton",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Lewisville",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "West Haven",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Signal Hill",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Kaufman",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Joseph",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Morton Grove",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Sicklerviller/Turnersville",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Edson (Canada)",
+    "state": "AB",
+    "count": 2
+  },
+  {
+    "city": "Between",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Mercer (RT 19)",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Point of Rocks",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Frostburg, Lavale",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Illinois (location not specified)",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Stapleton",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Lynwood",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Pittsburg",
+    "state": "KS",
+    "count": 2
+  },
+  {
+    "city": "Summerfield Township",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "West Branch",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Parma Heights",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Franklyn",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Hawkesbury (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Diamond Bar",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Centreville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Lexington Park",
+    "state": "MD",
+    "count": 3
+  },
+  {
+    "city": "Tonawanda",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Ogdensburg",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Wethersfield/Cromwell are",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "McLean",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Aloharetta",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Corridor H (??)",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Sharpsburg",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Villa Grove",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "South Attleboro",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Dayton",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Plattsburgh",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Willow Street",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Hodgenville",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Forest lake",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Chihlowie",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Avocado Heights",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lewisburg",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Aiea",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Salina",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Tarrytown",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Mismisburg",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Alexander",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Harrisonburg",
+    "state": "VA",
+    "count": 3
+  },
+  {
+    "city": "Franklin",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Crane Hill",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Brownstown",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Aston",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Valley",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Fielding",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Castle Rock",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Elcho",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Altus",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Suffolk/Chesapeake",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Ridgefield",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Kannapolis",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Maysville",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Rockingham",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Boiling Springs Lake",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Pembroke",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Milford",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Parkton",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Williams",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Olney (Musgrove Park)",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Waverly",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "LANGLEY",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Hinesburg",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Timonium",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Bethel",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Some where between Fernley and shurz",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Mundelein",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Mountain Rd",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "El Dorado",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Southbury",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Venice beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Reno/Stead",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Groveton",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Mount Joy",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Oak Creek area",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Grove City",
+    "state": "OH",
+    "count": 3
+  },
+  {
+    "city": "St. Marys",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Ouchita National Forest",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Lanai",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Ochlocknee Bay",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Avella",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "New Albany",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Pierre Part",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "High Prairie (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Augusta",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Silver Bay",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Ellisville",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Roseville (west of)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Rifle",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Navarre",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Lutsen",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Ruffsdale/Mt Pleasant",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Willard",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Ashville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Appomattox",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Riverdale City",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Kentwood",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Eagle",
+    "state": "ID",
+    "count": 3
+  },
+  {
+    "city": "Johnsonville",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Ringgold",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Rock Springs",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Cypress",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Clairemont",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Fall River Mills",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mountain View",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Gulf Breeze",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Placentia",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Organ House",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Marysville",
+    "state": "KS",
+    "count": 2
+  },
+  {
+    "city": "Palatka",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Dexter",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "North Tonawanda",
+    "state": "NY",
+    "count": 3
+  },
+  {
+    "city": "Nicholasville",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Hermitage",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Coral Springs",
+    "state": "FL",
+    "count": 6
+  },
+  {
+    "city": "Lumberton",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Bonaire",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Edmonton, AB (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Stevensville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Halifax (Canada)",
+    "state": "NS",
+    "count": 3
+  },
+  {
+    "city": "Smithfield",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Port Franks (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Pine Mountain",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Koloa",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Thorsby",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Pontoon Beach",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Portland/Hillsboro",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Hillsboro/Portland",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Thorndike",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Burleson",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Aspen",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Port St. John",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Boon",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Laytonville",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Bridgeton",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Crossville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Genoa",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Ronks",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Puget Sound (bet Seattle/Bainbridge Island)",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Pacoima",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Exeter",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Clinton",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Harpers Ferry",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Los Alamos",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Near Woody",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Park Ridge",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Marshall",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Roseville/St paul",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Cochrane (Canada)",
+    "state": "AB",
+    "count": 2
+  },
+  {
+    "city": "Taylorsville",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Marriottsville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Tilton",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Redlands (heading nw)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Winfield",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Eden",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Jonesboro",
+    "state": "IL",
+    "count": 5
+  },
+  {
+    "city": "Pineview",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Mountville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "\n",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Crofton",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Annapolis/Crofton",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Ridgway",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Hartland",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Oxford",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Greeneville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "King County (above)",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Marble Hill",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Herington",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Saratoga",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Kenton",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "La Center",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Freeport (Treasure Island )",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Crescent City",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Armona",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Winchester (French Valley)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Sumas",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Sallisaw",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Proctor",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Cannon Beach",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Logansport",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Copperopolis",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Kendall",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Croghan",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Ronan",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Little Canada",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Rogers",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Dryden",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Saint Cloud",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Perryville",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Ladysmith",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Barnesville",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Port St John",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Hendersom",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Oceanside (viewing east county)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Dousman",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "East Setauket",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Tacna",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Warner Springs",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Syracuse (20-30 mins away from)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Radium Springs",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Chincoteague Island",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Lowell",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Lery (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Flushing",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Narragansett",
+    "state": "RI",
+    "count": 3
+  },
+  {
+    "city": "Lincoln",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Bay Shore (Long Island)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Rexford",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Collinsville",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Scandia",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Modena",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Wayne",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Norwalk/Westport (between on Ct 15)",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Whiskey Creek/Parksville (Canada)",
+    "state": "BC",
+    "count": 2
+  },
+  {
+    "city": "Flanders",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Fremont (west of; on I-90 )",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Cudahy",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Spring Valley",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Elk",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Loomis",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Laval (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Maryville",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Okemos",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Christopher",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Howard",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Southgate",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Prineville",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Marco Island",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Glen Ellyn",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Dimmit",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Loves Park",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Crystal Bay",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Perkinston",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "East Mesa",
+    "state": "AZ",
+    "count": 3
+  },
+  {
+    "city": "Old Town Katy",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Riley",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "San Carlos",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Napanee (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Hatch",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Marin County",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Riviera Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "South Scottsdale",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Peaks Island",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Riverview",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Churchville",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Jewell",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Salem",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Worth",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Diboll",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Rhien (Canada)",
+    "state": "SK",
+    "count": 1
+  },
+  {
+    "city": "Crown City",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Waterbury",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Desmoines",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Florissant",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Dacula",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Allegan",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Birdsboro",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Portage",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Pumpernickel Valley",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Jefferson",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Orefield",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Ellicott City",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Nesbit",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Beach Haven",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Moro Bay",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Columbia",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Mount Sterling",
+    "state": "KY",
+    "count": 3
+  },
+  {
+    "city": "Denver",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Kansas City (entering from I-70 west)",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Block Island",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Barnum",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Wakpala",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Sand Lake",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lemoyne",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Paramus",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Dublin",
+    "state": "OH",
+    "count": 4
+  },
+  {
+    "city": "Killingly",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Jones",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "New Lowell (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Munfordville/Glendale (between)",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Cambridge City",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Loma Linda",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "\n",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Fall River",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Hartford",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Elkins",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Homosassa",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Schiller Park",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Lavalette",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "New Baltimore",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "La Grande (atop Mt. Emily)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Allston",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Cheverly",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Winnsboro",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Sapulpa",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Littleville",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Longboat",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Revere Beach",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Yucca",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Deerfield",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Elk City Lake",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Barnsdall",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Tuscumbia",
+    "state": "AL",
+    "count": 3
+  },
+  {
+    "city": "Nanafalia",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Park Forest",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Elmont",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Cordes Lakes",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Prior Lake",
+    "state": "MN",
+    "count": 3
+  },
+  {
+    "city": "Drummond Island michigan",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Saint Clair Shores",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "El Soreno",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Coles Point",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Saint Clair Shored",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Catalina Township",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Brunswick",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Calabasas",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Twinsburg",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Glen Mills",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Trevose",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Central Point",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "River Grove",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Export",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Andover",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Decatur",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "House Springs",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "George (The Gorge amphitheatre)",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Bagley",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Woods Canyon Lake",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Waldoboro",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Waldoboro",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Lynn",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Hudson",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Van Horn",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Cheshire",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Peru",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Coalgate",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Leagueville",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Morton",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Essex Center",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Eisenhower Tunnel (near)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Philippi",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Westerly",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Rogerson",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Mayflower",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Kingston",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Newberg",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Glenarm",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Saline",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Diamondhead",
+    "state": "MS",
+    "count": 2
+  },
+  {
+    "city": "Woodland",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Frederika",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Schofield Barracks",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Marquette Heights",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Cambria",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Brazoria",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Ponchatoula",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Waynesville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Red Bluff",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Westerville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Vernal",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Las Vega",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Grenada",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Boston (northeast of)",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Pottsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Burnsville",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Smithfield",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Mathis",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Carver",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Mohnton",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Kanawha City",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Elkhart",
+    "state": "IN",
+    "count": 3
+  },
+  {
+    "city": "Grayslake",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Gibbon",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Sugar Camp",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Amelia",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Taneytown",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Sharon",
+    "state": "PA",
+    "count": 3
+  },
+  {
+    "city": "Red Hook",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Swansea",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Valley Stream",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Trinidad",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Bayville",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Spencer",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Galesburg",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Isabella",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "New Gloucester",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Chazy Lake",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Lake Ariel",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Stratford (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Thomasville",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Kearneysville",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Pittsburg",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Cary",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Milton-Freewater",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Monongahela",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Black Creek",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Lemont",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "\n",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Pierrefonds (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Boones Creek",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Los Olivos",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "St. Cloud",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Katrine (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Muskogee",
+    "state": "OK",
+    "count": 3
+  },
+  {
+    "city": "Woodland",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Forestburgh",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Roasharon",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "West Palm Beach Co.",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Roosevelt",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Salton Sea",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Mayerthorpe (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Spring City",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Kitimat",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Las Vegas",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Kentucky",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Meadowview",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Hilo",
+    "state": "HI",
+    "count": 3
+  },
+  {
+    "city": "Ocean View",
+    "state": "HI",
+    "count": 2
+  },
+  {
+    "city": "Holladay",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Freeport",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "New City",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Beverly",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Louisville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Telford",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Davidsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Center Valley",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Green Castle",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Murrells Inlet / Burgess Community",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Blacklick",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Willimantic",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Lawton",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lexinton",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Conway",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Pacifica/Daly City",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Oceanside",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "West Bloomfield",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Fayetteville",
+    "state": "WV",
+    "count": 2
+  },
+  {
+    "city": "Genoa City",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Sandwich",
+    "state": "MA",
+    "count": 4
+  },
+  {
+    "city": "Jeffersonville",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "St. Petersburg Beach",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Alachua",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Delmar",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Carriere",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "McMechen",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Lula",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Calhoun",
+    "state": "GA",
+    "count": 3
+  },
+  {
+    "city": "Liberty",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Sioux Falls (at UT 33 and Southeastern)",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Stewartstown",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Orangeburg",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Yulee",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "St. Paul (around)",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Port Matilda",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Wildwood Crest",
+    "state": "NJ",
+    "count": 4
+  },
+  {
+    "city": "Crestwood",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Ashland",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Butte",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Harrisburg",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Macomb Township",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lynchburg",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Sedalia",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Muncy",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "North Salem",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Wasaga Beach (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Baldwin Borough",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Smyrna",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Wyocena",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Warsaw",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Lake Tapps",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Poynette",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Saint Cloud",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Corunna",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Dallas (DFW Airport)",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "North Babylon",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Hwy 63 (northbound)(Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Rather not say.",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Palm Springs",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Palm Spings",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Whitinsville",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Liberty",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Pismo",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Vadnais Heights",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Princeton",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Indian Rocks Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Kingston",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Urbana",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "West Point",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Breaks",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "St. Simons Island",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Mercedes",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Dorset (UK/England)",
+    "state": "YT",
+    "count": 1
+  },
+  {
+    "city": "Cotton",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Lugoff",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Stanton",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "New York City (East Harlem)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Liberty",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Statesboro",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Rolling Meadows",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Sparks/Spanish Springs",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Keyser",
+    "state": "WV",
+    "count": 2
+  },
+  {
+    "city": "Connelsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Bel",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Belcamp",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Valley Center",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Washington",
+    "state": "VT",
+    "count": 2
+  },
+  {
+    "city": "Thackerville",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Montague (Canada)",
+    "state": "PE",
+    "count": 1
+  },
+  {
+    "city": "Weverville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Eden",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Amberg",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Spring valley",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Sprague River",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Lemoyne",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Austin",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Elbow Lake",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Keswick",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Jordan",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Lorton",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Joliette (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Northfield",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Mt. Washington",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Hollis Center",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Mokena",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Marrietta",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Lawndale",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Wooster",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Delmar",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Pepperell",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Nipomo",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Olds (Canada)",
+    "state": "AB",
+    "count": 2
+  },
+  {
+    "city": "Mechanicsburg (near)",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Lewisburg",
+    "state": "WV",
+    "count": 2
+  },
+  {
+    "city": "West Jefferson",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Swansea",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Bow Island (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Olympia/Nisqually Valley",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Priest Lake",
+    "state": "ID",
+    "count": 2
+  },
+  {
+    "city": "Haven Beach",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Hill City",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Davenport",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Grand junction",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Brantingham",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Sunset Beach",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Marina del Rey/Playa Vista",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mt. Laguna",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Guilford",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Gulf shores",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Elkins Park",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Plummer",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Carrolton",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Unadilla",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Goleta (Goleta Beach Park)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "East Palo Alto",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Hartford",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Archer",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Homewood",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Westford",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "LakeView",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Valley City",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Colleyville",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "East Pittsburgh",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Hayfield",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Monterey Park",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Fonda",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Fergus Falls",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Old Bethpage (Long Island)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Cranbrook (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "West Falls",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Fremont",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Monson",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Decatur",
+    "state": "TN",
+    "count": 2
+  },
+  {
+    "city": "East Fultonham",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Slippery Rock Township, near New Castle",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Romney",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Newburyport",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Cortland",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Pelican Rapids",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Sayville/Blue Point (general area)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Galveston",
+    "state": "TX",
+    "count": 4
+  },
+  {
+    "city": "Winneconne",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "West Harwich",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Olmsteadville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Gig Harbor",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Groton Long Point",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Niles",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Old Field",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Plymouth",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "N. Hollywood",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Deming",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Silverthorne",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Hershey",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Callaway",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Guthrie",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Rice",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Tuscarawas County",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Tullytown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Centerville",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Indian Land",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Fresno (north of; on I-5)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Bayfield",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Key Largo",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Weddington/Wesley Chapel",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Torrington",
+    "state": "WY",
+    "count": 4
+  },
+  {
+    "city": "Lumberton",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Newton",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Groveport",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Hudson",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "North Mountain area",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Essex",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Maiden",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "American Fork",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "New Jersey",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Croswell",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lincoln",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Morton grove",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Moss",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Gearhart",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Mount Morris",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "West Point",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Phillipsburg",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Cranberry twp (7 Fields)",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Rupert",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Johnstown",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Jefferson City",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Long Beach Island (North Beach)",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Independence",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Powell",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Gamrbrills",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Gonzales",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "North Central Upper Peninsula",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Champlin",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Adamsville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Harveys Lake",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Marseilles",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Evanston",
+    "state": "WY",
+    "count": 2
+  },
+  {
+    "city": "West Friendship",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Salvo",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Venise en Quebec (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Saint Johnsbury",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Richmond",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Woodstock",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Johnsburg",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Coalinga",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Dodge Center",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "King William",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Whiting",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "West Stockbridge",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Louisa",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Bloomington (outside; north of)",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Berlin",
+    "state": "MD",
+    "count": 4
+  },
+  {
+    "city": "Browning",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Southern Pines",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Chelsea",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Salton City",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Castleton",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Weedsport",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Aberdeen",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Cumberland",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Cameron",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Alligator Alley",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Seabrook",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Diamond Point",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Atglen",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "San Pierre",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Leslie",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Berwick",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Beloit",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Shelby Twp",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Merrick",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Wayne",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Neoga/Mattoon (between; on I-57)",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Tumwater",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Pierz",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Bolivar",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Aberdeen",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Rural Hall",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Bromont (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Winfield",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Many",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Bohemia",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Kyle",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Shunk",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Russleville",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Sagamore Hills",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Derwood",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Burbank",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Saskatchewan (rural) (Canada)",
+    "state": "SK",
+    "count": 1
+  },
+  {
+    "city": "I-10 (MM# 15; 10 mi. N of MS)",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Bay Center",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Monroe",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Topsham",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Southampton",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Tremont",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Alden Township",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Newport News/Hampton",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Mulberry Township",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Midvale/Sandy",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Rocky Mount",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Aguila",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Bethany",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Two Hills",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "La Junta",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "South River",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Ormond by the Sea",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Antelope Island",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Pulaski (Case Knife Rd)",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Yelm",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Mount Morris",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Allison Park",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Cyrus, WV US 52 North • Coordinates: 38°18&#8242;19&#8243;N",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Weldona",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Asbury Park",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Gladstone",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Sag Harbor",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Auburn",
+    "state": "ME",
+    "count": 2
+  },
+  {
+    "city": "Exeter",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Johnstown",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Fairhope",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Greenbrier",
+    "state": "AR",
+    "count": 2
+  },
+  {
+    "city": "Lake George (Lake George Village )",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Central City",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Eton",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Northfield",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Dexter",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Baileys Harbor",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Sidney",
+    "state": "MT",
+    "count": 3
+  },
+  {
+    "city": "Gorham",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Firebaugh/Mercey Hot Springs",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Green Cove Springs",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Machesney Park",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Highwood",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Laurys Station",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Anderson",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Mead",
+    "state": "CO",
+    "count": 2
+  },
+  {
+    "city": "Clinton",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Dublin",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Utting",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Negley",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Garyville",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Chester Springs",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Oregonia",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Miamisburg (west of)",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Winnfield",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Marion",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Northfield",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Waquoit",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Coram",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Lake Arrowhead",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Edgewater",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Oahu",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "East Amherst",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Chilmark",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Playa Vista",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Park Ridge",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Byron",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Lamoine",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Lindsborg",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Harstene Island",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "North Wilkesboro",
+    "state": "NC",
+    "count": 3
+  },
+  {
+    "city": "New Haven/Fair Haven/ East Haven",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Enosburg Falls",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Tullahoma",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Palermo",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Oscoda/Greenbush/Harrisville",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Schuylerville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Cornwall (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Cloud Croft",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Clarksburg",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "New York City (Maspeth)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "McPherson",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Sitka",
+    "state": "AK",
+    "count": 2
+  },
+  {
+    "city": "Topsfield",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Otter Tail",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Sugar Land",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Buffalo",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Little Current (Canada)",
+    "state": "ON",
+    "count": 2
+  },
+  {
+    "city": "Martinsburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Hudson",
+    "state": "WI",
+    "count": 4
+  },
+  {
+    "city": "Myersville",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Wisconsin Dells",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Kansas",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Minocqua (town of)",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Tomahawk",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Johnston",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Perrysburg",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Grove",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Warrendale",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Justice",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Brunswick",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Carson city",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Pacific",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Colfax",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Hanover Township",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Scotch Plains",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Auburn",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Mira Loma",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Red Rock (Las Vegas)",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Maspeth",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Dale City",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Canton/Marietta",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Backus",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Greenfield",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Stallings",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Roxboro (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Strasburg",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Keansburgh",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Plainview",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Buffalo Creek Area Campground",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Butler",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Manitowoc",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Hatboro",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Chillicothe",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Seacaucus",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Marquette",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Fairland",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Ione",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "North Aurora",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Lakeside",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Universal City",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Bangor and Bloomingdale (between)",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Tyrone Township",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Post Falls/Stateline",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Henderson Bay",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Weldon Spring",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Phoenix",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Kingston",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Elberta",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Flowery Branch",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Stony Point",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Fulton",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Concordia",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Midland",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Makinen",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Salie",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Tifton",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Phillips",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Gatineau (Aylmer) (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Goodyear (in flight)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Calhoun",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Walpole",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Coppell",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Lake Mary",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Pecatonica",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Portland (far east; Corbett)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Housesprings",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Portland",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Mineral Ridge",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Sugar Loaf",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Pompton Lakes",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Madisonville",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Everett",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "McCormick",
+    "state": "SC",
+    "count": 3
+  },
+  {
+    "city": "Bethel",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Shell Beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mckeesport",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Herald Harbor",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Wadley",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Huntsville (Owens Cross Roads)",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Walnutport",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Floral Park",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Newbury Park",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Northern Allegheny County",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Lexington",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Clendenin",
+    "state": "WV",
+    "count": 2
+  },
+  {
+    "city": "Long",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Council",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "High Falls",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Catalina Island",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Royse City",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Townsend",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Marlette",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lakebay",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Punta Gorda",
+    "state": "FL",
+    "count": 4
+  },
+  {
+    "city": "Banks",
+    "state": "OR",
+    "count": 3
+  },
+  {
+    "city": "Blue Ash",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Myrtle Point",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Forest Hills",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Trout Creek",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "La Grande",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Coshocron",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Endwell",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Greenup",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Sutton",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Hatfield",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Cameo",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Pine Springs",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Onalaska",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Mount Juliet",
+    "state": "TN",
+    "count": 3
+  },
+  {
+    "city": "Brayton",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Ogilvie",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Chisago",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "East Meadow",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Halifax",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Aspers",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Newmanstown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Holly",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Firestone",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Stockwell",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Alexandria (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Lisle",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Laramie",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Wilton",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Pueblo West",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Kilmarnock",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Hortonville",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Sanford",
+    "state": "ME",
+    "count": 3
+  },
+  {
+    "city": "Windsor",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Kelowna (Canada)",
+    "state": "BC",
+    "count": 2
+  },
+  {
+    "city": "Douglas",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Tooele Valley (above Oquirrh Mtns. & Dugway)",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Coaldale",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Randolph",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Saint Louis",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "California",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Depoe Bay",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Cornish",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Neola",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Oregon",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "New Castle",
+    "state": "PA",
+    "count": 4
+  },
+  {
+    "city": "Pascagoula",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Two Rivers",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Dry Ridge",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Eatonville",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Charlottesville/Waynesboro",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Coates",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Toone",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Coolidge",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Ahmadi (Kuwait)",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Waltham",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Falmouth",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Winston",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Raleigh",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Rockland",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Little Elm",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "North Plains",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Reno",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Beeville-Kennedy",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Tallahassee",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "New Berlin",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "St. Clairsville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Aurora",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Boundary Waters",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Princeton",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Clearlake",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "West Fargo",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Oakdale",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Hurffville/Sewell (I-55, MM 55)",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Perkinstown (south of)",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Byram",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Springville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Twenty Nine Palms",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "West Yarmouth",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Molokai (above)",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Drayton Valley (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Canonsburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Tuttle",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Flower Mound",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Pollock",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Bedminster",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Westfield",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Mason",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Chaska",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Leeds",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Winter Haven/Lake Wales",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Hatteras",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Hunters Creek",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Lake Placid",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Newbury",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Berkeley (above)",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "La Canada Flintridge",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Avenal",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Oakville",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Jacksonville",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "West Lafayette",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Slade",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Bertram",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Dighton",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Leakesville",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Corvallis/Newport (between)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Little Rock",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Lake George",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Gallatin/Hendersonville/Madison",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Cobb",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mount Pleasant",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Medford",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Delavan",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Ajax (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Bethpage",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Pendleton",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Haledon",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Bouckville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Seminole/Largo",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Steamboat Rock",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Richland",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Spanish Fork",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Poplarville",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Enfield",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Ellensburg",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Alligator Point",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Blue Springs",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Tiffin",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Mildred",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Deforest",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Monroe City",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Skead (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Groom Creek wilderness area",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Cartersville",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Tarawa Terrace",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "James Island",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "East Carbon",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Nottingham (just east of Baltimore)",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Otis Orchards",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Eagle Lake",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Hamburg",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Bloomingdale",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Dauphin",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Texas (western part of)",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Minoa",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Big Bear Lake",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Rohnert park",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Chase City",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Trenton",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Middletown (west of)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Willow Spring",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Hollandale",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Searsport",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Middle Grove",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Goldendale",
+    "state": "WA",
+    "count": 3
+  },
+  {
+    "city": "Lowell",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Keota",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Indian Lake",
+    "state": "FL",
+    "count": 8
+  },
+  {
+    "city": "North Tonnawanda",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Sanborn",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Denham Springs",
+    "state": "LA",
+    "count": 2
+  },
+  {
+    "city": "Stahlstown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "titusville",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Munster",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "West Sonoma County",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Huntertown",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Mannington",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Chatham",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Ancaster (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Ridgeland",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "North Judson",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Bristol",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Payette/Weiser",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Londonderry/Andover",
+    "state": "VT",
+    "count": 2
+  },
+  {
+    "city": "Savoy",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Hertel",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Georgetown",
+    "state": "KY",
+    "count": 2
+  },
+  {
+    "city": "Ridgeland",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Bixby",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "Tracy",
+    "state": "MT",
+    "count": 2
+  },
+  {
+    "city": "Middle Island",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Coeur D'Alene",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Phoenix (northwest area)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Bridgewater",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Zion National Park",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Creston (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Onaway",
+    "state": "MI",
+    "count": 3
+  },
+  {
+    "city": "Courtland",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Tupelo",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "London",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Carlsbad",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Melville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Lafayette Hill",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Tekonsha",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Eaton Rapids",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Upson",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Ponoka (Canada)",
+    "state": "AB",
+    "count": 2
+  },
+  {
+    "city": "Reedley",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Union",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Ross",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Villa Rica",
+    "state": "GA",
+    "count": 5
+  },
+  {
+    "city": "Windsor",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Pendleton",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Amissville/Rixeyville",
+    "state": "VA",
+    "count": 2
+  },
+  {
+    "city": "Rockville Centre",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Vernon Township",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "San Fernando Valley",
+    "state": "CA",
+    "count": 3
+  },
+  {
+    "city": "Baker City",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Akron",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Moultonboro",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Moscow",
+    "state": "ID",
+    "count": 3
+  },
+  {
+    "city": "Rockford",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Savoy",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Clearlake",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Crum Lynne",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Rockhill",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Snowhill",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "San Bernardino/Highland",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Cropper",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Layton",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Paramus",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Van Wert",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Kitty Hawk",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Williamsfield",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Salem",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Iola",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Morristown",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Petersburg",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Butler",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Mercersburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Royersford",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Blowing Rock",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Smithfield",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Saint Maries",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "North Bay (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Dundee to Brighton (between)",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Glencoe",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "New Waterford",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Lahoma",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "Bowden",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Ft. Wayne",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Durham",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Star City",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Port Crane",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "West Seneca",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Wikiup",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Charlestown",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Teslin (Canada)",
+    "state": "YT",
+    "count": 1
+  },
+  {
+    "city": "Mount Vernon",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Pleasant Prairie",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Sublette",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Del Rosa/San Bernardino",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "North Huntingdon",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Hannibal",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Fredericktown",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Kent/Renton",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Columbia/Savage",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Belmont",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Deep Cove (North Vancouver)(Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Spruce Grove",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Meredith",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "New Hartford",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Cazenovia",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Rockies",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Montgomery",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Sycamore",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "South St. Paul",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Red Lodge",
+    "state": "MT",
+    "count": 2
+  },
+  {
+    "city": "Wellington",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Chugwater",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Brewster",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Crestview",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "McKenzie",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Avra Valley",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Asheville (near Airport)",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Thompson Ridge",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Chateauguay (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Flint/Lansing",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Fremont",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Doerun",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Stockbridge",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Anacortes",
+    "state": "WA",
+    "count": 4
+  },
+  {
+    "city": "Lander",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Black Rock Campgroud Joshua tree",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lehi",
+    "state": "UT",
+    "count": 2
+  },
+  {
+    "city": "Rogersville",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Fredonia",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Florence",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Wytheville",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Barrington",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Talihina",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Walker",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Columbia City",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Whiteville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "West Point",
+    "state": "MS",
+    "count": 2
+  },
+  {
+    "city": "Kelseyville",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Blythe",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Cleveland",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Fernandina Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Yacolt",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "North Seattle",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Clinton",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "New Bedford (near) (pilot report)",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Portage La Prairie (Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Jenson Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Ocala",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Richfield",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Talent",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "St. Clair Shores",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Haymarket",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Tampa Bay",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Hubbard Lake",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Garden City",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Baker City/La Grande (between)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Glenmora",
+    "state": "LA",
+    "count": 2
+  },
+  {
+    "city": "Umpqua Nat. Forest (Idleyld Park)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Woodinville/Redmond",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Ft. Worth",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Steubenville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Ottsville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Galena",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Englishtown-Manalapan",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Homedale",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Baudette",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Lyme",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Solebury",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Dalton",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Long Beach (Long Island)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Fullerville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Lyndonville",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Caribou",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Trenton",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Gerrardstown",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Beachwood",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Carrick",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Flagstaff",
+    "state": "AZ",
+    "count": 3
+  },
+  {
+    "city": "Chehalis (near; on I-5 south)",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Emeryville",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Harvest",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Sicklerville",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Midland",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Laguna beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Crystal lake",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Mesquite",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Mercersberg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Collingswood",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Canterbury",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Bauxite",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Whitemarsh",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Jericho",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Lake Tahoe",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Gas City",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "South Lake Tahoe",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Bartlet",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Springville",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "\n",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Queen creek",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Calgary",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Newark",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Cheshire",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Big Bay",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Glouster",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Coeur d'Alene/Post Falls",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Gloucestet",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Etna",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Richmond (near)",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "South Los Angeles",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Sandia Park",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Parma",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Mount Poccono",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Medicine Hat (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Kittitas/Ellensburg",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Waynesburg",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Wallington/Passaic",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "North Liberty",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Lakin",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Stevensville/Washington, D.C.",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Groom Lake (near)",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Harrodsburg",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Haslet",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Rancho Mirage",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Clements",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Tecumseh",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Siesta Key",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Pompano",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Rugby",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Marfa",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Kingwood",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Montpelier",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Whitehouse",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Miami Lakes",
+    "state": "FL",
+    "count": 5
+  },
+  {
+    "city": "Hanover",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Salmon Arm",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "San Francisco",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Parma (Canada)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Rocky Point",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Staten Island (near Verezano Bridge)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Eustis",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Cornell",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Louisville (near: I-64, Exit 113)",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Bristow",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "Fredericksburg",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Concordia",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "South Charleston",
+    "state": "WV",
+    "count": 2
+  },
+  {
+    "city": "Horn Lake",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "West Lebanon",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Montpelier",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Covington",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Ruston",
+    "state": "LA",
+    "count": 2
+  },
+  {
+    "city": "Adelaide (Australia)",
+    "state": "SA",
+    "count": 1
+  },
+  {
+    "city": "Richlands",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "Tybee Island",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Vicksburg (east of Quartsite)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Mint Hill",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Cottonwood",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Brownsville",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Oskaloosa",
+    "state": "IA",
+    "count": 2
+  },
+  {
+    "city": "Ekron",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Bethera",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Highland Park",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Ft. Stockton",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Morganton",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Boston Area",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Boonville",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Reno (100 miles south of)",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Fort Myers Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Vernon Hills",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Holbrook",
+    "state": "MA",
+    "count": 2
+  },
+  {
+    "city": "Jersey City",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Holly Ridge",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Erwin",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Valley Springs",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Holtsville",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "North Franklin",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Old Saybrook",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Lockport",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Cannon Falls",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Wallingford",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Livingston",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Coupeville",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Garfield",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Ladera Ranch",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "North Reading",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Castleton",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "LaPorte",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Algoma",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Mountain View",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Hunt Valley",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Benton",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Chester",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Colordao Springs",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Islamorada",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Rush City",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "St. George",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Scotch Valley",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Saint Johns",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Wappingers Falls (over The Hudson River)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Veradale (Spokane Valley)",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "NJ Parkway (south)(Exit 109)",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Sheridan",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Athena",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Bridgman",
+    "state": "MI",
+    "count": 2
+  },
+  {
+    "city": "Maple Shade",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Lakewood (over Golden)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Farmington",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Munith",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lyme/Haddam",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Ketchikan",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Urbana",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Westport",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Springfield South",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Surprise (75 miles north of)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Hartly",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Bradford (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Lake Geneva",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Norfolk",
+    "state": "NE",
+    "count": 1
+  },
+  {
+    "city": "North Hero",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Shady Grove",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "North Lauderdale",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Coal Township",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Lasalle (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Coleman",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Unspecified",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Miami",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "New Haven",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Coal Township (Excelsior)",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Spring Branch",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Red Rock Canyon",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Old Tappan",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Sharon",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Streamwood",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Yoder",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Pictou Landing (Canada)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Greenwood Village",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Lansing",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Estero",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Ruidoso Downs",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Madera Ranchos",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "North Branch",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Westbank (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "New Salem",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Salmon",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Corning",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Montclair",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Cape San Blas",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Dry Fork",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Wahiawa",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Williams Bay",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "\n",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Santa Fe",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Coralville",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Somis",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Albany",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Ninilchik",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Blue Diamond",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Camp Douglas",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Marietta/Roswell",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Gladewater",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Longs/Myrtle Beach",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Callallen/Orange Grove",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Alton",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Glasco",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "East Lynn",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Beaumont (Canada)",
+    "state": "AB",
+    "count": 1
+  },
+  {
+    "city": "Columbia Falls",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Mineral Wells",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Lincoln County (northern part)",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "South Phoenix",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Columbus",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "sunrise",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Marion",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Boylston",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Libertyville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Egan",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Stout",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "East Rochester",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Hobbs",
+    "state": "NM",
+    "count": 2
+  },
+  {
+    "city": "Waddell",
+    "state": "AZ",
+    "count": 3
+  },
+  {
+    "city": "Winter Garden",
+    "state": "FL",
+    "count": 3
+  },
+  {
+    "city": "Sulphur",
+    "state": "OK",
+    "count": 2
+  },
+  {
+    "city": "Maple Falls",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Sault Ste. Marie",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Donnelly",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Kootenai (10 miles north}",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "East Spokane",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Sandy Springs",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Phelps",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Bunnell",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Raymond",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Hollywood-Davie",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "DeBary",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Sullivan",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Big Wells",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "St. Petersrburg",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Winnipeg (near)(Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Winnipeg (near) (Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Arlington",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Hull",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Walburg",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Helotes",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Short Pump",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Parksville",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Hopelawn",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Reno/Sun Valley",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Frost",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Jackhead Reserve (Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "Somerset",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Franklin",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Jackson Heights",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Skamokawa",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Newtown",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Jefferson",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Danville",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "River Denys (Canada)",
+    "state": "NS",
+    "count": 1
+  },
+  {
+    "city": "Truckee/Cisco Grove",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mt. Shasta (above)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Greenback",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Mt. Hood (Parkdale)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Jackson",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Murrietta",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Ste-Brigitte de Laval (Canada)",
+    "state": "QC",
+    "count": 1
+  },
+  {
+    "city": "Burley",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Orange Beach",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Stafford",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Friendsville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Guilderland",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Preston",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Magnolia",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Old Fort",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Bolivia",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Quinby",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Fortuna",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mora",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Bartlett",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Homstead",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Natrona Heights",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Herndon",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "I-24 80 to 74 mile marker",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Columbus (New Albany)",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Lamar",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Trucksville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Fox River Grove",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Carthage",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Oloh",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Encino",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Hotchkiss",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Farmington",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Dupo",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "McMinnville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Chesterfield Matoaca",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Burnside",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Inwood",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Milford",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Boscawen",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Jackson Heights (NYC, Queens)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Solromar",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Fairview",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Escanaba",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Encinitas Carlsbad",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Stormville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Webster",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Dunlow",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "New Fairfield",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Yorktown/Jefferson Valley",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Hackettstown",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Tri-cities and Yakima County",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Ruffin",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Gaston",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Le Sueur",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Dekalb",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Beltsville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Pacific Grove",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Portland (northeast part)",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Salado/Jarrell",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Hampton Beach",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Chiloquin (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Rubicon",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Semmes",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Florala",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Otter Creek",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Holyoke",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Courtland",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Chelsea",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Dexter/Ann Arbor (general area)",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Camp Lejeune",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Clatskanie",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Lakeport",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Basking Ridge",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Highlany",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Adamsville",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Georgetown Twp",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Fort Dodge",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Moncton",
+    "state": "NB",
+    "count": 1
+  },
+  {
+    "city": "Ash Fork",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Eaton rapids",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Goreville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Apopka (near)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Westport",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Cumming/Alpharetta",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Bunnlevel",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Selma",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Milford",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Pontevedra Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Cabot",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Platsmouth (near; on Hwy S 29)",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Buda",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Warrensburg",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Middlesex",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "East Rockaway",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Mount Morris",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Williamsburg",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Lakeville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "South Whitley",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Bozeman/Gallatin Gateway (Hyalite Reservoir)",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Cottonwood Heights",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Weippe",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "West Danville",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Lawton",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Grant County",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Port Wentworth",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Green Cove Spring",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Haines City",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Waterfall",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Henderson",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Northern Bruce Peninsula (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Brentwood",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Clarksburg",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Heath Springs",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Rutledge",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Florida City",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "High View",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Trussville",
+    "state": "AL",
+    "count": 2
+  },
+  {
+    "city": "Potosi (near)",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Bristol",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Ranburne",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Converse",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Lowell/Tyngsboro/Nashua",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Thonotosassa",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Leitchfield",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Gladstone",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "(Unspecified location)",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Friday Harbor",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Lancaster",
+    "state": "NH",
+    "count": 2
+  },
+  {
+    "city": "Etna",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Catonsvill",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Desoto",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Tatum",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Lordsburg (E of, on I-10; 10 mi. W of AZ)",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Sanger",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Sunbury",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Hartford/Dothan",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Bethel",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Lauderhill/Ft. Lauderdale",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Euclid",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Johnstown",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Gila River Indian Reservation",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Iberia",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Iberia (outside of; rural)",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Linthicum",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Wailua",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Fairview",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Harrison",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Cottonwood (outside city limits)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Sisseton",
+    "state": "SD",
+    "count": 1
+  },
+  {
+    "city": "Downer",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Clifton Heights",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "York New Salem",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Perryville",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Parole",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Templeville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Mt. Vernon",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Roselle",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Freeland",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Sauk Centre",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Lake Wales/Winter Haven",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Frenchtown",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Rockwood",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Waite Park",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Woodson",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Shelby (Lay Lake)",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Fort Myers (near downtown)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Hot Springs",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Garfield",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Twin City",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Indianapolis (northwest part)",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Driggs",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Bandera",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Concord",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Lincoln",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Sonora",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "New Palestine",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Clementon",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Westport",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Montara",
+    "state": "CA",
+    "count": 2
+  },
+  {
+    "city": "Whitmore Lake",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Vandalia",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Homer",
+    "state": "AK",
+    "count": 1
+  },
+  {
+    "city": "Windsor County",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Drexel Hill",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Glen Burnie",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Abilene",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Yukon/Oklahoma City",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Woodstock",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Hughes Springs",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Columbus",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Loudoun County",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Lakemont",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Nashville (Columbia)",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Key West",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Rozet",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Kailua Kona",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Kakabeka Falls (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Carmel",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Chilliwack (Canada)",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Odin",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Quincy",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Egg Harbor Twp",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Stayton/Salem",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Oakville",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Rio Dell",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Rockaway Beach",
+    "state": "OR",
+    "count": 2
+  },
+  {
+    "city": "Wailuku",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Onancock",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Bear Lake",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Port Ludlow",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Rolesville",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Hayden",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Cincinatti",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "McKean Twp.",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Readstown",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Clearwater",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Waimanalo",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Cromwell",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Granville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Larkesville",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Moncton (Canada)",
+    "state": "NB",
+    "count": 2
+  },
+  {
+    "city": "Trumbull",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Ballston Lake",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Yorktown",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Essex",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Ellicott City (outside of)",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Hamlake",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Salt Springs",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Kanata (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Bonsall",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Reddinton Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Millbrook",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "East Charleston",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Galatia",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Reed Point",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Mentor Headlands",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Leland",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Oswego",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Hempstead",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Wayne",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Orangburg",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Los Angeles (Westlake Village)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Centereach/Bohemia",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Hialeah",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Glendora",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Rocky Poiint",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Pickens",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Nashville",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "East Grand Rapids",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "West Sacramento",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Hammond",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "West Allis",
+    "state": "WI",
+    "count": 4
+  },
+  {
+    "city": "Wilmington",
+    "state": "DC",
+    "count": 1
+  },
+  {
+    "city": "Brewer",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Deerfield",
+    "state": "WI",
+    "count": 2
+  },
+  {
+    "city": "Vashon Island",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Portales",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Oak Ridge",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Lawrence (E of Indianaplis)",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Avon Lake",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Belleville",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "West Hempstead",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Menasha",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Middletown",
+    "state": "IN",
+    "count": 2
+  },
+  {
+    "city": "Hugo",
+    "state": "MN",
+    "count": 2
+  },
+  {
+    "city": "Orillia (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Laurel",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Cape Coral/Punta Gorda",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Connaught (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Sherburne",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Gardenton (Canada)",
+    "state": "MB",
+    "count": 1
+  },
+  {
+    "city": "LaBelle",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Lancaster Mill",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Maryland Heights",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Accomac",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Kiambu",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Harlingen",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Mabton",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Canadian County",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Hillsborough",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Indiatlantic",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Orangeburg",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Shenandoah",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Orange County (in southern part)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Canton",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Pawling",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Geigertown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "South Abbeville",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "McGehee",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Kailua (Kona)",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Palm springs",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Summerland",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Julesburg",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "North Wales",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Hatfield",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Markesan",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "West Milford",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Mesa/Chandler",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Flagler",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Gravenhurst (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "National City (Palm Ave.)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Leeds",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Eloy",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Merigold",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Rentz",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Sulphur",
+    "state": "LA",
+    "count": 2
+  },
+  {
+    "city": "Bellefontaine",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Mauston",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Republic",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Military training site",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Gibsonia",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Mission Viejo (headed towards)",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Yorktown Heights",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Morrisville",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Carleton Place (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Hooker",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Los Gatos",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Porter",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Rochester",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Clearville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Patterson",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "West Roxbury",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Mount Prospect",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "St. Johns River",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Fairfax",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Attalla",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "I-80 (47 miles west of UT)",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Westchester",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Bunn",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Meansville",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Fort Detrick",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Colwell",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Murpheesboro",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Powhatan",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Hartford",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Northumberland",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Ft. Pierce (Hutchinson Island)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Lynxville",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Palmetto Bay",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Kemah",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Middleton",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Cape Carteret (Emerald Isle)",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Albuquerque (Kirtland AFB)",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Conshohocken",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Santa Barbara County",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Lennox",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Custer",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Phoenix (northwest part)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Gurnee",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "DeLand",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Battlement Mesa",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Falcon (north of)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Potter Valley",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Brenham",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Wolf Creek",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "Adel",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Islamorada (Keys)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Bartlett",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Oak Hill",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Colorado Sorings",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Marmet",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Heber Springs",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Orangeville (NW of city) (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Springfield",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Hinkley",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Play Vista/Marina del Rey",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Fayetteville",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Atlantic Beach",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Savannah/Jacksonville",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Hidden Valley",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Rockford",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Farmington",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Chantilly",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Columbia (going toward on 295)",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Somerset (?)",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Fox Island",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Creve Coeur",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Clarks Grove",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Flintville",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Woodlake",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Duarte",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Stringer",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Abington",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Grover Beach",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Roxborough",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Pulaski",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Socastee",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "El Cerrito",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Townsend",
+    "state": "DE",
+    "count": 1
+  },
+  {
+    "city": "Cosmopolis",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Los Alamitos",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Albertville",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "White Plains",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Newton (near)",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "I-65 (Mile Marker 250)",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Mansfield (Rte. 30; near I-71)",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Mechanicsville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Ironton",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Keller",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "North Sacramento",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Gilson",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Washington",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Orlando (Lake Jessimine)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Wyandotte",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Nettleton",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Shaker Heights",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Ipswich",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Riverside",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Newark",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Dracut",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Elmira",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Hanover",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "West Park",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Astoria (Queens)",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Navajo Lake",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Tega Cay",
+    "state": "SC",
+    "count": 2
+  },
+  {
+    "city": "Cambria",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Burgettstown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Gurdon",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Shapleigh",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Asbury",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "St-Augustine",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Puyallup/South Hill",
+    "state": "WA",
+    "count": 2
+  },
+  {
+    "city": "Bellingham",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Huron",
+    "state": "SD",
+    "count": 2
+  },
+  {
+    "city": "Pico Rivera",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Monroeville",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Columbia",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "West Milton",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Bermuda Run",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Somers Point",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Franklin",
+    "state": "LA",
+    "count": 2
+  },
+  {
+    "city": "Wade",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Newport",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Cold Springs",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Montgomeryville",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Snow Hill",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Long Lane",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Ijamsville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Durand",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "North Bend Area",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Anderson",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Collinsville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Woodlands",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Wanaque",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Kouts",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Waterford Twp",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Edinburg",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Somerset",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Isle of Palm",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Palm City",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Jamestown",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Griggsville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Carneys Point",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Avon",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Quapaw",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Greendale",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Antrim Township",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "McFarland",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Holmes",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Littleton (outside of)",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Locust Grove",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Pelham",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Gonzalas",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Humble",
+    "state": "TX",
+    "count": 2
+  },
+  {
+    "city": "Ashburnham",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Watkinsville",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Lorman",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Robertsdale",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Churubuaco",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Cranbury/East Windsor",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Troy",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "Weston",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Petersburg",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Venice",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Chicago Heights",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Bloomingdale",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Winona",
+    "state": "MN",
+    "count": 1
+  },
+  {
+    "city": "Holland",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Laconia",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Cascabels (near)",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Mooresville",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Pulaski County",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Oxford",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Escalon",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "McLean",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Rockland (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Dahlonega",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "Lake Luzerne",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Hakalau",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Ossipee",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Stoneham",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Dover",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Muscadine",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Tuftonboro",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Chocorua",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Nortvale",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Merriville",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Munhall",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Fairview",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Cloudcroft",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Mescalero",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Saint Mary's City",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Oracle",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Cape May",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Catlettsburg (Louisa area)",
+    "state": "KY",
+    "count": 1
+  },
+  {
+    "city": "Kapahi",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Old Fort/Morganton (between)",
+    "state": "NC",
+    "count": 2
+  },
+  {
+    "city": "Cross Plains",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Marion-Morganton",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Ammon",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "Rehoboth Beach",
+    "state": "DC",
+    "count": 1
+  },
+  {
+    "city": "Virden",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Teays Valley",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Eddington",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "McAlester",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Kent/Des Moines/Tukwila",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Mahwah/Ramsey border",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Eldon",
+    "state": "MO",
+    "count": 2
+  },
+  {
+    "city": "Pawtucket/Rumford",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Cambridge",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Northlake",
+    "state": "IL",
+    "count": 2
+  },
+  {
+    "city": "Leesville",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Perkins",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Gouverneur",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Buras",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Wappinger's Falls",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Lawrence",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Sanibel",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Downtown Norfolk",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Lenexa",
+    "state": "KS",
+    "count": 1
+  },
+  {
+    "city": "Cardiff by the Sea",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mono (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Dunnville (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Burtonsville",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "\n",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Windsor",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Valley View",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Witch Wells",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Mars Hill",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Beverly Hills",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Lynwood",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "GreenRiver",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Longs",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Carolina Shores",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Greenwood Springs",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Moapa",
+    "state": "NV",
+    "count": 1
+  },
+  {
+    "city": "Myrtle Beach (501)",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Carmel",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Andalusia",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Mason City",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Tunnel Hill",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Wauwatosa",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Ankeny",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Ooltewah",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Fresno",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Barnstable",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Surfside/Myrtle Beach",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "franklinton",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Lebanon",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Murphy",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Plains",
+    "state": "MT",
+    "count": 1
+  },
+  {
+    "city": "fort bragg",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Satsuma",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Carrolltom",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Danville",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Truth or Consequences",
+    "state": "NM",
+    "count": 1
+  },
+  {
+    "city": "Sherman",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Goochland",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "LaGrange",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Ada",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Worley",
+    "state": "ID",
+    "count": 1
+  },
+  {
+    "city": "San Francisco/Daly City",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Somerville",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Miami (Key Biscayne)",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Fresno County",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Mandan",
+    "state": "ND",
+    "count": 1
+  },
+  {
+    "city": "Glassport",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Rio Hondo",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Spencer",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Marion",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Moselle",
+    "state": "MS",
+    "count": 1
+  },
+  {
+    "city": "Colorado Springs/Schriever",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Alexandria",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Saint Charles",
+    "state": "MO",
+    "count": 1
+  },
+  {
+    "city": "Celina",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Philadelphia (northeast part)",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Caroline County",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Westlake",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "St. George Island",
+    "state": "FL",
+    "count": 2
+  },
+  {
+    "city": "Panama City",
+    "state": "AL",
+    "count": 1
+  },
+  {
+    "city": "Cut Off",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "East Wilton",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Summerville",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Langley",
+    "state": "BC",
+    "count": 1
+  },
+  {
+    "city": "Beverly Hills",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Loris",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Lorain",
+    "state": "OH",
+    "count": 2
+  },
+  {
+    "city": "North Fond du Llac",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Clermont Hwy 27 12 mi.south",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Muncie/Warren (near; Exit 278 on I-69)",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Hope",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Simsbury",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Crete",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Parishville",
+    "state": "NY",
+    "count": 2
+  },
+  {
+    "city": "Whitefield",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Sarver",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Winifrede",
+    "state": "WV",
+    "count": 1
+  },
+  {
+    "city": "Raymond",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Northborough",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Molalla",
+    "state": "OR",
+    "count": 1
+  },
+  {
+    "city": "Schulenburg",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Thomaston",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Barryville",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Havelock (Canada)",
+    "state": "ON",
+    "count": 1
+  },
+  {
+    "city": "Greenville",
+    "state": "ME",
+    "count": 1
+  },
+  {
+    "city": "Biddeford Pool",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Gull Lake (Canada)",
+    "state": "SK",
+    "count": 1
+  },
+  {
+    "city": "Dunlap",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Tampa (east of)",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Waldorf",
+    "state": "MD",
+    "count": 2
+  },
+  {
+    "city": "Haleakala / Kahului",
+    "state": "HI",
+    "count": 1
+  },
+  {
+    "city": "Fairlawn",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Jonestown",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Clarksville",
+    "state": "AR",
+    "count": 1
+  },
+  {
+    "city": "Pearl River",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Sedona area",
+    "state": "AZ",
+    "count": 1
+  },
+  {
+    "city": "Windham",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "League City",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Oxford",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Shirley",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Branchport",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Fort Wayne (outside of)",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "East Hanover",
+    "state": "NJ",
+    "count": 1
+  },
+  {
+    "city": "Clifton",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Kingston",
+    "state": "RI",
+    "count": 1
+  },
+  {
+    "city": "Litchfield",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Oxford",
+    "state": "CT",
+    "count": 1
+  },
+  {
+    "city": "Pawley's Island",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Litchfield",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Butler",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Norwell",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Boalsburg",
+    "state": "PA",
+    "count": 2
+  },
+  {
+    "city": "Peacham",
+    "state": "VT",
+    "count": 1
+  },
+  {
+    "city": "Peachtree City/Newnan",
+    "state": "GA",
+    "count": 1
+  },
+  {
+    "city": "Temple City/Arcadia",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Whitewater",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Millville",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "Hedrick",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Isle of Palms",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Murrell's inland",
+    "state": "SC",
+    "count": 1
+  },
+  {
+    "city": "Cranberry Township",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Newburgh",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Chariton",
+    "state": "IA",
+    "count": 1
+  },
+  {
+    "city": "Gainesville",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Mastic",
+    "state": "NY",
+    "count": 1
+  },
+  {
+    "city": "Gary (headed towards Chicago, Illinois)",
+    "state": "IN",
+    "count": 1
+  },
+  {
+    "city": "Sigel",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Kingston",
+    "state": "OK",
+    "count": 1
+  },
+  {
+    "city": "Temperance",
+    "state": "MI",
+    "count": 1
+  },
+  {
+    "city": "Forest Hill",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Pine Mountain Club",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "\n",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Woodland Hills/Topaga",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Dickson city",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Selinsgrove",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "\n",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Montello",
+    "state": "WI",
+    "count": 1
+  },
+  {
+    "city": "Silverdale",
+    "state": "WA",
+    "count": 1
+  },
+  {
+    "city": "Pitts",
+    "state": "GA",
+    "count": 2
+  },
+  {
+    "city": "North Attleboro",
+    "state": "MA",
+    "count": 1
+  },
+  {
+    "city": "McHenry",
+    "state": "IL",
+    "count": 1
+  },
+  {
+    "city": "Ocean Isle",
+    "state": "NC",
+    "count": 1
+  },
+  {
+    "city": "Vero Beach",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Airville/Pequea",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Pompton Plains",
+    "state": "NJ",
+    "count": 2
+  },
+  {
+    "city": "Ehete",
+    "state": "WY",
+    "count": 1
+  },
+  {
+    "city": "Wellington Lake",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Mount Hermon",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Ferris",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Youngsville",
+    "state": "LA",
+    "count": 1
+  },
+  {
+    "city": "Sanbornville",
+    "state": "NH",
+    "count": 1
+  },
+  {
+    "city": "Buckhead Ridge",
+    "state": "FL",
+    "count": 1
+  },
+  {
+    "city": "Snow Hill",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Luray",
+    "state": "VA",
+    "count": 1
+  },
+  {
+    "city": "Stanford",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Avis",
+    "state": "PA",
+    "count": 1
+  },
+  {
+    "city": "Solomons",
+    "state": "MD",
+    "count": 1
+  },
+  {
+    "city": "Bluffdale",
+    "state": "UT",
+    "count": 1
+  },
+  {
+    "city": "Lake City",
+    "state": "TN",
+    "count": 1
+  },
+  {
+    "city": "Mariposa",
+    "state": "CA",
+    "count": 1
+  },
+  {
+    "city": "Fort Jennings",
+    "state": "OH",
+    "count": 1
+  },
+  {
+    "city": "Frederick",
+    "state": "CO",
+    "count": 1
+  },
+  {
+    "city": "Port Neches",
+    "state": "TX",
+    "count": 1
+  },
+  {
+    "city": "Alcoa",
+    "state": "TN",
+    "count": 1
   }
-];
+]

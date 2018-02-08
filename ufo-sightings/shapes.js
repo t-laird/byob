@@ -1,71 +1,94 @@
 module.exports = [
-  "Formation": {
+  {
+    "type": "Formation",
     "count": 717
   },
-  "Triangle": {
+  {
+    "type": "Triangle",
     "count": 1605
   },
-  "Light": {
+  {
+    "type": "Light",
     "count": 4097
   },
-  "Disk": {
+  {
+    "type": "Disk",
     "count": 684
   },
-  "Flash": {
+  {
+    "type": "Flash",
     "count": 450
   },
-  "Teardrop": {
+  {
+    "type": "Teardrop",
     "count": 168
   },
-  "Oval": {
+  {
+    "type": "Oval",
     "count": 720
   },
-  "Circle": {
+  {
+    "type": "Circle",
     "count": 2429
   },
-  "Sphere": {
+  {
+    "type": "Sphere",
     "count": 1263
   },
-  "Fireball": {
+  {
+    "type": "Fireball",
     "count": 1555
   },
-  "Other": {
+  {
+    "type": "Other",
     "count": 1221
   },
-  "Changing": {
+  {
+    "type": "Changing",
     "count": 472
   },
-  "Unknown": {
+  {
+    "type": "Unknown",
     "count": 1261
   },
-  "Cigar": {
+  {
+    "type": "Cigar",
     "count": 358
   },
-  "\n": {
+  {
+    "type": "\n",
     "count": 366
   },
-  "Cross": {
+  {
+    "type": "Cross",
     "count": 67
   },
-  "Chevron": {
+  {
+    "type": "Chevron",
     "count": 259
   },
-  "Cylinder": {
+  {
+    "type": "Cylinder",
     "count": 272
   },
-  "Cone": {
+  {
+    "type": "Cone",
     "count": 91
   },
-  "Rectangle": {
+  {
+    "type": "Rectangle",
     "count": 339
   },
-  "Egg": {
+  {
+    "type": "Egg",
     "count": 105
   },
-  "Diamond": {
+  {
+    "type": "Diamond",
     "count": 284
   },
-  "TRIANGULAR": {
+  {
+    "type": "TRIANGULAR",
     "count": 1
   }
-];
+]
