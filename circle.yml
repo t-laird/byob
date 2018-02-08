@@ -13,7 +13,7 @@ database:
     - createdb ufo_sightings_test
     - knex migrate:latest --env test
     - createdb ufo_sightings
-    - knex migrate:latest
+    - knex migrate:latest --env prod
     - knex seed:run
 
 deployment:
