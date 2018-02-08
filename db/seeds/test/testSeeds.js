@@ -1,8 +1,4 @@
-/*
-const mockShapes = require('../../sdljf');
-const mockLocations = require('../../sdljf');
-const mockSightings = require('../../sdljf');
-*/
+const { locations, shapes, sightings } = require('../../../ufo-sightings/testData');
 
 
 exports.seed = function(knex, Promise) {
@@ -16,24 +12,62 @@ exports.seed = function(knex, Promise) {
     })
     .then(() => {
       return Promise.all([
-        knex('shapes').insert(mockShapes).returning('id'),
-        knex('locations').insert(mockLocations).returning('id')
+        knex('shapes').insert(shapes),
+        knex('locations').insert(locations)
       ]);
     })
-    .then(validIds => {
-      return knex('sightings').insert(
-        mockSightings.map( sighting => 
-          ({
-            location_id: validIds[0][0],
-            shape_id: validIds[1][0],
-            duration: sighting.duration,
+    .then(() => {
+      let sightingsPromises = [];
+
+      sightings.forEach((sighting) => {
+        const shapeID = getShapeID(knex, sighting.shape);
+        const locationID = getLocationID(knex, sighting.state, sighting.city);
+
+        sightingsPromises.push(Promise.all([
+          Promise.all([shapeID, locationID]), 
+          Promise.resolve({
             summary: sighting.summary,
+            duration: sighting.duration,
             reported_time: sighting.date
           })
-        )
-      )
+        ]));
+
+      });
+      return Promise.all(sightingsPromises)
+    })
+    .then(promises => {
+      let sightings = [];
+      promises.forEach(promise => {
+        sightings.push(
+          knex('sightings').insert({
+            shape_id: promise[0][0],
+            location_id: promise[0][1],
+            summary: promise[1].summary,
+            duration: promise[1].duration,
+            reported_time: promise[1].date
+          })
+        );
+      });
+      return Promise.all(sightings);
     })
     .then(() => {
-      console.log('Seeded test data.');
-    });
+      console.log('Successfully seeded test data');
+    })
+    .catch(error => console.log('big error:', error))
+};
+
+const getShapeID = (knex, shape) => {
+  return knex('shapes').where('type', shape).first('id')
+    .then(({id}) => {
+      return id;
+    })
+    .catch(error => console.log('error:', error));
+}; 
+
+const getLocationID = (knex, state, city) => {
+  return knex('locations').where('state', state).andWhere('city', city).first('id')
+    .then(({id}) => {
+      return id;
+    })
+    .catch(error => console.log('error:', error));
 };
