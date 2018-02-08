@@ -10,11 +10,14 @@ environment:
 
 database:
   override:
+    - createdb ufo_sightings_test
+    - knex migrate:latest --env test
     - createdb ufo_sightings
     - knex migrate:latest
+    - knex seed:run
 
 deployment:
   staging:
     branch: master
     heroku:
-      appname: ufo-sightings-jh-tl
+      appname: ufo-tracker-thawk
