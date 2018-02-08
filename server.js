@@ -18,6 +18,9 @@ const requireHTTPS = (request, response, next) => {
 
 if (process.env.NODE_ENV === 'production') {
   app.use(requireHTTPS);
+  // app.set('secretKey', require('./'))
+} else {
+  app.set('secretKey', 'mysecrets');
 }
 
 app.set('port', process.env.PORT || 3000);
@@ -32,6 +35,24 @@ app.listen(app.get('port'), () => {
   console.log(`${app.locals.title} is running on ${app.get('port')}.`);
 });
 
+const checkAuth = (request, response, next) => {
+  const token = request.headers.token;
+
+  if(!token) {
+    return response.status(403).json({ error: 'You must be authorized to hit this endpoint.'});
+  } else {
+    jwt.verify(token, app.get('secretKey'), (error, decoded) => {
+      console.log(decoded);
+      if (error) {
+        return response.status(403).json({ error: 'Please send a valid token.' });
+      } 
+      if (!decoded.data.admin) {
+        return response.status(403).json({error: 'You are not an authorized user.'})
+      }
+    })
+  }
+  next();
+};
 
 app.get('/api/v1/shapes/', (request, response) => {
   return database('shapes').select()
@@ -53,7 +74,7 @@ app.get('/api/v1/locations/', (request, response) => {
     });
 });
 
-app.get('/api/v1/sightings', async (request, response) => {
+app.get('/api/v1/sightings/location', async (request, response) => {
   const {city, state} = request.query;
 
   const locationID = await getLocationID(city, state, response);
@@ -81,7 +102,7 @@ const getLocationID = (city, state, response) => {
     });
 };
 
-app.get('/api/v1/sightings/', async (request, response) => {
+app.get('/api/v1/sightings/shape', async (request, response) => {
   const { shape } = request.query;
   
   const shapeID = await getShapeID(shape, response);
@@ -152,9 +173,14 @@ app.post('/api/v1/locations/', (request, response) => {
     })
 });
 
-app.patch('/api/v1/sightings/:id', (request, response) => {
+app.patch('/api/v1/sightings/:id/summary', checkAuth, (request, response) => {
   const { id } = request.params;
   const { summary } = request.body;
+
+  if (!summary) {
+    return response.status(422).json({error: `Error invalid summary: "${summary}".`});
+
+  }
 
   return database('sightings').where('id', id).update('summary', summary)
     .then(updatedSighting => {
@@ -165,10 +191,14 @@ app.patch('/api/v1/sightings/:id', (request, response) => {
     })
 });
 
-app.patch('/api/v1/sightings/:id', (request, response) => {
+app.patch('/api/v1/sightings/:id/duration', checkAuth, (request, response) => {
   const { id } = request.params;
   const { duration } = request.body;
-  
+
+  if (!duration) {
+    return response.status(422).json({error: `Error invalid duration: "${duration}".`});
+
+  }
 
   return database('sightings').where('id', id).update('duration', duration)
     .then(durationResponse => {
@@ -179,7 +209,7 @@ app.patch('/api/v1/sightings/:id', (request, response) => {
     })
 });
 
-app.delete('/api/v1/sightings/:id', (request, response) => {
+app.delete('/api/v1/sightings/:id', checkAuth, (request, response) => {
   const { id } = request.params;
 
   return database('sightings').where('id', id).del()
@@ -204,13 +234,18 @@ app.delete('/api/v1/sightings', async (request, response) => {
     });
 });
 
-app.post('/authenticate', (request, response) => {
+app.post('/api/v1/authenticate', (request, response) => {
   const { email, appName } = request.body;
-  const generatedJWT = jwt.sign({
-    expiresIn: '48h',
-    data: {email, appName}
-  }, app.get('secretKey'));
+  
+  const admin = email.endsWith('@turing.io');
 
+  const generatedJWT = jwt.sign({
+      expiresIn: '48h',
+      data: { email, appName, admin }
+    }, app.get('secretKey')
+  );
+
+  return response.status(200).json(generatedJWT);
 });
 
 /*
