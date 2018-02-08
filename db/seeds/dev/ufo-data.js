@@ -8,61 +8,61 @@ exports.seed = function(knex, Promise) {
     .then(() => knex('locations').del())
 
     .then(() => {
-      return knex('shapes').insert(shapes)
+      return knex('shapes').insert(shapes);
     })
     .then(() => {
-      return knex('locations').insert(locations)
+      return knex('locations').insert(locations);
     })
     .then(() => {
       let sightingsPromises = [];
 
       sightings.forEach((sighting) => {
-        getShapeAndLocationId(knex, sighting.shape, sighting.city, sighting.state)
-        .then((shapeLocationIds) => {
-          console.log(shapeLocationIds)
-        })
-        .catch(error => console.log('each error:', error))
+          const shapeID = getShapeID(knex, sighting.shape);
+          const locationID = getLocationID(knex, sighting.state, sighting.city);
 
-        //  sightingsPromises.push(
-        //  knex('sightings').insert({
-        //     shape_id: shapeID,
-        //     location_id: locationID,
-        //     summary: sighting.summary,
-        //     duration: sighting.duration,
-        //     reported_time: sighting.date
-        //   })
-        // )
+          sightingsPromises.push(Promise.all([
+            Promise.all([shapeID, locationID]), 
+            Promise.resolve({
+              summary: sighting.summary,
+              duration: sighting.duration,
+              reported_time: sighting.date
+            })
+          ]));
+
+        });
+        return Promise.all(sightingsPromises)
       })
-      return Promise.all(sightingsPromises)
+      .then(promises => {
+        let sightings = [];
+        promises.forEach(promise => {
+          sightings.push(
+            knex('sightings').insert({
+              shape_id: promise[0][0],
+              location_id: promise[0][1],
+              summary: promise[1].summary,
+              duration: promise[1].duration,
+              reported_time: promise[1].date
+            })
+          );
+        });
+      return Promise.all(sightings);
     })
-    // .then( (sightings) => {
-    //   console.log(sightings);
-    // })
     .catch(error => console.log('big error:', error))
 };
 
 
-const getShapeAndLocationId = (knex, shape, state, city) => {
-
-  const id = knex('shapes').where('type', shape).select('id')
-    .then((shapeID) => {
-      console.log('shapeID:', shapeID)
-      return shapeID;
+const getShapeID = (knex, shape) => {
+  return knex('shapes').where('type', shape).first('id')
+    .then(({id}) => {
+      return id;
     })
-    // .then(shapeID => {
-    //   return knex('locations').where('state', state).andWhere('city', city).select('id')
-    //     .then(locationID => {
-    //       console.log(locationID[0].id, shapeID);
-    //       return {location_id: locationID[0].id, shape_id: shapeID};
-    //     })
-    // })
-    .catch(error => console.log('error:', error))
-    return id;
+    .catch(error => console.log('error:', error));
 }; 
 
-// const getLocationID = (knex, state, city) => {
-//   return knex('locations').where('state', state).andWhere('city', city).select('id')
-//     .then((locationID) => {
-//       return locationID[0].id;
-//     })
-// }
+const getLocationID = (knex, state, city) => {
+  return knex('locations').where('state', state).andWhere('city', city).first('id')
+    .then(({id}) => {
+      return id;
+    })
+    .catch(error => console.log('error:', error));
+};
