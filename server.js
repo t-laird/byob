@@ -45,13 +45,12 @@ app.get('/api/v1/shapes/', (request, response) => {
 app.get('/api/v1/locations/', (request, response) => {
   return database('locations').select()
     .then(locations => {
-      return response.status(200).json({locations});
+      return response.status(200).json({ locations });
     })
     .catch(error => {
       return response.status(500).json({error: 'Error getting locations.'});
     });
 });
-
 
 app.get('/api/v1/sightings', async (request, response) => {
   const {city, state} = request.query;
@@ -125,18 +124,17 @@ app.delete('/api/v1/sightings', async (request, response) => {
     });
 });
 
-
 /*
 4 GETS
  -2 for all
   - shapes /api/v1/shapes/ √
   - locations /api/v1/locations/ √
  -2 for specific
-  - specific shape(id) /api/v1/sightings?shape=TRAINGULAR J
-  - specific location(id) /api/v1/sightings?city=Denver&?state=CO T √
+  - specific shape(id) /api/v1/sightings?shape=TRAINGULAR √
+  - specific location(id) /api/v1/sightings?city=Denver&?state=CO √
  -2 POST - (SECURE)
-  - post a new sighting /api/v1/sightings/ T  √
-  - post a new location /api/v1/locations/ J
+  - post a new sighting /api/v1/sightings/ √ 
+  - post a new location /api/v1/locations/ √
  -2 PUT OR PATCH - (SECURE)
   - update a summary /api/v1/sightings/:id/ T √
   - update the duration /api/v1/sightings/:id/ J
@@ -146,3 +144,83 @@ app.delete('/api/v1/sightings', async (request, response) => {
 */
 
 module.exports = app;
+
+
+app.get('/api/v1/sightings/', async (request, response) => {
+  const { shape } = request.query;
+  
+  const shapeID = await getShapeID(shape, response);
+
+  if(shapeID === null) {
+    return response.status(404).json({ error: `No sightings found for the shape ${shape}`})
+  }
+  
+  return database('sightings').where('shape_id', shapeID).select()
+    .then(sightings => {
+      if (!sightings.length) {
+        return response.status(404).json({ error: `No sightings found for the shape ${shape}`})
+      }
+
+      return response.status(200).json({ sightings });
+    })
+    .catch(error => {
+      return response.status(500).json({ error: `Error getting sightings for the shape ${shape}` });
+    })
+});
+
+const getShapeID = (shape, response) => {
+  return database('shapes').where('type', shape).first()
+    .then(shape => {
+      console.log(shape.id)
+      return shape.id
+    })
+    .catch(error => {
+      return null;
+    });
+};
+
+app.post('/api/v1/locations/', (request, response) => {
+  const location = request.body;
+  
+  location.count = 0;
+
+  for (let requiredParameters of ['city', 'state']) {
+    if (!location[requiredParameters]) {
+      return response.status(422).json({error: `Missing required parameter ${requiredParameters}.`});
+    }
+  }
+
+  return database('locations').insert(location, 'id')
+    .then(id => {
+      return response.status(201).json({status: `Success adding location: ${id}.`});
+    })
+    .catch(error => {
+      return response.status(500).json({error: `Error adding location: ${error}.`});
+    })
+});
+
+app.patch('/api/v1/sightings/:id', (request, response) => {
+  const { id } = request.params;
+  const { duration } = request.body;
+  
+
+  return database('sightings').where('id', id).update('duration', duration)
+    .then(durationResponse => {
+      return response.status(200).json({ status: `Success updating duration: ${durationResponse}`})
+    })
+    .catch(error => {
+      return response.status(500).json({error: `Error adding location: ${error}.`});
+    })
+});
+
+app.delete('/api/v1/sightings/:id', (request, response) => {
+  const { id } = request.params;
+
+  return database('sightings').where('id', id).del()
+    .then(sightingID => {
+      return response.status(200).json({ status: `Success deleting sighting ${id}: ${sightingID}`})
+    })
+    .catch((error) => {
+      return response.status(500).json({error: `Error deleting sighting ${id}: ${error}.`});
+    })
+});
