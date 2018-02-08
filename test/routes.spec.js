@@ -19,13 +19,13 @@ describe('API routes', () => {
   describe('GET /api/v1/shapes', () => {
     it('should return all the shapes from the shapes table', () => {
       
-    })
+    });
   });
 
   describe('GET /api/v1/locations', () => {
     it('should return all the locations from the locations table', () => {
       
-    })
+    });
   });
 
   describe('GET /api/v1/sightings/?city={city}&state={state}', () => {
