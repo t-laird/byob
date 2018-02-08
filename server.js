@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
@@ -38,7 +39,7 @@ app.listen(app.get('port'), () => {
 const checkAuth = (request, response, next) => {
   const token = request.headers.token;
 
-  if(!token) {
+  if (!token) {
     return response.status(403).json({ error: 'You must be authorized to hit this endpoint.'});
   } else {
     jwt.verify(token, app.get('secretKey'), (error, decoded) => {
@@ -46,9 +47,9 @@ const checkAuth = (request, response, next) => {
         return response.status(403).json({ error: 'Please send a valid token.' });
       } 
       if (!decoded.data.admin) {
-        return response.status(403).json({error: 'You are not an authorized user.'})
+        return response.status(403).json({error: 'You are not an authorized user.'});
       }
-    })
+    });
   }
   next();
 };
@@ -58,7 +59,7 @@ app.get('/api/v1/shapes/', (request, response) => {
     .then(shapes => {
       return response.status(200).json({shapes});
     })
-    .catch(error => {
+    .catch(() => {
       return response.status(500).json({error: 'Error getting shapes.'});
     });
 });
@@ -68,7 +69,7 @@ app.get('/api/v1/locations/', (request, response) => {
     .then(locations => {
       return response.status(200).json({ locations });
     })
-    .catch(error => {
+    .catch(() => {
       return response.status(500).json({error: 'Error getting locations.'});
     });
 });
@@ -78,7 +79,7 @@ app.get('/api/v1/sightings/location', async (request, response) => {
 
   const locationID = await getLocationID(city, state, response);
   if (locationID === null) {
-    return response.status(404).json({ error: `No sightings found for the location ${city}, ${state}`})
+    return response.status(404).json({ error: `No sightings found for the location ${city}, ${state}`});
   }
   return database('sightings').where('location_id', locationID).select()
     .then(sightings => {
@@ -92,12 +93,12 @@ app.get('/api/v1/sightings/location', async (request, response) => {
     });
 });
 
-const getLocationID = (city, state, response) => {
+const getLocationID = (city, state) => {
   return database('locations').where('city', city).andWhere('state', state).first()
     .then(location => {
       return location.id;
     })
-    .catch(error => {
+    .catch(() => {
       return null;
     });
 };
@@ -107,29 +108,29 @@ app.get('/api/v1/sightings/shape', async (request, response) => {
   
   const shapeID = await getShapeID(shape, response);
 
-  if(shapeID === null) {
-    return response.status(404).json({ error: `No sightings found for the shape ${shape}`})
+  if (shapeID === null) {
+    return response.status(404).json({ error: `No sightings found for the shape ${shape}`});
   }
   
   return database('sightings').where('shape_id', shapeID).select()
     .then(sightings => {
       if (!sightings.length) {
-        return response.status(404).json({ error: `No sightings found for the shape ${shape}`})
+        return response.status(404).json({ error: `No sightings found for the shape ${shape}`});
       }
 
       return response.status(200).json({ sightings });
     })
-    .catch(error => {
+    .catch(() => {
       return response.status(500).json({ error: `Error getting sightings for the shape ${shape}` });
-    })
+    });
 });
 
-const getShapeID = (shape, response) => {
+const getShapeID = (shape) => {
   return database('shapes').where('type', shape).first()
     .then(shape => {
-      return shape.id
+      return shape.id;
     })
-    .catch(error => {
+    .catch(() => {
       return null;
     });
 };
@@ -149,7 +150,7 @@ app.post('/api/v1/sightings', (request, response) => {
     })
     .catch(error => {
       return response.status(500).json({error: `Error adding sighting: ${error}.`});
-    })
+    });
 });
 
 app.post('/api/v1/locations/', (request, response) => {
@@ -169,7 +170,7 @@ app.post('/api/v1/locations/', (request, response) => {
     })
     .catch(error => {
       return response.status(500).json({error: `Error adding location: ${error}.`});
-    })
+    });
 });
 
 app.patch('/api/v1/sightings/:id/summary', checkAuth, (request, response) => {
@@ -182,12 +183,12 @@ app.patch('/api/v1/sightings/:id/summary', checkAuth, (request, response) => {
   }
 
   return database('sightings').where('id', id).update('summary', summary)
-    .then(updatedSighting => {
+    .then(() => {
       return response.status(200).json({status: `Successfully updated summary of sighting #${id} to "${summary}".`});
     })
     .catch(error => {
       return response.status(500).json({error: `Error updating sighting. ${error}`});
-    })
+    });
 });
 
 app.patch('/api/v1/sightings/:id/duration', checkAuth, (request, response) => {
@@ -201,11 +202,11 @@ app.patch('/api/v1/sightings/:id/duration', checkAuth, (request, response) => {
 
   return database('sightings').where('id', id).update('duration', duration)
     .then(durationResponse => {
-      return response.status(200).json({ status: `Success updating duration: ${durationResponse}`})
+      return response.status(200).json({ status: `Success updating duration: ${durationResponse}`});
     })
     .catch(error => {
       return response.status(500).json({error: `Error adding location: ${error}.`});
-    })
+    });
 });
 
 app.delete('/api/v1/sightings/:id', checkAuth, (request, response) => {
@@ -213,11 +214,11 @@ app.delete('/api/v1/sightings/:id', checkAuth, (request, response) => {
 
   return database('sightings').where('id', id).del()
     .then(sightingID => {
-      return response.status(200).json({ status: `Success deleting sighting ${id}: ${sightingID}`})
+      return response.status(200).json({ status: `Success deleting sighting ${id}: ${sightingID}`});
     })
     .catch((error) => {
       return response.status(404).json({error: `Error deleting sighting ${id}: ${error}.`});
-    })
+    });
 });
 
 app.delete('/api/v1/sightings', checkAuth, async (request, response) => {
@@ -232,7 +233,7 @@ app.delete('/api/v1/sightings', checkAuth, async (request, response) => {
     .then(() => {
       response.status(200).json({status: `Successfully deleted all locations with id #${locationID}.`});
     })
-    .catch(error => {
+    .catch(() => {
       return response.status(500).json({error: `Error deleting sightings with location id #${locationID}.`});
     });
 });
