@@ -52,6 +52,30 @@ app.get('/api/v1/locations/', (request, response) => {
     });
 });
 
+
+
+/*
+4 GETS
+ -2 for all
+  - shapes /api/v1/shapes/ √
+  - locations /api/v1/locations/ √
+ -2 for specific
+  - specific shape(id) /api/v1/sightings?shape=TRAINGULAR √
+  - specific location(id) /api/v1/sightings?city=Denver&?state=CO √
+ -2 POST - (SECURE)
+  - post a new sighting /api/v1/sightings/ √ 
+  - post a new location /api/v1/locations/ √
+ -2 PUT OR PATCH - (SECURE)
+  - update a summary /api/v1/sightings/:id/ T
+  - update the duration /api/v1/sightings/:id/ J
+ -2 DELETE - (SECURE)
+  - delete a sighting /api/v1/sightings/:id/ J
+  - delete all by location or shape /api/v1/sightings?city=Denver&?state=CO T
+*/
+
+module.exports = app;
+
+
 app.get('/api/v1/sightings/', async (request, response) => {
   const { shape } = request.query;
   
@@ -130,5 +154,3 @@ app.delete('/api/v1/sightings/:id', (request, response) => {
       return response.status(500).json({error: `Error deleting sighting ${id}: ${error}.`});
     })
 });
-
-module.exports = app;
