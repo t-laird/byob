@@ -1,0 +1,57 @@
+body {
+  background:
+  linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%),
+  linear-gradient(127deg, rgba(51, 13, 84, 0.8), rgba(51,13,84,0) 70.71%),
+  linear-gradient(217deg, rgba(0, 0, 0, 0.8), #00000000 70.71%);
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: grid;
+  grid-template-columns: 1fr;
+  flex-wrap: wrap;
+  font-family: 'Gloria Hallelujah', cursive;
+  min-height: 100vh;
+}
+img {
+  margin: 0px auto;
+  display: block;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  max-height: 350px;
+}
+
+form {
+  max-width: 800px;
+  display: block;
+  margin: 0px auto;
+  padding: 20px 0px;
+  box-sizing: border-box;
+}
+
+input {
+  font-size: 50px;
+  margin: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  height: 80px;
+  font-family: 'Gloria Hallelujah', cursive;  
+}
+
+input[type="text"] {
+  padding: 5px;
+}
+
+#submitButton {
+  font-size: 50px;
+  height: 80px;
+}
+
+h3 {
+  color: white;
+  max-width: 800px;
+  min-width: 300px;
+  word-break: break-all;
+  display: block;
+  margin: 0px auto;
+  /* text-overflow:  */
+}
