@@ -17,34 +17,34 @@ exports.seed = function(knex, Promise) {
       let sightingsPromises = [];
 
       sightings.forEach((sighting) => {
-          const shapeID = getShapeID(knex, sighting.shape);
-          const locationID = getLocationID(knex, sighting.state, sighting.city);
+        const shapeID = getShapeID(knex, sighting.shape);
+        const locationID = getLocationID(knex, sighting.state, sighting.city);
 
-          sightingsPromises.push(Promise.all([
-            Promise.all([shapeID, locationID]), 
-            Promise.resolve({
-              summary: sighting.summary,
-              duration: sighting.duration,
-              reported_time: sighting.date
-            })
-          ]));
+        sightingsPromises.push(Promise.all([
+          Promise.all([shapeID, locationID]), 
+          Promise.resolve({
+            summary: sighting.summary,
+            duration: sighting.duration,
+            reported_time: sighting.date
+          })
+        ]));
 
-        });
-        return Promise.all(sightingsPromises)
-      })
-      .then(promises => {
-        let sightings = [];
-        promises.forEach(promise => {
-          sightings.push(
-            knex('sightings').insert({
-              shape_id: promise[0][0],
-              location_id: promise[0][1],
-              summary: promise[1].summary,
-              duration: promise[1].duration,
-              reported_time: promise[1].date
-            })
-          );
-        });
+      });
+      return Promise.all(sightingsPromises)
+    })
+    .then(promises => {
+      let sightings = [];
+      promises.forEach(promise => {
+        sightings.push(
+          knex('sightings').insert({
+            shape_id: promise[0][0],
+            location_id: promise[0][1],
+            summary: promise[1].summary,
+            duration: promise[1].duration,
+            reported_time: promise[1].date
+          })
+        );
+      });
       return Promise.all(sightings);
     })
     .catch(error => console.log('big error:', error))

@@ -1,6 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
+const jwt = require('jsonwebtoken');
 
 const environment = process.env.NODE_ENV || 'development';
 const config = require('./knexfile')[environment];
@@ -89,7 +90,7 @@ app.post('/api/v1/sightings', (request, response) => {
     }
   }
 
-  return database('sightings').insert(sighting, id)
+  return database('sightings').insert(sighting, 'id')
     .then(id => {
       return response.status(204).json({status: `Successfully added sighting (#${id}).`});
     })
@@ -99,11 +100,12 @@ app.post('/api/v1/sightings', (request, response) => {
 });
 
 app.patch('/api/v1/sightings/:id', (request, response) => {
-  const sighting = request.body;
+  const { id } = request.params;
+  const { summary } = request.body;
 
-  return database('sightings').update(sighting, sighting)
+  return database('sightings').where('id', id).update('summary', summary)
     .then(updatedSighting => {
-      return response.status(205).json({updatedSighting});
+      return response.status(200).json({status: `Successfully updated summary of sighting #${id} to "${summary}".`});
     })
     .catch(error => {
       return response.status(500).json({error: `Error updating sighting. ${error}`});
@@ -112,7 +114,6 @@ app.patch('/api/v1/sightings/:id', (request, response) => {
 
 app.delete('/api/v1/sightings', async (request, response) => {
   const {city, state} = request.query;
-
   const locationID = await getLocationID(city, state, response);
 
   return database('sightings').where('location_id', locationID).del()
@@ -122,6 +123,15 @@ app.delete('/api/v1/sightings', async (request, response) => {
     .catch(error => {
       return response.status(500).json({error: `Error deleting sightings with location id #${locationID}.`});
     });
+});
+
+app.post('/authenticate', (request, response) => {
+  const { email, appName } = request.body;
+  const generatedJWT = jwt.sign({
+    expiresIn: '48h',
+    data: {email, appName}
+  }, app.get('secretKey'));
+
 });
 
 /*
