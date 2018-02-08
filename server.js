@@ -18,11 +18,12 @@ const requireHTTPS = (request, response, next) => {
 
 if (process.env.NODE_ENV === 'production') {
   app.use(requireHTTPS);
+  // app.set('secretKey', require('./'))
+} else {
+  app.set('secretKey', 'mysecrets');
 }
 
 app.set('port', process.env.PORT || 3000);
-
-app.set('secretKey', 'mysecrets');
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
