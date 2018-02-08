@@ -5,10 +5,19 @@ exports.seed = function(knex, Promise) {
   // Deletes ALL existing entries
   return knex('sightings').del()
     .then(() => {
+      return knex.raw('ALTER SEQUENCE sightings_id_seq RESTART WITH 1')
+    })
+    .then(() => {
       return knex('shapes').del();
     })
     .then(() => {
+      return knex.raw('ALTER SEQUENCE shapes_id_seq RESTART WITH 1')
+    })
+    .then(() => {
       return knex('locations').del();
+    })
+    .then(() => {
+      return knex.raw('ALTER SEQUENCE locations_id_seq RESTART WITH 1')
     })
     .then(() => {
       return Promise.all([

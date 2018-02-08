@@ -150,4 +150,81 @@ describe('API routes', () => {
         });
     });
   });
+
+  describe('POST /api/v1/sightings', () => {
+    it('should add a sighting to the sightings table', () => {
+      return chai.request(server)
+        .post('/api/v1/sightings')
+        .send({
+          location_id: 3,
+          shape_id: 4,
+          duration: '25 minutes',
+          summary: 'Goodness gracious great balls of fire',
+          reported_time: '5 seconds ago'
+        })
+        .then(response => {
+          response.should.have.status(201);
+          response.should.be.json;
+          response.body.should.be.a('object');
+          response.body.should.have.property('status');
+          response.body.status.should.equal('Successfully added sighting (#5).')
+        })
+        .catch(error => {
+          throw error;
+        });
+    });
+
+    it('should return a 422 status if require params are missing', () => {
+      return chai.request(server)
+        .post('/api/v1/sightings')
+        .send({
+          location_id: 3,
+          shape_id: 4,
+          reported_time: 'tomorrow'
+        })
+        .then(response => {
+          // response.should.have.status(422);
+        })
+        .catch(error => {
+          error.should.have.status(422);
+          error.response.body.error.should.match(/Missing required parameter duration./);
+        });
+    });
+  });
+
+  describe('POST /api/v1/locations', () => {
+    it('should add a location to the locations table', () => {
+      return chai.request(server)
+        .post('/api/v1/locations')
+        .send({
+          city: 'New City',
+          state: 'New State'
+        })
+        .then(response => {
+          response.should.have.status(201);
+          response.should.be.json;
+          response.body.should.be.a('object');
+          response.body.should.have.property('status');
+          response.body.status.should.equal('Success adding location: 5.');
+        })
+        .catch(error => {
+          throw error;
+        });
+    });
+
+    it('should return a 422 status if require params are missing', () => {
+      return chai.request(server)
+        .post('/api/v1/sightings')
+        .send({
+          city: 'Tomorrow Land'
+        })
+        .then(response => {
+          // response.should.have.status(422);
+        })
+        .catch(error => {
+          error.should.have.status(422);
+          error.response.body.error.should.match(/Missing required parameter location_id./);
+        });
+    });
+  });
 });

@@ -32,7 +32,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.locals.title = 'UFO-TRACKER';
 
 app.listen(app.get('port'), () => {
-  console.log(`${app.locals.title} is running on ${app.get('port')}.`);
+  console.log(`${app.locals.title} is running on ${app.get('port')}. env: ${environment}`);
 });
 
 const checkAuth = (request, response, next) => {
@@ -142,13 +142,13 @@ app.post('/api/v1/sightings', (request, response) => {
 
   for (let requiredParameters of ['location_id', 'shape_id', 'duration', 'summary', 'reported_time']) {
     if (!sighting[requiredParameters]) {
-      return response.status(422).json({error: `Missing required paramter ${requiredParameters}.`});
+      return response.status(422).json({error: `Missing required parameter ${requiredParameters}.`});
     }
   }
 
   return database('sightings').insert(sighting, 'id')
     .then(id => {
-      return response.status(204).json({status: `Successfully added sighting (#${id}).`});
+      return response.status(201).json({status: `Successfully added sighting (#${id}).`});
     })
     .catch(error => {
       return response.status(500).json({error: `Error adding sighting: ${error}.`});
