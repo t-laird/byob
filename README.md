@@ -3,9 +3,10 @@
 ### Data Scraped from nuforc.org
 #### Project Built for Educational Purposes Only
 
-## Documentation
+API Can Be found [here](https://ufo-tracker-thawk.herokuapp.com/)!
 
-### Get Endpoints: 
+## Documentation:
+
 `GET /api/v1/shapes`
 ```json
   {"shapes":[
@@ -125,9 +126,9 @@
 
 ```json
 {
+  "status": "Successfully added location (#162836)."
 }
 ```
-
 `POST /api/v1/sightings`
 
 | Name | Type |  Description |
@@ -141,5 +142,62 @@
 
 ```json
 {
+  "status": "Successfully added sighting (#18059).
 }
 ```
+
+`PATCH /api/v1/sightings/:id/summary`
+### Parameters
+| Name | Type |  Description |
+| ---- | ---- | ------------ |
+| id | integer | Integer corresponding to the sighting you wish to update |
+| summary | text | sent in the body of the request |
+
+```json
+{
+  "status": "Successfully updated summary of sighting #1234 to 'New Summary'"
+}
+```
+
+`PATCH /api/v1/sightings/:id/duration`
+### Parameters
+| Name | Type |  Description |
+| ---- | ---- | ------------ |
+| id | integer | Integer corresponding to the sighting you wish to update |
+| duration | text | sent in the body of the request |
+
+```json
+{
+  "status": "Success updating duration: #1234"
+}
+```
+
+`DELETE '/api/v1/sightings/:id`
+### Parameters
+| Name | Type |  Description |
+| ---- | ---- | ------------ |
+| id | integer | Integer corresponding to the sighting you wish to delete |
+
+```json
+{
+  "status": "Success deleting sighting 1234: 1234"
+}
+```
+
+`DELETE '/api/v1/sightings?city={city}&state={state}`
+### Parameters
+| Name | Type |  Description |
+| ---- | ---- | ------------ |
+| city | text | Name of the city you want to delete |
+| state | text | Name of the state you want to delete |
+
+(Both arguments are required, only one City in one state can be deleted at a time)
+
+```json
+{
+  "status": "Successfully deleted all locations with id #1234."
+}
+```
+
+
+
