@@ -123,8 +123,6 @@ API Can Be found [here](https://ufo-tracker-thawk.herokuapp.com/)!
 | ---- | ---- | ------------ |
 | City | String | REQUIRED. The city of the location.|
 | State | String | REQUIRED. The city of the location.|
-| count | Integer | The amound of sightings at this location.|
-| id | Integer | The id of the location.|
 
 ```json
 {
@@ -138,9 +136,6 @@ API Can Be found [here](https://ufo-tracker-thawk.herokuapp.com/)!
 | Duration | String | The reported duration of the sighting to be added.|
 | Summary | String | The reported summary of the sighting to be added.|
 | reported_time | String | The reported date and time of the sighting to be added.|
-| id | Integer | The id of the sighting.|
-| shape_id | Integer | The id of the sighting.|
-| location_id | Integer | The id of the sighting.|
 
 ```json
 {
