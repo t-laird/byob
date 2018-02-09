@@ -133,9 +133,9 @@ API Can Be found [here](https://ufo-tracker-thawk.herokuapp.com/)!
 
 | Name | Type |  Description |
 | ---- | ---- | ------------ |
-| Duration | String | The reported duration of the sighting to be added.|
-| Summary | String | The reported summary of the sighting to be added.|
-| reported_time | String | The reported date and time of the sighting to be added.|
+| Duration | String | REQUIRED. The reported duration of the sighting to be added.|
+| Summary | String | REQUIRED. The reported summary of the sighting to be added.|
+| reported_time | String | REQUIRED. The reported date and time of the sighting to be added.|
 
 ```json
 {
