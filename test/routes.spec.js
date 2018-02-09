@@ -234,7 +234,7 @@ describe('API routes', () => {
           response.should.be.json;
           response.body.should.be.a('object');
           response.body.should.have.property('status');
-          response.body.status.should.equal('Success adding location: 5.');
+          response.body.status.should.equal('Successfully added location (#5).');
         })
         .catch(error => {
           throw error;
