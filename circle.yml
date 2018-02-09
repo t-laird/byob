@@ -19,7 +19,3 @@ deployment:
     branch: master
     heroku:
       appname: ufo-tracker-thawk
-  override:
-    - createdb ufo_sightings
-    - knex migrate:latest --env production
-    - knex seed:run --env production
