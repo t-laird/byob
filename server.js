@@ -59,7 +59,8 @@ app.get('/api/v1/shapes/', (request, response) => {
     .then(shapes => {
       return response.status(200).json({shapes});
     })
-    .catch(() => {
+    .catch((error) => {
+      console.error(error);
       return response.status(500).json({error: 'Error getting shapes.'});
     });
 });
