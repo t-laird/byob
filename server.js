@@ -150,7 +150,7 @@ app.post('/api/v1/sightings', (request, response) => {
       return response.status(201).json({status: `Successfully added sighting (#${id}).`});
     })
     .catch(error => {
-      return response.status(500).json({error: `Error adding sighting: ${error}.`});
+      return response.status(500).json({error: `Error added sighting: ${error}.`});
     });
 });
 
@@ -167,7 +167,7 @@ app.post('/api/v1/locations/', (request, response) => {
 
   return database('locations').insert(location, 'id')
     .then(id => {
-      return response.status(201).json({status: `Success adding location: ${id}.`});
+      return response.status(201).json({status: `Successfully added location (#${id}).`});
     })
     .catch(error => {
       return response.status(500).json({error: `Error adding location: ${error}.`});
