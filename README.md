@@ -5,6 +5,8 @@
 
 API Can Be found [here](https://ufo-tracker-thawk.herokuapp.com/)!
 
+![scheam](UFO-Schema.png?raw=true)
+
 ## Documentation:
 
 `GET /api/v1/shapes`
