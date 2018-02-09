@@ -11,8 +11,8 @@ environment:
 database:
   override:
     - createdb ufo_sightings_test
-    - knex migrate:latest --env test
-    - npm run eslint    
+    - knex migrate:latest
+    - npm run eslint
 
 deployment:
   staging:
@@ -21,5 +21,5 @@ deployment:
       appname: ufo-tracker-thawk
   override:
     - createdb ufo_sightings
-    - knex migrate:latest
-    - knex seed:run
+    - knex migrate:latest --env production
+    - knex seed:run --env production
