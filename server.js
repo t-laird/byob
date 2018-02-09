@@ -54,7 +54,12 @@ const checkAuth = (request, response, next) => {
   next();
 };
 
-app.get('/api/v1/shapes/', (request, response) => {
+const createRoute = (method, endpoint, callback) => {
+  return app[method](endpoint, callback);
+};
+
+
+const shapesGet = (request, response) => {
   return database('shapes').select()
     .then(shapes => {
       return response.status(200).json({shapes});
@@ -63,7 +68,20 @@ app.get('/api/v1/shapes/', (request, response) => {
       console.error(error);
       return response.status(500).json({error: 'Error getting shapes.'});
     });
-});
+};
+
+createRoute('get', '/api/v1/shapes', shapesGet);
+
+// app.get('/api/v1/shapes/', (request, response) => {
+//   return database('shapes').select()
+//     .then(shapes => {
+//       return response.status(200).json({shapes});
+//     })
+//     .catch((error) => {
+//       console.error(error);
+//       return response.status(500).json({error: 'Error getting shapes.'});
+//     });
+// });
 
 app.get('/api/v1/locations/', (request, response) => {
   return database('locations').select()
